@@ -55,4 +55,4 @@ facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
 is_government: false
 google_analytics_ga4: ""
-linkedin-insights: ""
+linkedin-insights: https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css
