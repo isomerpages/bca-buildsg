@@ -29,6 +29,13 @@ sections:
       button: Button text
       url: /faq/
   - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Discover the Journey
       subtitle: About the BE SECTOR
       id: infopic
@@ -38,13 +45,6 @@ sections:
       alt: Discover the Journey
       url: /
       image: /images/discover_journey.jpg
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
   - textcards:
       title: Text Cards
       subtitle: Add informational text
