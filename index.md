@@ -29,13 +29,6 @@ sections:
       button: Button text
       url: /faq/
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
       title: Discover the Journey
       subtitle: About the BE SECTOR
       id: infopic
@@ -45,6 +38,16 @@ sections:
       alt: Discover the Journey
       url: /
       image: /images/discover_journey.jpg
+  - infopic:
+      title: A Diverse Career Paths
+      subtitle: WHY JOIN BE SECTOR
+      id: infopic
+      description: Discover a multitude of career opportunities within Singapore's
+        Built Environment sector, shaping the nation's landscape sustainably.
+      button: LEARN MORE
+      alt: A Diverse Career Paths
+      url: /
+      image: /images/diverse_career_paths.jpg
   - textcards:
       title: Text Cards
       subtitle: Add informational text
