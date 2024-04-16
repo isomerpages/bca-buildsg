@@ -29,10 +29,12 @@ sections:
       button: Button text
       url: /faq/
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Discover the Journey
+      subtitle: About the BE SECTOR
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: "From skyscrapers to green spaces, it reflects Singapore's
+        dedication to creating a dynamic and sustainable urban landscape. "
+      button: LEARN MORE
       alt: Image alt text
+      url: /
 ---
