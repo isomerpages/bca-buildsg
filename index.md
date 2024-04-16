@@ -38,4 +38,11 @@ sections:
       alt: Discover the Journey
       url: /
       image: /images/discover_journey.jpg
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
