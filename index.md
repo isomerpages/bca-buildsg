@@ -32,9 +32,10 @@ sections:
       title: Discover the Journey
       subtitle: About the BE SECTOR
       id: infopic
-      description: "From skyscrapers to green spaces, it reflects Singapore's
-        dedication to creating a dynamic and sustainable urban landscape. "
+      description: From skyscrapers to green spaces, it reflects Singapore's
+        dedication to creating a dynamic and sustainable urban landscape.
       button: LEARN MORE
       alt: Image alt text
       url: /
+      image: /images/discover_journey.jpg
 ---
