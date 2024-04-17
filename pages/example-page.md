@@ -4,8 +4,6 @@ permalink: /example-page/
 variant: tiptap
 ---
 <p></p>
-<p></p>
-<p></p>
 <h4>Architects</h4>
 <p></p>
 <p>Design buildings that endures across time, anchor our national identity
