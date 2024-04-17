@@ -4,3 +4,61 @@ permalink: /test-column-layout/
 variant: tiptap
 description: ""
 ---
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Architects" src="/images/architects.jpg">
+</div>
+<h3>Architects</h3>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Design buildings that endures across time, anchor our national identity
+and shape our urban landscape</p>
+</li>
+<li>
+<p>Work closely with stakeholders (e.g. developers, authorities) to ensure
+that building design meets project objectives and regulatory requirements</p>
+</li>
+<li>
+<p>The job of an Architect has evolved over time. For example, designs are
+now done in 3D using Building Information Modelling (BIM) software. Architects
+can also harness data analytics to optimise building layout and design,
+to support user needs and meet other objectives such as sustainability
+goals.</p>
+</li>
+</ul>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Civil and Structural/Electrical/Mechanical Engineers" src="/images/civil_structural_electrical_mechanical_engineers.jpg">
+</div>
+<h3>Civil and Structural/Electrical/Mechanical Engineers</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Design structural, mechanical and electrical elements of buildings to
+ensure that they are safe and durable for occupation, and meet evolving
+infrastructure needs</p>
+</li>
+<li>
+<p>Ensure works are carried out according to design plans during the construction
+phase</p>
+</li>
+<li>
+<p>Engineers help push the envelope for sustainability by integrating building
+design with resource-efficient technologies. This includes the use of computational
+fluid dynamics to simulate wind flow within the building for optimal natural
+ventilation.</p>
+</li>
+</ul>
+<h3></h3>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
