@@ -3,7 +3,6 @@ title: Example Page
 permalink: /example-page/
 variant: tiptap
 ---
-<h2>Header Text</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Muhammad Hafidzuddin" src="/images/people/muhammad-hafidzuddin.png">
 </div>
