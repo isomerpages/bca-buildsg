@@ -61,4 +61,18 @@ ventilation.</p>
 </tr>
 </tbody>
 </table>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>TEST ACCORDION HEAD 1</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>TEST ACCORDION BODY 1</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>TEST ACCORDION HEAD 2</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>TEST ACCORDION BODY 2</p>
+</div>
+</details>
+</div>
 <p></p>
