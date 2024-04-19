@@ -10,8 +10,9 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Architects" src="/images/architects.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="Architects" src="/images/architects.jpg">
 </div>
+<p></p>
 <h3>Architects</h3>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -38,6 +39,7 @@ goals.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Civil and Structural/Electrical/Mechanical Engineers" src="/images/civil_structural_electrical_mechanical_engineers.jpg">
 </div>
+<p></p>
 <h3>Civil and Structural / Electrical / Mechanical Engineers</h3>
 <ul data-tight="true" class="tight">
 <li>
