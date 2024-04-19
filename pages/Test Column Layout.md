@@ -65,6 +65,21 @@ ventilation.</p>
 <details class="isomer-details">
 <summary>TEST ACCORDION HEAD 1</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/architects.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Text 1</p>
+</li>
+<li>
+<p>Text 2</p>
+</li>
+<li>
+<p>Text 3</p>
+</li>
+</ul>
 <p>TEST ACCORDION BODY 1</p>
 </div>
 </details>
