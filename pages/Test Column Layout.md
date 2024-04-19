@@ -40,7 +40,7 @@ goals.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="Civil and Structural/Electrical/Mechanical Engineers" src="/images/civil_structural_electrical_mechanical_engineers.jpg">
 </div>
 <p></p>
-<h3>Civil and Structural / Electrical / Mechanical Engineers</h3>
+<h3>Civil and Structural, Electrical, Mechanical Engineers</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Design structural, mechanical and electrical elements of buildings to
