@@ -3,8 +3,9 @@ title: Folder Page
 permalink: /example-folder/folder-page/
 variant: markdown
 ---
+# Test HTML CODE
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <div style="width: 48%; padding: 20px; box-sizing: border-box; margin-bottom: 20px; background-color: #f9f9f9; border-radius: 5px;">
       <img alt="Architects" src="/images/architects.jpg">
       <h2>Architects</h2>
@@ -31,26 +32,3 @@ variant: markdown
       }
     }
   </style>
-
-Test new HTML Code
-		
-		![](/images/architects.jpg)
-		
-		![](/images/architects.jpg)
-		
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
