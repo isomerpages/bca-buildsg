@@ -3,11 +3,8 @@ title: Folder Page
 permalink: /example-folder/folder-page/
 variant: markdown
 ---
-
-
-
-    <div style="display: flex; justify-content: space-between;" class="container">
-        <div style="width: 48%; padding: 20px; border: 1px solid #ccc;" class="column">
+<div style="display: flex; justify-content: space-between;" class="container">
+        <div style="width: 50%; padding: 20px;" class="column">
           <img alt="" src="/images/architects.jpg">  
 					<h2>Architects</h2>
             <ul>
@@ -16,7 +13,7 @@ variant: markdown
 							<li>The job of an Architect has evolved over time. For example, designs are now done in 3D using Building Information Modelling (BIM) software. Architects can also harness data analytics to optimize building layout and design, to support user needs and meet other objectives such as sustainability goals.</li>
 					</ul>
         </div>
-         <div style="width: 48%; padding: 20px; border: 1px solid #ccc;" class="column">
+        <div style="width: 50%; padding: 20px;" class="column">
            <img alt="" src="/images/civil_structural_electrical_mechanical_engineers.jpg"> 
 					 <h2>Engineers</h2>
             <ul>
@@ -26,4 +23,3 @@ variant: markdown
 					</ul>
         </div>
     </div>
-
