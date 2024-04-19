@@ -38,7 +38,7 @@ goals.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Civil and Structural/Electrical/Mechanical Engineers" src="/images/civil_structural_electrical_mechanical_engineers.jpg">
 </div>
-<h3>Civil and Structural/Electrical/Mechanical Engineers</h3>
+<h3>Civil and Structural / Electrical / Mechanical Engineers</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Design structural, mechanical and electrical elements of buildings to
@@ -56,7 +56,7 @@ fluid dynamics to simulate wind flow within the building for optimal natural
 ventilation.</p>
 </li>
 </ul>
-<h3></h3>
+<p></p>
 </th>
 </tr>
 </tbody>
@@ -69,10 +69,11 @@ ventilation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/architects.jpg">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Text 1</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Text 2</p>
 </li>
@@ -80,7 +81,13 @@ ventilation.</p>
 <p>Text 3</p>
 </li>
 </ul>
-<p>TEST ACCORDION BODY 1</p>
+</li>
+<li>
+<p>Lorem ipsum</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
