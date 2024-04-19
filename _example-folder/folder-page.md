@@ -23,3 +23,6 @@ variant: markdown
 					</ul>
         </div>
     </div>
+		
+		
+		![](/images/architects.jpg)
