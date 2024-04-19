@@ -27,6 +27,7 @@ variant: markdown
 		
 		![](/images/architects.jpg)
 		
+		![](/images/architects.jpg)
 		
 
 | Column 1 | Column 2 | Column 3 |
@@ -44,4 +45,3 @@ variant: markdown
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-
