@@ -1,0 +1,4 @@
+collections:
+  folder-test-page:
+    output: true
+    order: []
