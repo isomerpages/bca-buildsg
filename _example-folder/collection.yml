@@ -5,6 +5,6 @@ collections:
       - Example Subfolder1/Folder Page 1.md
       - Example Subfolder1/testpage1.md
       - Example Subfolder1/.keep
-      - example-subfolder/subfolderpage2.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - Example Subfolder 2/subfolderpage2.md
+      - Example Subfolder 2/.keep
+      - Example Subfolder 2/subfolder-page.md
