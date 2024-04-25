@@ -2,7 +2,7 @@ collections:
   example-folder:
     output: true
     order:
-      - Example Subfolder 1/Folder Page 1.md
+      - Example Subfolder 1/test page 1.md
       - Example Subfolder 1/testpage1.md
       - Example Subfolder 1/.keep
       - Example Subfolder 2/subfolderpage2.md
