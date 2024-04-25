@@ -4,7 +4,6 @@ collections:
     order:
       - Example Subfolder1/testpage1.md
       - Example Subfolder1/.keep
-      - folder-page.md
       - example-subfolder/subfolderpage2.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
