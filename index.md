@@ -26,11 +26,11 @@ sections:
           description: Key Highlight description
           url: /events/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Introduction to the BE Sector
+      subtitle: Short Description
+      description: 160 Character Limit. Lorem ipsum dolor sit amet, consectetur
+        adipiscing elit. Aliquam at est turpis. Nam imperdiet, augue ornare
+        euismod sodales, arcu orci con.
   - infopic:
       title: Discover the Journey
       subtitle: About the BE SECTOR
