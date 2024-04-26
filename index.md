@@ -22,6 +22,9 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+        - title: Events
+          description: Key Highlight description
+          url: /events/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
