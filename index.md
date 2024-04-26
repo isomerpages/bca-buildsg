@@ -120,4 +120,9 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+  - resources:
+      title: Around the Block
+      subtitle: Events
+      id: resources
+      button: MORE
 ---
