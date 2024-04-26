@@ -69,4 +69,36 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - announcements:
+      title: Around the Block
+      id: announcements
+      subtitle: events
+      announcement_items:
+        - title: Event 1
+          date: 26 April 2024
+          announcement: "300 Character Limit. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit. Aliquam at est turpis. Namt, augue ornare euismod
+            sodales, arcu orci consequat dolor, vel ornare leo enim vel est. Sed
+            rutrum massa id purus egestas vulputate. Aliquam vitae ligula
+            accumsan elit egestas pellentesque. Duis "
+          link_text: Read more
+          link_url: "#"
+        - title: Event 2
+          date: 15 May 2024
+          announcement: "300 Character Limit. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit. Aliquam at est turpis. Namt, augue ornare euismod
+            sodales, arcu orci consequat dolor, vel ornare leo enim vel est. Sed
+            rutrum massa id purus egestas vulputate. Aliquam vitae ligula
+            accumsan elit egestas pellentesque. Duis "
+          link_text: Read more
+          link_url: "#"
+        - title: Event 3
+          date: 12 June 2024
+          announcement: "300 Character Limit. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit. Aliquam at est turpis. Namt, augue ornare euismod
+            sodales, arcu orci consequat dolor, vel ornare leo enim vel est. Sed
+            rutrum massa id purus egestas vulputate. Aliquam vitae ligula
+            accumsan elit egestas pellentesque. Duis "
+          link_text: Read more
+          link_url: "#"
 ---
