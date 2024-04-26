@@ -83,20 +83,6 @@ sections:
             accumsan elit egestas pellentesque. Duis
           link_text: Read more
           link_url: "#"
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
   - textcards:
       title: Around the Block
       subtitle: Events
@@ -106,18 +92,32 @@ sections:
         sodales, arcu orci consequat dolor, vel ornare leo enim vel est. Sedad.
       cards:
         - title: Event 1
-          description: "80 Character Limit. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elitad. "
+          description: 80 Character Limit. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elitad.
           linktext: Learn more
           url: ""
         - title: Event 2
-          description: "80 Character Limit. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elitad. "
+          description: 80 Character Limit. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elitad.
           linktext: Learn more
           url: ""
         - title: Event 3
-          description: "80 Character Limit. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elitad. "
+          description: 80 Character Limit. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elitad.
           linktext: Learn more
           url: ""
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
