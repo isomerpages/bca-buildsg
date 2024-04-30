@@ -65,24 +65,6 @@ sections:
             accumsan elit egestas pellentesque. Duis
           link_text: Read more
           link_url: "#"
-        - title: Event 2
-          date: 15 May 2024
-          announcement: 300 Character Limit. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit. Aliquam at est turpis. Namt, augue ornare euismod
-            sodales, arcu orci consequat dolor, vel ornare leo enim vel est. Sed
-            rutrum massa id purus egestas vulputate. Aliquam vitae ligula
-            accumsan elit egestas pellentesque. Duis
-          link_text: Read more
-          link_url: "#"
-        - title: Event 3
-          date: 12 June 2024
-          announcement: 300 Character Limit. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit. Aliquam at est turpis. Namt, augue ornare euismod
-            sodales, arcu orci consequat dolor, vel ornare leo enim vel est. Sed
-            rutrum massa id purus egestas vulputate. Aliquam vitae ligula
-            accumsan elit egestas pellentesque. Duis
-          link_text: Read more
-          link_url: "#"
   - textcards:
       title: Around the Block
       subtitle: Events
@@ -96,14 +78,16 @@ sections:
             adipiscing elitad.
           linktext: Learn more
           url: ""
-        - title: Event 2
-          description: 80 Character Limit. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elitad.
+        - title: Card
+          description: Card description
           linktext: Learn more
           url: ""
-        - title: Event 3
-          description: 80 Character Limit. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elitad.
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
           linktext: Learn more
           url: ""
   - infopic:
