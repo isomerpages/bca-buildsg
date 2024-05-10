@@ -50,7 +50,7 @@ sections:
         Built Environment sector, shaping the nation's landscape sustainably.
       button: LEARN MORE
       alt: A Diverse Career Paths
-      url: /
+      url: /meaningful-and-fulfilling-careers/
       image: /images/diverse_career_paths.jpg
   - infopic:
       title: Pathways to Progress
@@ -60,7 +60,7 @@ sections:
         selection of education and programs.
       button: Learn more
       alt: Image alt text
-      url: "#"
+      url: /full-time-courses/
   - infopic:
       title: Stories & Insights
       subtitle: Our stories
@@ -68,7 +68,7 @@ sections:
       description: Curious to know more? Hear what motivates built environment
         professionals and what we do in shaping Singapore's urban landscape.
       button: Learn more
-      url: "#"
+      url: /crafting-concrete-dreams-in-civil-engineering/
       alt: Image alt text
   - resources:
       title: What's Happening
