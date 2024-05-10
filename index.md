@@ -75,4 +75,16 @@ sections:
       subtitle: EVENTS
       id: resources
       button: MORE EVENTS
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: "Constructive Connections: Building for the Future"
+          date: 24 May 2024
+          announcement: Lorem ipsum dolor sit lorem ipsum dolor sit sit lorem ipsum dolor
+            sit sit lorem ipsum dolor sit sit lorem ipsum dolor sit sit lorem
+            ipsum dolor sit
+          link_text: Read more
+          link_url: "#"
 ---
