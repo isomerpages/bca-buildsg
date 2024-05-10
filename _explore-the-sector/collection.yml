@@ -2,4 +2,5 @@ collections:
   explore-the-sector:
     output: true
     order:
+      - Sectoral Outlook.md
       - About Build Environment Sector.md
