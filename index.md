@@ -22,7 +22,7 @@ sections:
           url: https://google.com
         - title: our stories
           description: Inspiring Stories
-          url: https://gmail.com
+          url: /crafting-concrete-dreams-in-civil-engineering/
         - title: diverse opportunities
           description: Rewarding careers awaits!
           url: /privacy/
