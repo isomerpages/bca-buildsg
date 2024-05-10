@@ -76,9 +76,9 @@ sections:
       id: resources
       button: MORE EVENTS
   - announcements:
-      title: Announcements
+      title: What's Happening
       id: announcements
-      subtitle: Add a list of announcements with dates
+      subtitle: Events
       announcement_items:
         - title: "Constructive Connections: Building for the Future"
           date: 24 May 2024
