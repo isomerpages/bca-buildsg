@@ -20,13 +20,13 @@ green building practices and digitalization.</p>
 such as Building Information Modelling, Internet of Things and artificial
 intelligence to revolutionize every stage of the construction lifecycle,
 enabling greater efficiency, collaboration, and innovation.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Many parties&nbsp; are involved in the design, construction, and maintenance
 of any building or infrastructure. For efficiency, building projects can
 now visualise and simulate in virtual environments before construction
 begins, while IoT sensors collect real-time data on building performance
 and occupancy.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Prefabrication and modular constructions are enhanced through advanced
 robotics and 3D printing, improving quality and reducing constructing time.</p>
 <p>&nbsp;</p>
