@@ -40,7 +40,7 @@ sections:
         dedication to creating a dynamic and sustainable urban landscape.
       button: LEARN MORE
       alt: Discover the Journey
-      url: /
+      url: /about-built-environment-sector/
       image: /images/discover_journey.jpg
   - infopic:
       title: Shape Singapore's Built Environment
