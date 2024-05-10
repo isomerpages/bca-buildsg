@@ -2,6 +2,7 @@ collections:
   education-and-programmes:
     output: true
     order:
+      - Professionals.md
       - Mid Careerist.md
       - Students/iBuildSG Club.md
       - Students/Built Environment Scholarship.md
