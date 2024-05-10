@@ -4,6 +4,10 @@ permalink: /meaningful-and-fulfilling-careers/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/diverse_career_paths.jpg">
+</div>
 <p>Keen to make a difference to Singapore’s built environment sector? From
 developers to technology providers, read on to find one that checks the
 most boxes for you!</p>
