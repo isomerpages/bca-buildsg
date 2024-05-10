@@ -1,4 +1,5 @@
 collections:
   careers-and-opportunities:
     output: true
-    order: []
+    order:
+      - Meaningful and fulfilling careers.md
