@@ -14,21 +14,18 @@ sections:
         sustainability. Create vibrant communities where people work, live and
         play.
       background: /images/giphy.gif
-      button: Contact Us
+      button: FIND OUT MORE
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Sectoral outlook
+          description: "Insights and trends "
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: our stories
+          description: Inspiring Stories
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: diverse opportunities
+          description: Rewarding careers awaits!
           url: /privacy/
-        - title: Events
-          description: Key Highlight description
-          url: /events/
   - infobar:
       title: Introduction to the BE Sector
       subtitle: Short Description
