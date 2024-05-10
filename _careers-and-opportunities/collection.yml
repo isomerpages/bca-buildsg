@@ -2,6 +2,7 @@ collections:
   careers-and-opportunities:
     output: true
     order:
+      - Meaningful and fulfilling careers.md
       - Diverse Opportunities/.keep
       - Diverse Opportunities/A World of Diversity.md
       - Diverse Opportunities/Architects.md
@@ -12,4 +13,3 @@ collections:
       - Diverse Opportunities/Construction Managers.md
       - Diverse Opportunities/Project Managers.md
       - Diverse Opportunities/Digital Delivery Managers.md
-      - Meaningful and fulfilling careers.md
