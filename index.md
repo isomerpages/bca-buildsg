@@ -18,7 +18,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Sectoral outlook
-          description: Insights and trends
+          description: Landscape Trends
           url: https://google.com
         - title: our stories
           description: Inspiring Stories
