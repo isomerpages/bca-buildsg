@@ -57,7 +57,7 @@ sections:
       subtitle: EDUCATION & PROGRAMMES
       id: infopic
       description: Embark on your journey of growth and advancement with our curated
-        selection of education and programs.
+        selection of education and programmes.
       button: Learn more
       alt: Image alt text
       url: /full-time-courses/
