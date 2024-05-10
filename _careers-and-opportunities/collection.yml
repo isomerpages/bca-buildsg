@@ -2,6 +2,7 @@ collections:
   careers-and-opportunities:
     output: true
     order:
+      - Diverse Opportunities/A World of Diversity.md
       - Diverse Opportunities/.keep
       - Diverse Opportunities.md
       - Meaningful and fulfilling careers.md
