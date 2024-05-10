@@ -1,0 +1,4 @@
+collections:
+  education-and-programs:
+    output: true
+    order: []
