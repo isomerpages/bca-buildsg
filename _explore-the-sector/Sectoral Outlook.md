@@ -11,7 +11,6 @@ description: ""
 <p>Singapore’s built environment epitomizes innovation and sustainability,
 shaping the city state’s urban landscape with a focus on smart technologies,
 green building practices and digitalization.</p>
-<p>&nbsp;</p>
 <h3>Going Digital</h3>
 <p></p>
 <div class="isomer-image-wrapper">
