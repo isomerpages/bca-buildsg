@@ -74,5 +74,5 @@ sections:
       title: What's Happening
       subtitle: Events
       id: resources
-      button: MORE
+      button: MORE EVENTS
 ---
