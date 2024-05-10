@@ -2,6 +2,7 @@ collections:
   careers-and-opportunities:
     output: true
     order:
+      - Diverse Opportunities/Construction Managers.md
       - Diverse Opportunities/Production Manager.md
       - Diverse Opportunities/Quantity Surveyors.md
       - Diverse Opportunities/Civil and Structural, Electrical, Mechanical
