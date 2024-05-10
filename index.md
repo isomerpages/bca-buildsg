@@ -53,11 +53,22 @@ sections:
       url: /
       image: /images/diverse_career_paths.jpg
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Pathways to Progress
+      subtitle: EDUCATION & PROGRAMMES
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: "Embark on your journey of growth and advancement with our curated
+        selection of education and programs. "
+      button: Learn more
+      alt: Image alt text
+      url: "#"
+  - infopic:
+      title: Stories & Insights
+      subtitle: Our stories
+      id: infopic
+      description: Curious to know more? Hear what motivates built environment
+        professionals and what we do in shaping Singapore's urban landscape.
+      button: Learn more
+      url: "#"
       alt: Image alt text
   - resources:
       title: What's Happening
