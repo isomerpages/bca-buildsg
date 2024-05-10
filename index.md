@@ -18,10 +18,10 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Sectoral outlook
-          description: Landscape Trends
+          description: Landscape Insights & Trends
           url: /sectoral-outlook/
         - title: our stories
-          description: Inspiring Stories
+          description: Inspiring Stories for You
           url: /crafting-concrete-dreams-in-civil-engineering/
         - title: diverse opportunities
           description: Rewarding careers awaits!
