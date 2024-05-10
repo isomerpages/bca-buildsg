@@ -72,7 +72,7 @@ sections:
       alt: Image alt text
   - resources:
       title: What's Happening
-      subtitle: Events
+      subtitle: EVENTS
       id: resources
       button: MORE EVENTS
 ---
