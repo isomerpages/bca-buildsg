@@ -1,0 +1,4 @@
+collections:
+  our-stories:
+    output: true
+    order: []
