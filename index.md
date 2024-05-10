@@ -18,7 +18,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Sectoral outlook
-          description: "Insights and trends "
+          description: Insights and trends
           url: https://google.com
         - title: our stories
           description: Inspiring Stories
@@ -27,14 +27,14 @@ sections:
           description: Rewarding careers awaits!
           url: /privacy/
   - infobar:
-      title: Introduction to the BE Sector
+      title: Introduction to the Build Environment (BE)
       subtitle: Short Description
-      description: 160 Character Limit. Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit. Aliquam at est turpis. Nam imperdiet, augue ornare
-        euismod sodales, arcu orci con.
+      description: Singapore's Built Environment sector shapes the urban landscape,
+        crucial in designing, constructing, and managing facilities, supporting
+        national development.
   - infopic:
       title: Discover the Journey
-      subtitle: About the BE SECTOR
+      subtitle: About the BE Sector
       id: infopic
       description: From skyscrapers to green spaces, it reflects Singapore's
         dedication to creating a dynamic and sustainable urban landscape.
@@ -43,8 +43,8 @@ sections:
       url: /
       image: /images/discover_journey.jpg
   - infopic:
-      title: A Diverse Career Paths
-      subtitle: WHY JOIN BE SECTOR
+      title: Shape Singapore's Built Environment
+      subtitle: why join us
       id: infopic
       description: Discover a multitude of career opportunities within Singapore's
         Built Environment sector, shaping the nation's landscape sustainably.
@@ -52,52 +52,6 @@ sections:
       alt: A Diverse Career Paths
       url: /
       image: /images/diverse_career_paths.jpg
-  - announcements:
-      title: Around the Block
-      id: announcements
-      subtitle: events
-      announcement_items:
-        - title: Event 1
-          date: 26 April 2024
-          announcement: 300 Character Limit. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit. Aliquam at est turpis. Namt, augue ornare euismod
-            sodales, arcu orci consequat dolor, vel ornare leo enim vel est. Sed
-            rutrum massa id purus egestas vulputate. Aliquam vitae ligula
-            accumsan elit egestas pellentesque. Duis
-          link_text: Read more
-          link_url: "#"
-  - textcards:
-      title: Around the Block
-      subtitle: Events
-      id: textcards
-      description: 200 Character Limit. Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit. Aliquam at est turpis. Namt, augue ornare euismod
-        sodales, arcu orci consequat dolor, vel ornare leo enim vel est. Sedad.
-      cards:
-        - title: Event 1
-          description: 80 Character Limit. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elitad.
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
   - infopic:
       title: Infopic
       subtitle: Add an image and text
