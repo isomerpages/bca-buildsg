@@ -2,9 +2,9 @@ collections:
   our-stories:
     output: true
     order:
+      - Articles/.keep
+      - Articles/Crafting Concrete Dreams in Civil Engineering.md
+      - Articles/Making a successful mid career switch.md
+      - Articles/Testimonial from mid careerist who had undergone CCP.md
       - Articles/Testimonial from in service personnel who has taken up CET
         course.md
-      - Articles/Testimonial from mid careerist who had undergone CCP.md
-      - Articles/Making a successful mid career switch.md
-      - Articles/Crafting Concrete Dreams in Civil Engineering.md
-      - Articles/.keep
