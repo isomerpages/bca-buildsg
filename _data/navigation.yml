@@ -6,5 +6,7 @@ links:
     collection: careers-and-opportunities
   - title: Education & Programmes
     collection: education-and-programmes
-  - title: New folder
-    collection: careers-and-opportunities
+  - title: Our Stories
+    collection: our-stories
+  - title: Events
+    url: /events
