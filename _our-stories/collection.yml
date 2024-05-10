@@ -2,11 +2,11 @@ collections:
   our-stories:
     output: true
     order:
-      - Videos/Hello Engineer Series.md
-      - Videos/.keep
       - Articles/.keep
       - Articles/Crafting Concrete Dreams in Civil Engineering.md
       - Articles/Making a successful mid career switch.md
       - Articles/Testimonial from mid careerist who had undergone CCP.md
       - Articles/Testimonial from in service personnel who has taken up CET
         course.md
+      - Videos/.keep
+      - Videos/Hello Engineer Series.md
