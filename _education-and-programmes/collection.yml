@@ -2,5 +2,6 @@ collections:
   education-and-programmes:
     output: true
     order:
+      - Students/Work Study Programmes.md
       - Students/Full Time Courses.md
       - Students/.keep
