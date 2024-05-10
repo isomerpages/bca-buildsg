@@ -1,4 +1,5 @@
 collections:
   our-stories:
     output: true
-    order: []
+    order:
+      - Articles/.keep
