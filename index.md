@@ -19,7 +19,7 @@ sections:
       key_highlights:
         - title: Sectoral outlook
           description: Landscape Trends
-          url: https://google.com
+          url: /sectoral-outlook/
         - title: our stories
           description: Inspiring Stories
           url: /crafting-concrete-dreams-in-civil-engineering/
