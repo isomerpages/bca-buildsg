@@ -4,7 +4,9 @@ title: Sponsored by BCA
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Please beware of phishing or scam attempts. BCA will neer ask or
+  request for your personal details vis SMS notifications and / or automated
+  phone messages.
 sections:
   - hero:
       title: Hero title
