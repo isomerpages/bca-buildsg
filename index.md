@@ -25,7 +25,7 @@ sections:
           url: /crafting-concrete-dreams-in-civil-engineering/
         - title: diverse opportunities
           description: Rewarding careers awaits!
-          url: /privacy/
+          url: /a-world-of-diversity/
   - infobar:
       title: Introduction to the Build Environment (BE)
       subtitle: Short Description
