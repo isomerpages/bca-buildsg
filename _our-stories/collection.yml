@@ -2,4 +2,5 @@ collections:
   our-stories:
     output: true
     order:
+      - Articles/Crafting Concrete Dreams in Civil Engineering.md
       - Articles/.keep
