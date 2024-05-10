@@ -1,5 +1,4 @@
 collections:
   folder-test-page:
     output: true
-    order:
-      - Folder Page 2.md
+    order: []
