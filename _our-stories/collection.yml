@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - Videos/Hello Engineer Series.md
       - Videos/.keep
       - Articles/.keep
       - Articles/Crafting Concrete Dreams in Civil Engineering.md
