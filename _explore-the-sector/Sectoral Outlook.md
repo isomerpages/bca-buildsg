@@ -29,7 +29,7 @@ and occupancy.</p>
 <p></p>
 <p>Prefabrication and modular constructions are enhanced through advanced
 robotics and 3D printing, improving quality and reducing constructing time.</p>
-<p>&nbsp;</p>
+<p></p>
 <h3>Going Green</h3>
 <p></p>
 <div class="isomer-image-wrapper">
