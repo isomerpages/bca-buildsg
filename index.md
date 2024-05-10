@@ -56,8 +56,8 @@ sections:
       title: Pathways to Progress
       subtitle: EDUCATION & PROGRAMMES
       id: infopic
-      description: "Embark on your journey of growth and advancement with our curated
-        selection of education and programs. "
+      description: Embark on your journey of growth and advancement with our curated
+        selection of education and programs.
       button: Learn more
       alt: Image alt text
       url: "#"
