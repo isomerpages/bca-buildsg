@@ -2,6 +2,7 @@ collections:
   education-and-programmes:
     output: true
     order:
+      - Mid Careerists/.keep
       - Students/iBuildSG Club.md
       - Students/Built Environment Scholarship.md
       - Students/Work Study Programmes.md
