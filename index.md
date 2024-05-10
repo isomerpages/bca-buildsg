@@ -61,6 +61,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /full-time-courses/
+      image: /images/discover_journey.jpg
   - infopic:
       title: Stories & Insights
       subtitle: Our stories
@@ -70,6 +71,7 @@ sections:
       button: Learn more
       url: /crafting-concrete-dreams-in-civil-engineering/
       alt: Image alt text
+      image: /images/diverse_career_paths.jpg
   - resources:
       title: What's Happening
       subtitle: EVENTS
