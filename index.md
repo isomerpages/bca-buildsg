@@ -60,7 +60,7 @@ sections:
       button: Button Text
       alt: Image alt text
   - resources:
-      title: Around the Block
+      title: What's Happening
       subtitle: Events
       id: resources
       button: MORE
