@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/diverse_career_paths.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_meaningful_careers.png">
 </div>
 <p>Keen to make a difference to Singapore’s built environment sector? From
 developers to technology providers, read on to find one that checks the
@@ -16,7 +16,7 @@ most boxes for you!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/careers_developer.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -28,7 +28,7 @@ and rejuvenate the buildings we see everyday!</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/careers_builder.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -38,12 +38,11 @@ projects from design to project's completion!</div>
 </div>
 </div>
 </div>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/careers_consultant.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -56,7 +55,7 @@ cost management advisory!</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/careers_facilities_management.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -66,13 +65,11 @@ while ensuring building systems are optimised for long-term performance!</div>
 </div>
 </div>
 </div>
-<p></p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/careers_technology_provider.png">
 </div>
 </div>
 <div class="isomer-card-body">
