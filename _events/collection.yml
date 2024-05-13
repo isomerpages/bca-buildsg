@@ -2,6 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Events 3.md
-      - Events 2.md
       - The Singapore Green Building Journey.md
+      - Events 2.md
+      - Events 3.md
