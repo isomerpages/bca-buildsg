@@ -56,7 +56,7 @@ third_nav_title: Students
   </li>
 </ul>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left;" height="80" width="180" alt="" src="/images/full_time_sit.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_sit.jpg">
 </div>
 <p>
   <strong>Singapore Institute of Technology</strong>
