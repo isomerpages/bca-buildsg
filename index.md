@@ -13,7 +13,7 @@ sections:
       subtitle: Push boundaries, redefine urban living and set new standards for
         sustainability. Create vibrant communities where people work, live and
         play.
-      background: /images/hero-banner.png
+      background: /images/Background_Image.jpg
       button: FIND OUT MORE
       url: /contact-us/
       key_highlights:
