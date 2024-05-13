@@ -72,21 +72,36 @@ sections:
       url: /crafting-concrete-dreams-in-civil-engineering/
       alt: Image alt text
       image: /images/Image_3.jpg
-  - resources:
-      title: What's Happening
-      subtitle: EVENTS
-      id: resources
-      button: MORE EVENTS
   - announcements:
       title: What's Happening
       id: announcements
       subtitle: Events
       announcement_items:
         - title: "Constructive Connections: Building for the Future"
-          date: 24 May 2024
-          announcement: Lorem ipsum dolor sit lorem ipsum dolor sit sit lorem ipsum dolor
-            sit sit lorem ipsum dolor sit sit lorem ipsum dolor sit sit lorem
-            ipsum dolor sit
+          date: 16 May 2024
+          announcement: Singapore’s Green Building journey began in 2005. This session
+            with Professor Lam Khee Poh will look at some of the background
+            research and development work that led to the launch of the
+            inaugural Building and Construction Authority Green Mark
+            Certification scheme...
           link_text: Read more
-          link_url: "#"
+          link_url: /the-singapore-green-building-journey/
+        - title: Event 2
+          date: 16 May 2024
+          announcement: 300 Character Limit. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit. Aliquam at est turpis. Namt, augue ornare euismod
+            sodales, arcu orci consequat dolor, vel ornare leo enim vel est. Sed
+            rutrum massa id purus egestas vulputate. Aliquam vitae ligula
+            accumsan elit egestas pellentesque...
+          link_text: Read more
+          link_url: /events-2/
+        - title: Event 3
+          date: 13 May 2024
+          announcement: 300 Character Limit. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit. Aliquam at est turpis. Namt, augue ornare euismod
+            sodales, arcu orci consequat dolor, vel ornare leo enim vel est. Sed
+            rutrum massa id purus egestas vulputate. Aliquam vitae ligula
+            accumsan elit egestas pellentesque...
+          link_text: Read more
+          link_url: /events-3/
 ---
