@@ -36,7 +36,7 @@ and productivity</p>
 the <a href="https://www.skillsfuture.gov.sg/skills-framework/built-environment" rel="noopener noreferrer nofollow" target="_blank">Skills Framework for Built Environment – A Guide to Occupations and Skills</a>
 </p>
 <h4>Additional resource link</h4>
-<p><a href="https://scal.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Contractors Association Limited (SCAL) </a>
+<p><a href="https://scal.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Contractors Association Limited (SCAL)</a>
 </p>
 <h4>Explore other opportunities</h4>
 <p><a href="/architects/" rel="noopener noreferrer nofollow" target="_blank">Architects</a> 
