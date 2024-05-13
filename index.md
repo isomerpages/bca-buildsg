@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Sponsored by BCA
+title: BuildSG X BCA
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
