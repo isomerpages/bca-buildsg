@@ -30,8 +30,7 @@ Institutions of Higher Learning below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ntu.jpg">
 </div>
-<p><strong>Nanyang Technological University</strong>
-</p>
+<strong>Nanyang Technological University</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bachelor of Engineering: <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-civil-engineering" rel="noopener noreferrer nofollow" target="_blank">Civil</a>
@@ -46,8 +45,7 @@ Institutions of Higher Learning below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_nus.jpg">
 </div>
-<p><strong>National University of Singapore</strong>
-</p>
+<strong>National University of Singapore</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bachelor of Engineering: <a href="https://cde.nus.edu.sg/cee/undergraduate/beng-civil/" rel="noopener noreferrer nofollow" target="_blank">Civil</a>,
@@ -75,8 +73,7 @@ Institutions of Higher Learning below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_sit.jpg">
 </div>
-<p><strong>Singapore Institute of Technology</strong>
-</p>
+<strong>Singapore Institute of Technology</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bachelor of Engineering: <a href="https://www.singaporetech.edu.sg/undergraduate-programmes/civil-engineering" rel="noopener noreferrer nofollow" target="_blank">Civil</a>,
@@ -87,8 +84,7 @@ Institutions of Higher Learning below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_sutd.jpg">
 </div>
-<p><strong>Singapore University of Technology and Design</strong>
-</p>
+<strong>Singapore University of Technology and Design</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bachelor of Engineering: <a href="https://cde.nus.edu.sg/ece/undergraduate/what-is-ece/" rel="noopener noreferrer nofollow" target="_blank">Electrical</a>,
@@ -108,8 +104,7 @@ Institutions of Higher Learning below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_nanyang_poly.jpg">
 </div>
-<p><strong>Nanyang Polytechnic</strong>
-</p>
+<strong>Nanyang Polytechnic</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p>Diploma in <a href="https://www.nyp.edu.sg/schools/sdm/full-time-courses/architecture.html" rel="noopener noreferrer nofollow" target="_blank">Architecture</a>
@@ -119,8 +114,7 @@ Institutions of Higher Learning below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ngeean.jpg">
 </div>
-<p><strong>Ngee Ann Polytechnic</strong>
-</p>
+<strong>Ngee Ann Polytechnic</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p>Diploma in <a href="https://www.np.edu.sg/schools-courses/academic-schools/school-of-design-environment/diploma-in-design" rel="noopener noreferrer nofollow" target="_blank">Design</a>
@@ -150,8 +144,7 @@ Institutions of Higher Learning below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_reppoly.jpg">
 </div>
-<p><strong>Republic Polytechnic</strong>
-</p>
+<strong>Republic Polytechnic</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p>Diploma in <a href="https://www.rp.edu.sg/SEG/full-time-diplomas/Details/diploma-in-sustainable-built-environment" rel="noopener noreferrer nofollow" target="_blank">Sustainable Built Environment</a>
@@ -169,8 +162,7 @@ Institutions of Higher Learning below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_sg_poly.jpg">
 </div>
-<p><strong>Singapore Polytechnic</strong>
-</p>
+<strong>Singapore Polytechnic</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p>Diploma in <a href="https://www.sp.edu.sg/abe/courses/full-time-diplomas/architecture" rel="noopener noreferrer nofollow" target="_blank">Architecture</a>
@@ -204,8 +196,7 @@ Institutions of Higher Learning below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_tema_poly.jpg">
 </div>
-<p><strong>Temasek Polytechnic</strong>
-</p>
+<strong>Temasek Polytechnic</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p>Diploma in <a href="https://www.tp.edu.sg/schools-and-courses/students/schools/eng/architectural-technology-building-services.html" rel="noopener noreferrer nofollow" target="_blank">Architectural Technology and Building Services</a>
@@ -220,11 +211,11 @@ Institutions of Higher Learning below.</p>
 </p>
 <hr>
 <h4>Full-time ITE courses</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite_central.jpg">
 </div>
-<p><strong>ITE College Central</strong>
-</p>
+<strong>ITE College Central</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p>NITEC in <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-architectural-technology" rel="noopener noreferrer nofollow" target="_blank">Architectural Technology</a>
@@ -246,8 +237,7 @@ Institutions of Higher Learning below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite_east.jpg">
 </div>
-<p><strong>ITE College East</strong>
-</p>
+<strong>ITE College East</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p>NITEC in Technology - Built Environment (<a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-technology-built-environment-(mechanical-electrical-services)" rel="noopener noreferrer nofollow" target="_blank">Mechanical &amp; Electrical Services</a>)</p>
@@ -287,8 +277,7 @@ Institutions of Higher Learning below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite_west.jpg">
 </div>
-<p><strong>ITE College West</strong>
-</p>
+<strong>ITE College West</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p>NITEC in Technology - Built Environment (<a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-technology-built-environment-(mechanical-electrical-services)" rel="noopener noreferrer nofollow" target="_blank">Mechanical &amp; Electrical Services</a>)</p>
