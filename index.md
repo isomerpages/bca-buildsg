@@ -20,6 +20,7 @@ sections:
         - title: diverse opportunities
           description: Rewarding careers awaits!
           url: /a-world-of-diversity/
+      variant: image
   - infobar:
       title: Introduction to the Build Environment (BE)
       subtitle: Short Description
