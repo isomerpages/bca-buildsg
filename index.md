@@ -41,7 +41,7 @@ sections:
       button: LEARN MORE
       alt: Discover the Journey
       url: /about-built-environment-sector/
-      image: /images/discover_journey.jpg
+      image: /images/Image.jpg
   - infopic:
       title: Shape Singapore's Built Environment
       subtitle: why join us
@@ -51,7 +51,7 @@ sections:
       button: LEARN MORE
       alt: A Diverse Career Paths
       url: /meaningful-and-fulfilling-careers/
-      image: /images/diverse_career_paths.jpg
+      image: /images/Image_2.jpg
   - infopic:
       title: Pathways to Progress
       subtitle: EDUCATION & PROGRAMMES
@@ -61,7 +61,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /full-time-courses/
-      image: /images/discover_journey.jpg
+      image: /images/Image_1.jpg
   - infopic:
       title: Stories & Insights
       subtitle: Our stories
@@ -71,7 +71,7 @@ sections:
       button: Learn more
       url: /crafting-concrete-dreams-in-civil-engineering/
       alt: Image alt text
-      image: /images/diverse_career_paths.jpg
+      image: /images/Image_3.jpg
   - resources:
       title: What's Happening
       subtitle: EVENTS
