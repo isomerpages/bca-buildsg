@@ -39,4 +39,11 @@ the <a href="https://www.skillsfuture.gov.sg/skills-framework/built-environment"
 <br><a href="https://nearyou.imeche.org/near-you/south-east-asia/singapore" rel="noopener noreferrer nofollow" target="_blank">Institution of Mechanical Engineers, Singapore branch</a>
 </p>
 <h4>Explore other opportunities</h4>
-<p></p>
+<p><a href="/architects/" rel="noopener noreferrer nofollow" target="_blank">Architects</a>
+<br><a href="/quantity-surveyors/" rel="noopener noreferrer nofollow" target="_blank">Quantity Surveyors</a> 
+<br><a href="/production-manager/" rel="noopener noreferrer nofollow" target="_blank">Production Manager</a> 
+<br><a href="/construction-managers/" rel="noopener noreferrer nofollow" target="_blank">Construction Managers</a> 
+<br><a href="/project-managers/" rel="noopener noreferrer nofollow" target="_blank">Project Managers</a> 
+<br><a href="/digital-delivery-managers/" rel="noopener noreferrer nofollow" target="_blank">Digital Delivery Managers</a> 
+<br><a href="/facility-managers/" rel="noopener noreferrer nofollow" target="_blank">Facility Managers</a>
+</p>
