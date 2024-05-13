@@ -18,7 +18,7 @@ needs</p>
 <p>Ensure works are carried out according to design plans during construction</p>
 </li>
 </ul>
-<h4><strong>Do you know?</strong></h4>
+<h4>Do you know?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Engineers are using environmental simulation tools to optimise building
@@ -33,8 +33,10 @@ choice of construction methods and materials</p>
 <p>To learn more about the key work tasks and skills required, check out
 the <a href="https://www.skillsfuture.gov.sg/skills-framework/built-environment" rel="noopener noreferrer nofollow" target="_blank">Skills Framework for Built Environment – A Guide to Occupations and Skills</a>
 </p>
-<h4><strong>Additional resource links</strong></h4>
+<h4>Additional resource links</h4>
 <p><a href="https://www.ies.org.sg/Home" rel="noopener noreferrer nofollow" target="_blank">The Institution of Engineers, Singapore</a> 
 <br><a href="https://www.ice.org.uk/about-us/what-we-do/ice-near-you/international/ice-south-east-asia" rel="noopener noreferrer nofollow" target="_blank">Institution of Civil Engineers, South East Asia </a>
 <br><a href="https://nearyou.imeche.org/near-you/south-east-asia/singapore" rel="noopener noreferrer nofollow" target="_blank">Institution of Mechanical Engineers, Singapore branch</a>
 </p>
+<h4>Explore other opportunities</h4>
+<p></p>
