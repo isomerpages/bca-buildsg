@@ -20,10 +20,13 @@ Institutions of Higher Learning below.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Engineering: Civil</p>
+<p>Bachelor of Engineering: <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-civil-engineering" rel="noopener noreferrer nofollow" target="_blank">Civil</a>
+</p>
 </li>
 <li>
-<p>Bachelor of Engineering: Electrical and Electronic, Environmental, Mechanical</p>
+<p>Bachelor of Engineering: <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-electrical-and-electronic-engineering-(eee)" rel="noopener noreferrer nofollow" target="_blank">Electrical and Electronic</a>,
+<a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-environmental-engineering" rel="noopener noreferrer nofollow" target="_blank">Environmental</a>, <a href="https://www.ntu.edu.sg/mae/admissions/undergraduate-programmes/detail/bachelor-of-engineering-in-mechanical-engineering" rel="noopener noreferrer nofollow" target="_blank">Mechanical </a>
+</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -33,19 +36,26 @@ Institutions of Higher Learning below.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Engineering: Civil, Infrastructure &amp; Project Management</p>
+<p>Bachelor of Engineering: <a href="https://cde.nus.edu.sg/cee/undergraduate/beng-civil/" rel="noopener noreferrer nofollow" target="_blank">Civil</a>,
+<a href="https://cde.nus.edu.sg/dbe/introduction-1-1/" rel="noopener noreferrer nofollow" target="_blank">Infrastructure &amp; Project Management</a>
+</p>
 </li>
 <li>
-<p>Bachelor of Science: Real Estate&nbsp;</p>
+<p>Bachelor of Science: <a href="https://bschool.nus.edu.sg/real-estate/bsc/" rel="noopener noreferrer nofollow" target="_blank">Real Estate&nbsp;</a>
+</p>
 </li>
 <li>
-<p>Master of Architecture&nbsp;</p>
+<p>Master of <a href="https://cde.nus.edu.sg/arch/programmes/master-of-architecture/" rel="noopener noreferrer nofollow" target="_blank">Architecture</a>
+</p>
 </li>
 <li>
-<p>Bachelor of Engineering: Electrical, Environmental, Mechanical</p>
+<p>Bachelor of Engineering: <a href="https://cde.nus.edu.sg/ece/undergraduate/what-is-ece/" rel="noopener noreferrer nofollow" target="_blank">Electrical</a>,
+<a href="https://cde.nus.edu.sg/cee/undergraduate/beng-env/" rel="noopener noreferrer nofollow" target="_blank">Environmental</a>, <a href="https://cde.nus.edu.sg/me/undergraduate/beng-me/overview/" rel="noopener noreferrer nofollow" target="_blank">Mechanical</a>
+</p>
 </li>
 <li>
-<p>Bachelor of Landscape Architecture</p>
+<p>Bachelor of <a href="https://cde.nus.edu.sg/arch/programmes/bachelor-of-landscape-architecture/" rel="noopener noreferrer nofollow" target="_blank">Landscape Architecture</a>
+</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
