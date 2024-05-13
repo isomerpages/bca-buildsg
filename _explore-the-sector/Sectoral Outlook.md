@@ -6,15 +6,14 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/discover_journey.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_sectoral_outlook.png">
 </div>
 <p>Singapore’s built environment epitomizes innovation and sustainability,
 shaping the city state’s urban landscape with a focus on smart technologies,
 green building practices and digitalization.</p>
 <h3>Going Digital</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_going_digital.png">
 </div>
 <p>The sector is undergoing rapid digital transformation, leveraging technologies
 such as Building Information Modelling, Internet of Things and artificial
@@ -31,9 +30,8 @@ and occupancy.</p>
 robotics and 3D printing, improving quality and reducing constructing time.</p>
 <p></p>
 <h3>Going Green</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_going_green.png">
 </div>
 <p>Through the Singapore Green Building Masterplan, the sector sets to realise
 the 80-80-80 goal;</p>
@@ -59,9 +57,8 @@ and this presents opportunities to innovate and build more sustainably,
 creating a better future for Singapore, and for the world.</p>
 <p></p>
 <h3>Adopting Smart Technology</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_smart_technology.png">
 </div>
 <p>Smart technology optimize operations. The sector&nbsp; adopts building
 automation and energy management systems&nbsp; and various cutting-edge
