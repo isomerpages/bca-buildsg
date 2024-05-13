@@ -12,6 +12,20 @@ third_nav_title: Students
 <p>Looking to further your studies and take up a built environment related
 course? Check out the list of courses and work-study programmes from local
 Institutions of Higher Learning below.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="#full-time-uni" rel="noopener noreferrer nofollow" target="_blank">Full-time University Courses</a>
+</p>
+</li>
+<li>
+<p><a href="#full-time-poly" rel="noopener noreferrer nofollow" target="_blank">Full-time Polytechnic Courses</a>
+</p>
+</li>
+<li>
+<p><a href="#full-time-ite" rel="noopener noreferrer nofollow" target="_blank">Full-time ITE Courses</a>
+</p>
+</li>
+</ul>
 <h4>Full-time University Courses</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ntu.jpg">
