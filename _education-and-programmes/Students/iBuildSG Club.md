@@ -13,8 +13,7 @@ third_nav_title: Students
 <p>The iBuildSG Club is a built environment-themed interest club for pre-IHL
 students (Secondary, Junior College) and IHL students (ITE, Polytechnic,
 University). As a member, you will receive notifications on the club’s
-activities, including members-only competitions. Membership is free. Click
-here to join!</p>
+activities, including members-only competitions.</p>
 <p>You can also follow the iBuildSG Club’s <a href="https://www.instagram.com/ibuildsgclub/" rel="noopener noreferrer nofollow" target="_blank">Instagram </a>and <a href="https://www.facebook.com/ibuildsgclub.sg/" rel="noopener noreferrer nofollow" target="_blank">Facebook </a>for
 more BE related content!</p>
 <p>Membership is free. Click <a href="#" rel="noopener noreferrer nofollow" target="_blank">here</a> to join!</p>
