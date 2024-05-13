@@ -32,10 +32,11 @@ zones.</p>
 </li>
 </ul>
 <p>To learn more about the key work tasks and skills required, check out
-the Skills Framework for Built Environment – A Guide to Occupations and
-Skills</p>
+the <a href="https://www.skillsfuture.gov.sg/skills-framework/built-environment" rel="noopener noreferrer nofollow" target="_blank">Skills Framework for Built Environment – A Guide to Occupations and Skills</a>
+</p>
 <h4>Additional resource link:</h4>
-<p>Singapore Contractors Association Limited (SCAL)</p>
+<p><a href="https://scal.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Contractors Association Limited (SCAL)</a>
+</p>
 <h4>Explore other opportunities</h4>
 <p><a href="/architects/" rel="noopener noreferrer nofollow" target="_blank">Architects</a> 
 <br><a href="/civil-and-structural-electrical-mechanical-engineers/" rel="noopener noreferrer nofollow" target="_blank"><u>Civil and Structural/Electrical/Mechanical Engineers</u></a> 
