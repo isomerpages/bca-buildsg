@@ -9,13 +9,7 @@ notification: Please beware of phishing or scam attempts. BCA will neer ask or
   phone messages.
 sections:
   - hero:
-      title: Building A Liveable & Sustainable Singapore
-      subtitle: Push boundaries, redefine urban living and set new standards for
-        sustainability. Create vibrant communities where people work, live and
-        play.
-      background: /images/Background_Image.jpg
-      button: FIND OUT MORE
-      url: /contact-us/
+      background: /images/Masthead.png
       key_highlights:
         - title: Sectoral outlook
           description: Landscape Insights & Trends
