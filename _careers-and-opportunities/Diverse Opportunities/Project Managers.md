@@ -8,12 +8,8 @@ third_nav_title: Diverse Opportunities
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/roles_project_managers.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
 <p>Oversee progress of ongoing construction works, monitor the material and
 budget utilisation, and coordinate building design changes</p>
-</li>
-</ul>
 <h4>Do you know?</h4>
 <ul data-tight="true" class="tight">
 <li>
