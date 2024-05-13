@@ -38,7 +38,7 @@ Skills</p>
 <p>Singapore Contractors Association Limited (SCAL)</p>
 <h4>Explore other opportunities</h4>
 <p><a href="/architects/" rel="noopener noreferrer nofollow" target="_blank">Architects</a> 
-<br><a href="/civil-and-structural-electrical-mechanical-engineers/" rel="noopener noreferrer nofollow" target="_blank"><u>Civil and Structural/Electrical/Mechanical Engineers</u></a>
+<br><a href="/civil-and-structural-electrical-mechanical-engineers/" rel="noopener noreferrer nofollow" target="_blank"><u>Civil and Structural/Electrical/Mechanical Engineers</u></a> 
 <br><a href="/quantity-surveyors/" rel="noopener noreferrer nofollow" target="_blank">Quantity Surveyors</a> 
 <br><a href="/production-manager/" rel="noopener noreferrer nofollow" target="_blank">Production Manager</a> 
 <br><a href="/project-managers/" rel="noopener noreferrer nofollow" target="_blank">Project Managers</a> 
