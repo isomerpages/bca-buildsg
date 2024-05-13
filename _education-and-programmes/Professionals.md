@@ -103,7 +103,7 @@ training providers today!</p>
 <h4 id="professional-accredit">Accreditation Programmes</h4>
 <p>You have amassed knowledge and skills in the sector but wondering what’s
 next in your career? You may consider the accreditation schemes for built
-environment<s>BE</s> professionals ranging across various expertise areas.</p>
+environment professionals ranging across various expertise areas.</p>
 <p>Through these schemes, you are able to:</p>
 <ul data-tight="true" class="tight">
 <li>
