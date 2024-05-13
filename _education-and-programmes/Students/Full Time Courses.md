@@ -12,7 +12,7 @@ third_nav_title: Students
 <p>Looking to further your studies and take up a built environment related course? Check out the list of courses and work-study programmes from local Institutions of Higher Learning below.</p>
 <h4>Full-time University Courses</h4>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left;" height="80" width="80" alt="" src="/images/full_time_ntu.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ntu.jpg">
 </div>
 <p>
   <strong>Nanyang Technological University</strong>
@@ -28,7 +28,7 @@ third_nav_title: Students
   </li>
 </ul>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left;" height="80" width="180" alt="" src="/images/full_time_nus.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_nus.jpg">
 </div>
 <p>
   <strong>National University of Singapore</strong>
@@ -67,7 +67,7 @@ third_nav_title: Students
   </li>
 </ul>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left;" height="80" width="180" alt="" src="/images/full_time_sutd.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_sutd.jpg">
 </div>
 <p>
   <strong>Singapore University of Technology and Design</strong>
@@ -84,7 +84,7 @@ third_nav_title: Students
 <h4>Full-time Polytechnic Courses</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left;" height="80" width="180" alt="" src="/images/full_time_nanyang_poly.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_nanyang_poly.jpg">
 </div>
 <p>
   <strong>Nanyang Polytechnic</strong>
@@ -95,7 +95,7 @@ third_nav_title: Students
   </li>
 </ul>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left;" height="80" width="180" alt="" src="/images/full_time_ngeean.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ngeean.jpg">
 </div>
 <p>
   <strong>Ngee Ann Polytechnic</strong>
@@ -121,7 +121,7 @@ third_nav_title: Students
   </li>
 </ul>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left;" height="80" width="180" alt="" src="/images/full_time_reppoly.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_reppoly.jpg">
 </div>
 <p>
   <strong>Republic Polytechnic</strong>
@@ -138,7 +138,7 @@ third_nav_title: Students
   </li>
 </ul>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left;" height="80" width="180" alt="" src="/images/full_time_sg_poly.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_sg_poly.jpg">
 </div>
 <p>
   <strong>Singapore Polytechnic</strong>
@@ -167,7 +167,7 @@ third_nav_title: Students
   </li>
 </ul>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left;" height="80" width="180" alt="" src="/images/full_time_tema_poly.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_tema_poly.jpg">
 </div>
 <p>
   <strong>Temasek Polytechnic</strong>
@@ -183,7 +183,7 @@ third_nav_title: Students
 <hr>
 <h4>Full-time ITE courses</h4>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left;" height="80" width="180" alt="" src="/images/full_time_ite_central.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite_central.jpg">
 </div>
 <p>
   <strong>ITE College Central</strong>
@@ -203,7 +203,7 @@ third_nav_title: Students
   </li>
 </ul>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left;" height="80" width="180" alt="" src="/images/full_time_ite_east.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite_east.jpg">
 </div>
 <p>
   <strong>ITE College East</strong>
@@ -238,7 +238,7 @@ third_nav_title: Students
   </li>
 </ul>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left;" height="80" width="180" alt="" src="/images/full_time_ite_west.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite_west.jpg">
 </div>
 <p>
   <strong>ITE College West</strong>
