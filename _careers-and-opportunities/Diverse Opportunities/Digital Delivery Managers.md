@@ -26,7 +26,7 @@ stakeholders</p>
 <p>To learn more about the key work tasks and skills required, check out
 the <a href="https://www.skillsfuture.gov.sg/skills-framework/built-environment" rel="noopener noreferrer nofollow" target="_blank">Skills Framework for Built Environment – A Guide to Occupations and Skills</a>
 </p>
-<h4><strong>Additional resource links:</strong></h4>
+<h4>Additional resource links</h4>
 <p><a href="https://ddm.buildingsmartsingapore.org/" rel="noopener noreferrer nofollow" target="_blank">buildingSMART Singapore</a>
 </p>
 <h4>Explore other opportunities</h4>
