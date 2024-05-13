@@ -8,8 +8,15 @@ third_nav_title: Diverse Opportunities
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/roles_quantity_surveyors.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
 <p>Advise construction costs and contracts from project planning to the construction
-phase Establish project budget and ensure project is completed within budget</p>
+phase</p>
+</li>
+<li>
+<p>Establish project budget and ensure project is completed within budget</p>
+</li>
+</ul>
 <h4>Do you know?</h4>
 <ul data-tight="true" class="tight">
 <li>
