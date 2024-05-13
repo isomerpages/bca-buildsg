@@ -9,4 +9,4 @@ links:
   - title: Our Stories
     collection: our-stories
   - title: Events
-    url: /events
+    collection: events
