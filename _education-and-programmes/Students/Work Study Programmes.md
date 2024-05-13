@@ -17,7 +17,7 @@ also check out WSPs available.</p>
 <h4>Work Study Programmes</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school_bca_academy.png">
+<img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_bca_academy.png">
 </div>
 <p><strong>BCA Academy</strong>
 </p>
@@ -37,7 +37,7 @@ Facilities Management)</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/full_time_ite.png">
+<img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite.png">
 </div>
 <p><strong>Institute of Technical Education</strong>
 </p>
@@ -58,7 +58,7 @@ Supervision)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/full_time_nanyang_poly.jpg">
+<img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_nanyang_poly.jpg">
 </div>
 <p><strong>Nanyang Polytechnic</strong>
 </p>
@@ -73,7 +73,7 @@ Management)</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/full_time_ngeean.jpg">
+<img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ngeean.jpg">
 </div>
 <p><strong>Ngee Ann Polytechnic</strong>
 </p>
@@ -85,7 +85,7 @@ Management)</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/full_time_sg_poly.jpg">
+<img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_sg_poly.jpg">
 </div>
 <p><strong>Singapore Polytechnic</strong>
 </p>
