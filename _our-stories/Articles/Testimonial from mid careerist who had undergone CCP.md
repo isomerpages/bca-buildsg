@@ -9,8 +9,8 @@ third_nav_title: Articles
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_professionals.jpg">
 </div>
-<p>It all started with a visit to a built environment <s>(BE) </s>sector career
-fair for Mohamad Saifullizan Bin Abd Rahman (Saifu).</p>
+<p>It all started with a visit to a built environment sector career fair
+for Mohamad Saifullizan Bin Abd Rahman (Saifu).</p>
 <p>He shared, “I came across the Professional Conversion Programme (PCP)
 for BIM Professionals during the career fair and decided to apply. I had
 a background in 3D Animation and thought it would be of relevance.</p>
