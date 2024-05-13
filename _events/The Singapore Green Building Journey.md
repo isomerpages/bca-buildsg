@@ -4,3 +4,4 @@ permalink: /the-singapore-green-building-journey/
 variant: tiptap
 description: ""
 ---
+<p></p>
