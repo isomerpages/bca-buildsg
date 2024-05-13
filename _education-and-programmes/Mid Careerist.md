@@ -24,12 +24,12 @@ more details.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>SkillsFuture Career Transition Programme</strong>
+<p><strong>SkillsFuture Career Transition Programme</strong> 
 <br><strong><em>More info here</em></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Career Conversion Programme</strong>
+<p><strong>Career Conversion Programme</strong> 
 <br><strong><em>More info here</em></strong>
 </p>
 </th>
@@ -73,7 +73,7 @@ in their 40s and 50s to help them remain employable and access good jobs.</p>
 <p></p>
 </li>
 </ul>
-<p><em>*Commencing soon</em>
+<p><em>*Commencing soon</em> 
 <br><em>Visit here for more details on these courses.</em>
 </p>
 </td>
