@@ -16,8 +16,7 @@ Institutions of Higher Learning below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ntu.jpg">
 </div>
-<span><strong>Nanyang Technological University</strong></span><strong>
-<p></p>
+<span><strong>Nanyang Technological University</strong></span>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bachelor of Engineering: <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-civil-engineering" rel="noopener noreferrer nofollow" target="_blank">Civil</a>
@@ -32,8 +31,7 @@ Institutions of Higher Learning below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_nus.jpg">
 </div>
-<span><strong>National University of Singapore</strong></span><strong>
-<p></p>
+<span><strong>National University of Singapore</strong></span>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bachelor of Engineering: <a href="https://cde.nus.edu.sg/cee/undergraduate/beng-civil/" rel="noopener noreferrer nofollow" target="_blank">Civil</a>,
@@ -61,8 +59,7 @@ Institutions of Higher Learning below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_sit.jpg">
 </div>
-<span><strong>Singapore Institute of Technology</strong></span><strong>
-<p></p>
+<span><strong>Singapore Institute of Technology</strong></span>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bachelor of Engineering: Civil, Sustainable Infrastructure Engineering
@@ -248,4 +245,4 @@ Institutions of Higher Learning below.</p>
 <p>Higher NITEC in Mechanical Engineering</p>
 </li>
 </ul>
-<p></p></strong></strong></strong>
+<p></p>
