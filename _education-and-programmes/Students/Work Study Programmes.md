@@ -1,12 +1,12 @@
 ---
 title: Work Study Programmes
 permalink: /work-study-programmes/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Students
 ---
 <p></p>
-<div id="study-top" class="isomer-image-wrapper">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_1.jpg">
 </div>
 <p>Work-Study Programmes (WSPs) are designed to offer students (typically
@@ -22,16 +22,13 @@ also check out WSPs available.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Integrated Work-Study Diploma Programme (Diploma in Digital and Sustainable
-Architecture)</p>
+<p>Integrated Work-Study Diploma Programme (<a href="https://www.bcaa.edu.sg/what-we-offer/academic-programmes/diploma/diploma-list?CourseId=5278cb5c-59d0-4e81-9d49-866e7419fc20" rel="noopener noreferrer nofollow" target="_blank">Diploma in Digital and Sustainable Architecture</a>)</p>
 </li>
 <li>
-<p>Integrated Work-Study Diploma Programme (Diploma in Construction Engineering
-– Digital)</p>
+<p>Integrated Work-Study Diploma Programme (<a href="https://www.bcaa.edu.sg/what-we-offer/academic-programmes/diploma/diploma-list?CourseId=f5534432-fc74-4df6-928d-2f284bd6b0d8" rel="noopener noreferrer nofollow" target="_blank">Diploma in Construction Engineering – Digital</a>)</p>
 </li>
 <li>
-<p>Integrated Work-Study Diploma Programme (Diploma in Digital and Smart
-Facilities Management)</p>
+<p>Integrated Work-Study Diploma Programme (<a href="https://safe.menlosecurity.com/https:/www.bcaa.edu.sg/what-we-offer/academic-programmes/diploma/diploma-list?CourseId=7fb69478-d92b-4708-bfc0-239bc4c3cf1b" rel="noopener noreferrer nofollow" target="_blank">Diploma in Digital and Smart Facilities Management</a>)</p>
 </li>
 </ul>
 <p></p>
@@ -42,18 +39,20 @@ Facilities Management)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Work-Study Diploma in Architectural Building Information Modelling (BIM)
-&amp; Design</p>
+<p>Work-Study Diploma in <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-architectural-bim-design" rel="noopener noreferrer nofollow" target="_blank">Architectural Building Information Modelling (BIM) &amp; Design</a>
+</p>
 </li>
 <li>
-<p>Work-Study Diploma in Facilities Management</p>
+<p>Work-Study Diploma in <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-facilities-management" rel="noopener noreferrer nofollow" target="_blank">Facilities Management</a>
+</p>
 </li>
 <li>
-<p>Work-Study Diploma in Built Environment (Mechanical &amp; Electrical Services
-Supervision)</p>
+<p>Work-Study Diploma in <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-mechanical-electrical-services-supervision" rel="noopener noreferrer nofollow" target="_blank">Built Environment (Mechanical &amp; Electrical Services Supervision)</a>
+</p>
 </li>
 <li>
-<p>Work-Study Diploma in Vertical Transportation</p>
+<p>Work-Study Diploma in <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-vertical-transportation" rel="noopener noreferrer nofollow" target="_blank">Vertical Transportation</a>
+</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -63,11 +62,10 @@ Supervision)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Work-Study Post Diploma (Specialist Diploma in Smart Project and Facilities
-Management)</p>
+<p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.nyp.edu.sg/schools/sdm/lifelong-learning/specialist-diploma-in-smart-project-and-facilities-management.html" rel="noopener noreferrer nofollow" target="_blank">Smart Project and Facilities Management</a>)</p>
 </li>
 <li>
-<p>Work-Study Post Diploma (Specialist Diploma in Spatial Design)</p>
+<p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.nyp.edu.sg/schools/sdm/lifelong-learning/specialist-diploma-in-spatial-design.html" rel="noopener noreferrer nofollow" target="_blank">Spatial Design</a>)</p>
 </li>
 </ul>
 <p></p>
@@ -78,8 +76,7 @@ Management)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Work-Study Post Diploma (Specialist Diploma in Sustainable Facilities
-Management)</p>
+<p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.cet.np.edu.sg/courses/work-study-post-diploma-specialist-diploma-in-sustainable-facilities-management/" rel="noopener noreferrer nofollow" target="_blank">Sustainable Facilities Management</a>)</p>
 </li>
 </ul>
 <p></p>
@@ -90,9 +87,9 @@ Management)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Work-Study Post Diploma (Specialist Diploma in Building Information Modelling
-Management)</p>
+<p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.sp.edu.sg/pace/courses/all-courses/course-details/work-study-post-diploma-(specialist-diploma-in-building-information-modelling-management)" rel="noopener noreferrer nofollow" target="_blank">Building Information Modelling Management</a>)</p>
 </li>
 </ul>
-<p><a href="#study-top" rel="noopener noreferrer nofollow" target="_self">Back to Top</a></p>
+<p><a href="#study-top" rel="noopener noreferrer nofollow" target="_self">Back to Top</a>
+</p>
 <p></p>
