@@ -115,7 +115,7 @@ for vertical/lateral career trajectories. For more information, click
 <col>
 </colgroup>
 <tbody>
-<tr>
+<tr style="background-color: #F1F4F6;">
 <td rowspan="1" colspan="1">
 <p><strong>Career Pathway</strong>
 </p>
@@ -135,7 +135,7 @@ for vertical/lateral career trajectories. For more information, click
 </p>
 </td>
 </tr>
-<tr>
+<tr style="background-color: #F1F4F6;">
 <td rowspan="1" colspan="1">
 <p><strong>Digital Delivery Management</strong>
 </p>
@@ -155,7 +155,7 @@ for vertical/lateral career trajectories. For more information, click
 </p>
 </td>
 </tr>
-<tr>
+<tr style="background-color: #F1F4F6;">
 <td rowspan="1" colspan="1">
 <p><strong>Project Management</strong>
 </p>
