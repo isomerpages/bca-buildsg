@@ -19,7 +19,7 @@ more details.</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
+<tr style="background-color: #F1F4F6;">
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
@@ -35,7 +35,7 @@ more details.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="width: 200px;" rowspan="1" colspan="1">
 <p><strong>Who is it for?</strong>
 </p>
 </td>
@@ -46,8 +46,8 @@ Package which aims to create more career transition opportunities for locals
 in their 40s and 50s to help them remain employable and access good jobs.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
+<tr style="background-color: #F1F4F6;">
+<td style="width: 200px;" rowspan="1" colspan="1">
 <p><strong>List of courses</strong>
 </p>
 </td>
@@ -98,7 +98,7 @@ in their 40s and 50s to help them remain employable and access good jobs.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="width: 200px;" rowspan="1" colspan="1">
 <p><strong>Modality and Details</strong>
 </p>
 </td>
@@ -122,8 +122,8 @@ partners in growth sectors with good future job opportunities.</p>
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
+<tr style="background-color: #F1F4F6;">
+<td style="width: 200px;" rowspan="1" colspan="1">
 <p><strong>Course Duration</strong>
 </p>
 </td>
@@ -137,7 +137,7 @@ and job requirements.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="width: 200px;" rowspan="1" colspan="1">
 <p><strong>Job Placement</strong>
 </p>
 </td>
