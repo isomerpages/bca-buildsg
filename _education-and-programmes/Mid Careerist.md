@@ -12,7 +12,7 @@ sector? Or perhaps you are looking to upskill your competencies? The Career
 Conversion Programme (CCP) or the SkillsFuture Career Transition Programme
 (SCTP) could be what you are looking for! Check out the table below for
 more details.</p>
-<table style="minWidth: 75px">
+<table style="width: 100%;">
 <colgroup>
 <col>
 <col>
