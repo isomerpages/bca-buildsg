@@ -9,9 +9,7 @@ third_nav_title: Students
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_ibuildsg.png">
 </div>
-<p>If you are a student and would like to find out more the built environment
-or the types of jobs that contribute towards our built environment, the
-iBuildSG Club is for you!</p>
+<h4>If you are a student and would like to find out more the built environment or the types of jobs that contribute towards our built environment, the iBuildSG Club is for you!</h4>
 <p>The iBuildSG Club is a built environment-themed interest club for pre-IHL
 students (Secondary, Junior College) and IHL students (ITE, Polytechnic,
 University). As a member, you will receive notifications on the club’s
