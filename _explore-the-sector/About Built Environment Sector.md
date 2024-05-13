@@ -21,7 +21,7 @@ of Singapore’s buildings and infrastructures, enhancing residents’ and
 communities &nbsp;enjoyment of our built spaces for work, live and play.&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sgbuid_01.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sgbuid_01.png">
 </div>
 <p>Through collective Building Singapore (BuildSG) efforts, the sector seeks
 to realise the liveable and sustainable Singapore of the future.</p>
