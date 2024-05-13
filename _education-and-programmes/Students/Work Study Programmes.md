@@ -18,8 +18,8 @@ also check out WSPs available.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 167px; height: 67px; text-align: left; display: inline;" height="67" width="164" alt="" src="/images/school_bca_academy.png">
 </div>
-<p><strong>BCA Academy</strong>
-</p>
+<strong>BCA Academy</strong>
+
 <ul data-tight="true" class="tight">
 <li>
 <p>Integrated Work-Study Diploma Programme (<a href="https://www.bcaa.edu.sg/what-we-offer/academic-programmes/diploma/diploma-list?CourseId=5278cb5c-59d0-4e81-9d49-866e7419fc20" rel="noopener noreferrer nofollow" target="_blank">Diploma in Digital and Sustainable Architecture</a>)</p>
@@ -35,8 +35,7 @@ also check out WSPs available.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite.png">
 </div>
-<p><strong>Institute of Technical Education</strong>
-</p>
+<strong>Institute of Technical Education</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p>Work-Study Diploma in <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-architectural-bim-design" rel="noopener noreferrer nofollow" target="_blank">Architectural Building Information Modelling (BIM) &amp; Design</a>
@@ -58,8 +57,7 @@ also check out WSPs available.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_nanyang_poly.jpg">
 </div>
-<p><strong>Nanyang Polytechnic</strong>
-</p>
+<strong>Nanyang Polytechnic</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.nyp.edu.sg/schools/sdm/lifelong-learning/specialist-diploma-in-smart-project-and-facilities-management.html" rel="noopener noreferrer nofollow" target="_blank">Smart Project and Facilities Management</a>)</p>
@@ -72,8 +70,7 @@ also check out WSPs available.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ngeean.jpg">
 </div>
-<p><strong>Ngee Ann Polytechnic</strong>
-</p>
+<strong>Ngee Ann Polytechnic</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.cet.np.edu.sg/courses/work-study-post-diploma-specialist-diploma-in-sustainable-facilities-management/" rel="noopener noreferrer nofollow" target="_blank">Sustainable Facilities Management</a>)</p>
@@ -83,8 +80,7 @@ also check out WSPs available.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_sg_poly.jpg">
 </div>
-<p><strong>Singapore Polytechnic</strong>
-</p>
+<strong>Singapore Polytechnic</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.sp.edu.sg/pace/courses/all-courses/course-details/work-study-post-diploma-(specialist-diploma-in-building-information-modelling-management)" rel="noopener noreferrer nofollow" target="_blank">Building Information Modelling Management</a>)</p>
