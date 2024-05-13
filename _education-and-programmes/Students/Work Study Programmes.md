@@ -1,7 +1,7 @@
 ---
 title: Work Study Programmes
 permalink: /work-study-programmes/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Students
 ---
@@ -15,12 +15,11 @@ knowledge acquired in school, through a work-study arrangement. In-service
 personnel seeking to further upgrade in their knowledge and training can
 also check out WSPs available.</p>
 <h4>Work Study Programmes</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 167px; height: 67px; text-align: left; display: inline;" height="67" width="164" alt="" src="/images/school_bca_academy.png">
 </div>
-<span><strong>BCA Academy</strong>
-</span>
+<p><strong>BCA Academy</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Integrated Work-Study Diploma Programme (Diploma in Digital and Sustainable
@@ -39,8 +38,8 @@ Facilities Management)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite.png">
 </div>
-<span><strong>Institute of Technical Education</strong>
-</span>
+<p><strong>Institute of Technical Education</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Work-Study Diploma in Architectural Building Information Modelling (BIM)
@@ -60,8 +59,8 @@ Supervision)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_nanyang_poly.jpg">
 </div>
-<span><strong>Nanyang Polytechnic</strong>
-</span>
+<p><strong>Nanyang Polytechnic</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Work-Study Post Diploma (Specialist Diploma in Smart Project and Facilities
@@ -75,8 +74,8 @@ Management)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ngeean.jpg">
 </div>
-<span><strong>Ngee Ann Polytechnic</strong>
-</span>
+<p><strong>Ngee Ann Polytechnic</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Work-Study Post Diploma (Specialist Diploma in Sustainable Facilities
@@ -87,8 +86,8 @@ Management)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_sg_poly.jpg">
 </div>
-<span><strong>Singapore Polytechnic</strong>
-</span>
+<p><strong>Singapore Polytechnic</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Work-Study Post Diploma (Specialist Diploma in Building Information Modelling
