@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_events_singapore_green.jpg">
 </div>
-<h4>Date and Time </h4>
+<h4>Date and Time</h4>
 <p>Thursday, 16th May 2024
 <br>7 - 8pm
 <br>Location</p>
