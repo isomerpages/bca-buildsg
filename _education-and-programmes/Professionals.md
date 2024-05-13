@@ -11,7 +11,17 @@ description: ""
 adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
 aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 nisi ut aliquip ex ea commodo consequat.&nbsp;</p>
-<h4>Continuing Education and Training (CET)</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="#professional-cet" rel="noopener noreferrer nofollow" target="_blank">Continuing Education and Training (CET)</a>
+</p>
+</li>
+<li>
+<p><a href="https://safe.menlosecurity.com/https:/www.ite.edu.sg/courses/part-time-courses/higher-nitec" rel="noopener noreferrer nofollow" target="_blank">Institute of Technical Education</a>
+</p>
+</li>
+</ul>
+<h4 id="professional-cet">Continuing Education and Training (CET)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_cet.jpg">
