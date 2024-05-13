@@ -1,7 +1,7 @@
 ---
 title: Full Time Courses
 permalink: /full-time-courses/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Students
 ---
@@ -14,7 +14,7 @@ course? Check out the list of courses and work-study programmes from local
 Institutions of Higher Learning below.</p>
 <h4>Full-time University Courses</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 180px; height: 80px;text-align: left;" height="80" alt="width=" src="/images/full_time_ntu.jpg">
+<img style="width: 180px; height: 80px;text-align: left;" height="80" width="100%" alt="width=" src="/images/full_time_ntu.jpg">
 </div>
 <p><strong>Nanyang Technological University</strong>
 </p>
