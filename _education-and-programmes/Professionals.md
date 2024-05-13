@@ -4,7 +4,7 @@ permalink: /professionals/
 variant: markdown
 description: ""
 ---
-<div class="isomer-image-wrapper">
+<div id="professional-top" class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_professionals.jpg">
 </div>
 <p>Introduction to In-service Personnel lorem ipsum dolor sit amet, consectetur
@@ -13,11 +13,11 @@ aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 nisi ut aliquip ex ea commodo consequat.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="#professional-cet" rel="noopener noreferrer nofollow" target="_blank">Continuing Education and Training (CET)</a>
+<p><a href="#professional-cet" rel="noopener noreferrer nofollow" target="_self">Continuing Education and Training (CET)</a>
 </p>
 </li>
 <li>
-<p><a href="https://safe.menlosecurity.com/https:/www.ite.edu.sg/courses/part-time-courses/higher-nitec" rel="noopener noreferrer nofollow" target="_blank">Institute of Technical Education</a>
+<p><a href="#professional-accredit" rel="noopener noreferrer nofollow" target="_self">Institute of Technical Education</a>
 </p>
 </li>
 </ul>
@@ -98,8 +98,9 @@ training providers today!</p>
 </p>
 </li>
 </ul>
+<p><a href="#professional-top" rel="noopener noreferrer nofollow" target="_self">Back to Top</a></p>
 <hr>
-<h4>Accreditation Programmes</h4>
+<h4 id="professional-accredit">Accreditation Programmes</h4>
 <p>You have amassed knowledge and skills in the sector but wondering what’s
 next in your career? You may consider the accreditation schemes for built
 environment<s>BE</s> professionals ranging across various expertise areas.</p>
@@ -187,4 +188,5 @@ for vertical/lateral career trajectories. For more information, click
 </tr>
 </tbody>
 </table>
+<p><a href="#professional-top" rel="noopener noreferrer nofollow" target="_self">Back to Top</a></p>
 <p></p>
