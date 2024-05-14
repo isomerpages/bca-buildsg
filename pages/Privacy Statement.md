@@ -4,14 +4,15 @@ permalink: /privacy/
 variant: markdown
 description: ""
 ---
-<ol data-tight="true" class="tight">
+<ol id="privacy-top" data-tight="true" class="tight">
 <li>
 <p>This is a Government Agency website.</p>
 </li>
 <li>
 <p>If you provide us with any personally identifiable data during the course
 of using our websites,</p>
-<ul>
+</li>
+	<ul style="list-style-type: lower-alpha">
 <li>
 <p>We will use your data in furtherance of the purpose for which you provided
 the data.</p>
@@ -30,9 +31,7 @@ services.</p>
 us or other Government Agencies. This will speed up the transaction and
 save you the trouble of repeating previous submissions. Should the data
 be out-of-date, please supply us the latest data.</p>
-</li>
-</ul>
-</li>
+		</li></ul>
 <li>
 <p>We may use "cookies," where a small data file is sent to your browser
 to track your session when you enter our websites. The cookies will be
@@ -57,16 +56,14 @@ you to consult the privacy notices of those sites.</p>
 </li>
 <li>
 <p>Please submit via <a href="#" rel="noopener noreferrer nofollow" target="_self">feedback form</a> if you:</p>
-<ul>
+</li>
+		<ul style="list-style-type: lower-alpha">
 <li>
 <p>have any inquiries or feedback on our data protection policies and procedures</p>
 </li>
 <li>
 <p>need more information on or access to data which you have provided to
-us in the past</p>
-</li>
-</ul>
-</li>
+	us in the past</p></li></ul>
 <li>
 <p>By clicking on the “Submit New Application” button, you agree that you
 have read, understood, and consent to the Privacy Statement set out here.</p>
