@@ -4,7 +4,7 @@ permalink: /terms-of-use/
 variant: markdown
 description: ""
 ---
-<p>Thank you for visiting BCA Web Site. By accessing and using this Web Site,
+<p id="tou-top">Thank you for visiting BCA Web Site. By accessing and using this Web Site,
 you shall be deemed to have accepted to be legally bound by these Terms
 of Use. If you do not agree to these Terms of Use, please do not use this
 Web Site.</p>
@@ -71,6 +71,7 @@ permission of BCA.</p>
 warranties of any kind. To the fullest extent permitted by law, BCA does
 not warrant and hereby disclaims any warranty:</p>
 </li>
+	<ul>
 <li>
 <p>as to the accuracy, correctness, reliability, timeliness, non-infringement,
 title, merchantability or fitness for any particular purpose of the Contents
@@ -81,7 +82,8 @@ of this Web Site</p>
 therewith will be uninterrupted or error-free, or that defects will be
 corrected or that this Web Site and the server is and will be free of all
 viruses and/or other harmful elements.</p>
-</li>
+	</li></ul>
+
 <li>
 <p>BCA shall also not be liable for any damage or loss of any kind caused
 as a result (direct or indirect) of the use of the Web Site, including
@@ -162,4 +164,5 @@ reached by links to or from this Web Site or any of the Contents.</p>
 laws of the Republic of Singapore.</p>
 </li>
 </ul>
-<p></p>
+<p><a href="#tou-top" rel="noopener noreferrer nofollow" target="_self">Back to Top</a>
+</p>
