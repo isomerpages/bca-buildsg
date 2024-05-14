@@ -22,7 +22,7 @@ sections:
           url: /a-world-of-diversity/
       variant: image
   - infobar:
-      title: Introduction to the Build Environment (BE)
+      title: Introduction to the Built Environment (BE)
       description: Singapore's Built Environment sector shapes the urban landscape,
         crucial in designing, constructing, and managing facilities, supporting
         national development.
