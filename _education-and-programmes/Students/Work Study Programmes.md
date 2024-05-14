@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Students
 ---
 <p></p>
-<div class="isomer-image-wrapper">
+<div id="study-top" class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_1.jpg">
 </div>
 <p>Work-Study Programmes (WSPs) are designed to offer students (typically
