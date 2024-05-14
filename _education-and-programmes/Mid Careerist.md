@@ -103,7 +103,7 @@ in their 40s and 50s to help them remain employable and access good jobs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Train-and-Place</strong> where training providers will provide
+<p style="padding-top: 10px;"><strong>Train-and-Place</strong> where training providers will provide
 career advisory and assistance as part of the training to help trainees
 in their job search.</p>
 </td>
