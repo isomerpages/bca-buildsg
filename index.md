@@ -23,9 +23,8 @@ sections:
       variant: image
   - infobar:
       title: Introduction to the Built Environment (BE)
-      description: Singapore's Built Environment sector shapes the urban landscape,
-        crucial in designing, constructing, and managing facilities, supporting
-        national development.
+      description: Singapore's BE sector shapes urban landscape, vital for
+        development, through designing, constructing, and managing facilities.
   - infopic:
       title: Discover the Journey
       subtitle: About the BE Sector
