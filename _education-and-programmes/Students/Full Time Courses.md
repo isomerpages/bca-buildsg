@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Students
 ---
 <p></p>
-<div class="isomer-image-wrapper">
+<div id="uni-top" class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_1.jpg">
 </div>
 <p>Looking to further your studies and take up a built environment related
@@ -26,7 +26,7 @@ Institutions of Higher Learning below.</p>
 </p>
 </li>
 </ul>
-<h4>Full-time University Courses</h4>
+<h4 id="full-time-uni">Full-time University Courses</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ntu.jpg">
 </div>
@@ -99,7 +99,7 @@ Institutions of Higher Learning below.</p>
 <p><a href="#uni-top" rel="noopener noreferrer nofollow" target="_self">Back to Top</a>
 </p>
 <hr>
-<h4>Full-time Polytechnic Courses</h4>
+<h4 id="full-time-poly">Full-time Polytechnic Courses</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_nanyang_poly.jpg">
@@ -210,7 +210,7 @@ Institutions of Higher Learning below.</p>
 <p><a href="#uni-top" rel="noopener noreferrer nofollow" target="_self">Back to Top</a>
 </p>
 <hr>
-<h4>Full-time ITE courses</h4>
+<h4 id="full-time-ite">Full-time ITE courses</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite_central.jpg">
