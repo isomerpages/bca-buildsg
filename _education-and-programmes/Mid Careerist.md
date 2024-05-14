@@ -36,7 +36,7 @@ more details.</p>
 </tr>
 <tr>
 <td style="width: 200px;" rowspan="1" colspan="1">
-<p><strong>Who is it for?</strong>
+<p style="padding-top: 0px;"><strong>Who is it for?</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -48,7 +48,7 @@ in their 40s and 50s to help them remain employable and access good jobs.</p>
 </tr>
 <tr style="background-color: #F1F4F6;">
 <td style="width: 200px;" rowspan="1" colspan="1">
-<p><strong>List of courses</strong>
+<p style="padding-top: 10px;"><strong>List of courses</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,7 +99,7 @@ in their 40s and 50s to help them remain employable and access good jobs.</p>
 </tr>
 <tr>
 <td style="width: 200px;" rowspan="1" colspan="1">
-<p><strong>Modality and Details</strong>
+<p style="padding-top: 10px;"><strong>Modality and Details</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
