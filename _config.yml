@@ -53,7 +53,7 @@ staging: https://staging.d3eljxtcg00dga.amplifyapp.com
 prod: https://master.d3eljxtcg00dga.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
 resources_name: events-resources
