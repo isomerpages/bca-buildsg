@@ -7,7 +7,7 @@ third_nav_title: Articles
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/roles_production_manager.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/andy_kong.png">
 </div>
 <p>“Have the resolve to step out of your comfort zone.”</p>
 <p>This was Mr. Andy Kong’s advice for individuals looking to make a mid-career
