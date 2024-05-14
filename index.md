@@ -29,8 +29,8 @@ sections:
       title: Discover the Journey
       subtitle: About the BE Sector
       id: infopic
-      description: From skyscrapers to green spaces, it reflects Singapore's
-        dedication to creating a dynamic and sustainable urban landscape.
+      description: "From skyscrapers to green spaces, the sector  reflects Singapore’s
+        dedication to creating a liveable and sustainable urban landscape. "
       button: LEARN MORE
       alt: Discover the Journey
       url: /about-built-environment-sector/
@@ -39,8 +39,8 @@ sections:
       title: Shape Singapore's Built Environment
       subtitle: why join us
       id: infopic
-      description: Discover a multitude of career opportunities within Singapore's
-        Built Environment sector, shaping the nation's landscape sustainably.
+      description: "Discover a multitude of career roles, providing the
+        opportunity  to shape our nation’s urban landscape "
       button: LEARN MORE
       alt: A Diverse Career Paths
       url: /meaningful-and-fulfilling-careers/
