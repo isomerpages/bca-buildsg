@@ -10,11 +10,8 @@ locations:
       - Singapore 608550
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
+        time: 8.30am - 5.00pm
+        description: Closed on Weekends and Public Holidays
     maps_link: https://maps.app.goo.gl/bLa6KtsZZo6NhqQ29
     title: Address
 contacts:
