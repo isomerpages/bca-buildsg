@@ -9,7 +9,7 @@ notification: Please beware of phishing or scam attempts. BCA will neer ask or
   phone messages.
 sections:
   - hero:
-      background: /images/masthead_test_home.jpg
+      background: /images/home_masthead_v2.jpg
       key_highlights:
         - title: Sectoral outlook
           description: Landscape Insights & Trends
@@ -29,8 +29,8 @@ sections:
       title: Discover the Journey
       subtitle: About the BE Sector
       id: infopic
-      description: "From skyscrapers to green spaces, the sector  reflects Singapore’s
-        dedication to creating a liveable and sustainable urban landscape. "
+      description: From skyscrapers to green spaces, the sector  reflects Singapore’s
+        dedication to creating a liveable and sustainable urban landscape.
       button: LEARN MORE
       alt: Discover the Journey
       url: /about-built-environment-sector/
@@ -39,8 +39,8 @@ sections:
       title: Shape Singapore's Built Environment
       subtitle: why join us
       id: infopic
-      description: "Discover a multitude of career roles, providing the
-        opportunity  to shape our nation’s urban landscape "
+      description: Discover a multitude of career roles, providing the opportunity  to
+        shape our nation’s urban landscape
       button: LEARN MORE
       alt: A Diverse Career Paths
       url: /meaningful-and-fulfilling-careers/
