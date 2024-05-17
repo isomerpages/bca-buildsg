@@ -97,8 +97,4 @@ sections:
             accumsan elit egestas pellentesque...
           link_text: Read more
           link_url: /events-3/
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
 ---
