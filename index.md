@@ -9,7 +9,7 @@ notification: Please beware of phishing or scam attempts. BCA will neer ask or
   phone messages.
 sections:
   - hero:
-      background: /images/home_masthead_v2.jpg
+      background: /images/home_masthead_v3.jpg
       key_highlights:
         - title: Sectoral outlook
           description: Landscape Insights & Trends
