@@ -34,7 +34,7 @@ sections:
       button: LEARN MORE
       alt: Discover the Journey
       url: /about-built-environment-sector/
-      image: /images/Image.jpg
+      image: /images/shaping_landscape.png
   - infopic:
       title: Shape Singapore's Built Environment
       subtitle: why join us
