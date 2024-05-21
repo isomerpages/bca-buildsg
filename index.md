@@ -15,10 +15,10 @@ sections:
           description: Landscape Insights & Trends
           url: /sectoral-outlook/
         - title: our stories
-          description: Inspiring Stories for You
+          description: Be inspired by their journey
           url: /crafting-concrete-dreams-in-civil-engineering/
         - title: diverse opportunities
-          description: Rewarding careers awaits!
+          description: Find your role
           url: /a-world-of-diversity/
       variant: image
   - infopic:
