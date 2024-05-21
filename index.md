@@ -11,7 +11,7 @@ sections:
   - hero:
       background: /images/home_masthead_v3.jpg
       key_highlights:
-        - title: Sectoral outlook
+        - title: About Us
           description: Landscape Insights & Trends
           url: /sectoral-outlook/
         - title: our stories
