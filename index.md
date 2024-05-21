@@ -22,7 +22,7 @@ sections:
           url: /a-world-of-diversity/
       variant: image
   - infopic:
-      title: Shaping Our Landscape
+      title: Shaping our Landscape
       subtitle: THE BUILT ENVIRONMENT JOURNEY
       id: infopic
       description: From skyscrapers to green spaces, find out how the sector
