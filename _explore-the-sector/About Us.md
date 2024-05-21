@@ -8,62 +8,66 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_sectoral_outlook.png">
 </div>
-<p>Singapore’s built environment epitomizes innovation and sustainability,
-shaping the city state’s urban landscape with a focus on smart technologies,
-green building practices and digitalization.</p>
+<h3>Transformation of the Built Environment (BE) Sector</h3>
+<p>As we shape Singapore’s landscape, we also ensure that we are building
+a sustainable and innovative future by focusing on digitalisation, green
+building practices, and smart technologies.</p>
 <h3>Going Digital</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_going_digital.png">
 </div>
-<p>The sector is undergoing rapid digital transformation, leveraging technologies
-such as Building Information Modelling, Internet of Things and artificial
-intelligence to revolutionize every stage of the construction lifecycle,
-enabling greater efficiency, collaboration, and innovation.</p>
-<p></p>
-<p>Many parties&nbsp; are involved in the design, construction, and maintenance
-of any building or infrastructure. For efficiency, building projects can
-now visualise and simulate in virtual environments before construction
-begins, while IoT sensors collect real-time data on building performance
-and occupancy.</p>
-<p></p>
-<p>Prefabrication and modular constructions are enhanced through advanced
-robotics and 3D printing, improving quality and reducing constructing time.</p>
+<p>Our sector is undergoing rapid digital transformation to enable greater
+efficiency, collaboration and innovations. Besides collaborative contracting,
+which ensures upfront alignment of projects incentives between key stakeholders,
+our partners have leveraged on technologies such as Building Information
+Modelling (BIM), Internet of Things (IoT) and artificial intelligence (AI)
+to revolutionise every stage of the construction lifecycle.</p>
+<p>From the design stage, the CORENET X platform provides a common data environment
+facilitating collaboration across the sector. Visualising virtual environments,
+using IoT sensors to collect real-time data and capitalising on advanced
+robotics and automation are other examples of steps taken to improve quality
+and reduce construction time.</p>
 <p></p>
 <h3>Going Green</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_going_green.png">
 </div>
-<p>Through the Singapore Green Building Masterplan, the sector sets to realise
-the 80-80-80 goal;</p>
-<p></p>
+<p>Through the Singapore Green Building Masterplan, the sector aims to realise
+these 80-80-80 goals:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Greening 80% of the gross floor area (GFA) in Singapore’s buildings</p>
 </li>
 <li>
-<p>80% of new developments to be Super Low Energy (SLE) buildings</p>
+<p>Making sure 80% of new developments are Super Low Energy (SLE) buildings</p>
 </li>
 <li>
 <p>Best-in-class green buildings to achieve 80% improvement in energy efficiency</p>
 </li>
 </ul>
-<p></p>
-<p>Taking an environment-first approach, there is great emphasis on the carbon
-footprint of our work, which led to the emergence of greener materials
-and technologies.</p>
-<p></p>
-<p>The sector constantly looks at ways to further reduce our carbon footprint,
-and this presents opportunities to innovate and build more sustainably,
-creating a better future for Singapore, and for the world.</p>
+<p>With the environment always coming first, great emphasis is placed on
+reducing carbon footprint with every build. This has led to the emergence
+of greener materials and technologies that will build a better future for
+Singapore and for the world.</p>
 <p></p>
 <h3>Adopting Smart Technology</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_smart_technology.png">
 </div>
-<p>Smart technology optimize operations. The sector&nbsp; adopts building
-automation and energy management systems&nbsp; and various cutting-edge
-advancements,&nbsp; to enhance the management of a building’s facilities.
-Tools like artificial intliigence allow for the monitoring of building
-systems on a single platform, which also translates to benefits for our
-end users.&nbsp;</p>
+<p>Smart technology optimises operations. In addition to designing buildings
+with maintainability as a key consideration, the sector is aggregating
+facility management capabilities across buildings, in areas of:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Building automation</p>
+</li>
+<li>
+<p>Energy management systems</p>
+</li>
+<li>
+<p>Various cutting-edge advancements</p>
+</li>
+</ul>
+<p>Artificial intelligence tools also allow for the integration of building
+systems on a single platform which benefits the residents.</p>
 <p>&nbsp;</p>
