@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: About Us
           description: Landscape Insights & Trends
-          url: /sectoral-outlook/
+          url: /about-us/
         - title: our stories
           description: Be inspired by their journey
           url: /crafting-concrete-dreams-in-civil-engineering/
