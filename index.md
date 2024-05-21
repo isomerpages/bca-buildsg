@@ -21,10 +21,6 @@ sections:
           description: Rewarding careers awaits!
           url: /a-world-of-diversity/
       variant: image
-  - infobar:
-      title: Introduction to the Built Environment (BE)
-      description: Singapore's BE sector shapes urban landscape, vital for
-        development, through designing, constructing, and managing facilities.
   - infopic:
       title: Discover the Journey
       subtitle: About the BE Sector
