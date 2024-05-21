@@ -22,11 +22,11 @@ which ensures upfront alignment of projects incentives between key stakeholders,
 our partners have leveraged on technologies such as Building Information
 Modelling (BIM), Internet of Things (IoT) and artificial intelligence (AI)
 to revolutionise every stage of the construction lifecycle.</p>
-<p>From the design stage, the CORENET X platform provides a common data environment
-facilitating collaboration across the sector. Visualising virtual environments,
-using IoT sensors to collect real-time data and capitalising on advanced
-robotics and automation are other examples of steps taken to improve quality
-and reduce construction time.</p>
+<p>From the design stage, developers, contractors and regulatory authorities
+steps are taken to optimise efficiency using the <a href="https://www1.bca.gov.sg/regulatory-info/building-control/corenet-x" rel="noopener noreferrer nofollow" target="_blank">CORENET X</a> platform.
+Visualising virtual environments, using IoT sensors to collect real-time
+data and capitalising on advanced robotics and automation are other examples
+of steps taken to improve quality and reduce construction time.</p>
 <p></p>
 <h3>Going Green</h3>
 <div class="isomer-image-wrapper">
