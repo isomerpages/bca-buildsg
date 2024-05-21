@@ -22,31 +22,32 @@ sections:
           url: /a-world-of-diversity/
       variant: image
   - infopic:
-      title: Discover the Journey
-      subtitle: About the BE Sector
+      title: Shaping Our Landscape
+      subtitle: THE BUILT ENVIRONMENT JOURNEY
       id: infopic
-      description: From skyscrapers to green spaces, the sector  reflects Singapore’s
-        dedication to creating a liveable and sustainable urban landscape.
+      description: From skyscrapers to green spaces, find out how the sector
+        transformed Singapore into a liveable and sustainable urban landscape.
       button: LEARN MORE
       alt: Discover the Journey
       url: /about-built-environment-sector/
       image: /images/shaping_landscape.png
   - infopic:
-      title: Shape Singapore's Built Environment
+      title: Turn Your Vision into Our Landscape
       subtitle: why join us
       id: infopic
-      description: Discover a multitude of career roles, providing the opportunity  to
-        shape our nation’s urban landscape
+      description: |-
+        How would you shape Singapore’s landscape?
+        Unlock career opportunities to turn your vision into reality.
       button: LEARN MORE
       alt: A Diverse Career Paths
       url: /meaningful-and-fulfilling-careers/
       image: /images/Image_2.jpg
   - infopic:
-      title: Pathways to Progress
+      title: The Building Blocks of Progress
       subtitle: EDUCATION & PROGRAMMES
       id: infopic
-      description: Embark on your journey of growth and advancement with our curated
-        selection of education and programmes.
+      description: Develop the right skillsets with our curated selection of education
+        and programmes.
       button: Learn more
       alt: Image alt text
       url: /full-time-courses/
@@ -55,8 +56,8 @@ sections:
       title: Stories & Insights
       subtitle: Our stories
       id: infopic
-      description: Curious to know more? Hear what motivates built environment
-        professionals and what we do in shaping Singapore's urban landscape.
+      description: "Curious to know more? Hear the motivation, the passion and the
+        journeys of our people.  "
       button: Learn more
       url: /crafting-concrete-dreams-in-civil-engineering/
       alt: Image alt text
