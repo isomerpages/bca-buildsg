@@ -8,21 +8,23 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/about_be_top_header.jpg">
 </div>
-<p>The built environment of Singapore is a captivating tapestry of architectural
-creativity and sustainable developments. From towering skyscrapers to meticulously
-planned residential areas and green spaces, the sector embodies Singapore’s
-commitment to creating a vibrant, liveable, and sustainable urban environment.&nbsp;</p>
+<p><strong>VIBRANT, LIVEABLE AND SUSTAINABLE.</strong>
+<br>These are the guiding principles of the Built Environment (BE) sector
+when it comes to building and shaping Singapore’s urban landscapes. The
+sector brings together the best and most creative minds to design, build
+and upkeep Singapore’s buildings and infrastructures.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/about_be_mid_image.png">
 </div>
-<p>BE employees dedicate their time and craft to design, build and upkeep
-of Singapore’s buildings and infrastructures, enhancing residents’ and
-communities &nbsp;enjoyment of our built spaces for work, live and play.&nbsp;&nbsp;</p>
+<p>From towering skyscrapers to meticulously planned residential areas and
+green spaces, the BE sector is dedicated to design, plan and build spaces
+that residents and communities can work, live and play in.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sgbuid_01.png">
 </div>
-<p>Through collective Building Singapore (BuildSG) efforts, the sector seeks
-to realise the liveable and sustainable Singapore of the future.</p>
+<p>Through Building Singapore (BuildSG) collectively as a sector, the Building
+and Construction Authority together with our partners, seek to build a
+more comfortable and sustainable future for Singapore.</p>
 <p></p>
