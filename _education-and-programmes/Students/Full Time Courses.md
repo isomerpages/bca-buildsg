@@ -87,12 +87,11 @@ Institutions of Higher Learning below.</p>
 <div><strong>Singapore University of Technology and Design</strong></div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Engineering: <a href="https://cde.nus.edu.sg/ece/undergraduate/what-is-ece/" rel="noopener noreferrer nofollow" target="_blank">Electrical</a>,
-<a href="https://cde.nus.edu.sg/cee/undergraduate/beng-env/" rel="noopener noreferrer nofollow" target="_blank">Environmental</a>, <a href="https://cde.nus.edu.sg/me/undergraduate/beng-me/overview/" rel="noopener noreferrer nofollow" target="_blank">Mechanical</a>
+<p>Bachelor of Science: <a href="https://cde.nus.edu.sg/ece/undergraduate/what-is-ece/" rel="noopener noreferrer nofollow" target="_blank">Architecture and Sustainable Design</a>
 </p>
 </li>
 <li>
-<p>Bachelor of <a href="https://cde.nus.edu.sg/arch/programmes/bachelor-of-landscape-architecture/" rel="noopener noreferrer nofollow" target="_blank">Landscape Architecture</a>
+<p>Master of <a href="https://cde.nus.edu.sg/arch/programmes/bachelor-of-landscape-architecture/" rel="noopener noreferrer nofollow" target="_blank">Architecture</a>
 </p>
 </li>
 </ul>
@@ -243,7 +242,7 @@ Institutions of Higher Learning below.</p>
 <p>NITEC in Technology - Built Environment (<a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-technology-built-environment-(mechanical-electrical-services)" rel="noopener noreferrer nofollow" target="_blank">Mechanical &amp; Electrical Services</a>)</p>
 </li>
 <li>
-<p>NITEC in Built Environment (<a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-built-environment-vertical-transportation" rel="noopener noreferrer nofollow" target="_blank">Vertical Transportation</a>)</p>
+<p>NITEC in <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-built-environment-vertical-transportation" rel="noopener noreferrer nofollow" target="_blank">Built Environment (Vertical Transportation</a>)</p>
 </li>
 <li>
 <p>Higher NITEC in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-civil-and-structural-engineering-design" rel="noopener noreferrer nofollow" target="_blank">Civil &amp; Structural Engineering Design</a>
