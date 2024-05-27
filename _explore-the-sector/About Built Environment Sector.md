@@ -24,7 +24,6 @@ that residents and communities can work, live and play in.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sgbuid_01.png">
 </div>
-<p>Through Building Singapore (BuildSG) collectively as a sector, the Building
-and Construction Authority together with our partners, seek to build a
-more comfortable and sustainable future for Singapore.</p>
+<p>Through Building Singapore (BuildSG) collectively as a sector,our goal
+is to build a more comfortable and sustainable future for Singapore.</p>
 <p></p>
