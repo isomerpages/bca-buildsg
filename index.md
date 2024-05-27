@@ -30,7 +30,7 @@ sections:
       button: LEARN MORE
       alt: Discover the Journey
       url: /about-built-environment-sector/
-      image: /images/shaping_landscape.png
+      image: /images/card_discover_the_journey.jpg
   - infopic:
       title: Turn Your Vision into Our Landscape
       subtitle: why join us
