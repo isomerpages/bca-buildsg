@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Sectoral Outlook
           description: Insights and trends shaping
-          url: /about-us/
+          url: /sectoral-outlook/
         - title: our stories
           description: Be inspired by their journey
           url: /crafting-concrete-dreams-in-civil-engineering/
