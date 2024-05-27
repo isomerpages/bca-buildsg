@@ -8,6 +8,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_sectoral_outlook.png">
 </div>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_sectoral_outlook_01.png">
+</div>
 <h3>Transformation of the Built Environment (BE) Sector</h3>
 <p>As we shape Singapore’s landscape, we also ensure that we are building
 a sustainable and innovative future by focusing on smart technologies,
