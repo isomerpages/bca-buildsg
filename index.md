@@ -30,7 +30,7 @@ sections:
       button: LEARN MORE
       alt: Discover the Journey
       url: /about-built-environment-sector/
-      image: /images/card_discover_the_journey.jpg
+      image: /images/card_discover_the_journey.png
   - infopic:
       title: Turn Your Vision into Our Landscape
       subtitle: why join us
@@ -41,7 +41,7 @@ sections:
       button: LEARN MORE
       alt: A Diverse Career Paths
       url: /meaningful-and-fulfilling-careers/
-      image: /images/card_why_join_us.jpg
+      image: /images/card_why_join_us.png
   - infopic:
       title: The Building Blocks of Progress
       subtitle: EDUCATION & PROGRAMMES
@@ -51,7 +51,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /full-time-courses/
-      image: /images/card_education_programmes.jpg
+      image: /images/card_education_programmes.png
   - infopic:
       title: Stories & Insights
       subtitle: Our stories
@@ -61,5 +61,5 @@ sections:
       button: Learn more
       url: /crafting-concrete-dreams-in-civil-engineering/
       alt: Image alt text
-      image: /images/card_our_stories.jpg
+      image: /images/card_our_stories.png
 ---
