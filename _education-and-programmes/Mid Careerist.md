@@ -66,30 +66,29 @@ in their 40s and 50s to help them remain employable and access good jobs.</p>
 <p>Building Cost Management*</p>
 </li>
 <li>
-<p>Integrated Project Management and Delivery (Built Environment)*</p>
+<p>Integrated Project Management and Delivery (Built Environment)*<br><em>*Commencing soon</em></p>
 <p></p>
 </li>
 </ul>
-<p><em>*Commencing soon</em> 
-<br><em>Visit here for more details on these courses.</em>
-</p>
+<p> 
+	<br>Visit <a target="_blank" href="#">here</a> for more details on these courses.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>CCP for BIM Professionals</p>
+<p><a target="_blank" href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00000167">CCP for BIM Professionals</a></p>
 </li>
 <li>
-<p>CCP for Construction Management Professionals</p>
+<p><a target="_blank" href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00002555">CCP for Construction Management Professionals</a></p>
 </li>
 <li>
-<p>CCP for Facilities Specialists</p>
+<p><a target="_blank" href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00000825">CCP for Facilities Specialists</a></p>
 </li>
 <li>
-<p>CCP for Resident Technical Officers</p>
+<p><a target="_blank" href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00002188">CCP for Resident Technical Officers</a></p>
 </li>
 <li>
-<p>CCP for Sustainability Professionals (Built Environment)</p>
+	<p><a target="_blank" href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00002190">CCP for Sustainability Professionals (Built Environment)</a></p>
 </li>
 </ul>
 </td>
