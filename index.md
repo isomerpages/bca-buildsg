@@ -41,7 +41,7 @@ sections:
       button: LEARN MORE
       alt: A Diverse Career Paths
       url: /meaningful-and-fulfilling-careers/
-      image: /images/Image_2.jpg
+      image: /images/card_why_join_us.jpg
   - infopic:
       title: The Building Blocks of Progress
       subtitle: EDUCATION & PROGRAMMES
@@ -51,7 +51,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /full-time-courses/
-      image: /images/Image_1.jpg
+      image: /images/card_education_programmes.jpg
   - infopic:
       title: Stories & Insights
       subtitle: Our stories
@@ -61,5 +61,5 @@ sections:
       button: Learn more
       url: /crafting-concrete-dreams-in-civil-engineering/
       alt: Image alt text
-      image: /images/Image_3.jpg
+      image: /images/card_our_stories.jpg
 ---
