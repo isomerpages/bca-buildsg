@@ -7,7 +7,7 @@ third_nav_title: Students
 ---
 <p></p>
 <div id="uni-top" class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead-students.png">
 </div>
 <p>Looking to further your studies and take up a built environment related
 course? Check out the list of courses and work-study programmes from local
