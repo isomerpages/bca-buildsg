@@ -66,7 +66,7 @@ in their 40s and 50s to help them remain employable and access good jobs.</p>
 <p>Building Cost Management*</p>
 </li>
 <li>
-<p>Integrated Project Management and Delivery (Built Environment)*<br><em>*Commencing soon</em></p>
+<p>Integrated Project Management and Delivery (Built Environment)*<br><em><span style="color: #E61433">*Commencing soon</span></em></p>
 <p></p>
 </li>
 </ul>
