@@ -11,11 +11,12 @@ third_nav_title: Diverse Opportunities
 <ul data-tight="true" class="tight">
 <li>
 <p>Design structural, mechanical and electrical elements of buildings to
-ensure they are safe and durable for occupation, and meet evolving infrastructure
-needs</p>
+ensure that they are safe and durable for occupation, and meet evolving
+infrastructure needs</p>
 </li>
 <li>
-<p>Ensure works are carried out according to design plans during construction</p>
+<p>Ensure works are carried out according to design plans during the construction
+phase</p>
 </li>
 </ul>
 <h4>Do you know?</h4>
