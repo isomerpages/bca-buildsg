@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div id="professional-top" class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_professionals.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_professionals.png">
 </div>
 <p>Introduction to In-service Personnel lorem ipsum dolor sit amet, consectetur
 adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
