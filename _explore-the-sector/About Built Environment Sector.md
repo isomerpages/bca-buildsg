@@ -28,3 +28,4 @@ that residents and communities can work, live and play in.</p>
 <p>Through Building Singapore (BuildSG) collectively as a sector,our goal
 is to build a more comfortable and sustainable future for Singapore.</p>
 <p></p>
+<p></p>
