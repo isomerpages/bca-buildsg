@@ -11,8 +11,8 @@ sections:
   - hero:
       background: /images/home_masthead_v3.jpg
       key_highlights:
-        - title: About Us
-          description: Landscape Insights & Trends
+        - title: Sectoral Outlook
+          description: Insights and trends shaping
           url: /about-us/
         - title: our stories
           description: Be inspired by their journey
