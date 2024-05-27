@@ -17,6 +17,10 @@ and upkeep Singapore’s buildings and infrastructures.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/about_be_mid_image.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sectoral_outlook_03.png">
+</div>
 <p>From towering skyscrapers to meticulously planned residential areas and
 green spaces, the BE sector is dedicated to design, plan and build spaces
 that residents and communities can work, live and play in.</p>
