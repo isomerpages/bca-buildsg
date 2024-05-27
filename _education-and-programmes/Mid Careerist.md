@@ -7,11 +7,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_mid_careerists.png">
 </div>
-<p>Are you a working professional looking to pivot to the built environment
-sector? Or perhaps you are looking to upskill your competencies? The Career
-Conversion Programme (CCP) or the SkillsFuture Career Transition Programme
-(SCTP) could be what you are looking for! Check out the table below for
-more details.</p>
+<p>Are you a working professional looking to pivot to the built environment sector? Or perhaps you are looking to upskill your competencies? The Career Conversion Programme (CCP) or the SkillsFuture Career Transition Programme (SCTP) could be what you are looking for!  <br>
+Check out the table below for more details.</p>
 <table style="width: 100%;">
 <colgroup>
 <col>
