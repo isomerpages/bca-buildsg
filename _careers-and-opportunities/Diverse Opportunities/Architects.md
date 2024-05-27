@@ -11,12 +11,12 @@ third_nav_title: Diverse Opportunities
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Design buildings that endure across time, anchor our national identity
+<p>Design buildings that endures across time, anchor our national identity
 and shape our urban landscape</p>
 </li>
 <li>
 <p>Work closely with stakeholders (e.g. developers, authorities) to ensure
-building design meets the project objectives and regulatory requirements</p>
+that building design meets the project objectives and regulatory requirements</p>
 </li>
 </ul>
 <p></p>
@@ -27,8 +27,9 @@ building design meets the project objectives and regulatory requirements</p>
 software</p>
 </li>
 <li>
-<p>Generative artificial intelligence (AI) is increasingly used to render
-draft sketches from user inputs, with refinements supplemented by the architect</p>
+<p>Generative artificial intelligence (AI) is also increasingly used to render
+draft sketches from user inputs, with subsequent refinements and details
+supplemented by the architect</p>
 </li>
 </ul>
 <p>To learn more about the key work tasks and skills required, check out
