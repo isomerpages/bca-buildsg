@@ -15,5 +15,6 @@ scholarship for Singapore Citizens who are keen to work in leading organisations
 in Singapore’s Built Environment (BE) sector.</p>
 <p>Check out the SGIS Scholarship video <a href="#" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Check out the list of participating <a href="https://www.moe.gov.sg/sgis/sponsoring-organisations/industries/built-environment" rel="noopener noreferrer nofollow" target="_blank">Built Environment Sponsoring Organisations</a>!</p>
-<p>Applications open from January to March annually. Click <a href="https://www.moe.gov.sg/sgis/application/how-to-apply" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+<p>Applications open from January to March annually. You may apply to up
+to five preferred Sponsoring Organisations. Click <a href="https://www.moe.gov.sg/sgis/application/how-to-apply" rel="noopener noreferrer nofollow" target="_blank">here </a>to
 apply!</p>
