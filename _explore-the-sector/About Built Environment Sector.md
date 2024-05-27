@@ -29,7 +29,4 @@ that residents and communities can work, live and play in.</p>
 is to build a more comfortable and sustainable future for Singapore.</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/card_discover_the_journey.png">
-</div>
 <p></p>
