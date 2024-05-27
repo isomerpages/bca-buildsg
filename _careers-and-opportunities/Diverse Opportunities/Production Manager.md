@@ -11,7 +11,7 @@ third_nav_title: Diverse Opportunities
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Oversee production of modules, complete with internal finishes, fixtures
+<p>Oversee the production of modules, complete with internal finishes, fixtures
 and fittings in an off-site production facility</p>
 </li>
 <li>
