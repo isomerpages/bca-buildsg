@@ -24,7 +24,7 @@ nisi ut aliquip ex ea commodo consequat.&nbsp;</p>
 <h4 id="professional-cet">Continuing Education and Training (CET)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_cet.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_cet.png">
 </div>
 <p>Want to stay up-to-date with industry trends and pick up emerging skills
 in areas such as Collaborative Contracting, Carbon Management or Robotics
