@@ -10,8 +10,8 @@ third_nav_title: Diverse Opportunities
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Advise construction costs and contracts from project planning to the construction
-phase</p>
+<p>Advise on construction costs and contracts from project planning to the
+construction phase</p>
 </li>
 <li>
 <p>Establish project budget and ensure project is completed within budget</p>
