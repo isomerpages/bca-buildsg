@@ -14,9 +14,6 @@ when it comes to building and shaping Singapore’s urban landscapes. The
 sector brings together the best and most creative minds to design, build
 and upkeep Singapore’s buildings and infrastructures.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/about_be_mid_image.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sectoral_outlook_03.png">
