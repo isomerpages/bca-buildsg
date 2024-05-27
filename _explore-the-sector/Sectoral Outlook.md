@@ -14,8 +14,10 @@ a sustainable and innovative future by focusing on smart technologies,
 green building practices and digitalisation.</p>
 <h3>Going Digital</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_going_digital.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_going_digital_new.png">
 </div>
+<p><strong><sup>Source: Skills Framework for Built Environment</sup></strong>
+</p>
 <p>Our sector is undergoing rapid digital transformation to enable greater
 efficiency, collaboration and innovations. Some of the technologies our
 partners have leveraged on include Building Information Modelling, Internet
