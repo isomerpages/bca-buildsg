@@ -17,7 +17,7 @@ sections:
         - title: our stories
           description: Be inspired by their journey
           url: /crafting-concrete-dreams-in-civil-engineering/
-        - title: diverse opportunities
+        - title: Your Opportunity
           description: Find your role
           url: /a-world-of-diversity/
       variant: image
