@@ -45,7 +45,7 @@ industry.</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/construction-managers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/roles_construction_managers.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Construction Managers</div><div class="isomer-card-description">Safely and efficiently oversee construction activities, coordinates with stakeholders, and implement innovative technologies to enhance on-site operations.</div><div class="isomer-card-link">Read More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/construction-managers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/roles_construction_managers.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Construction Managers</div><div class="isomer-card-description">Safely and efficiently oversee construction activities, coordinate with stakeholders, and implement innovative technologies to enhance on-site operations.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/project-managers/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -55,12 +55,12 @@ industry.</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Project Managers</div>
 <div class="isomer-card-description">Directing project progress, managing budgets and materials, and embracing
-digital collaboration platforms for streamlined project delivery</div>
+digital collaboration platforms for streamlined project delivery.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/digital-delivery-managers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/roles_digital_delivery_managers.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Delivery Managers</div><div class="isomer-card-description">Driving digital transformation across project lifecycles, fostering collaboration through secured digital platforms, and advocating for innovative solutions like digital submissions and inspections.</div><div class="isomer-card-link">Read More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/digital-delivery-managers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/roles_digital_delivery_managers.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Delivery Managers</div><div class="isomer-card-description">Driving digital transformation across project lifecycles, fostering collaboration through secure digital platforms, and advocating for innovative solutions like digital submissions and inspections.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/facility-managers/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
