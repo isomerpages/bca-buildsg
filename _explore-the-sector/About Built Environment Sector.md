@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/about_be_top_header.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_about_be.png">
 </div>
 <p><strong>VIBRANT, LIVEABLE AND SUSTAINABLE.</strong> 
 <br>These are the guiding principles of the Built Environment (BE) sector
@@ -28,4 +28,8 @@ that residents and communities can work, live and play in.</p>
 <p>Through Building Singapore (BuildSG) collectively as a sector,our goal
 is to build a more comfortable and sustainable future for Singapore.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/card_discover_the_journey.png">
+</div>
 <p></p>
