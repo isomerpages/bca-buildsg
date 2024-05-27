@@ -13,8 +13,9 @@ description: ""
 a sustainable and innovative future by focusing on smart technologies,
 green building practices and digitalisation.</p>
 <h3>Going Digital</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_going_digital_new.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_going_digital.png">
 </div>
 <p><strong><sup>Source: Skills Framework for Built Environment</sup></strong>
 </p>
