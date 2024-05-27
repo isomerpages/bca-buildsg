@@ -7,7 +7,7 @@ third_nav_title: Students
 ---
 <p></p>
 <div id="study-top" class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_students.png">
 </div>
 <p>Work-Study Programmes (WSPs) are designed to offer students (typically
 within 36 months of graduation) opportunities to build on the skills and
