@@ -119,6 +119,7 @@ for vertical/lateral career trajectories. For more information, click
 <a href="https://www1.bca.gov.sg/docs/default-source/docs-corp-buildsg/manpower/skillfuture_built-environment-handbook_webe5fe1a8c7abb4a368f38e6c5332dc73a.pdf?sfvrsn=39f37a7f_0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 </ul>
+<p>The following Accrediting Bodies are leading the accreditation schemes as shown below:</p>
 <table style="width: 100%">
 <colgroup>
 <col>
