@@ -52,6 +52,8 @@ these 80-80-80 goals:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_smart_technology.png">
 </div>
+<p><strong><sup>Source: To insert source picture here </sup></strong>
+</p>
 <p>Smart technology optimises operations. To enhance the management of a
 building’s facilities, the sector has adopted:</p>
 <ul data-tight="true" class="tight">
