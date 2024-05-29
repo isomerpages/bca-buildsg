@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Articles
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_article_crafting_concrete.png">
 </div>
 <p>Shanmuganathan Kumaraval’s fascination with construction was ignited during
 his formative years in his neighbourhood. "Growing up in Punggol since
