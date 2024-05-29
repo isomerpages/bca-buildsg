@@ -2,6 +2,6 @@ collections:
   explore-the-sector:
     output: true
     order:
-      - Test nav.md
       - About Built Environment Sector.md
       - Sectoral Outlook.md
+      - Test nav.md
