@@ -128,65 +128,65 @@ for vertical/lateral career trajectories. For more information, click
 <tbody>
 <tr style="background-color: #F1F4F6;">
 <td rowspan="1" colspan="1">
-<p><strong>Career Pathway</strong>
+<p style="font-size: 1rem; line-height:1.5rem;"><strong>Career Pathway</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Accrediting Bodies</strong>
+<p style="font-size: 1rem; line-height:1.5rem;"><strong>Accrediting Bodies</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Construction Management</strong>
+<p style="font-size: 1rem; line-height:1.5rem;"><strong>Construction Management</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://scal.com.sg/accreditation/cpas" rel="noopener noreferrer nofollow" target="_blank">Singapore Contractors Association Ltd (SCAL)</a>
+<p style="font-size: 1rem; line-height:1.5rem;"><a href="http://scal.com.sg/accreditation/cpas" rel="noopener noreferrer nofollow" target="_blank">Singapore Contractors Association Ltd (SCAL)</a>
 </p>
 </td>
 </tr>
 <tr style="background-color: #F1F4F6;">
 <td rowspan="1" colspan="1">
-<p><strong>Digital Delivery Management</strong>
+<p style="font-size: 1rem; line-height:1.5rem;"><strong>Digital Delivery Management</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://ddm.buildingsmartsingapore.org/" rel="noopener noreferrer nofollow" target="_blank">buildingSMART Singapore (bSS)</a>
+<p style="font-size: 1rem; line-height:1.5rem;"><a href="https://ddm.buildingsmartsingapore.org/" rel="noopener noreferrer nofollow" target="_blank">buildingSMART Singapore (bSS)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Facilities Management</strong>
+<p style="font-size: 1rem; line-height:1.5rem;"><strong>Facilities Management</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sifma.org.sg/certified-facilities-management-expert-cfme" rel="noopener noreferrer nofollow" target="_blank">Singapore International Facility Management Association</a>
+<p style="font-size: 1rem; line-height:1.5rem;"><a href="https://sifma.org.sg/certified-facilities-management-expert-cfme" rel="noopener noreferrer nofollow" target="_blank">Singapore International Facility Management Association</a>
 </p>
 </td>
 </tr>
 <tr style="background-color: #F1F4F6;">
 <td rowspan="1" colspan="1">
-<p><strong>Project Management</strong>
+<p style="font-size: 1rem; line-height:1.5rem;"><strong>Project Management</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sprojm.org.sg/Accreditation" rel="noopener noreferrer nofollow" target="_blank">Society of Project Managers (SPM)</a>
+<p style="font-size: 1rem; line-height:1.5rem;"><a href="https://www.sprojm.org.sg/Accreditation" rel="noopener noreferrer nofollow" target="_blank">Society of Project Managers (SPM)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Quantity Surveying</strong>
+<p style="font-size: 1rem; line-height:1.5rem;"><strong>Quantity Surveying</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.sisv.org.sg/Accredited-Professional-Quantity-Surveyor.aspx" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute of Surveyors and Valuers (SISV)</a>
+<p style="font-size: 1rem; line-height:1.5rem;"><a href="http://www.sisv.org.sg/Accredited-Professional-Quantity-Surveyor.aspx" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute of Surveyors and Valuers (SISV)</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><a href="#professional-top" rel="noopener noreferrer nofollow" target="_self">Back to Top</a></p>
+<p style="font-size: 1rem; line-height:1.5rem;"><a href="#professional-top" rel="noopener noreferrer nofollow" target="_self">Back to Top</a></p>
 <p></p>
