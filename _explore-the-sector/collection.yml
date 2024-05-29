@@ -2,6 +2,6 @@ collections:
   explore-the-sector:
     output: true
     order:
-      - Sectoral Outlook 1.md
       - About Built Environment Sector.md
       - Sectoral Outlook.md
+      - Sectoral Outlook 1.md
