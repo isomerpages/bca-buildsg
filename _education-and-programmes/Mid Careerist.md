@@ -22,12 +22,12 @@ Check out the table below for more details.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p style="font-size: 1rem; line-height:1.5rem;"><strong>SkillsFuture Career Transition Programme</strong> 
-<br><strong><em>More info here</em></strong>
+	<br><strong><em>More info <a target="_blank" href="#">here</a></em></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
 <p style="font-size: 1rem; line-height:1.5rem;"><strong>Career Conversion Programme</strong> 
-<br><strong><em>More info here</em></strong>
+<br><strong><em>More info <a target="_blank" href="#">here</a></em></strong>
 </p>
 </th>
 </tr>
