@@ -33,7 +33,7 @@ Check out the table below for more details.</p>
 </tr>
 <tr>
 <td style="width: 200px;" rowspan="1" colspan="1">
-<p style="padding-top: 0px;"><strong>Who is it for?</strong>
+<p style="padding-top: 0px; font-size: 1rem; line-height:1.5rem;"><strong>Who is it for?</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
