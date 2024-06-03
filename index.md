@@ -11,13 +11,13 @@ sections:
   - hero:
       background: /images/home_masthead_v3.jpg
       key_highlights:
-        - title: Sectoral Outlook
-          description: Insights and trends shaping
+        - title: About Us
+          description: Insights and trends
           url: /sectoral-outlook/
         - title: our stories
           description: Be inspired by their journey
           url: /crafting-concrete-dreams-in-civil-engineering/
-        - title: Your Opportunity
+        - title: Career Opportunities
           description: Find your role
           url: /a-world-of-diversity/
       variant: image
@@ -25,7 +25,7 @@ sections:
       title: Shaping our Landscape
       subtitle: THE BUILT ENVIRONMENT JOURNEY
       id: infopic
-      description: From skyscrapers to green spaces, find out how the sector
+      description: From skyscrapers to green spaces, find out  how the sector
         transformed Singapore into a liveable and sustainable urban landscape.
       button: LEARN MORE
       alt: Discover the Journey
