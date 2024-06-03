@@ -8,9 +8,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_meaningful_careers.png">
 </div>
-<p>Keen to make a difference to Singapore’s built environment sector? From
-developers to technology providers, read on to find one that checks the
-most boxes for you!</p>
+<p>Keen to make a difference to Singapore’s landscape? Find a role that suits
+you and your vision.</p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -21,8 +20,8 @@ most boxes for you!</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Developer</div>
-<div class="isomer-card-description">Developers work closely with other Built Environment firms to develop
-and rejuvenate the buildings we see everyday!</div>
+<div class="isomer-card-description">Work closely with other Built Environment firms to develop and rejuvenate
+the buildings we see every day.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -33,8 +32,8 @@ and rejuvenate the buildings we see everyday!</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Builder</div>
-<div class="isomer-card-description">Builders manage an ecosystem of sub-contractors to plan and execute construction
-projects from design to project's completion!</div>
+<div class="isomer-card-description">Manage an ecosystem of sub-contractors to plan and execute construction
+projects from design to project completion.</div>
 </div>
 </div>
 </div>
@@ -47,9 +46,9 @@ projects from design to project's completion!</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Consultant</div>
-<div class="isomer-card-description">Consultants design the architectural, structural, mechanical and electrical
-systems within a building, as well as administer contracts and provide
-cost management advisory!</div>
+<div class="isomer-card-description">Design the architectural, structural, mechanical and electrical systems
+within a building, as well as administer contracts and provide cost management
+advisory.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -60,8 +59,8 @@ cost management advisory!</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Facilities Management Company</div>
-<div class="isomer-card-description">Facilities Management Companies oversee the daily maintenance of buildings
-while ensuring building systems are optimised for long-term performance!</div>
+<div class="isomer-card-description">Oversee the daily maintenance of buildings while ensuring building systems
+are optimised for long-term performance.</div>
 </div>
 </div>
 </div>
@@ -74,8 +73,8 @@ while ensuring building systems are optimised for long-term performance!</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Technology Provider</div>
-<div class="isomer-card-description">Technology providers are the digital spine of the sector, enabling greater
-productivity from robotics and automation to digital platforms and systems!</div>
+<div class="isomer-card-description">Be the digital spine that enables greater productivity from robotics and
+automation to digital platforms and systems.</div>
 </div>
 </div>
 </div>
