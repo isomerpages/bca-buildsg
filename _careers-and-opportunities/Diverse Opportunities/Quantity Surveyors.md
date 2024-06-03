@@ -8,15 +8,10 @@ third_nav_title: Diverse Opportunities
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/roles_quantity_surveyors.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Advise on construction costs and contracts from project planning to the
-construction phase</p>
-</li>
-<li>
-<p>Establish project budget and ensure project is completed within budget</p>
-</li>
-</ul>
+<p>As a Quantity Surveyor, you will advise construction costs and contracts
+from project planning to the construction phase. You will also be responsible
+for establishing the project budget and ensuring the project is completed
+within budget.</p>
 <h4>Do you know?</h4>
 <ul data-tight="true" class="tight">
 <li>
