@@ -7,10 +7,7 @@ description: ""
 <div id="professional-top" class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_professionals.png">
 </div>
-<p>Introduction to In-service Personnel lorem ipsum dolor sit amet, consectetur
-adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-nisi ut aliquip ex ea commodo consequat.&nbsp;</p>
+<p>As a professional already in the Built Environment (BE) sector, there are plenty of opportunities for you to upskill yourself and explore other roles within our sector. </p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="#professional-cet" rel="noopener noreferrer nofollow" target="_self">Continuing Education and Training (CET)</a>
@@ -26,13 +23,7 @@ nisi ut aliquip ex ea commodo consequat.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_cet.png">
 </div>
-<p>Want to stay up-to-date with industry trends and pick up emerging skills
-in areas such as Collaborative Contracting, Carbon Management or Robotics
-&amp; Automation? Or wish to upskill yourself in the Built Environment
-transformation areas of Integrated Planning and Design (IPD), Advanced
-Manufacturing and Assembly (AMA), and Sustainable Urban Systems (SUS)?
-Check out these built environment CET courses and more offered by local
-training providers today!</p>
+<p>Stay up-to-date with industry trends and pick up emerging skills in areas such as Collaborative Contracting, Carbon Management or Robotics &amp; Automation. Or  upskill yourself in the Built Environment transformation areas of Integrated Planning and Design (IPD), Advanced Manufacturing and Assembly (AMA), and Sustainable Urban Systems (SUS). Check out these built environment CET courses and more offered by local training providers today.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -101,9 +92,8 @@ training providers today!</p>
 <p><a href="#professional-top" rel="noopener noreferrer nofollow" target="_self">Back to Top</a></p>
 <hr>
 <h4 id="professional-accredit">Accreditation Programmes</h4>
-<p>You have amassed knowledge and skills in the sector but wondering what’s
-next in your career? You may consider the accreditation schemes for built
-environment professionals ranging across various expertise areas. Through these schemes, you are able to:</p>
+<p>Wondering what’s next in your career? Take your knowledge and skills in the sector to the next level with these wide range of accreditation schemes.</p>
+<p> Through these schemes, you are able to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Validate your skills and competencies as these schemes are industry-recognised
