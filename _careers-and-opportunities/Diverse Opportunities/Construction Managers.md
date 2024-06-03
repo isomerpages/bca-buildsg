@@ -9,15 +9,10 @@ third_nav_title: Diverse Opportunities
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/roles_construction_managers.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Supervise construction activities to ensure safe and timely completion</p>
-</li>
-<li>
-<p>Coordinate with stakeholders (e.g. developers, subcontractors, and authorities)
-to address construction-related issues</p>
-</li>
-</ul>
+<p>As a Construction Manager, you will be supervising construction activities
+to ensure safe and timely completion. You will also be coordinating with
+stakeholders (e.g. developers, subcontractors, and authorities) to address
+construction-related issues.</p>
 <h4>Do you know?</h4>
 <ul data-tight="true" class="tight">
 <li>
