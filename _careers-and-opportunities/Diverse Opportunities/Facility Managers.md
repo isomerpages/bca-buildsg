@@ -9,16 +9,11 @@ third_nav_title: Diverse Opportunities
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/roles_facility_managers.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ensure maintenance considerations are upfront incorporated during the
-project planning phase to achieve cost savings and reduce energy use over
-the building lifecycle</p>
-</li>
-<li>
-<p>Maintain and operate buildings and facilities to perform at optimal levels</p>
-</li>
-</ul>
+<p>As a Facility Manager, you will be ensuring maintenance considerations
+are upfront incorporated during the project planning phase to achieve cost
+savings and reduce energy use over the building lifecycle. Your role also
+includes maintenance and operation of buildings and facilities to ensure
+they perform at optimal levels.</p>
 <h4>Do you know?</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -46,5 +41,5 @@ the <a href="https://www.skillsfuture.gov.sg/skills-framework/built-environment"
 <br><a href="/production-manager/" rel="noopener noreferrer nofollow" target="_blank">Production Manager</a> 
 <br><a href="/construction-managers/" rel="noopener noreferrer nofollow" target="_blank">Construction Managers</a> 
 <br><a href="/project-managers/" rel="noopener noreferrer nofollow" target="_blank">Project Managers</a> 
-<br><a href="/digital-delivery-managers/" rel="noopener noreferrer nofollow" target="_blank">Digital Delivery Managers</a> 
+<br><a href="/digital-delivery-managers/" rel="noopener noreferrer nofollow" target="_blank">Digital Delivery Managers</a>
 </p>
