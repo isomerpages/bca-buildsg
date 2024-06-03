@@ -31,7 +31,7 @@ resource-efficient technologies to meet evolving infrastructural needs.</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/quantity-surveyors/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/roles_quantity_surveyors.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Quantity Surveyors</div><div class="isomer-card-description">Advise on construction costs and contracts from planning to completion, ensure projects stay within budget through innovative techniques like BIM modelling. </div><div class="isomer-card-link">Read More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/quantity-surveyors/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/roles_quantity_surveyors.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Quantity Surveyors</div><div class="isomer-card-description">Advise on construction costs and contracts from planning to completion, ensure projects stay within budget through innovative techniques like BIM modelling.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/production-manager/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
