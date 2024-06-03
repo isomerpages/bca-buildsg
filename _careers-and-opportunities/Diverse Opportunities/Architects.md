@@ -9,17 +9,10 @@ third_nav_title: Diverse Opportunities
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/roles_architects.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Design buildings that endures across time, anchor our national identity
-and shape our urban landscape</p>
-</li>
-<li>
-<p>Work closely with stakeholders (e.g. developers, authorities) to ensure
-that building design meets the project objectives and regulatory requirements</p>
-</li>
-</ul>
-<p></p>
+<p>Design buildings that endure across time, anchor our national identity
+and shape our urban landscape. As an architect, you will also work closely
+with stakeholders (e.g. developers, authorities) to ensure the building
+design meets the project objectives and regulatory requirements.</p>
 <h4>Do you know?</h4>
 <ul data-tight="true" class="tight">
 <li>
