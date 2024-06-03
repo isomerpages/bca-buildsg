@@ -9,11 +9,7 @@ third_nav_title: Students
 <div id="study-top" class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_students.png">
 </div>
-<p>Work-Study Programmes (WSPs) are designed to offer students (typically
-within 36 months of graduation) opportunities to build on the skills and
-knowledge acquired in school, through a work-study arrangement. In-service
-personnel seeking to further upgrade in their knowledge and training can
-also check out WSPs available.</p>
+<p>Get involved with the Built Environment(BE) sector as you study through our Work-Study Programmes (WSPs). These programmes have been designed to give you opportunities to build on the skills and knowledge you have learnt through a work-study arrangement. These programmes are open to students within 36 months of graduation and also in-service personnel looking to further upgrade themselves.</p>
 <h4>Work Study Programmes</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 167px; height: 67px; text-align: left; display: inline;" height="67" width="164" alt="" src="/images/school_bca_academy.png">
