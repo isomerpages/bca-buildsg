@@ -10,8 +10,9 @@ description: ""
 </div>
 <h3>Transformation of the Built Environment (BE) Sector</h3>
 <p>As we shape Singapore’s landscape, we also ensure that we are building
-a sustainable and innovative future by focusing on smart technologies,
-green building practices and digitalisation.</p>
+a sustainable and innovative future by focusing on digitalisation, green
+building practices, and smart technologies.</p>
+<p></p>
 <h3>Going Digital</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -20,14 +21,17 @@ green building practices and digitalisation.</p>
 <p><strong><sup>Source: Skills Framework for Built Environment</sup></strong>
 </p>
 <p>Our sector is undergoing rapid digital transformation to enable greater
-efficiency, collaboration and innovations. Some of the technologies our
-partners have leveraged on include Building Information Modelling, Internet
-of Things (IoT) and artificial intelligence (AI) to revolutionise every
-stage of the construction lifecycle.</p>
-<p>From the design stage, steps are taken to optimise efficiency. Visualising
-virtual environments, using IoT sensors to collect real-time data and capitalising
-on advanced robotics and 3D printing are steps taken to improve quality
-and reduce construction time.</p>
+efficiency, collaboration and innovations. Besides collaborative contracting,
+which ensures projects incentives are aligned upfront between key stakeholders,
+our partners have leveraged on technologies such as Building Information
+Modelling (BIM), Internet of Things (IoT) and artificial intelligence (AI)
+to revolutionise every stage of the construction lifecycle.</p>
+<p>From the design stage, the <a href="https://www1.bca.gov.sg/regulatory-info/building-control/corenet-x" rel="noopener noreferrer nofollow" target="_blank">CORENET X</a> platform
+provides a common data environment that facilitates collaboration across
+the sector. Visualising virtual environments, using IoT sensors to collect
+real-time data and capitalising on advanced robotics and automation are
+other examples of steps taken to improve quality and reduce construction
+time.</p>
 <p></p>
 <h3>Going Green</h3>
 <div class="isomer-image-wrapper">
@@ -46,16 +50,20 @@ these 80-80-80 goals:</p>
 <p>Best-in-class green buildings to achieve 80% improvement in energy efficiency</p>
 </li>
 </ul>
-<p></p>
+<p>With the environment always coming first, great emphasis is placed on
+reducing carbon footprint with every build. This has led to the emergence
+of greener materials and technologies that will build a better future for
+Singapore and for the world.</p>
 <p></p>
 <h3>Adopting Smart Technology</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_smart_technology.png">
 </div>
-<p><strong><sup>Source: To insert source picture here </sup></strong>
+<p><strong><sup>Source: To insert source picture here</sup></strong>
 </p>
-<p>Smart technology optimises operations. To enhance the management of a
-building’s facilities, the sector has adopted:</p>
+<p>Smart technology optimises operations. In addition to designing buildings
+with maintainability as a key consideration, the sector is aggregating
+facility management capabilities across buildings, in areas of</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Building automation</p>
@@ -67,6 +75,6 @@ building’s facilities, the sector has adopted:</p>
 <p>Various cutting-edge advancements</p>
 </li>
 </ul>
-<p>Artificial intelligence tools also allow for the monitoring of building
+<p>Artificial intelligence tools also allow for the integration of building
 systems on a single platform which benefits the residents.</p>
 <p>&nbsp;</p>
