@@ -8,17 +8,10 @@ third_nav_title: Diverse Opportunities
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/roles_civil_engineers.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
 <p>Design structural, mechanical and electrical elements of buildings to
-ensure that they are safe and durable for occupation, and meet evolving
-infrastructure needs</p>
-</li>
-<li>
-<p>Ensure works are carried out according to design plans during the construction
-phase</p>
-</li>
-</ul>
+ensure they are safe and durable for occupation, and also meet evolving
+infrastructure needs. You will also need to ensure that works are carried
+out according to design plans during construction.</p>
 <h4>Do you know?</h4>
 <ul data-tight="true" class="tight">
 <li>
