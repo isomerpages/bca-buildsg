@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Diverse Opportunities
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/roles_civil_engineers.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_civil_engineers.png">
 </div>
 <p>Design structural, mechanical and electrical elements of buildings to
 ensure they are safe and durable for occupation, and also meet evolving
