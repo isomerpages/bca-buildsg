@@ -76,6 +76,6 @@ are optimised for long-term performance.</div>
 <div class="isomer-card-description">Be the digital spine that enables greater productivity from robotics and
 automation to digital platforms and systems.</div>
 </div>
-</div>
+</div><a rel="noopener noreferrer nofollow" href="/a-world-of-diversity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Check out Built Environment Jobs" src="/images/image_going_green.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Built Environment Jobs</div><div class="isomer-card-link">Check out Build Environment jobs here!</div></div></a>
 </div>
 <p>Check out Built Environment jobs <a href="/a-world-of-diversity/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
