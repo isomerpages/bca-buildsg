@@ -7,7 +7,7 @@ third_nav_title: Diverse Opportunities
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/roles_digital_delivery_managers.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_digital_delivery_managers.png">
 </div>
 <p>As a Digital Delivery Manager, your responsibilities include adopting
 and implementing emerging digital technologies across the project lifecycle
