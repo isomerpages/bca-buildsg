@@ -59,8 +59,6 @@ Singapore and for the world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_smart_technology.png">
 </div>
-<p><strong><sup>Source: To insert source picture here</sup></strong>
-</p>
 <p>Smart technology optimises operations. In addition to designing buildings
 with maintainability as a key consideration, the sector is aggregating
 facility management capabilities across buildings, in areas of</p>
