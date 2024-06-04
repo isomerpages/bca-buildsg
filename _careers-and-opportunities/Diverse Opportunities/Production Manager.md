@@ -7,7 +7,7 @@ third_nav_title: Diverse Opportunities
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/roles_production_manager.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_production_manager.png">
 </div>
 <p>A Production Manager oversees production of modules, complete with internal
 finishes, fixtures and fittings in an off-site production facility. You
