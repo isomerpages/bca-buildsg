@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Diverse Opportunities
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_architects.png">
 </div>
