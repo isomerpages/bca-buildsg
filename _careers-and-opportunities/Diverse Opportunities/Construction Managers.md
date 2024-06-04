@@ -7,7 +7,7 @@ third_nav_title: Diverse Opportunities
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/roles_construction_managers.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_construction_managers.png">
 </div>
 <p>As a Construction Manager, you will be supervising construction activities
 to ensure safe and timely completion. You will also be coordinating with
