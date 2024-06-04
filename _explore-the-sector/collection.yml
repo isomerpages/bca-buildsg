@@ -2,5 +2,5 @@ collections:
   explore-the-sector:
     output: true
     order:
-      - What is Built Environment?.md
+      - What is Built Environment Sector?.md
       - Sectoral Outlook.md
