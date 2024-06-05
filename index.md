@@ -40,7 +40,7 @@ sections:
         Unlock career opportunities to turn your vision into reality.
       button: LEARN MORE
       alt: A Diverse Career Paths
-      url: /meaningful-and-fulfilling-careers/
+      url: /careers-that-build-with-our-landscape/
       image: /images/card_why_join_us.png
   - infopic:
       title: The Building Blocks of Progress
