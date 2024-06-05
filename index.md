@@ -19,7 +19,7 @@ sections:
           url: /crafting-concrete-dreams-in-civil-engineering/
         - title: Career Opportunities
           description: Find your role
-          url: /a-world-of-diversity/
+          url: /opportunities-to-shape-our-world/
       variant: image
   - infopic:
       title: Shaping our Landscape
