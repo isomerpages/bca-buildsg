@@ -80,6 +80,7 @@ automation to digital platforms and systems.</div>
 </div>
 <p>Check out Built Environment jobs <a href="https://urldefense.com/v3/__https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0__;!!IfJP2Nwhk5Z0yJ43lA!OdnG6p42-wUXVulJPq2Oasq00g1HxpkfIvTbB6wHQqBwYmgaiMAFhbvZYN4ftA-T00sSQBZHzv1Ws3SIatjXmgs$" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <p></p>
+<hr>
 <h4>ALTERNATIVE DESIGN 1</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -143,21 +144,5 @@ are optimised for long-term performance.</div>
 automation to digital platforms and systems.</div>
 </div>
 </div>
-</div>
-<h4>ALTERNATIVE DESIGN 2</h4>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/architects.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/civil_structural_electrical_mechanical_engineers.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Image_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
