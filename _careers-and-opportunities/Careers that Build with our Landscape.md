@@ -81,7 +81,7 @@ automation to digital platforms and systems.</div>
 <p>Check out Built Environment jobs <a href="https://urldefense.com/v3/__https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0__;!!IfJP2Nwhk5Z0yJ43lA!OdnG6p42-wUXVulJPq2Oasq00g1HxpkfIvTbB6wHQqBwYmgaiMAFhbvZYN4ftA-T00sSQBZHzv1Ws3SIatjXmgs$" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <p></p>
 <hr>
-<h4>ALTERNATIVE DESIGN 1</h4>
+<h4>ALTERNATIVE DESIGN</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
