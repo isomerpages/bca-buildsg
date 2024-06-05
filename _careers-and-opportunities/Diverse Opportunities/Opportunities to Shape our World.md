@@ -16,7 +16,7 @@ to make a tangible impact on Singapore’s vibrant urban landscape.</p>
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/architects/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/roles_architects.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Architects</div><div class="isomer-card-description">Create enduring buildings, shape urban landscapes, and leverage on technology to meet modern design challenges.</div><div class="isomer-card-link">Read More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/architects/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/do_architects.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Architects</div><div class="isomer-card-description">Create enduring buildings, shape urban landscapes, and leverage on technology to meet modern design challenges.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/civil-and-structural-electrical-mechanical-engineers/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
