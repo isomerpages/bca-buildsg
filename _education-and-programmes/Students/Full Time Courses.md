@@ -221,7 +221,7 @@ Institutions of Higher Learning below.</p>
 </p>
 </li>
 <li>
-<p>Higher NITEC in <a href="•%09Higher%20NITEC%20in%20Architectural%20Technology%20(previously%20known%20as%20Higher%20NITEC%20in%20Space%20Design%20(Architecture))" rel="noopener noreferrer nofollow" target="_blank">Architectural Technology</a>
+<p>Higher NITEC in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-architectural-technology" rel="noopener noreferrer nofollow" target="_blank">Architectural Technology</a>
 </p>
 </li>
 <li>
