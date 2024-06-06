@@ -87,11 +87,11 @@ Institutions of Higher Learning below.</p>
 <div><strong>Singapore University of Technology and Design</strong></div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Science: <a href="https://cde.nus.edu.sg/ece/undergraduate/what-is-ece/" rel="noopener noreferrer nofollow" target="_blank">Architecture and Sustainable Design</a>
+<p>Bachelor of Science: <a href="https://asd.sutd.edu.sg/programme/bachelor-of-science-architecture-and-sustainable-design/" rel="noopener noreferrer nofollow" target="_blank">Architecture and Sustainable Design</a>
 </p>
 </li>
 <li>
-<p>Master of <a href="https://cde.nus.edu.sg/arch/programmes/bachelor-of-landscape-architecture/" rel="noopener noreferrer nofollow" target="_blank">Architecture</a>
+<p>Master of <a href="https://asd.sutd.edu.sg/programme/master-of-architecture/" rel="noopener noreferrer nofollow" target="_blank">Architecture</a>
 </p>
 </li>
 </ul>
