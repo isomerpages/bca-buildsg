@@ -9,7 +9,7 @@ third_nav_title: Students
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_ibuildsg.png">
 </div>
-<h4>Are you a student curious about the Built Environment (BE) and the exciting careers it offers?  </h4>
+<h4>Are you a student curious about the Built Environment (BE) and the exciting careers it offers?</h4>
 <p>The iBuildSG Club is for you! This BE-themed interest club is tailored
 for students from secondary schools, junior colleges, ITE, polytechnics
 and universities.</p>
