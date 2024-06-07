@@ -9,7 +9,7 @@ third_nav_title: Students
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_built_environment_scholarship.png">
 </div>
-<h4>Kickstart your career in the Built Environment (BE) with this scholarship opportunity! </h4>
+<h4>Kickstart your career in the Built Environment (BE) with this scholarship opportunity!</h4>
 <p>Offered under the Singapore-Industry Scholarship (SgIS) programme, this
 undergraduate scholarship is available to Singapore Citizens aspiring to
 contribute to leading organisations in Singapore's BE sector. Explore the
