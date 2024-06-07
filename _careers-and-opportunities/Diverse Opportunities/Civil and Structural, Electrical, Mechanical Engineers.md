@@ -13,7 +13,7 @@ third_nav_title: Diverse Opportunities
 ensure they are safe and durable for occupation, and also meet evolving
 infrastructure needs. You will also need to ensure that works are carried
 out according to design plans during construction.</p>
-<h4>Do you know?</h4>
+<h4>Did you know?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Engineers are using environmental simulation tools to optimise building
