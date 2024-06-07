@@ -8,6 +8,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_professionals.png">
 </div>
 <p>As a professional already in the Built Environment (BE) sector, there are plenty of opportunities for you to upskill yourself and explore other roles within our sector. </p>
+<p>Click on the links to find one that is relevant for you.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="#professional-cet" rel="noopener noreferrer nofollow" target="_self">Continuing Education and Training (CET)</a>
