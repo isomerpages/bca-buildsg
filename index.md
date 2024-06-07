@@ -12,13 +12,13 @@ sections:
       background: /images/home_masthead_v3.jpg
       key_highlights:
         - title: About Us
-          description: Insights and trends
+          description: Know more about what we do
           url: /sectoral-outlook/
         - title: our stories
-          description: Be inspired by their journey
+          description: Follow our journey
           url: /crafting-concrete-dreams-in-civil-engineering/
         - title: Career Opportunities
-          description: Find your role
+          description: Find your place
           url: /opportunities-to-shape-our-world/
       variant: image
   - infopic:
