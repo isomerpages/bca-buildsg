@@ -13,7 +13,7 @@ third_nav_title: Diverse Opportunities
 from project planning to the construction phase. You will also be responsible
 for establishing the project budget and ensuring the project is completed
 within budget.</p>
-<h4>Do you know?</h4>
+<h4>Did you know?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Quantity Surveyors can extract the approximate quantities for cost budgeting
