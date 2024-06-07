@@ -14,7 +14,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="#professional-accredit" rel="noopener noreferrer nofollow" target="_self">Institute of Technical Education</a>
+<p><a href="#professional-accredit" rel="noopener noreferrer nofollow" target="_self">Accreditation Programmes</a>
 </p>
 </li>
 </ul>
