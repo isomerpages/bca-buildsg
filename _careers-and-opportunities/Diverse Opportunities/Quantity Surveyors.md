@@ -29,8 +29,8 @@ towards a common set of project goals</p>
 the <a href="https://www.skillsfuture.gov.sg/skills-framework/built-environment" rel="noopener noreferrer nofollow" target="_blank">Skills Framework for Built Environment – A Guide to Occupations and Skills</a>
 </p>
 <p></p>
-<p>If you are a student, find out more about BE courses <a href="/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>Looking for available job roles? Click <a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>If you are a student, find out more about BE courses <a href="/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>Looking for available job roles? Click <a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h4>Additional resource link</h4>
 <p><a href="https://www.sisv.org.sg/home.aspx" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute of Surveyors and Valuers</a>
