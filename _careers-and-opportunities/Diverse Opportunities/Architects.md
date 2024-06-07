@@ -20,9 +20,8 @@ design meets the project objectives and regulatory requirements.</p>
 software</p>
 </li>
 <li>
-<p>Generative artificial intelligence (AI) is also increasingly used to render
-draft sketches from user inputs, with subsequent refinements and details
-supplemented by the architect</p>
+<p>Generative artificial intelligence (AI) is increasingly used to render
+draft sketches from user inputs, with refinements supplemented by the architect</p>
 </li>
 </ul>
 <p>To learn more about the key work tasks and skills required, check out
