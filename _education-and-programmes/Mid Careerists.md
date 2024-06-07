@@ -7,8 +7,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_mid_careerists.png">
 </div>
-<p>Are you a working professional looking to pivot to the built environment sector? Or perhaps you are looking to upskill your competencies? The Career Conversion Programme (CCP) or the SkillsFuture Career Transition Programme (SCTP) could be what you are looking for!  <br>
-Check out the table below for more details.</p>
+<p>With such diverse roles in the Built Environment (BE) sector, there will be plenty of opportunities to try a different role or upskill your competencies.  Be inspired by  how others have done it via their stories.(Link to stories)</p>
+<p>Find out how you can make a mid-career switch via the Career Conversion Programme (CCP) or the SkillsFuture Career Transition Programme (SCTP).
+</p><br>
 <table style="width: 100%;">
 <colgroup>
 <col>
