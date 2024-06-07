@@ -70,7 +70,7 @@ collaboration platforms for streamlined project delivery.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Facility Managers</div>
-<div class="isomer-card-description">Incorporate maintenance considerations during project planning yields
+<div class="isomer-card-description">Incorporate maintenance considerations during project planning that yields
 cost savings and energy efficiency across the building's lifecycle, while
 maintaining and operating facilities at optimal performance levels.</div>
 <div class="isomer-card-link">Read More</div>
