@@ -38,7 +38,7 @@ time.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_going_green.png">
 </div>
 <p>With Singapore being a dense urban city, our buildings account for 20
-per cent of our carbon emissions, and consume more than a third pf our
+per cent of our carbon emissions, and consume more than a third of our
 nation’s electricity. This means that efforts to reduce a building’s carbon
 emissions can go a long way in supporting Singapore’s drive towards net-zero.</p>
 <p>Through the Singapore Green Building Masterplan, the sector aims to realise
