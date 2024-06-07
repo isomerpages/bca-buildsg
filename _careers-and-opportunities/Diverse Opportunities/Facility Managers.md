@@ -14,7 +14,7 @@ are upfront incorporated during the project planning phase to achieve cost
 savings and reduce energy use over the building lifecycle. Your role also
 includes maintenance and operation of buildings and facilities to ensure
 they perform at optimal levels.</p>
-<h4>Do you know?</h4>
+<h4>Did you know?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Building performance can be tracked real-time and compared against past
