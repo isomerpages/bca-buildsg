@@ -12,7 +12,7 @@ third_nav_title: Diverse Opportunities
 <p>As a Project Manager, you will oversee the progress of ongoing construction
 works, monitor the material and budget utilisation, and coordinate building
 design changes.</p>
-<h4>Do you know?</h4>
+<h4>Did you know?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>The industry is moving towards a Common Data Environment, where project
