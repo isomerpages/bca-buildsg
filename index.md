@@ -55,8 +55,8 @@ sections:
       title: Stories & Insights
       subtitle: Our stories
       id: infopic
-      description: "Curious to know more? Hear the motivation, the passion and the
-        journeys of our people.   "
+      description: Curious to know more? Hear the motivation, the passion and the
+        journeys of our people.
       button: FIND OUT MORE
       url: /crafting-concrete-dreams-in-civil-engineering/
       alt: Image alt text
