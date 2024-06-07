@@ -21,8 +21,10 @@ workspace throughout the project delivery lifecycle</p>
 </li>
 </ul>
 <p>To learn more about the key work tasks and skills required, check out
-the Skills Framework for Built Environment – A Guide to Occupations and
-Skills</p>
+the <a href="https://www.skillsfuture.gov.sg/skills-framework/built-environment" rel="noopener noreferrer nofollow" target="_blank">Skills Framework for Built Environment – A Guide to Occupations and Skills</a>
+</p>
+<p>If you are a student, find out more about BE courses <a href="/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Looking for available job roles? Click <a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4>Additional resource links:</h4>
 <p><a href="https://sprojm.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Society of Project Managers</a>
 </p>
