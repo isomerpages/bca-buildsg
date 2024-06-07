@@ -97,16 +97,13 @@ description: ""
 <p> Through these schemes, you are able to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Validate your skills and competencies as these schemes are industry-recognised
-and designed to meet industry demands</p>
+<p>Validate your skills and competencies with schemes that are industry-recognised and designed to meet industry demands</p>
 </li>
 <li>
-<p>Be fairly and independently assessed based on your skills and assessments
-as standards are aligned across the different professional disciplines</p>
+<p>Be fairly and independently assessed based on your skills and assessments through standards that have been aligned across the different professional disciplines </p>
 </li>
 <li>
-<p>Associate skills and competencies for each progression pathway and plan
-for vertical/lateral career trajectories. For more information, click
+<p>Associate skills and competencies for each progression pathway and plan for vertical/lateral career trajectories. For more information, click
 <a href="https://www1.bca.gov.sg/docs/default-source/docs-corp-buildsg/manpower/skillfuture_built-environment-handbook_webe5fe1a8c7abb4a368f38e6c5332dc73a.pdf?sfvrsn=39f37a7f_0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 </ul>
