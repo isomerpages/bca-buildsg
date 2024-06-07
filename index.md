@@ -22,12 +22,12 @@ sections:
           url: /opportunities-to-shape-our-world/
       variant: image
   - infopic:
-      title: Shaping our Landscape
+      title: Shaping our Singapore
       subtitle: THE BUILT ENVIRONMENT JOURNEY
       id: infopic
-      description: From skyscrapers to green spaces, find out  how the sector
+      description: From skyscrapers to green spaces, find out how the sector
         transformed Singapore into a liveable and sustainable urban landscape.
-      button: LEARN MORE
+      button: FIND OUT MORE
       alt: Discover the Journey
       url: /what-is-built-environment-sector/
       image: /images/card_discover_the_journey.png
@@ -35,10 +35,9 @@ sections:
       title: Turn Your Vision into Our Landscape
       subtitle: why join us
       id: infopic
-      description: |-
-        How would you shape Singapore’s landscape?
-        Unlock career opportunities to turn your vision into reality.
-      button: LEARN MORE
+      description: How would you shape Singapore’s landscape? Unlock career
+        opportunities to turn your vision into reality.
+      button: FIND OUT MORE
       alt: A Diverse Career Paths
       url: /careers-that-build-with-our-landscape/
       image: /images/card_why_join_us.png
@@ -48,7 +47,7 @@ sections:
       id: infopic
       description: Develop the right skillsets with our curated selection of education
         and programmes.
-      button: Learn more
+      button: FIND OUT MORE
       alt: Image alt text
       url: /full-time-courses/
       image: /images/card_education_programmes.png
@@ -56,9 +55,9 @@ sections:
       title: Stories & Insights
       subtitle: Our stories
       id: infopic
-      description: Curious to know more? Hear the motivation, the passion and the
-        journeys of our people.
-      button: Learn more
+      description: "Curious to know more? Hear the motivation, the passion and the
+        journeys of our people.   "
+      button: FIND OUT MORE
       url: /crafting-concrete-dreams-in-civil-engineering/
       alt: Image alt text
       image: /images/card_our_stories.png
