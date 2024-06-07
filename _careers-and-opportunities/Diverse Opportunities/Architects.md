@@ -13,7 +13,7 @@ third_nav_title: Diverse Opportunities
 and shape our urban landscape. As an architect, you will also work closely
 with stakeholders (e.g. developers, authorities) to ensure the building
 design meets the project objectives and regulatory requirements.</p>
-<h4>Do you know?</h4>
+<h4>Did you know?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Designs are now done in 3D using Building Information Modelling (BIM)
