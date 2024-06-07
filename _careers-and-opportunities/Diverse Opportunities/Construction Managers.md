@@ -13,7 +13,7 @@ third_nav_title: Diverse Opportunities
 to ensure safe and timely completion. You will also be coordinating with
 stakeholders (e.g. developers, subcontractors, and authorities) to address
 construction-related issues.</p>
-<h4>Do you know?</h4>
+<h4>Did you know?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Innovative solutions leveraging on artificial intelligence and robotic
