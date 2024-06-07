@@ -37,6 +37,10 @@ time.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_going_green.png">
 </div>
+<p>With Singapore being a dense urban city, our buildings account for 20
+per cent of our carbon emissions, and consume more than a third pf our
+nation’s electricity. This means that efforts to reduce a building’s carbon
+emissions can go a long way in supporting Singapore’s drive towards net-zero.</p>
 <p>Through the Singapore Green Building Masterplan, the sector aims to realise
 these 80-80-80 goals:</p>
 <ul data-tight="true" class="tight">
@@ -61,7 +65,7 @@ Singapore and for the world.</p>
 </div>
 <p>Smart technology optimises operations. In addition to designing buildings
 with maintainability as a key consideration, the sector is aggregating
-facility management capabilities across buildings, in areas of</p>
+facility management capabilities across buildings, in areas of:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Building automation</p>
@@ -73,6 +77,4 @@ facility management capabilities across buildings, in areas of</p>
 <p>Various cutting-edge advancements</p>
 </li>
 </ul>
-<p>Artificial intelligence tools also allow for the integration of building
-systems on a single platform which benefits the residents.</p>
 <p>&nbsp;</p>
