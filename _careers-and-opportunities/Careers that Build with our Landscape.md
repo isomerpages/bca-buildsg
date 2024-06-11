@@ -15,7 +15,7 @@ you and your vision.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/careers_developer_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/co_developer.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -27,7 +27,7 @@ the buildings we see every day.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/careers_builder_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/co_builder.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -41,7 +41,7 @@ projects from design to project completion.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/careers_consultant_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/co_consultant.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -54,7 +54,7 @@ advisory.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/careers_facilities_management_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/co_facilities_management.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -86,7 +86,7 @@ automation to digital platforms and systems.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Developer" src="/images/careers_developer_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Developer" src="/images/co_developer.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -98,7 +98,7 @@ the buildings we see every day.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Builder" src="/images/careers_builder_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Builder" src="/images/co_builder.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -110,7 +110,7 @@ projects from design to project completion.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Consultant" src="/images/careers_consultant_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Consultant" src="/images/co_consultant.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -123,7 +123,7 @@ advisory.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Facilities Management Company" src="/images/careers_facilities_management_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Facilities Management Company" src="/images/co_facilities_management.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -135,7 +135,7 @@ are optimised for long-term performance.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Technology Provider" src="/images/careers_technology_provider_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Technology Provider" src="/images/co_technology_provider.png">
 </div>
 </div>
 <div class="isomer-card-body">
