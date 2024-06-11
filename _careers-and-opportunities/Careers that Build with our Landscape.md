@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_meaningful_careers.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/co_masthead.png">
 </div>
 <p>Keen to make a difference to Singapore’s landscape? Find a role that suits
 you and your vision.</p>
