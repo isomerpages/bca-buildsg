@@ -17,12 +17,12 @@ out according to design plans during construction.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Engineers are using environmental simulation tools to optimise building
-design and drive sustainability outcomes</p>
+design and drive sustainability outcomes.</p>
 </li>
 <li>
 <p>Leading projects in a highly developed urban environment like Singapore
 presents many challenges which compels engineers to be innovative in the
-choice of construction methods and materials</p>
+choice of construction methods and materials.</p>
 </li>
 </ul>
 <p>To learn more about the key work tasks and skills required, check out
