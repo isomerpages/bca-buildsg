@@ -109,7 +109,7 @@ in their job search.</p>
 <li>
 <p style="font-size: 1rem; line-height:1.5rem;"><strong>Place-and-Train</strong> where mid-career individual is hired by
 a participating employer before undergoing training to take on a new job
-role;</p>
+role.</p>
 </li>
 <li>
 <p style="font-size: 1rem; line-height:1.5rem;"><strong>Attach-and-Train </strong>where mid-career individual is provided
