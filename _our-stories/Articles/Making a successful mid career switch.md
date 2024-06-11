@@ -7,7 +7,7 @@ third_nav_title: Articles
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/andy_kong.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/os_andy_kong.png">
 </div>
 <p>“Have the resolve to step out of your comfort zone. Making a mid-career
 switch is not a trivial decision. Once you have set your mind on what your
