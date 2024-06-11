@@ -17,6 +17,8 @@ building practices, and smart technologies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/so_going_digital.png">
 </div>
+<p><strong><sup>Source: Skills Framework for Built Environment</sup></strong>
+</p>
 <p>Our sector is undergoing rapid digital transformation to enable greater
 efficiency, collaboration and innovations. Besides collaborative contracting,
 which ensures projects incentives are aligned upfront between key stakeholders,
