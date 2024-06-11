@@ -17,7 +17,7 @@ design changes.</p>
 <li>
 <p>The industry is moving towards a Common Data Environment, where project
 teams can collaborate, share and manage information on a centralised digital
-workspace throughout the project delivery lifecycle</p>
+workspace throughout the project delivery lifecycle.</p>
 </li>
 </ul>
 <p>To learn more about the key work tasks and skills required, check out
