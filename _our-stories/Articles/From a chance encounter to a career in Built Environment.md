@@ -7,7 +7,7 @@ third_nav_title: Articles
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/heropix_when_a_new_career_path_beckons.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/os_mohamad_saifullizan.png">
 </div>
 <p>“I came across the Professional Conversion Programme (PCP) for BIM Professionals
 during the career fair and decided to apply. I had a background in 3D Animation
