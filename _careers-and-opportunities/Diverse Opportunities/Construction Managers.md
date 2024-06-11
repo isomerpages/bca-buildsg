@@ -18,7 +18,7 @@ construction-related issues.</p>
 <li>
 <p>Innovative solutions leveraging on artificial intelligence and robotic
 systems are already automating some of the traditionally labour-intensive
-construction works</p>
+construction works.</p>
 </li>
 <li>
 <p>Site safety has been enhanced through geofencing technology which tracks
