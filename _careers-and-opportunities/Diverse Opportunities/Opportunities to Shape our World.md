@@ -62,14 +62,14 @@ collaboration platforms for streamlined project delivery.</div>
 </a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/digital-delivery-managers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/do_roles_digital_delivery_managers.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Delivery Managers</div><div class="isomer-card-description">Drive digital transformation across project lifecycles, foster collaboration through secured digital platforms, and advocate for innovative solutions like digital submissions and inspections.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/facility-managers/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/facilities-managers/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/do_roles_facility_managers.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Facility Managers</div>
+<div class="isomer-card-title">Facilities Managers</div>
 <div class="isomer-card-description">Incorporate maintenance considerations during project planning that yields
 cost savings and energy efficiency across the building's lifecycle, while
 maintaining and operating facilities at optimal performance levels.</div>
