@@ -10,7 +10,7 @@ third_nav_title: Diverse Opportunities
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/do_masthead_architects.png">
 </div>
 <p>Design buildings that endure across time, anchor our national identity
-and shape our urban landscape. As an architect, you will also work closely
+and shape our urban landscape. As an Architect, you will also work closely
 with stakeholders (e.g. developers, authorities) to ensure the building
 design meets the project objectives and regulatory requirements.</p>
 <h4>Did you know?</h4>
