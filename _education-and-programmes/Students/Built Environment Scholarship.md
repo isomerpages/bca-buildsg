@@ -7,7 +7,7 @@ third_nav_title: Students
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_built_environment_scholarship.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ep_masthead_built_environment_scholarship.png">
 </div>
 <p>Kickstart your career in the Built Environment (BE) with this scholarship
 opportunity!</p>
