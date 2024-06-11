@@ -17,12 +17,12 @@ within budget.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Quantity Surveyors can extract the approximate quantities for cost budgeting
-using 3D models created in Building Information Modelling (BIM)</p>
+using 3D models created in Building Information Modelling (BIM).</p>
 </li>
 <li>
 <p>Quantity Surveyors are key in advocating for Collaborative Contracting,
 a progressive contract administration approach where all stakeholders work
-towards a common set of project goals</p>
+towards a common set of project goals.</p>
 </li>
 </ul>
 <p>To learn more about the key work tasks and skills required, check out
