@@ -7,7 +7,7 @@ third_nav_title: Diverse Opportunities
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/do_roles_project_managers.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/do_masthead_project_managers.png">
 </div>
 <p>As a Project Manager, you will oversee the progress of ongoing construction
 works, monitor the material and budget utilisation, and coordinate building
