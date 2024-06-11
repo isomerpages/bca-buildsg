@@ -16,7 +16,7 @@ standard modules to facilitate mass production and automation.</p>
 <h4>Did you know?</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>With the push towards Design for Manufacturing and Assembly , more off-site
+<p>With the push towards Design for Manufacturing and Assembly, more off-site
 production will be done in a factory environment with greater scope for
 automation adoption</p>
 </li>
