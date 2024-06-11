@@ -9,7 +9,7 @@ notification: Please beware of phishing or scam attempts. BCA will neer ask or
   phone messages.
 sections:
   - hero:
-      background: /images/home_masthead_v3.jpg
+      background: /images/hp_masthead.png
       key_highlights:
         - title: About Us
           description: Know more about what we do
@@ -30,7 +30,7 @@ sections:
       button: FIND OUT MORE
       alt: Discover the Journey
       url: /what-is-built-environment-sector/
-      image: /images/card_discover_the_journey.png
+      image: /images/hp_shaping_our_singapore.png
   - infopic:
       title: Turn Your Vision into Our Landscape
       subtitle: why join us
@@ -40,7 +40,7 @@ sections:
       button: FIND OUT MORE
       alt: A Diverse Career Paths
       url: /careers-that-build-with-our-landscape/
-      image: /images/card_why_join_us.png
+      image: /images/hp_why_join_us.png
   - infopic:
       title: The Building Blocks of Progress
       subtitle: EDUCATION & PROGRAMMES
@@ -50,7 +50,7 @@ sections:
       button: FIND OUT MORE
       alt: Image alt text
       url: /full-time-courses/
-      image: /images/card_education_programmes.png
+      image: /images/hp_education_programmes.png
   - infopic:
       title: Stories & Insights
       subtitle: Our stories
@@ -60,5 +60,5 @@ sections:
       button: FIND OUT MORE
       url: /crafting-concrete-dreams-in-civil-engineering/
       alt: Image alt text
-      image: /images/card_our_stories.png
+      image: /images/hp_our_stories.png
 ---
