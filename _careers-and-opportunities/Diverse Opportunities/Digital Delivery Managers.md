@@ -17,7 +17,7 @@ to optimise operations and processes.</p>
 <li>
 <p>Digital Delivery Managers are responsible for developing solutions such
 as digital platforms, which enable closer collaboration amongst the project
-stakeholders</p>
+stakeholders.</p>
 </li>
 </ul>
 <p>To learn more about the key work tasks and skills required, check out
