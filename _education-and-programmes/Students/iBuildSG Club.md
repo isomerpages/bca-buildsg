@@ -7,7 +7,7 @@ third_nav_title: Students
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_ibuildsg.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ep_masthead_ibuildsg.png">
 </div>
 <p>Are you a student curious about the Built Environment (BE) and the exciting
 careers it offers?</p>
