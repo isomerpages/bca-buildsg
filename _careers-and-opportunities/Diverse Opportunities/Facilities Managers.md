@@ -19,7 +19,7 @@ they perform at optimal levels.</p>
 <li>
 <p>Building performance can be tracked real-time and compared against past
 data or data from other similar buildings to achieve more efficient resource
-deployment</p>
+deployment.</p>
 </li>
 <li>
 <p>To accelerate decarbonisation efforts, Facility Managers collaborate with
