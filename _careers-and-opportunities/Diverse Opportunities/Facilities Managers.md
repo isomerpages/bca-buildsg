@@ -9,7 +9,7 @@ third_nav_title: Diverse Opportunities
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/do_masthead_facility_managers.png">
 </div>
-<p>As a Facility Manager, you will be ensuring maintenance considerations
+<p>As a Facilities Manager, you will be ensuring maintenance considerations
 are upfront incorporated during the project planning phase to achieve cost
 savings and reduce energy use over the building lifecycle. Your role also
 includes maintenance and operation of buildings and facilities to ensure
