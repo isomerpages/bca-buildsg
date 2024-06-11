@@ -45,7 +45,7 @@ sections:
       title: The Building Blocks of Progress
       subtitle: EDUCATION & PROGRAMMES
       id: infopic
-      description: Develop the right skillsets with our curated selection of education
+      description: Develop the right skillsets with our curated selection of courses
         and programmes.
       button: FIND OUT MORE
       alt: Image alt text
@@ -55,8 +55,8 @@ sections:
       title: Stories & Insights
       subtitle: Our stories
       id: infopic
-      description: Curious to know more? Hear the motivation, the passion and the
-        journeys of our people.
+      description: Curious to know more? Hear the motivation, passion and journeys of
+        our people.
       button: FIND OUT MORE
       url: /crafting-concrete-dreams-in-civil-engineering/
       alt: Image alt text
