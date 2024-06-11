@@ -7,7 +7,7 @@ third_nav_title: Diverse Opportunities
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/do_roles_quantity_surveyors.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/do_masthead_quantity_surveyors.png">
 </div>
 <p>As a Quantity Surveyor, you will advise construction costs and contracts
 from project planning to the construction phase. You will also be responsible
