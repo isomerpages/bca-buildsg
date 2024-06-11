@@ -7,7 +7,7 @@ third_nav_title: Diverse Opportunities
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_facility_managers.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/do_masthead_facility_managers.png">
 </div>
 <p>As a Facility Manager, you will be ensuring maintenance considerations
 are upfront incorporated during the project planning phase to achieve cost
