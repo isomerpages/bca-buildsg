@@ -17,11 +17,11 @@ design meets the project objectives and regulatory requirements.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Designs are now done in 3D using Building Information Modelling (BIM)
-software</p>
+software.</p>
 </li>
 <li>
 <p>Generative artificial intelligence (AI) is increasingly used to render
-draft sketches from user inputs, with refinements supplemented by the architect</p>
+draft sketches from user inputs, with refinements supplemented by the architect.</p>
 </li>
 </ul>
 <p>To learn more about the key work tasks and skills required, check out
