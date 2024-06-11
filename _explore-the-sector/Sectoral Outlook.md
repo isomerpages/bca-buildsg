@@ -4,9 +4,9 @@ permalink: /sectoral-outlook/
 variant: tiptap
 description: ""
 ---
-<h3></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/masthead_sectoral_outlook_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/so_masthead.png">
 </div>
 <h3>Transformation of the Built Environment (BE) Sector</h3>
 <p>As we shape Singapore’s landscape, we also ensure that we are building
@@ -14,12 +14,9 @@ a sustainable and innovative future by focusing on digitalisation, green
 building practices, and smart technologies.</p>
 <p></p>
 <h3>Going Digital</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_going_digital.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/so_going_digital.png">
 </div>
-<p><strong><sup>Source: Skills Framework for Built Environment</sup></strong>
-</p>
 <p>Our sector is undergoing rapid digital transformation to enable greater
 efficiency, collaboration and innovations. Besides collaborative contracting,
 which ensures projects incentives are aligned upfront between key stakeholders,
@@ -35,7 +32,7 @@ time.</p>
 <p></p>
 <h3>Going Green</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_going_green.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/so_going_green.png">
 </div>
 <p>With Singapore being a dense urban city, our buildings account for 20
 per cent of our carbon emissions, and consume more than a third of our
@@ -61,7 +58,7 @@ Singapore and for the world.</p>
 <p></p>
 <h3>Adopting Smart Technology</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_smart_technology.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/so_smart_technology.png">
 </div>
 <p>Smart technology optimises operations. In addition to designing buildings
 with maintainability as a key consideration, the sector is aggregating
