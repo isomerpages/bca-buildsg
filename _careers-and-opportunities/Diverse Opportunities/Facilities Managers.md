@@ -10,7 +10,7 @@ third_nav_title: Diverse Opportunities
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/do_masthead_facility_managers.png">
 </div>
 <p>As a Facilities Manager, you will be ensuring maintenance considerations
-are upfront incorporated during the project planning phase to achieve cost
+are incorporated upfront during the project planning phase to achieve cost
 savings and reduce energy use over the building lifecycle. Your role also
 includes maintenance and operation of buildings and facilities to ensure
 they perform at optimal levels.</p>
