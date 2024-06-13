@@ -29,7 +29,7 @@ sections:
         Singapore into a liveable and sustainable urban landscape.
       button: FIND OUT MORE
       alt: Discover the Journey
-      url: /what-is-built-environment-sector/
+      url: /about-built-environment-sector/
       image: /images/hp_shaping_our_singapore.png
   - infopic:
       title: Turn Your Vision into Our Landscape
