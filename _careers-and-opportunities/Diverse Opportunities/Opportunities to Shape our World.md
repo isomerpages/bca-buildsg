@@ -24,8 +24,8 @@ to make a tangible impact on Singapore’s vibrant urban landscape.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Civil and Structural / Electrical / Mechanical Engineers</div>
-<div class="isomer-card-description">Design safe and sustainable structures, oversee construction, and integrate
-resource-efficient technologies to meet evolving infrastructural needs.</div>
+<div class="isomer-card-description">Design safe and sustainable structures and systems, and integrate resource-efficient
+technologies to meet evolving infrastructural needs.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a>
@@ -40,7 +40,7 @@ resource-efficient technologies to meet evolving infrastructural needs.</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Production Managers</div>
 <div class="isomer-card-description">Streamline manufacturing processes, oversee off-site production, and drive
-automation adoption to enhance efficiency in the construction industry.</div>
+automation adoption to enhance efficiency in the sector.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a>
