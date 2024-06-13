@@ -32,8 +32,7 @@ the <a href="https://www.skillsfuture.gov.sg/skills-framework/built-environment"
 <br>Looking for available job roles? Click <a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4>Additional resource links</h4>
 <p><a href="https://sia.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute of Architects</a>
-</p>
-<p><a href="https://www.boa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Board of Architects</a>
+<br><a href="https://www.boa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Board of Architects</a>
 </p>
 <h4>Explore other opportunities</h4>
 <p><a href="/civil-and-structural-electrical-mechanical-engineers/" rel="noopener noreferrer nofollow" target="_blank">Civil and Structural/Electrical/Mechanical Engineers</a> 
