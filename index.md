@@ -45,8 +45,7 @@ sections:
       title: The Building Blocks of Progress
       subtitle: EDUCATION & PROGRAMMES
       id: infopic
-      description: Develop the right skillsets with our curated selection of courses
-        and programmes.
+      description: Begin your journey with our curated selection of courses and programmes.
       button: FIND OUT MORE
       alt: Image alt text
       url: /full-time-courses/
