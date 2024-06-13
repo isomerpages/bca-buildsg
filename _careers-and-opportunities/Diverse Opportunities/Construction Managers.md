@@ -32,7 +32,7 @@ the <a href="https://www.skillsfuture.gov.sg/skills-framework/built-environment"
 <p>If you are a student, find out more about Built Environment courses
 <a href="/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>Looking for available job roles? Click <a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h4>Additional resource link:</h4>
+<h4>Additional resource link</h4>
 <p><a href="https://scal.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Contractors Association Limited (SCAL)</a>
 </p>
 <h4>Explore other opportunities</h4>
