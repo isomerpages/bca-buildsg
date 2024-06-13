@@ -58,22 +58,14 @@ reducing carbon footprint with every build. This has led to the emergence
 of greener materials and technologies that will build a better future for
 Singapore and for the world.</p>
 <p></p>
-<h3>Adopting Smart Technology</h3>
+<h3>Enabling Smart Buildings</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/so_smart_technology.png">
 </div>
-<p>Smart technology optimises operations. In addition to designing buildings
-with maintainability as a key consideration, the sector is aggregating
-facility management capabilities across buildings, in areas of:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Building automation</p>
-</li>
-<li>
-<p>Energy management systems</p>
-</li>
-<li>
-<p>Various cutting-edge advancements</p>
-</li>
-</ul>
-<p>&nbsp;</p>
+<p>Smart technology optimizes operations. Buildings are designed with ease
+of maintenance as a key consideration, using smart facility management
+technologies, such as robotics and automation, and intelligent building
+management systems.</p>
+<p>The sector is also increasingly integrating facility management services
+within each building, and aggregating services across buildings, to yield
+greater productivity and cost savings.</p>
