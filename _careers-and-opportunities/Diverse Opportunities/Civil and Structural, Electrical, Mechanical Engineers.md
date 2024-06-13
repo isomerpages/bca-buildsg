@@ -32,9 +32,10 @@ the <a href="https://www.skillsfuture.gov.sg/skills-framework/built-environment"
 <a href="/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>Looking for available job roles? Click <a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4>Additional resource links</h4>
-<p><a href="https://www.ies.org.sg/Home" rel="noopener noreferrer nofollow" target="_blank">The Institution of Engineers, Singapore</a> 
+<p><a href="https://aces.org.sg" class="x_x_OWAAutoLink" rel="noopener noreferrer nofollow" target="_blank"><u>The Association of Consulting Engineers Singapore</u></a>
+<br><a href="https://www.ies.org.sg/Home" rel="noopener noreferrer nofollow" target="_blank">The Institution of Engineers, Singapore</a> 
 <br><a href="https://www.ice.org.uk/about-us/what-we-do/ice-near-you/international/ice-south-east-asia" rel="noopener noreferrer nofollow" target="_blank">Institution of Civil Engineers, South East Asia </a>
-<br><a href="https://nearyou.imeche.org/near-you/south-east-asia/singapore" rel="noopener noreferrer nofollow" target="_blank">Institution of Mechanical Engineers, Singapore branch</a>
+<br><a href="https://www1.peb.gov.sg" class="x_x_OWAAutoLink" rel="noopener noreferrer nofollow" target="_blank"><u>Professional Engineers Board</u></a>
 </p>
 <h4>Explore other opportunities</h4>
 <p><a href="/architects/" rel="noopener noreferrer nofollow" target="_blank">Architects</a> 
