@@ -12,7 +12,7 @@ third_nav_title: Students
 <p>Are you a student curious about the Built Environment (BE) and the exciting
 careers it offers?</p>
 <p>The iBuildSG Club is for you! This BE-themed interest club is tailored
-for students from secondary schools, junior colleges, ITE, polytechnics
+for students from secondary schools, junior colleges, ITEs, polytechnics
 and universities.</p>
 <p>As a member, you will receive updates on the Club's activities and exclusive
 competitions just for members. Best of all, it’s free to join! Click
