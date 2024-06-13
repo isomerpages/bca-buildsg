@@ -11,8 +11,8 @@ third_nav_title: Diverse Opportunities
 </div>
 <p>A Production Manager oversees production of modules, complete with internal
 finishes, fixtures and fittings in an off-site production facility. You
-will also have to opportunity to re-design the manufacturing process into
-standard modules to facilitate mass production and automation.</p>
+will also have the opportunity to redesign manufacturing processes to facilitate
+mass production and automation.</p>
 <h4>Did you know?</h4>
 <ul data-tight="true" class="tight">
 <li>
