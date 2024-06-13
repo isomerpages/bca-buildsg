@@ -22,11 +22,11 @@ sections:
           url: /opportunities-to-shape-our-world/
       variant: image
   - infopic:
-      title: Shaping our Singapore
-      subtitle: THE BUILT ENVIRONMENT JOURNEY
+      title: Shaping Our Singapore
+      subtitle: OUR BUILT ENVIRONMENT JOURNEY
       id: infopic
-      description: From skyscrapers to green spaces, find out how the sector
-        transformed Singapore into a liveable and sustainable urban landscape.
+      description: From skyscrapers to eco-towns, find out how the sector transformed
+        Singapore into a liveable and sustainable urban landscape.
       button: FIND OUT MORE
       alt: Discover the Journey
       url: /what-is-built-environment-sector/
