@@ -57,8 +57,8 @@ advisory.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Facilities Management Company</div>
-<div class="isomer-card-description">Oversee the daily maintenance of buildings while ensuring building systems
-are optimised for long-term performance.</div>
+<div class="isomer-card-description">Oversee building operations while ensuring building systems are optimised
+and maintained for long-term performance.</div>
 </div>
 </div>
 <div class="isomer-card">
