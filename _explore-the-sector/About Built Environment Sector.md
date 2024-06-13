@@ -19,15 +19,17 @@ and upkeep Singapore’s buildings and infrastructures.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ets_towering_skyscrapers.png">
 </div>
 <p>From towering skyscrapers to meticulously planned residential and recreational
-areas, the BE sector is dedicated to design, plan and build spaces that
-residents and communities can live, work, and play in.</p>
+areas, the BE sector is dedicated to designing, planning and building spaces
+for communities to live, work, and play in.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sgbuid_01.png">
 </div>
-<p>Through Building Singapore (BuildSG) collectively as a sector, the Building
-and Construction Authority together with our partners, seek to build a
-more comfortable and sustainable future for Singapore.</p>
+<p>Collectively under the BuildSG initiative, the Building and Construction
+Authority and firms in the sector drive the transformation of Singapore’s
+built environment through leveraging digital tools to streamline construction
+processes and advanced green building practices, to build a vibrant, liveable
+and sustainable Singapore that meets the future demands of urban development.</p>
 <p></p>
 <p></p>
 <p></p>
