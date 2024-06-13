@@ -36,5 +36,5 @@ the <a href="https://www.skillsfuture.gov.sg/skills-framework/built-environment"
 <br><a href="/production-manager/" rel="noopener noreferrer nofollow" target="_blank">Production Manager</a> 
 <br><a href="/construction-managers/" rel="noopener noreferrer nofollow" target="_blank">Construction Managers</a> 
 <br><a href="/project-managers/" rel="noopener noreferrer nofollow" target="_blank">Project Managers</a> 
-<br><a href="/facility-managers/" rel="noopener noreferrer nofollow" target="_blank">Facility Managers</a>
+<br><a href="/facility-managers/" rel="noopener noreferrer nofollow" target="_blank">Facilities Managers</a>
 </p>
