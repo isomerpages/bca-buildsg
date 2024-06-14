@@ -24,7 +24,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_cet.png">
 </div>
-<p>Stay up-to-date with industry trends and pick up emerging skills in areas such as Collaborative Contracting, Carbon Management or Robotics &amp; Automation. Or  upskill yourself in the Built Environment transformation areas of Integrated Planning and Design (IPD), Advanced Manufacturing and Assembly (AMA), and Sustainable Urban Systems (SUS). Check out these built environment CET courses and more offered by local training providers today.</p>
+<p>Stay up-to-date with industry trends and pick up emerging skills in areas such as Collaborative Contracting, Carbon Management or Robotics &amp; Automation. Or  upskill yourself in the Built Environment transformation areas of Integrated Planning and Design (IPD), Advanced Manufacturing and Assembly (AMA), and Sustainable Urban Systems (SUS). Check out CET courses offered by local training providers today.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
