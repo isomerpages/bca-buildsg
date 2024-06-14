@@ -146,7 +146,7 @@ third_nav_title: Students
     </p>
   </li>
   <li>
-    <p>Diploma in <a href="https://www.bing.com/search?q=np+diploma+in+environmental+and+water+technology&amp;qs=n&amp;form=QBRE&amp;sp=-1&amp;lq=0&amp;pq=np+diploma+in+environmental&amp;sc=7-27&amp;sk=&amp;cvid=3340E1F725E04C1D9A89DB447B24D2CC&amp;ghsh=0&amp;ghacc=0&amp;ghpl=" rel="noopener noreferrer nofollow" target="_blank">Environmental and Water Technology</a>
+    <p>Diploma in <a href="https://www.np.edu.sg/schools-courses/academic-schools/school-of-life-sciences-chemical-technology/diploma-in-environmental-water-technology" rel="noopener noreferrer nofollow" target="_blank">Environmental and Water Technology</a>
     </p>
   </li>
 </ul>
