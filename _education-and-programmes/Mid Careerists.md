@@ -23,12 +23,12 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <p style="font-size: 1rem; line-height:1.5rem;"><strong>SkillsFuture Career Transition Programme</strong> 
-	<br><strong><em>More info <a target="_blank" href="#">here</a></em></strong>
+	<br><strong><em>More info <a target="_blank" href="https://www.skillsfuture.gov.sg/initiatives/mid-career/careertransition">here</a></em></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
 <p style="font-size: 1rem; line-height:1.5rem;"><strong>Career Conversion Programme</strong> 
-<br><strong><em>More info <a target="_blank" href="#">here</a></em></strong>
+<br><strong><em>More info <a target="_blank" href="https://www.wsg.gov.sg/home/individuals/attachment-placement-programmes/career-conversion-programmes-for-individuals">here</a></em></strong>
 </p>
 </th>
 </tr>
@@ -72,7 +72,7 @@ in their 40s and 50s to help them remain employable and access good jobs.</p>
 </li>
 </ul>
 <p style="font-size: 1rem; line-height:1.5rem;"> 
-	<br>Visit <a target="_blank" href="#">here</a> for more details on these courses.</p>
+	<br>Visit <a target="_blank" href="https://www.bcaa.edu.sg/what-we-offer/academic-programmes/skillsfuture-career-transition-programmes-(sctp)">here</a> for more details on these courses.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
