@@ -7,7 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ep_masthead_mid_careerists.png">
 </div>
-<p>With such diverse roles in the Built Environment (BE) sector, there will be plenty of opportunities to try a different role or upskill your competencies.  Be inspired by  how others have done it via their stories.</p>
+<p>With such diverse roles in the Built Environment (BE) sector, there will be plenty of opportunities to try a different role or upskill your competencies.  Be inspired by  how others have done it via their <a target="_blank" href="/crafting-concrete-dreams-in-civil-engineering/">stories</a>.</p>
 <p>Find out how you can make a mid-career switch via the Career Conversion Programme (CCP) or the SkillsFuture Career Transition Programme (SCTP).
 </p><br>
 <table style="width: 100%;">
