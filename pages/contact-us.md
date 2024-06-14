@@ -5,11 +5,11 @@ permalink: /contact-us/
 agency_name: Building and Construction Authority
 contacts:
   - content:
-      - phone: +65 6534 0219
+      - phone: ""
       - email: ""
       - other: 'For general enquiries / feedback, please use our <a style="font-weight:
           normal;text-decoration: underline;" rel="noopener noreferrer nofollow"
           target="_self" href="#">online feedback form</a>.'
     title: 1800-3425-222 (1800-DIAL-BCA)
-feedback: ""
+feedback: https://www2.bca.gov.sg/feedback/
 ---
