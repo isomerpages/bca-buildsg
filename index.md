@@ -27,7 +27,7 @@ sections:
       id: infopic
       description: From skyscrapers to eco-towns, find out how the sector transformed
         Singapore into a liveable and sustainable urban landscape.
-      button: FIND OUT MORE
+      button: LEARN MORE
       alt: Discover the Journey
       url: /about-built-environment-sector/
       image: /images/hp_shaping_our_singapore.png
@@ -37,7 +37,7 @@ sections:
       id: infopic
       description: How would you shape Singapore’s landscape? Unlock career
         opportunities to turn your vision into reality.
-      button: FIND OUT MORE
+      button: LEARN MORE
       alt: A Diverse Career Paths
       url: /careers-that-build-our-landscape/
       image: /images/hp_why_join_us.png
@@ -46,7 +46,7 @@ sections:
       subtitle: EDUCATION & PROGRAMMES
       id: infopic
       description: Begin your journey with our curated selection of courses and programmes.
-      button: FIND OUT MORE
+      button: LEARN MORE
       alt: Image alt text
       url: /full-time-courses/
       image: /images/hp_education_programmes.png
@@ -56,7 +56,7 @@ sections:
       id: infopic
       description: Curious to know more? Hear the motivation, passion and journeys of
         our people.
-      button: FIND OUT MORE
+      button: LEARN MORE
       url: /crafting-concrete-dreams-in-civil-engineering/
       alt: Image alt text
       image: /images/hp_our_stories.png
