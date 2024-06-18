@@ -2,7 +2,7 @@ collections:
   careers-and-opportunities:
     output: true
     order:
-      - Careers that Build our Landscape.md
+      - Careers that Build with our Landscape.md
       - Diverse Opportunities/.keep
       - Diverse Opportunities/Opportunities to Shape our World.md
       - Diverse Opportunities/Architects.md
