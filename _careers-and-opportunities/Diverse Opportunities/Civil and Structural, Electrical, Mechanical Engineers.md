@@ -45,4 +45,5 @@ the <a href="https://www.skillsfuture.gov.sg/skills-framework/built-environment"
 <br><a href="/project-managers/" rel="noopener noreferrer nofollow" target="_blank">Project Managers</a> 
 <br><a href="/digital-delivery-managers/" rel="noopener noreferrer nofollow" target="_blank">Digital Delivery Managers</a> 
 <br><a href="/facility-managers/" rel="noopener noreferrer nofollow" target="_blank">Facilities Managers</a>
+<br><a href="/sustainability-consultants/" rel="noopener noreferrer nofollow" target="_blank">Sustainability Consultants</a>
 </p>
