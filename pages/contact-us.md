@@ -7,10 +7,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: 'For general enquiries / feedback, please use our <a style="font-weight:
-          normal;text-decoration: underline;" rel="noopener noreferrer nofollow"
-          target="_blank" href="https://www2.bca.gov.sg/feedback/">online
-          feedback form</a>.'
+      - other: ""
     title: 1800-3425-222 (1800-DIAL-BCA)
 feedback: https://www2.bca.gov.sg/feedback/
 ---
