@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Careers that Build with our Landscape.md
-      - Diverse Opportunities/Sustainability Consultants.md
       - Diverse Opportunities/.keep
       - Diverse Opportunities/Opportunities to Shape our World.md
       - Diverse Opportunities/Architects.md
@@ -15,3 +14,4 @@ collections:
       - Diverse Opportunities/Project Managers.md
       - Diverse Opportunities/Digital Delivery Managers.md
       - Diverse Opportunities/Facilities Managers.md
+      - Diverse Opportunities/Sustainability Consultants.md
