@@ -134,6 +134,6 @@ cost savings and energy efficiency across the building's lifecycle, while
 maintaining and operating facilities at optimal performance levels.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/sustainability-consultants/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sustainability Consultants" src="/images/do_roles_sustainability_managers.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sustainability Consultants</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/sustainability-consultants/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sustainability Consultants" src="/images/do_roles_sustainability_managers.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sustainability Consultants</div><div class="isomer-card-description">Collaborates with architects and engineers to blend diverse expertise, achieving sustainable building design and construction.</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
 <p></p>
