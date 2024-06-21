@@ -229,10 +229,10 @@ third_nav_title: Students
 <h4 id="full-time-ite">Full-time ITE courses</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite_central.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite_logo.png">
 </div>
 <div>
-  <strong>ITE College Central</strong>
+  <strong>Institute of Technical Education </strong>
 </div>
 <ul data-tight="true" class="tight">
   <li>
@@ -243,14 +243,6 @@ third_nav_title: Students
     <p>Higher NITEC in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-mechanical-engineering" rel="noopener noreferrer nofollow" target="_blank">Mechanical Engineering</a>
     </p>
   </li>
-</ul>
-<div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite_east.jpg">
-</div>
-<div>
-  <strong>ITE College East</strong>
-</div>
-<ul data-tight="true" class="tight">
   <li>
     <p>Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-mechanical-technology" rel="noopener noreferrer nofollow" target="_blank">Mechanical Technology</a>
     </p>
@@ -275,14 +267,6 @@ third_nav_title: Students
     <p>Higher NITEC in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-mechanical-engineering" rel="noopener noreferrer nofollow" target="_blank">Mechanical Engineering</a>
     </p>
   </li>
-</ul>
-<div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite_west.jpg">
-</div>
-<div>
-  <strong>ITE College West</strong>
-</div>
-<ul data-tight="true" class="tight">
   <li>
     <p>Higher NITEC in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-electrical-engineering" rel="noopener noreferrer nofollow" target="_blank">Electrical Engineering</a>
     </p>
