@@ -78,8 +78,8 @@ maintaining and operating facilities at optimal performance levels.</div>
 </div>
 <p></p>
 <hr>
-<p>In preparation for the addition of Sustainability Consultants. Kindly
-ignore for now.</p>
+<p>Please let us know if you're good with this three-column layout before
+we remove the two-column one. Thank you.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/architects/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Architects" src="/images/do_roles_architects.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Architects</div><div class="isomer-card-description">Create enduring buildings, shape urban landscapes, and leverage on technology to meet modern design challenges.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/civil-and-structural-electrical-mechanical-engineers/" class="isomer-card">
