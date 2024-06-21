@@ -16,4 +16,4 @@ stuck with me."</p>
 <p>Inspired by his childhood wonder, Shanmuganathan Kumaraval pursued civil
 engineering to fuse the beauty of mathematics with the practicality of
 physics to solve real-world challenges.</p>
-<p>Read more about Shan’s journey toward fulfilling his dream <a href="https://wppcloud-my.sharepoint.com/personal/randy_abing_wundermanthompson_com1/Documents/0015 BCA/0003 Campaign Microsite Development/Microsite Development/et.np.edu.sg/courses/work-study-post-diploma-specialist-diploma-in-sustainable-facilities-management-fm-engineering/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Read more about Shan’s journey toward fulfilling his dream <a href="https://brightsparks.com.sg/article.php?title=crafting-concrete-dreams-in-civil-engineering" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
