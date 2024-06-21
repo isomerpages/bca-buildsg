@@ -240,23 +240,23 @@ third_nav_title: Students
     </p>
   </li>
 	  <li>
-    <p>Higher NITEC in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-architectural-technology" rel="noopener noreferrer nofollow" target="_blank">Architectural Technology</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-architectural-technology" rel="noopener noreferrer nofollow" target="_blank">Architectural Technology</a>
     </p>
   </li>
 	  <li>
-    <p>Higher NITEC in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-civil-and-structural-engineering-design" rel="noopener noreferrer nofollow" target="_blank">Civil &amp; Structural Engineering Design</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-civil-and-structural-engineering-design" rel="noopener noreferrer nofollow" target="_blank">Civil &amp; Structural Engineering Design</a>
     </p>
   </li>
 	  <li>
-    <p>Higher NITEC in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-electrical-engineering" rel="noopener noreferrer nofollow" target="_blank">Electrical Engineering</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-electrical-engineering" rel="noopener noreferrer nofollow" target="_blank">Electrical Engineering</a>
     </p>
   </li>
 	  <li>
-    <p>Higher NITEC in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-integrated-mechanical-and-electrical-design" rel="noopener noreferrer nofollow" target="_blank">Integrated Mechanical &amp; Electrical Design</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-integrated-mechanical-and-electrical-design" rel="noopener noreferrer nofollow" target="_blank">Integrated Mechanical &amp; Electrical Design</a>
     </p>
   </li>
 	  <li>
-    <p>Higher NITEC in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-mechanical-engineering" rel="noopener noreferrer nofollow" target="_blank">Mechanical Engineering</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-mechanical-engineering" rel="noopener noreferrer nofollow" target="_blank">Mechanical Engineering</a>
     </p>
   </li>
 </ul>
