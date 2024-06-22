@@ -41,7 +41,7 @@ the <a href="https://www.skillsfuture.gov.sg/skills-framework/built-environment"
 <p><a href="/architects/" rel="noopener noreferrer nofollow" target="_blank">Architects</a>
 <br><a href="https://staging-lite.d3ipqo60t5igw8.amplifyapp.com/civil-and-structural-electrical-mechanical-engineers/" rel="noopener noreferrer nofollow" target="_blank"><u>Civil and Structural/Electrical/Mechanical Engineers</u></a>
 <br><a href="/quantity-surveyors/" rel="noopener noreferrer nofollow" target="_blank">Quantity Surveyors</a> 
-<br><a href="/production-manager/" rel="noopener noreferrer nofollow" target="_blank">Production Manager</a> 
+<br><a href="/production-managers/" rel="noopener noreferrer nofollow" target="_blank">Production Managers</a> 
 <br><a href="/construction-managers/" rel="noopener noreferrer nofollow" target="_blank">Construction Managers</a> 
 <br><a href="/project-managers/" rel="noopener noreferrer nofollow" target="_blank">Project Managers</a> 
 <br><a href="/digital-delivery-managers/" rel="noopener noreferrer nofollow" target="_blank">Digital Delivery Managers</a> 
