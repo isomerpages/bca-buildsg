@@ -162,11 +162,7 @@ third_nav_title: Students
     </p>
   </li>
   <li>
-    <p>Diploma in <a href="https://www.rp.edu.sg/SEG/full-time-diplomas/Details/r50" rel="noopener noreferrer nofollow" target="_blank">Electrical and Electronic Engineering</a>
-    </p>
-  </li>
-  <li>
-    <p>Diploma in <a href="https://www.rp.edu.sg/SEG/full-time-diplomas/Details/r54" rel="noopener noreferrer nofollow" target="_blank">Engineering Systems and Management</a>
+    <p>Diploma in <a href="https://www.rp.edu.sg/SEG/full-time-diplomas/Details/diploma-in-electrical-and-electronic-engineering" rel="noopener noreferrer nofollow" target="_blank">Electrical and Electronic Engineering</a>
     </p>
   </li>
 </ul>
