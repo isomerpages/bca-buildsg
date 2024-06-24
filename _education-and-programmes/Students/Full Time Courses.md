@@ -225,7 +225,7 @@ third_nav_title: Students
 <h4 id="full-time-ite">Full-time ITE courses</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite_logo.png">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite_logo_new.png">
 </div>
 <div>
   <strong>Institute of Technical Education </strong>
