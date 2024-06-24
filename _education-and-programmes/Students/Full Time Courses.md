@@ -29,7 +29,7 @@ third_nav_title: Students
 </ul>
 <h4 id="full-time-uni">Full-time University Courses</h4>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ntu.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_ntu.png">
 </div>
 <div>
   <strong>Nanyang Technological University</strong>
@@ -45,7 +45,7 @@ third_nav_title: Students
   </li>
 </ul>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_nus.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_nus.png">
 </div>
 <div>
   <strong>National University of Singapore</strong>
@@ -73,7 +73,7 @@ third_nav_title: Students
   </li>
 </ul>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_sit.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_sit.png">
 </div>
 <div>
   <strong>Singapore Institute of Technology</strong>
@@ -85,7 +85,7 @@ third_nav_title: Students
   </li>
 </ul>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_sutd.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_sutd.png">
 </div>
 <div>
   <strong>Singapore University of Technology and Design</strong>
@@ -107,7 +107,7 @@ third_nav_title: Students
 <h4 id="full-time-poly">Full-time Polytechnic Courses</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_nanyang_poly.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_nyp.png">
 </div>
 <div>
   <strong>Nanyang Polytechnic</strong>
@@ -119,7 +119,7 @@ third_nav_title: Students
   </li>
 </ul>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ngeean.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_nap.png">
 </div>
 <div>
   <strong>Ngee Ann Polytechnic</strong>
@@ -151,7 +151,7 @@ third_nav_title: Students
   </li>
 </ul>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_reppoly.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_rp.png">
 </div>
 <div>
   <strong>Republic Polytechnic</strong>
@@ -167,7 +167,7 @@ third_nav_title: Students
   </li>
 </ul>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_sg_poly.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_sp.png">
 </div>
 <div>
   <strong>Singapore Polytechnic</strong>
@@ -203,7 +203,7 @@ third_nav_title: Students
   </li>
 </ul>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_tema_poly.jpg">
+  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_temasek.png">
 </div>
 <div>
   <strong>Temasek Polytechnic</strong>
