@@ -9,7 +9,7 @@ notification: Please beware of phishing or scam attempts. BCA will neer ask or
   phone messages.
 sections:
   - hero:
-      background: /images/hp_masthead.png
+      background: /images/hp_masthead_new.jpg
       key_highlights:
         - title: About Us
           description: Know more about what we do
