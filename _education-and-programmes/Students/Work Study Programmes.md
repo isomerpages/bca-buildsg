@@ -14,7 +14,7 @@ third_nav_title: Students
 </p>
 <h4>Work Study Programmes</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 167px; height: 67px; text-align: left; display: inline;" height="67" width="164" alt="" src="/images/school_bca_academy_v2.png">
+<img style="width: 270px; height: 68px; text-align: left; display: inline;" height="68" width="270" alt="" src="/images/school_bcaa.png">
 </div>
 <div><strong>BCA Academy</strong></div>
 <ul data-tight="true" class="tight">
