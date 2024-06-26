@@ -14,7 +14,7 @@ third_nav_title: Students
 </p>
 <h4>Work Study Programmes</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 167px; height: 67px; text-align: left; display: inline;" height="67" width="164" alt="" src="/images/school_bca_academy.png">
+<img style="width: 167px; height: 67px; text-align: left; display: inline;" height="67" width="164" alt="" src="/images/school_bca_academy_v2.png">
 </div>
 <div><strong>BCA Academy</strong></div>
 <ul data-tight="true" class="tight">
@@ -75,7 +75,7 @@ third_nav_title: Students
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_sp_v2.png">
+<img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_sp.png">
 </div>
 <div><strong>Singapore Polytechnic</strong></div>
 <ul data-tight="true" class="tight">
