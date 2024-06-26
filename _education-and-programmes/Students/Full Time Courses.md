@@ -36,11 +36,7 @@ third_nav_title: Students
 </div>
 <ul data-tight="true" class="tight">
   <li>
-    <p>Bachelor of Engineering: <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-civil-engineering" rel="noopener noreferrer nofollow" target="_blank">Civil</a>
-    </p>
-  </li>
-  <li>
-    <p>Bachelor of Engineering: <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-electrical-and-electronic-engineering-(eee)" rel="noopener noreferrer nofollow" target="_blank">Electrical and Electronic</a>, <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-environmental-engineering" rel="noopener noreferrer nofollow" target="_blank">Environmental</a>, <a href="https://www.ntu.edu.sg/mae/admissions/undergraduate-programmes/detail/bachelor-of-engineering-in-mechanical-engineering" rel="noopener noreferrer nofollow" target="_blank">Mechanical</a>
+    <p>Bachelor of Engineering: <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-civil-engineering" rel="noopener noreferrer nofollow" target="_blank">Civil</a>, <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-electrical-and-electronic-engineering-(eee)" rel="noopener noreferrer nofollow" target="_blank">Electrical</a>, <a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-environmental-engineering" rel="noopener noreferrer nofollow" target="_blank">Environmental</a>, <a href="https://www.ntu.edu.sg/mae/admissions/undergraduate-programmes/detail/bachelor-of-engineering-in-mechanical-engineering" rel="noopener noreferrer nofollow" target="_blank">Mechanical</a>
     </p>
   </li>
 </ul>
@@ -51,6 +47,10 @@ third_nav_title: Students
   <strong>National University of Singapore</strong>
 </div>
 <ul data-tight="true" class="tight">
+	  <li>
+    <p>Bachelor of Arts: <a href="https://cde.nus.edu.sg/arch/programmes/bachelor-of-arts-in-architecture/" rel="noopener noreferrer nofollow" target="_blank">Architecture</a>
+    </p>
+  </li>
   <li>
     <p>Bachelor of Engineering: <a href="https://cde.nus.edu.sg/cee/undergraduate/beng-civil/" rel="noopener noreferrer nofollow" target="_blank">Civil</a>, <a href="https://cde.nus.edu.sg/dbe/introduction-1-1/" rel="noopener noreferrer nofollow" target="_blank">Infrastructure &amp; Project Management</a>
     </p>
@@ -59,10 +59,7 @@ third_nav_title: Students
     <p>Bachelor of Science: <a href="https://bschool.nus.edu.sg/real-estate/bsc/" rel="noopener noreferrer nofollow" target="_blank">Real Estate&nbsp;</a>
     </p>
   </li>
-  <li>
-    <p>Master of <a href="https://cde.nus.edu.sg/arch/programmes/master-of-architecture/" rel="noopener noreferrer nofollow" target="_blank">Architecture</a>
-    </p>
-  </li>
+
   <li>
     <p>Bachelor of Engineering: <a href="https://cde.nus.edu.sg/ece/undergraduate/what-is-ece/" rel="noopener noreferrer nofollow" target="_blank">Electrical</a>, <a href="https://cde.nus.edu.sg/cee/undergraduate/beng-env/" rel="noopener noreferrer nofollow" target="_blank">Environmental</a>, <a href="https://cde.nus.edu.sg/me/undergraduate/beng-me/overview/" rel="noopener noreferrer nofollow" target="_blank">Mechanical</a>
     </p>
