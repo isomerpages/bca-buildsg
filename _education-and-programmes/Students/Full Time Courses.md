@@ -52,20 +52,11 @@ third_nav_title: Students
     </p>
   </li>
   <li>
-    <p>Bachelor of Engineering: <a href="https://cde.nus.edu.sg/cee/undergraduate/beng-civil/" rel="noopener noreferrer nofollow" target="_blank">Civil</a>, <a href="https://cde.nus.edu.sg/dbe/introduction-1-1/" rel="noopener noreferrer nofollow" target="_blank">Infrastructure &amp; Project Management</a>
+    <p>Bachelor of Engineering: <a href="https://cde.nus.edu.sg/cee/undergraduate/beng-civil/" rel="noopener noreferrer nofollow" target="_blank">Civil</a>, <a href="https://cde.nus.edu.sg/dbe/introduction-1-1/" rel="noopener noreferrer nofollow" target="_blank">Infrastructure &amp; Project Management</a>, <a href="https://cde.nus.edu.sg/ece/undergraduate/what-is-ece/" rel="noopener noreferrer nofollow" target="_blank">Electrical</a>, <a href="https://cde.nus.edu.sg/cee/undergraduate/beng-env/" rel="noopener noreferrer nofollow" target="_blank">Environmental</a>, <a href="https://cde.nus.edu.sg/me/undergraduate/beng-me/overview/" rel="noopener noreferrer nofollow" target="_blank">Mechanical</a>
     </p>
   </li>
   <li>
     <p>Bachelor of Science: <a href="https://bschool.nus.edu.sg/real-estate/bsc/" rel="noopener noreferrer nofollow" target="_blank">Real Estate&nbsp;</a>
-    </p>
-  </li>
-
-  <li>
-    <p>Bachelor of Engineering: <a href="https://cde.nus.edu.sg/ece/undergraduate/what-is-ece/" rel="noopener noreferrer nofollow" target="_blank">Electrical</a>, <a href="https://cde.nus.edu.sg/cee/undergraduate/beng-env/" rel="noopener noreferrer nofollow" target="_blank">Environmental</a>, <a href="https://cde.nus.edu.sg/me/undergraduate/beng-me/overview/" rel="noopener noreferrer nofollow" target="_blank">Mechanical</a>
-    </p>
-  </li>
-  <li>
-    <p>Bachelor of <a href="https://cde.nus.edu.sg/arch/programmes/bachelor-of-landscape-architecture/" rel="noopener noreferrer nofollow" target="_blank">Landscape Architecture</a>
     </p>
   </li>
 </ul>
@@ -77,7 +68,7 @@ third_nav_title: Students
 </div>
 <ul data-tight="true" class="tight">
   <li>
-    <p>Bachelor of Engineering: <a href="https://www.singaporetech.edu.sg/undergraduate-programmes/civil-engineering" rel="noopener noreferrer nofollow" target="_blank">Civil</a>, <a href="https://www.singaporetech.edu.sg/node/2567" rel="noopener noreferrer nofollow" target="_blank">Sustainable Infrastructure Engineering (Building Services)</a>
+    <p>Bachelor of Engineering: <a href="https://www.singaporetech.edu.sg/undergraduate-programmes/civil-engineering" rel="noopener noreferrer nofollow" target="_blank">Civil</a>, <a href="https://www.singaporetech.edu.sg/undergraduate-programmes/sustainable-built-environment" rel="noopener noreferrer nofollow" target="_blank">Sustainable Built Environment</a>
     </p>
   </li>
 </ul>
@@ -93,7 +84,7 @@ third_nav_title: Students
     </p>
   </li>
   <li>
-    <p>Master of <a href="https://asd.sutd.edu.sg/programme/master-of-architecture/" rel="noopener noreferrer nofollow" target="_blank">Architecture</a>
+    <p>Bachelor of Engineering: <a href="https://epd.sutd.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Engineering Product Development</a>
     </p>
   </li>
 </ul>
@@ -158,10 +149,7 @@ third_nav_title: Students
     <p>Diploma in <a href="https://www.rp.edu.sg/SEG/full-time-diplomas/Details/diploma-in-sustainable-built-environment" rel="noopener noreferrer nofollow" target="_blank">Sustainable Built Environment</a>
     </p>
   </li>
-  <li>
-    <p>Diploma in <a href="https://www.rp.edu.sg/SEG/full-time-diplomas/Details/diploma-in-electrical-and-electronic-engineering" rel="noopener noreferrer nofollow" target="_blank">Electrical and Electronic Engineering</a>
-    </p>
-  </li>
+
 </ul>
 <div class="isomer-image-wrapper">
   <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_sp.png">
