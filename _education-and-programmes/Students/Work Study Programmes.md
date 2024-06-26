@@ -75,7 +75,7 @@ third_nav_title: Students
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_sp.png">
+<img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_sp_v2.png">
 </div>
 <div><strong>Singapore Polytechnic</strong></div>
 <ul data-tight="true" class="tight">
