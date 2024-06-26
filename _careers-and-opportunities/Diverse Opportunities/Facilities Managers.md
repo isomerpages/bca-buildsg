@@ -22,8 +22,8 @@ data or data from other similar buildings to achieve more efficient resource
 deployment.</p>
 </li>
 <li>
-<p>To accelerate decarbonisation efforts, Facility Managers collaborate with
-supply chain leads to optimise energy performance and achieve sustained
+<p>To accelerate decarbonisation efforts, Facilities Managers collaborate
+with supply chain leads to optimise energy performance and achieve sustained
 low emissions in buildings and districts.</p>
 </li>
 </ul>
