@@ -95,7 +95,7 @@ third_nav_title: Students
 <h4 id="full-time-poly">Full-time Polytechnic Courses</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-  <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_nyp.png">
+  <img style="width: 234px; height: 104px;text-align: left; display: inline;" height="104" width="234" alt="" src="/images/school_nyp.png">
 </div>
 <div>
   <strong>Nanyang Polytechnic</strong>
