@@ -30,7 +30,7 @@ third_nav_title: Students
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite.png">
+<img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ite_logo_new.png">
 </div>
 <div><strong>Institute of Technical Education</strong></div>
 <ul data-tight="true" class="tight">
@@ -52,7 +52,7 @@ third_nav_title: Students
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_nanyang_poly.jpg">
+<img style="width: 234px; height: 104px; text-align: left; display: inline;" height="104" width="234" alt="" src="/images/school_nyp.png">
 </div>
 <div><strong>Nanyang Polytechnic</strong></div>
 <ul data-tight="true" class="tight">
@@ -65,7 +65,7 @@ third_nav_title: Students
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_ngeean.jpg">
+<img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_nap.png">
 </div>
 <div><strong>Ngee Ann Polytechnic</strong></div>
 <ul data-tight="true" class="tight">
@@ -75,7 +75,7 @@ third_nav_title: Students
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/full_time_sg_poly.jpg">
+<img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_sp.png">
 </div>
 <div><strong>Singapore Polytechnic</strong></div>
 <ul data-tight="true" class="tight">
