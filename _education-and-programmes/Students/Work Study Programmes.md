@@ -89,7 +89,7 @@ third_nav_title: Students
 <div><strong>Temasek Polytechnic</strong></div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skillsfuture-work-study-programme/post-diploma/work-study-post-diploma-specialist-diploma-in-sustainable-built-environment.html" rel="noopener noreferrer nofollow" target="_blank">Sustainabe Built Environment</a>)</p>
+<p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skillsfuture-work-study-programme/post-diploma/work-study-post-diploma-specialist-diploma-in-sustainable-built-environment.html" rel="noopener noreferrer nofollow" target="_blank">Sustainable Built Environment</a>)</p>
 </li>
 	<li>
 <p>TP-BCAA&nbsp;Work-Study Post&nbsp;Diploma (Specialist Diploma in <a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skillsfuture-work-study-programme/post-diploma/tp-bcaa-work-study-post-diploma-specialist-diploma-in-bim-construction-and-asset-management.html" rel="noopener noreferrer nofollow" target="_blank">Building Information Modelling (BIM) Construction &amp; Asset Management</a>)</p>
