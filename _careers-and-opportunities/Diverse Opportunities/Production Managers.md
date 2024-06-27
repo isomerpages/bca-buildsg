@@ -38,7 +38,7 @@ the <a href="https://www.skillsfuture.gov.sg/skills-framework/built-environment"
 <h4>Explore other opportunities</h4>
 <p><a href="/architects/" rel="noopener noreferrer nofollow" target="_blank">Architects</a> 
 <br><a href="/civil-and-structural-electrical-mechanical-engineers/" rel="noopener noreferrer nofollow" target="_blank"><u>Civil and Structural/Electrical/Mechanical Engineers</u></a> 
-<br><a href="https://cms.isomer.gov.sg/quantity-surveyors-cost-consultants/" rel="noopener noreferrer nofollow" target="_blank"><u>Quantity Surveyors/Cost Consultants</u></a> 
+<br><a href="/quantity-surveyors-cost-consultants/" rel="noopener noreferrer nofollow" target="_blank">Quantity Surveyors/Cost Consultants</a> 
 <br><a href="/construction-managers/" rel="noopener noreferrer nofollow" target="_blank">Construction Managers</a> 
 <br><a href="/project-managers/" rel="noopener noreferrer nofollow" target="_blank">Project Managers</a> 
 <br><a href="/digital-delivery-managers/" rel="noopener noreferrer nofollow" target="_blank">Digital Delivery Managers</a> 
