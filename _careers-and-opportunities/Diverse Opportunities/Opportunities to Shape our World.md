@@ -26,7 +26,7 @@ to make a tangible impact on Singapore’s vibrant urban landscape.</p>
 technologies to meet evolving infrastructural needs.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/quantity-surveyors/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Quantity Surveyors" src="/images/do_roles_quantity_surveyors.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Quantity Surveyors</div><div class="isomer-card-description">Advise on construction costs and contracts from planning to completion, and ensure projects stay within budget with the help of digital solutions.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/quantity-surveyors-cost-consultants/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Quantity Surveyors / Cost Consultants" src="/images/do_roles_quantity_surveyors.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Quantity Surveyors / Cost Consultants</div><div class="isomer-card-description">Advise on construction costs and contracts from planning to completion, and ensure projects stay within budget with the help of digital solutions.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/production-manager/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
