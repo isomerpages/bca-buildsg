@@ -83,6 +83,18 @@ third_nav_title: Students
 <p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.sp.edu.sg/pace/courses/all-courses/course-details/work-study-post-diploma-(specialist-diploma-in-building-information-modelling-management)" rel="noopener noreferrer nofollow" target="_blank">Building Information Modelling Management</a>)</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 180px; height: 80px; text-align: left; display: inline;" height="80" width="180" alt="" src="/images/school_temasek.png">
+</div>
+<div><strong>Temasek Polytechnic</strong></div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skillsfuture-work-study-programme/post-diploma/work-study-post-diploma-specialist-diploma-in-sustainable-built-environment.html" rel="noopener noreferrer nofollow" target="_blank">Sustainabe Built Environment</a>)</p>
+</li>
+	<li>
+<p>TP-BCAA&nbsp;Work-Study Post&nbsp;Diploma (Specialist Diploma in <a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skillsfuture-work-study-programme/post-diploma/tp-bcaa-work-study-post-diploma-specialist-diploma-in-bim-construction-and-asset-management.html" rel="noopener noreferrer nofollow" target="_blank">Building Information Modelling (BIM) Construction &amp; Asset Management</a>)</p>
+</li>
+</ul>
 <p><a href="#study-top" rel="noopener noreferrer nofollow" target="_self">Back to Top</a>
 </p>
 <p></p>
