@@ -202,6 +202,10 @@ third_nav_title: Students
     <p>Diploma in <a href="https://www.tp.edu.sg/schools-and-courses/students/schools/eng/integrated-facility-management.html" rel="noopener noreferrer nofollow" target="_blank">Integrated Facility Management</a>
     </p>
   </li>
+	  <li>
+    <p>Diploma in <a href="https://www.tp.edu.sg/schools-and-courses/students/schools/des/interior-architecture-design.html" rel="noopener noreferrer nofollow" target="_blank">Interior Architecture &amp; Design</a>
+    </p>
+  </li>
 </ul>
 <p>
   <a href="#uni-top" rel="noopener noreferrer nofollow" target="_self">Back to Top</a>
