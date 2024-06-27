@@ -94,6 +94,9 @@ third_nav_title: Students
 	<li>
 <p>TP-BCAA&nbsp;Work-Study Post&nbsp;Diploma (Specialist Diploma in <a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skillsfuture-work-study-programme/post-diploma/tp-bcaa-work-study-post-diploma-specialist-diploma-in-bim-construction-and-asset-management.html" rel="noopener noreferrer nofollow" target="_blank">Building Information Modelling (BIM) Construction &amp; Asset Management</a>)</p>
 </li>
+		<li>
+<p>Work-Study Post Diploma <a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skillsfuture-work-study-programme/post-diploma/work-study-post-diploma-specialist-diploma-in-lighting-design.html" rel="noopener noreferrer nofollow" target="_blank"> (Specialist Diploma in Lighting Design</a>)</p>
+</li>
 </ul>
 <p><a href="#study-top" rel="noopener noreferrer nofollow" target="_self">Back to Top</a>
 </p>
