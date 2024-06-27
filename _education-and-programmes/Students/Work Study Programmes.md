@@ -97,6 +97,10 @@ third_nav_title: Students
 		<li>
 <p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skillsfuture-work-study-programme/post-diploma/work-study-post-diploma-specialist-diploma-in-lighting-design.html" rel="noopener noreferrer nofollow" target="_blank">Lighting Design</a>)</p>
 </li>
+	
+		<li>
+<p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skillsfuture-work-study-programme/post-diploma/work-study-post-diploma-sd-in-environmental-technology-and-energy-sustainability.html" rel="noopener noreferrer nofollow" target="_blank">Environmental Technology &amp; Energy Sustainability</a>)</p>
+</li>
 </ul>
 <p><a href="#study-top" rel="noopener noreferrer nofollow" target="_self">Back to Top</a>
 </p>
