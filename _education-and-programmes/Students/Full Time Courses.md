@@ -240,6 +240,10 @@ third_nav_title: Students
     <p>Higher Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-mechanical-engineering" rel="noopener noreferrer nofollow" target="_blank">Mechanical Engineering</a>
     </p>
   </li>
+		  <li>
+    <p>Technical Engineer Diploma in <a href="https://www.ite.edu.sg/courses/course-finder/course/technical-engineer-diploma-in-civil-structural-engineering" rel="noopener noreferrer nofollow" target="_blank">Civil &amp; Structural Engineering</a>
+    </p>
+  </li>
 </ul>
 <p>
   <a href="#uni-top" rel="noopener noreferrer nofollow" target="_self">Back to Top</a>
