@@ -56,9 +56,10 @@ third_nav_title: Students
     </p>
   </li>
   <li>
-    <p>Bachelor of Science: <a href="https://bschool.nus.edu.sg/real-estate/bsc/" rel="noopener noreferrer nofollow" target="_blank">Real Estate&nbsp;</a>
+    <p>Bachelor of Business Administration: <a href="https://bschool.nus.edu.sg/real-estate/bsc/" rel="noopener noreferrer nofollow" target="_blank">Real Estate&nbsp;</a>
     </p>
   </li>
+	
 </ul>
 <div class="isomer-image-wrapper">
   <img style="width: 180px; height: 80px;text-align: left; display: inline;" height="80" width="180" alt="" src="/images/schools_sit.png">
