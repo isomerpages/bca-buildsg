@@ -9,20 +9,21 @@ third_nav_title: Diverse Opportunities
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/do_masthead_quantity_surveyors.png">
 </div>
-<p>As a Quantity Surveyor, you will advise construction costs and contracts
-from project planning to the construction phase. You will also be responsible
-for establishing the project budget and ensuring the project is completed
-within budget.</p>
+<p>As a Quantity Surveyor / Cost Consultant, you will advise construction
+costs and contracts from project planning to the construction phase. You
+will also be responsible for establishing the project budget and ensuring
+the project is completed within budget.</p>
 <h4>Did you know?</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Quantity Surveyors can extract the approximate quantities for cost budgeting
-using 3D models created in Building Information Modelling (BIM).</p>
+<p>Quantity Surveyors / Cost Consultants can extract the approximate quantities
+for cost budgeting using 3D models created in Building Information Modelling
+(BIM).</p>
 </li>
 <li>
-<p>Quantity Surveyors are key in advocating for Collaborative Contracting,
-a progressive contract administration approach where all stakeholders work
-towards a common set of project goals.</p>
+<p>Quantity Surveyors / Cost Consultants are key in advocating for Collaborative
+Contracting, a progressive contract administration approach where all stakeholders
+work towards a common set of project goals.</p>
 </li>
 </ul>
 <p>To learn more about the key work tasks and skills required, check out
