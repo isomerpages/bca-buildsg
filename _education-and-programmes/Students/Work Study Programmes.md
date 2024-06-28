@@ -57,10 +57,10 @@ third_nav_title: Students
 <div><strong>Nanyang Polytechnic</strong></div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.nyp.edu.sg/schools/sdm/lifelong-learning/specialist-diploma-in-smart-project-and-facilities-management.html" rel="noopener noreferrer nofollow" target="_blank">Smart Project and Facilities Management</a>)</p>
+<p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.nyp.edu.sg/adult-learner/course-detail/NYP-DXSP01/specialist-diploma-in-smart-project-and-facilities-management" rel="noopener noreferrer nofollow" target="_blank">Smart Project and Facilities Management</a>)</p>
 </li>
 <li>
-<p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.nyp.edu.sg/schools/sdm/lifelong-learning/specialist-diploma-in-spatial-design.html" rel="noopener noreferrer nofollow" target="_blank">Spatial Design</a>)</p>
+<p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.nyp.edu.sg/adult-learner/course-detail/NYP-DXEP09/work-study-post-diploma-specialist-diploma-in-spatial-design" rel="noopener noreferrer nofollow" target="_blank">Spatial Design</a>)</p>
 </li>
 </ul>
 <p></p>
