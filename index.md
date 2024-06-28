@@ -30,7 +30,7 @@ sections:
       button: LEARN MORE
       alt: Discover the Journey
       url: /about-built-environment-sector/
-      image: /images/hp_shaping_our_singapore.png
+      image: /images/hp_discover_the_journey.png
   - infopic:
       title: Turn Your Vision into Our Landscape
       subtitle: why join us
