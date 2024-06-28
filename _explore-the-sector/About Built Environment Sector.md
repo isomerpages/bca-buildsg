@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ets_masthead.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ets_masthead_about_be.png">
 </div>
 <p><strong>VIBRANT, LIVEABLE AND SUSTAINABLE</strong>
 <br>These are the guiding principles of the Built Environment (BE) sector
