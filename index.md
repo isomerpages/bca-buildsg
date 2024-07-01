@@ -39,7 +39,7 @@ sections:
         opportunities to turn your vision into reality.
       button: Diverse Opportunities
       alt: A Diverse Career Paths
-      url: /careers-that-build-our-landscape/
+      url: /opportunities-to-shape-our-world/
       image: /images/hp_why_join_us.png
   - infopic:
       title: The Building Blocks of Progress
