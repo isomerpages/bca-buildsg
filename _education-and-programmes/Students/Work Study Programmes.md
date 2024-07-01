@@ -38,12 +38,16 @@ third_nav_title: Students
 <p>Work-Study Diploma in <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-architectural-bim-design" rel="noopener noreferrer nofollow" target="_blank">Architectural Building Information Modelling (BIM) &amp; Design</a>
 </p>
 </li>
+	<li>
+<p>Work-Study Diploma in <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-electrical-engineering" rel="noopener noreferrer nofollow" target="_blank">Electrical Engineering</a>
+</p>
+</li>
 <li>
 <p>Work-Study Diploma in <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-facilities-management" rel="noopener noreferrer nofollow" target="_blank">Facilities Management</a>
 </p>
 </li>
 <li>
-<p>Work-Study Diploma in <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-mechanical-electrical-services-supervision" rel="noopener noreferrer nofollow" target="_blank">Built Environment (Mechanical &amp; Electrical Services Supervision)</a>
+<p>Work-Study Diploma in <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-mechanical-electrical-services-supervision" rel="noopener noreferrer nofollow" target="_blank">Mechanical &amp; Electrical Services Supervision</a>
 </p>
 </li>
 <li>
