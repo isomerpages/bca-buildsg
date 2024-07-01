@@ -1,32 +1,63 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: BuildSG
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Please beware of phishing or scam attempts. BCA will neer ask or
+  request for your personal details vis SMS notifications and / or automated
+  phone messages.
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/hp_masthead_new.jpg
+      key_highlights:
+        - title: About Us
+          description: Know more about what we do
+          url: /sectoral-outlook/
+        - title: our stories
+          description: Follow our journey
+          url: /crafting-concrete-dreams-in-civil-engineering/
+        - title: Career Opportunities
+          description: Find your place
+          url: /opportunities-to-shape-our-world/
+      variant: image
+  - infopic:
+      title: Shaping Our Singapore
+      subtitle: OUR BUILT ENVIRONMENT JOURNEY
+      id: infopic
+      description: From skyscrapers to eco-towns, find out how the sector transformed
+        Singapore into a liveable and sustainable urban landscape.
+      button: LEARN MORE
+      alt: Discover the Journey
+      url: /about-built-environment-sector/
+      image: /images/hp_discover_the_journey.png
+  - infopic:
+      title: Turn Your Vision into Our Landscape
+      subtitle: why join us
+      id: infopic
+      description: How would you shape Singapore’s landscape? Unlock career
+        opportunities to turn your vision into reality.
+      button: LEARN MORE
+      alt: A Diverse Career Paths
+      url: /careers-that-build-our-landscape/
+      image: /images/hp_why_join_us.png
+  - infopic:
+      title: The Building Blocks of Progress
+      subtitle: EDUCATION & PROGRAMMES
+      id: infopic
+      description: Begin your journey with our curated selection of courses and programmes.
+      button: LEARN MORE
+      alt: Image alt text
+      url: /full-time-courses/
+      image: /images/hp_education_programmes.png
+  - infopic:
+      title: Stories & Insights
+      subtitle: Our stories
+      id: infopic
+      description: Curious to know more? Hear the motivation, passion and journeys of
+        our people.
+      button: LEARN MORE
+      url: /crafting-concrete-dreams-in-civil-engineering/
+      alt: Image alt text
+      image: /images/hp_our_stories.png
 ---
-

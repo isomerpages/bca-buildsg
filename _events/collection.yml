@@ -1,0 +1,9 @@
+collections:
+  events:
+    output: true
+    order:
+      - The Singapore Green Building Journey.md
+      - Events 2.md
+      - Events 3.md
+      - Event 4.md
+      - Event 5.md
