@@ -17,4 +17,4 @@ BIM professionals as Singapore was moving rapidly towards digitisation
 in the Built Environment sector. When he was shortlisted and eventually
 accepted into the PCP, he joined Lum Chang Building Contractors Pte Ltd.
 (Lum Chang) as a BIM Modeller.</p>
-<p>Read more about Saifu’s journey <a href="https://www1.bca.gov.sg/buildsg-emag/articles/when-a-new-career-path-beckons" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Read on to learn more about <a href="https://www1.bca.gov.sg/buildsg-emag/articles/when-a-new-career-path-beckons" rel="noopener noreferrer nofollow" target="_blank">Saifu's journey</a>.</p>
