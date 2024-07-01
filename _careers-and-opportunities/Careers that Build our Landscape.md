@@ -74,7 +74,7 @@ automation to digital platforms and systems.</div>
 </div>
 </div>
 </div>
-<p>Check out Built Environment jobs <a href="https://urldefense.com/v3/__https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0__;!!IfJP2Nwhk5Z0yJ43lA!OdnG6p42-wUXVulJPq2Oasq00g1HxpkfIvTbB6wHQqBwYmgaiMAFhbvZYN4ftA-T00sSQBZHzv1Ws3SIatjXmgs$" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+<p>Check out <a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">Built Environment jobs</a>!</p>
 <p></p>
 <p></p>
 <p></p>
