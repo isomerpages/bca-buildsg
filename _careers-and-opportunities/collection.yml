@@ -2,16 +2,16 @@ collections:
   careers-and-opportunities:
     output: true
     order:
-      - Careers that Build our Landscape.md
-      - Diverse Opportunities/.keep
-      - Diverse Opportunities/Opportunities to Shape our World.md
-      - Diverse Opportunities/Architects.md
-      - Diverse Opportunities/Civil and Structural, Electrical, Mechanical
+      - Built Environment Careers/.keep
+      - Built Environment Careers/Opportunities to Shape our World.md
+      - Built Environment Careers/Architects.md
+      - Built Environment Careers/Civil and Structural, Electrical, Mechanical
         Engineers.md
-      - Diverse Opportunities/Quantity Surveyors, Cost Consultants.md
-      - Diverse Opportunities/Production Managers.md
-      - Diverse Opportunities/Construction Managers.md
-      - Diverse Opportunities/Project Managers.md
-      - Diverse Opportunities/Digital Delivery Managers.md
-      - Diverse Opportunities/Facilities Managers.md
-      - Diverse Opportunities/Sustainability Consultants.md
+      - Built Environment Careers/Quantity Surveyors, Cost Consultants.md
+      - Built Environment Careers/Production Managers.md
+      - Built Environment Careers/Construction Managers.md
+      - Built Environment Careers/Project Managers.md
+      - Built Environment Careers/Digital Delivery Managers.md
+      - Built Environment Careers/Facilities Managers.md
+      - Built Environment Careers/Sustainability Consultants.md
+      - Built Environment Firms.md

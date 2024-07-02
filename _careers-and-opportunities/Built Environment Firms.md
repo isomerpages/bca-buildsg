@@ -1,6 +1,6 @@
 ---
-title: Careers that Build our Landscape
-permalink: /careers-that-build-our-landscape/
+title: Built Environment Firms
+permalink: /built-environment-firms/
 variant: tiptap
 description: ""
 ---
@@ -8,8 +8,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/co_masthead.png">
 </div>
-<p>Keen to make a difference to Singapore’s landscape? Find a role that suits
-you and your vision.</p>
+<p>Built Environment firms encompass a diverse range of specialties, and
+each plays a crucial role towards the spaces where we live, work and play.
+Check out the different types of firms below!</p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">

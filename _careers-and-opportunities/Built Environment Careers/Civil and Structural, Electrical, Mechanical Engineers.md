@@ -3,7 +3,7 @@ title: Civil and Structural, Electrical, Mechanical Engineers
 permalink: /civil-and-structural-electrical-mechanical-engineers/
 variant: tiptap
 description: ""
-third_nav_title: Diverse Opportunities
+third_nav_title: Built Environment Careers
 ---
 <p></p>
 <div class="isomer-image-wrapper">
