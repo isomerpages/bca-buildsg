@@ -2,7 +2,6 @@ collections:
   careers-and-opportunities:
     output: true
     order:
-      - Careers that Build our Landscape.md
       - Built Environment Careers/.keep
       - Built Environment Careers/Opportunities to Shape our World.md
       - Built Environment Careers/Architects.md
@@ -15,3 +14,4 @@ collections:
       - Built Environment Careers/Digital Delivery Managers.md
       - Built Environment Careers/Facilities Managers.md
       - Built Environment Careers/Sustainability Consultants.md
+      - Careers that Build our Landscape.md
