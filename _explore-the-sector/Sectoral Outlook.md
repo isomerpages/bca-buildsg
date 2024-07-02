@@ -9,9 +9,9 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/so_masthead.png">
 </div>
 <h3>Transformation of the Built Environment (BE) Sector</h3>
-<p>As we shape Singapore’s landscape, we also ensure that we are building
-a sustainable and innovative future by focusing on digitalisation, green
-building practices, and smart technologies.</p>
+<p>As we shape Singapore’s Built Environment landscape, we also ensure that
+we are building a sustainable and innovative future by focusing on digitalisation,
+green building practices, and smart technologies.</p>
 <p></p>
 <h3>Going Digital</h3>
 <div class="isomer-image-wrapper">
@@ -53,10 +53,8 @@ these 80-80-80 goals:</p>
 <p>Best-in-class green buildings to achieve 80% improvement in energy efficiency</p>
 </li>
 </ul>
-<p>With the environment always coming first, great emphasis is placed on
-reducing carbon footprint with every build. This has led to the emergence
-of greener materials and technologies that will build a better future for
-Singapore and for the world.</p>
+<p>With the environment becoming an important agenda, greater emphasis will
+be placed on reducing carbon footprint with every build.</p>
 <p></p>
 <h3>Enabling Smart Buildings</h3>
 <div class="isomer-image-wrapper">
