@@ -31,7 +31,7 @@ description: ""
 <ul data-tight="true" class="tight">
   <li>
     <p>
-      <a href="https:/www.bcaa.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">BCA Academy</a>
+      <a href="https:/www.bcaa.edu.sg" rel="noopener noreferrer nofollow" target="_blank">BCA Academy</a>
     </p>
   </li>
   <li>
