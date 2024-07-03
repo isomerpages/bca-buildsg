@@ -25,7 +25,7 @@ third_nav_title: Students
 <p>Integrated Work-Study Diploma Programme (<a href="https://www.bcaa.edu.sg/what-we-offer/academic-programmes/diploma/diploma-list?CourseId=f5534432-fc74-4df6-928d-2f284bd6b0d8" rel="noopener noreferrer nofollow" target="_blank">Diploma in Construction Engineering – Digital</a>)</p>
 </li>
 <li>
-<p>Integrated Work-Study Diploma Programme (<a href="https://safe.menlosecurity.com/https:/www.bcaa.edu.sg/what-we-offer/academic-programmes/diploma/diploma-list?CourseId=7fb69478-d92b-4708-bfc0-239bc4c3cf1b" rel="noopener noreferrer nofollow" target="_blank">Diploma in Digital and Smart Facilities Management</a>)</p>
+<p>Integrated Work-Study Diploma Programme (<a href="https:/www.bcaa.edu.sg/what-we-offer/academic-programmes/diploma/diploma-list?CourseId=7fb69478-d92b-4708-bfc0-239bc4c3cf1b" rel="noopener noreferrer nofollow" target="_blank">Diploma in Digital and Smart Facilities Management</a>)</p>
 </li>
 </ul>
 <p></p>
