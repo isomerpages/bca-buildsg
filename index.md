@@ -4,8 +4,8 @@ title: BuildSG
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Please beware of phishing or scam attempts. BCA will never ask or
-  request for your personal details via SMS notifications and / or automated
+notification: Please be aware of phishing or scam attempts. BCA will never ask
+  or request for your personal details via SMS notifications and / or automated
   phone messages.
 sections:
   - hero:
