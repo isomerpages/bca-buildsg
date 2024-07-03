@@ -7,7 +7,7 @@ description: ""
 <div id="professional-top" class="isomer-image-wrapper">
   <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ep_masthead_professionals.png">
 </div>
-<p>As a professional already in the Built Environment (BE) sector, there are plenty of opportunities for you to upskill yourself and explore other roles within our sector. </p>
+<p>As a professional already in the Built Environment (BE) sector, there are plenty of opportunities for you to upskill yourself and explore other roles within our sector.</p>
 <p>Click on the links to find one that is relevant for you.</p>
 <ul data-tight="true" class="tight">
   <li>
@@ -31,32 +31,32 @@ description: ""
 <ul data-tight="true" class="tight">
   <li>
     <p>
-      <a href="https:/www.bcaa.edu.sg" rel="noopener noreferrer nofollow" target="_blank">BCA Academy</a>
+      <a href="https://www.bcaa.edu.sg" rel="noopener noreferrer nofollow" target="_blank">BCA Academy</a>
     </p>
   </li>
   <li>
     <p>
-      <a href="https:/www.ite.edu.sg/courses/part-time-courses/higher-nitec" rel="noopener noreferrer nofollow" target="_blank">Institute of Technical Education</a>
+      <a href="https://www.ite.edu.sg/courses/part-time-courses/higher-nitec" rel="noopener noreferrer nofollow" target="_blank">Institute of Technical Education</a>
     </p>
   </li>
   <li>
     <p>
-      <a href="https:/www.nyp.edu.sg/lifelong-learning.html" rel="noopener noreferrer nofollow" target="_blank">Nanyang Polytechnic</a>
+      <a href="https://www.nyp.edu.sg/lifelong-learning.html" rel="noopener noreferrer nofollow" target="_blank">Nanyang Polytechnic</a>
     </p>
   </li>
   <li>
     <p>
-      <a href="https:/www.cet.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Ngee Ann Polytechnic</a>
+      <a href="https://www.cet.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Ngee Ann Polytechnic</a>
     </p>
   </li>
   <li>
     <p>
-      <a href="https:/www.rp.edu.sg/ace" rel="noopener noreferrer nofollow" target="_blank">Republic Polytechnic </a>&nbsp;
+      <a href="https://www.rp.edu.sg/ace" rel="noopener noreferrer nofollow" target="_blank">Republic Polytechnic </a>&nbsp;
     </p>
   </li>
   <li>
     <p>
-      <a href="https:/www.sp.edu.sg/pace" rel="noopener noreferrer nofollow" target="_blank">Singapore Polytechnic</a>
+      <a href="https://www.sp.edu.sg/pace" rel="noopener noreferrer nofollow" target="_blank">Singapore Polytechnic</a>
     </p>
   </li>
   <li>
@@ -66,27 +66,27 @@ description: ""
   </li>
   <li>
     <p>
-      <a href="https:/www.ntu.edu.sg/pace" rel="noopener noreferrer nofollow" target="_blank">Nanyang Technological University</a>
+      <a href="https://www.ntu.edu.sg/pace" rel="noopener noreferrer nofollow" target="_blank">Nanyang Technological University</a>
     </p>
   </li>
   <li>
     <p>
-      <a href="https:/cde.nus.edu.sg/continuing-education-and-training/" rel="noopener noreferrer nofollow" target="_blank">National University of Singapore</a>
+      <a href="https://cde.nus.edu.sg/continuing-education-and-training/" rel="noopener noreferrer nofollow" target="_blank">National University of Singapore</a>
     </p>
   </li>
   <li>
     <p>
-      <a href="https:/www.sutd.edu.sg/Admissions/Academy" rel="noopener noreferrer nofollow" target="_blank">Singapore University of Technology and Design</a>
+      <a href="https://www.sutd.edu.sg/Admissions/Academy" rel="noopener noreferrer nofollow" target="_blank">Singapore University of Technology and Design</a>
     </p>
   </li>
   <li>
     <p>
-      <a href="https:/www.singaporetech.edu.sg/sitlearn/" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute of Technology</a>
+      <a href="https://www.singaporetech.edu.sg/sitlearn/" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute of Technology</a>
     </p>
   </li>
   <li>
     <p>
-      <a href="https:/www.suss.edu.sg/news-and-events/open-house/cet-and-modular-courses" rel="noopener noreferrer nofollow" target="_blank">Singapore University of Social Sciences </a>&nbsp;
+      <a href="https://www.suss.edu.sg/news-and-events/open-house/cet-and-modular-courses" rel="noopener noreferrer nofollow" target="_blank">Singapore University of Social Sciences </a>&nbsp;
     </p>
   </li>
   <li>
@@ -112,7 +112,7 @@ description: ""
 <hr>
 <h4 id="professional-accredit">Accreditation Programmes</h4>
 <p>Wondering what’s next in your career? Take your knowledge and skills in the sector to the next level with these wide range of accreditation schemes.</p>
-<p> Through these schemes, you are able to:</p>
+<p>Through these schemes, you are able to:</p>
 <ul data-tight="true" class="tight">
   <li>
     <p>Validate your skills and competencies with schemes that are industry-recognised and designed to meet industry demands</p>
