@@ -4,7 +4,7 @@ permalink: /terms-of-use/
 variant: markdown
 description: ""
 ---
-<p id="tou-top">Thank you for visiting BCA Web Site. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.</p>
+<p id="tou-top">Thank you for visiting the BuildSG Web Site ("this Web Site). By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.</p>
 <p>
 <strong>General</strong>
 </p>
