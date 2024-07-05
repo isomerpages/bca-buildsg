@@ -1,5 +1,0 @@
-collections:
-  folder-test-page:
-    output: true
-    order:
-      - Embed Page.md
