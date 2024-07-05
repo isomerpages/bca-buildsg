@@ -21,7 +21,7 @@ green building practices, and smart technologies.</p>
 </p>
 <p>Our sector is undergoing rapid digital transformation to enable greater
 efficiency, collaboration and innovations. Besides collaborative contracting,
-which ensures projects incentives are aligned upfront between key stakeholders,
+which ensures projects' incentives are aligned upfront between key stakeholders,
 our partners have leveraged on technologies such as Building Information
 Modelling (BIM), Internet of Things (IoT) and artificial intelligence (AI)
 to revolutionise every stage of the construction lifecycle.</p>
