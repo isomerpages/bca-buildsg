@@ -1,4 +1,5 @@
 collections:
   folder-test-page:
     output: true
-    order: []
+    order:
+      - Embed Page.md
