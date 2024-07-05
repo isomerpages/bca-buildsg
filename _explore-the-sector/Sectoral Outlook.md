@@ -61,9 +61,9 @@ be placed on reducing carbon footprint with every build.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/so_smart_technology.png">
 </div>
 <p>Smart technology optimizes operations. Buildings are designed with ease
-of maintenance as a key consideration, using smart facility management
-technologies, such as robotics and automation, and intelligent building
-management systems.</p>
+of maintenance as a key consideration, and operations are optimised using
+smart facility management technologies, such as robotics and automation,
+and intelligent building management systems.</p>
 <p>The sector is also increasingly integrating facility management services
 within each building, and aggregating services across buildings, to yield
 greater productivity and cost savings.</p>
