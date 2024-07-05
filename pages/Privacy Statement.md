@@ -55,7 +55,7 @@ the content and privacy practices of these other websites and encourage
 you to consult the privacy notices of those sites.</p>
 </li>
 <li>
-<p>Please submit via <a href="#" rel="noopener noreferrer nofollow" target="_self">feedback form</a> if you:</p>
+<p>Please submit via <a href="https://www2.bca.gov.sg/feedback/" rel="noopener noreferrer nofollow" target="_blank">feedback form</a> if you:</p>
 </li>
 		<ul style="list-style-type: lower-alpha">
 <li>
