@@ -1,5 +1,0 @@
-collections:
-  sandbox:
-    output: true
-    order:
-      - Embed Videos.md
