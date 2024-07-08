@@ -67,5 +67,5 @@ and intelligent building management systems.</p>
 <p>The sector is also increasingly integrating facility management services
 within each building, and aggregating services across buildings, to yield
 greater productivity and cost savings.</p>
-<p>To learn more out how the Built Environment sector is transforming, check
-out the <a href="https://www1.bca.gov.sg/buildsg/built-environment-industry-transformation-map" rel="noopener noreferrer nofollow" target="_blank"><u>Built Environment Industry Transformation Map</u></a>!</p>
+<p>To learn more about how the Built Environment sector is transforming,
+check out the <a href="https://www1.bca.gov.sg/buildsg/built-environment-industry-transformation-map" rel="noopener noreferrer nofollow" target="_blank"><u>Built Environment Industry Transformation Map</u></a>!</p>
