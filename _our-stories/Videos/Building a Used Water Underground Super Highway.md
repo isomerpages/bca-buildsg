@@ -12,6 +12,6 @@ third_nav_title: Videos
 </div>
 <p>        
 
-Ever wondered how the Deep Tunnel Sewerage System is built?&nbsp;
-
+Ever wondered how the Deep Tunnel Sewerage System is built?
+	
 Go behind the scenes with Our Grandfather Story in this video as PUB’s Chief Engineer Woo Lai Lynn shares the engineering and technology that goes into building the 200km of tunnels beneath our feet. </p>
