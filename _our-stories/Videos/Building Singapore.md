@@ -12,8 +12,7 @@ third_nav_title: Videos
 <p>Building Singapore is a 5-part series, in partnership with SPH, that aims
 to showcase contributions of the built environment sector in building Singapore
 and improving the living environment for Singaporeans.</p>
-<p></p>
-<h3>Episode 1: “A blend of nature and design”</h3>
+<h3>A blend of nature and design</h3>
 <p>Learn how the team of architects, engineers and contractors behind Mandai’s
 Bird Paradise designed and built one of 2023's top 5 trending places, with
 sustainability at its core.</p>
