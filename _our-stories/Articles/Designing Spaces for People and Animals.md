@@ -12,4 +12,6 @@ third_nav_title: Articles
 <p>Building Singapore is a 5-part series, in partnership with SPH, that aims
 to showcase contributions of the built environment sector in building Singapore
 and improving the living environment for Singaporeans.</p>
-<p>Read on to learn more about <a href="https://www.straitstimes.com/singapore/design-wildlife-park-sustainability-built-environment-mandai-bird-paradise-building-and-construction-authority" rel="noopener noreferrer nofollow" target="_blank">Building Singapore series</a>.</p>
+<p><a href="https://www.straitstimes.com/singapore/design-wildlife-park-sustainability-built-environment-mandai-bird-paradise-building-and-construction-authority" rel="noopener noreferrer nofollow" target="_blank">Read on here</a> to
+learn how the team behind Mandai’s Bird Paradise, designed and built this
+development with sustainability in mind.</p>
