@@ -13,4 +13,6 @@ third_nav_title: Videos
 </div>
 <h3><p>[Note] Direct Embed Code from YouTube</p></h3>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FMof57Q3A-M?si=t8hoax3O3CTJZ3jN" height="315" width="560"></iframe>
+<h3><p>[Note] New Embed Code from Straits Times</p></h3>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FMof57Q3A-M?si=0NXvEL1ELTJxvrmj" height="315" width="560"></iframe>
 <p>Learn how the team of architects, engineers and contractors behind Mandai’s Bird Paradise designed and built one of 2023's top 5 trending places, with sustainability at its core.</p>
