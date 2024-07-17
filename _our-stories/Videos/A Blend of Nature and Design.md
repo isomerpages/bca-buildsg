@@ -7,7 +7,7 @@ third_nav_title: Videos
 ---
 <h2>A blend of nature and design</h2>
 <p></p>
-<h3><p>Custom Responsive Code Embed</p></h3>
+<h3><p>Custom Responsive Embed Code</p></h3>
 <div style="position: relative; width: 100%; padding-bottom: 52.66%;">
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="position: absolute; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FMof57Q3A-M?si=vEB3D3Ir7FkhKlnB&amp;rel=0"></iframe>
 </div>
