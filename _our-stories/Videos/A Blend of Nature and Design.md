@@ -18,4 +18,6 @@ third_nav_title: Videos
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/NJHDwXWh_Ow?si=CB8borrI7QGw9b9M" height="315" width="560"></iframe>
 <h3><p>[Note] Business Times Video Sample</p></h3>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8i1iTAnjIeY?si=0epsAf5ztzMDckqj" height="315" width="560"></iframe>
+
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="314" width="560" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FTheStraitsTimes%2Fvideos%2F391335980160804%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
 <p>Learn how the team of architects, engineers and contractors behind Mandai’s Bird Paradise designed and built one of 2023's top 5 trending places, with sustainability at its core.</p>
