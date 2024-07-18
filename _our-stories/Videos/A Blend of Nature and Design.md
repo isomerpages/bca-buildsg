@@ -13,7 +13,9 @@ third_nav_title: Videos
 </div>
 
 <h3><p>[Note] SPH Video as of 18 July 3:07PM</p></h3>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FMof57Q3A-M?si=GqFOIXI38_H2AR9k" height="315" width="560"></iframe>
-<h3><p>[Note] SPH Video - President Biden</p></h3>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dmNwpIckZEc?si=UV3WeEIaCLDUQFOK" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FMof57Q3A-M?si=WiT0wxR_iZYPwbyT" height="315" width="560"></iframe>
+<h3><p>[Note] ZaoBao Video Sample</p></h3>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/NJHDwXWh_Ow?si=CB8borrI7QGw9b9M" height="315" width="560"></iframe>
+<h3><p>[Note] Business Times Video Sample</p></h3>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8i1iTAnjIeY?si=0epsAf5ztzMDckqj" height="315" width="560"></iframe>
 <p>Learn how the team of architects, engineers and contractors behind Mandai’s Bird Paradise designed and built one of 2023's top 5 trending places, with sustainability at its core.</p>
