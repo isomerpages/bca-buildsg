@@ -7,17 +7,7 @@ third_nav_title: Videos
 ---
 <h2>A blend of nature and design</h2>
 <p></p>
-<h3><p>[Note] Custom Responsive Embed Code</p></h3>
-<div style="position: relative; width: 100%; padding-bottom: 52.66%;">
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="position: absolute; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FMof57Q3A-M?si=vEB3D3Ir7FkhKlnB&amp;rel=0"></iframe>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border: none; overflow: hidden; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FTheStraitsTimes%2Fvideos%2F391335980160804%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
 </div>
-
-<h3><p>[Note] SPH Video as of 18 July 3:07PM</p></h3>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FMof57Q3A-M?si=WiT0wxR_iZYPwbyT" height="315" width="560"></iframe>
-<h3><p>[Note] ZaoBao Video Sample</p></h3>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/NJHDwXWh_Ow?si=CB8borrI7QGw9b9M" height="315" width="560"></iframe>
-<h3><p>[Note] Business Times Video Sample</p></h3>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8i1iTAnjIeY?si=0epsAf5ztzMDckqj" height="315" width="560"></iframe>
-
-<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="314" width="560" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FTheStraitsTimes%2Fvideos%2F391335980160804%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
 <p>Learn how the team of architects, engineers and contractors behind Mandai’s Bird Paradise designed and built one of 2023's top 5 trending places, with sustainability at its core.</p>
