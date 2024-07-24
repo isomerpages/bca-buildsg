@@ -1,5 +1,4 @@
 collections:
   sandbox:
     output: true
-    order:
-      - Embed Demo New Editor.md
+    order: []
