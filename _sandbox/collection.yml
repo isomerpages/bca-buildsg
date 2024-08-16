@@ -1,5 +1,4 @@
 collections:
   sandbox:
     output: true
-    order:
-      - New Editor Video Embed Test.md
+    order: []
