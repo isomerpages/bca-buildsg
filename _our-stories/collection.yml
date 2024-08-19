@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Building Singapore/.keep
-      - Articles/Tunnel Routes Safely.md
       - Articles/Designing Spaces for People and Animals.md
       - Articles/.keep
       - Articles/Crafting Concrete Dreams in Civil Engineering.md
