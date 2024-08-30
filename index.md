@@ -20,6 +20,17 @@ sections:
           url: /opportunities-to-shape-our-world/
       variant: image
   - infopic:
+      title: We Are Never Done Building Singapore
+      subtitle: OUR BUILT ENVIRONMENT JOURNEY
+      id: infopic
+      description: In pursuit of progress and innovation that constantly evolves our
+        Built Environment, we are built to build a better Singapore – then, now,
+        and into the future.
+      button: Watch the film
+      url: /about-built-environment-sector/
+      image: /images/built_to_build.png
+      alt: Built to Build
+  - infopic:
       title: Shaping Our Singapore
       subtitle: OUR BUILT ENVIRONMENT JOURNEY
       id: infopic
