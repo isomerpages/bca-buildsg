@@ -4,7 +4,15 @@ permalink: /about-built-environment-sector/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h3>We Are Never Done Building Singapore</h3>
+<div class="iframe-wrapper">
+<iframe style="position: absolute; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eYC-6sa6KlY?si=ja2mC9OzqzM-kwol&amp;rel=0"></iframe>
+</div>
+<p>From visionaries and dreamers to planners and innovators, together, we
+create safer, more inspiring and sustainable spaces with an exciting landscape
+of possibilities to live, work, and play for all. We built this city, and
+we are never done building Singapore. Watch our story unfold and discover
+what we do in the Built Environment sector.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ets_masthead_about_be.png">
 </div>
