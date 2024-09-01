@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hp_masthead_new.jpg
+      background: /images/campaign_masthead.png
       key_highlights:
         - title: About Us
           description: Know more about what we do
