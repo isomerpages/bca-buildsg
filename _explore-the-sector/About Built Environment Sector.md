@@ -6,7 +6,7 @@ description: ""
 ---
 <h3>We Are Never Done Building Singapore</h3>
 <div style="position: relative; width: 100%; padding-bottom: 52.66%;">
-    <iframe style="position: absolute; width: 100%; height: 100%; border-radius: 10px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eYC-6sa6KlY?si=ja2mC9OzqzM-kwol&amp;rel=0"></iframe>
+    <iframe style="position: absolute; width: 100%; height: 100%; border-radius: 12px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eYC-6sa6KlY?si=ja2mC9OzqzM-kwol&amp;rel=0"></iframe>
 </div>
 <p>From visionaries and dreamers to planners and innovators, together, we
 create safer, more inspiring and sustainable spaces with an exciting landscape
