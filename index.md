@@ -28,7 +28,7 @@ sections:
         and into the future.
       button: Watch the film
       url: /about-built-environment-sector/
-      image: /images/built_to_build.png
+      image: /images/we_are_never_done_building_singapore.png
       alt: Built to Build
   - infopic:
       title: Shaping Our Singapore
