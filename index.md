@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hp_masthead_new.jpg
+      background: /images/campaign_masthead.png
       key_highlights:
         - title: About Us
           description: Know more about what we do
@@ -19,6 +19,17 @@ sections:
           description: Find your place
           url: /opportunities-to-shape-our-world/
       variant: image
+  - infopic:
+      title: We Are Never Done Building Singapore
+      subtitle: OUR BUILT ENVIRONMENT JOURNEY
+      id: infopic
+      description: In pursuit of progress and innovation that constantly evolves our
+        Built Environment, we are built to build a better Singapore – then, now,
+        and into the future.
+      button: Watch the film
+      url: /about-built-environment-sector/
+      image: /images/we_are_never_done_building_singapore.png
+      alt: Built to Build
   - infopic:
       title: Shaping Our Singapore
       subtitle: OUR BUILT ENVIRONMENT JOURNEY
