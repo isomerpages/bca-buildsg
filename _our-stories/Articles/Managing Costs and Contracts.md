@@ -31,6 +31,14 @@ which exposed me to the industry. Given my interest in mathematics and
 the availability of a suitable opportunity, I decided to pursue this role!</p>
 <p><strong>Q: What is one interesting thing about your job?</strong>
 </p>
+<p>A: By collaborating with different professionals, including architects,
+engineers, contractors and clients, I have the privilege of learning from
+diverse different fields and projects, including industrial facilities,
+healthcare institutions, and educational establishments. This helps me
+better understand the complex design and building considerations behind
+the infrastructures that we interact with daily.</p>
+<p><strong>Q: What do you enjoy most about your work?</strong>
+</p>
 <p>A: I enjoy meeting people from different projects and working in a collaborative
 environment. There's also a great sense of satisfaction in seeing a project
 come to life, from initial drawings to the finished building.</p>
