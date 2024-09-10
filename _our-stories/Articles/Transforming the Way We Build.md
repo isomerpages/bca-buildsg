@@ -7,7 +7,7 @@ third_nav_title: Articles
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pavithra_venkatesan.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pavithra_venkatesan_r2.png">
 </div>
 <p><strong>Q: What does one do as an offsite production manager?</strong>
 </p>
