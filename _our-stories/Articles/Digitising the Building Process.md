@@ -7,7 +7,7 @@ third_nav_title: Articles
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yam_wei_jian.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yam_wei_jian_r2.png">
 </div>
 <p><strong>Q: What do you do as a mechanical engineer and digital transformation practitioner / consultant?</strong>
 </p>
