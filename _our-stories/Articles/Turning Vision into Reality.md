@@ -7,7 +7,7 @@ third_nav_title: Articles
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/teo_yang_haw.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/teo_yang_haw_r2.png">
 </div>
 <p><strong>Q: What do you do as a project manager?</strong>
 </p>
