@@ -41,7 +41,7 @@ sustainability, and challenging conventional design approach. This requires
 critical thinking and an integrated, systemic perspective. Effective communication,
 alongside empathy and adaptability are other soft skills that are critical
 in initiating changes in mindset and behaviour.</p>
-<p><strong>Q: What is one interesting thing about your job? </strong>
+<p><strong>Q: What is one interesting thing about your job?</strong>
 </p>
 <p>A: One of the most interesting aspects of my job is being involved in
 behind-the-scenes work that makes buildings more energy-efficient. For
@@ -51,7 +51,7 @@ and energy efficiency in a residential project.</p>
 <p>Being a sustainability consultant exposes me to a diverse range of projects
 from industrial buildings to high-security sites. It also offers a good
 mix of desk and site work.</p>
-<p><strong>Q: What do you enjoy most about your work? </strong>
+<p><strong>Q: What do you enjoy most about your work?</strong>
 </p>
 <p>A: I value the versatility of my role, which exposes me to various aspects
 such as costing, structural engineering, and architectural design. Seeing
