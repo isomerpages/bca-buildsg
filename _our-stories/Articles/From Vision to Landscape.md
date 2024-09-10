@@ -26,9 +26,9 @@ reducing waste, reducing on-site manpower needs and enhancing safety.</p>
 <p>A: People tend to have the impression that the construction process is
 very labour-intensive. However, technology and innovation are transforming
 the way we work, and the environment that we work in.</p>
-<p>Tools offer greater convenience and efficiency, and repetitive or risky
-tasks are now performed with robotics or are automated. For example, there
-are now robots that paint and lay floor tiles, revolutonalising construction.
+<p>Tools now offer greater convenience and efficiency, and repetitive or
+risky tasks are now performed with robotics or are automated. For example,
+there are now robots that paint and lay floor tiles, revolutonalising construction.
 To enhance safety, we also use CCTVs for real-time monitoring, which alert
 us to unsafe practices for immediate action.</p>
 <p><strong>Q: How does one become a construction manager? Can you tell us more about your journey?</strong>
