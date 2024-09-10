@@ -19,8 +19,8 @@ the carbon footprint of buildings, by optimising energy and water consumption,
 assessing use of sustainable building materials, and ensuring end-users'
 needs and comfort - all while ensuring financial feasibility!</p>
 <p>We also stay up to date with the latest innovations that improve the efficiency
-of our buildings organize seminars and webinars to raise awareness and
-advocate for green building practices within the industry.</p>
+of our buildings as well as organize seminars and webinars to raise awareness
+and advocate for green building practices within the industry.</p>
 <p><strong>Q: What is the common misconception/s of what you do?</strong>
 </p>
 <p>A: Our role extends far beyond just paperwork and document submission.
