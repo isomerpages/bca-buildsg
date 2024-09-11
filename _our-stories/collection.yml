@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - Interviews/From Vision to Landscape.md
       - Interviews/Transforming the Way We Build.md
       - Interviews/Maintaining and Managing Building Efficiency.md
       - Interviews/Managing Costs and Contracts.md
