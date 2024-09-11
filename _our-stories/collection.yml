@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - Interviews/Creating Functional, Safe and Inspiring Spaces.md
       - Interviews/.keep
       - Building Singapore/.keep
       - Building Singapore/Tunnel Routes Safely.md
