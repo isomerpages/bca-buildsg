@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - Interviews/Digitising the Building Process.md
       - Interviews/Turning Vision into Reality.md
       - Interviews/Creating Functional, Safe and Inspiring Spaces.md
       - Interviews/.keep
