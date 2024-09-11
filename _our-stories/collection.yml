@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - Interviews/Managing Costs and Contracts.md
       - Interviews/Ensuring Buildings are Safe and Stable.md
       - Interviews/Digitising the Building Process.md
       - Interviews/Turning Vision into Reality.md
