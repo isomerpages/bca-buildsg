@@ -2,16 +2,16 @@ collections:
   our-stories:
     output: true
     order:
-      - Interviews/Making Sustainability a Part of the Blueprint.md
-      - Interviews/From Vision to Landscape.md
-      - Interviews/Transforming the Way We Build.md
-      - Interviews/Maintaining and Managing Building Efficiency.md
-      - Interviews/Managing Costs and Contracts.md
-      - Interviews/Ensuring Buildings are Safe and Stable.md
-      - Interviews/Digitising the Building Process.md
-      - Interviews/Turning Vision into Reality.md
-      - Interviews/Creating Functional, Safe and Inspiring Spaces.md
       - Interviews/.keep
+      - Interviews/Creating Functional, Safe and Inspiring Spaces.md
+      - Interviews/Turning Vision into Reality.md
+      - Interviews/Digitising the Building Process.md
+      - Interviews/Ensuring Buildings are Safe and Stable.md
+      - Interviews/Managing Costs and Contracts.md
+      - Interviews/Maintaining and Managing Building Efficiency.md
+      - Interviews/Transforming the Way We Build.md
+      - Interviews/From Vision to Landscape.md
+      - Interviews/Making Sustainability a Part of the Blueprint.md
       - Building Singapore/.keep
       - Building Singapore/Tunnel Routes Safely.md
       - Building Singapore/Designing Spaces for People and Animals.md
