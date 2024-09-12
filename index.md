@@ -14,7 +14,7 @@ sections:
           url: /sectoral-outlook/
         - title: our stories
           description: Follow our journey
-          url: /crafting-concrete-dreams-in-civil-engineering/
+          url: /the-creative-designer/
         - title: Career Opportunities
           description: Find your place
           url: /opportunities-to-shape-our-world/
@@ -66,7 +66,7 @@ sections:
       description: Curious to know more? Hear the motivation, passion and journeys of
         our people.
       button: Follow Our Journey
-      url: /crafting-concrete-dreams-in-civil-engineering/
+      url: /the-creative-designer/
       alt: Stories and Insights
       image: /images/hp_our_stories.png
 ---
