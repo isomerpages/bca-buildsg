@@ -31,20 +31,16 @@ are involved.</p>
 </p>
 <p>A: There are two paths one can take to be become a production manager.
 If you are technical or engineering trained, you can be a project manager
-focusing on the design of prefabricated modules, As technical expertise
-is essential to review design feasibility and managing the setup of these
-modules.</p>
-<p>Alternatively, you can enter the field as a project manager without an
-engineering background. In this role, you'll oversee budgets, schedules,
-vendors, monitor onsite work progress, and coordinate with other consultants
-and contractors.</p>
+focusing on the design of prefabricated modules, as technical expertise
+is essential to reviewing design feasibility and managing the setup of
+these modules.</p>
 <p>For those interested in the M&amp;E roles in the Built Environment sector,
 there are several routes to explore. Starting as an M&amp;E consultant
 is common, where you design and advise on M&amp;E systems. Alternatively,
 you could join a contractor to learn about traditional M&amp;E systems
 and their installation. Another option is to work with a specialist firm
-like TOM, where you can gain experience in organising and implementing
-new M&amp;E solutions in modern buildings.</p>
+like Tech Onshore MEP-Prefabricators (TOM), where you can gain experience
+in organising and implementing new M&amp;E solutions in modern buildings.</p>
 <p><strong>Q: What is one interesting thing about your job?</strong>
 </p>
 <p>A: People might assume that this job involves wearing safety boots and
