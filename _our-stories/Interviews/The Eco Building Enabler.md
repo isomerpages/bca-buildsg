@@ -16,10 +16,10 @@ Environment. We primarily provide advisory on energy and environmentally
 efficient strategies across a building's lifecycle, comprising design,
 construction, operation and even de-construction. The aim is to minimise
 the carbon footprint of buildings, by optimising energy and water consumption,
-assessing use of sustainable building materials, and ensuring end-users'
+assessing the use of sustainable building materials, and ensuring end-users'
 needs and comfort - all while ensuring financial feasibility!</p>
 <p>We also stay up to date with the latest innovations that improve the efficiency
-of our buildings as well as organize seminars and webinars to raise awareness
+of our buildings as well as organise seminars and webinars to raise awareness
 and advocate for green building practices within the industry.</p>
 <p><strong>Q: What is the common misconception/s of what you do?</strong>
 </p>
@@ -32,9 +32,10 @@ and construction products.</p>
 <p>A: While studying environmental studies at the Singapore Polytechnic,
 I took a module on Green Mark that piqued my interest. This led me to study
 environmental engineering at university. After graduation, my continued
-interest in building sustainability led me to join BSD, which provides
-green building consultancy. Sustainability has gained prominence due to
-BCA’s initiatives and climate change concerns, providing ample opportunities
+interest in building sustainability led me to join Building System and
+Diagnostics (BSD), which provides green building consultancy. Sustainability
+has gained prominence due to Building and Construction Authority (BCA)’s
+initiatives and climate change concerns, providing ample opportunities
 to deepen my expertise in the field.</p>
 <p>A key part of what we do is to help clients and teams see the value of
 sustainability, and challenging conventional design approach. This requires
