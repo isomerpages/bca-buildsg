@@ -14,7 +14,7 @@ sections:
           url: /sectoral-outlook/
         - title: our stories
           description: Follow our journey
-          url: /the-creative-designer/
+          url: /architect/
         - title: Career Opportunities
           description: Find your place
           url: /opportunities-to-shape-our-world/
@@ -66,7 +66,7 @@ sections:
       description: Curious to know more? Hear the motivation, passion and journeys of
         our people.
       button: Follow Our Journey
-      url: /the-creative-designer/
+      url: /architect/
       alt: Stories and Insights
       image: /images/hp_our_stories.png
 ---
