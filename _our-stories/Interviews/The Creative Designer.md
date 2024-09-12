@@ -32,7 +32,7 @@ to realise our designs.</p>
 to gain hands-on experience.</p>
 <p>My path to architecture was driven by a passion for design and problem-solving.
 My fascination with shaping spaces for live, work and play led me to pursue
-formal education in architecture, where I honed my skills and understanding
+a formal education in architecture, where I honed my skills and understanding
 of the field.</p>
 <p><strong>Q: What is one interesting thing about your job?</strong>
 </p>
@@ -47,4 +47,4 @@ to overcome design challenges at work.</p>
 lives isn’t just rewarding, it fills me with immense pride as the process
 from initial concept to final project completion is often long and challenging.
 It is especially fulfilling when we overcome challenges as a team and witness
-end-users enjoying and benefiting from the spaces we created.</p>
+end-users enjoying and benefitting from the spaces we created.</p>
