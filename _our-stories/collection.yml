@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Interviews/.keep
-      - Interviews/The Creative Designer.md
+      - "Interviews/Architect: The Creative Designer.md"
       - Interviews/The Adaptable Builder.md
       - Interviews/The Resource Strategist.md
       - Interviews/The Digital Change Leader.md
