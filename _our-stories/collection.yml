@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Interviews/.keep
-      - Interviews/Creating Functional, Safe and Inspiring Spaces.md
+      - Interviews/The Creative Designer.md
       - Interviews/From Vision to Landscape.md
       - Interviews/Managing Costs and Contracts.md
       - Interviews/Digitising the Building Process.md
