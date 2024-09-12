@@ -28,9 +28,9 @@ very labour-intensive. However, technology and innovation are transforming
 the way we work, and the environment that we work in.</p>
 <p>Tools now offer greater convenience and efficiency, and repetitive or
 risky tasks are now performed with robotics or are automated. For example,
-there are now robots that paint and lay floor tiles, revolutonalising construction.
-To enhance safety, we also use CCTVs for real-time monitoring, which alert
-us to unsafe practices for immediate action.</p>
+there are now robots that paint and lay floor tiles, allowing us to do
+more with less.&nbsp; To enhance safety, we also use CCTVs for real-time
+monitoring, which alert us to unsafe practices for immediate action.</p>
 <p><strong>Q: How does one become a construction manager? Can you tell us more about your journey?</strong>
 </p>
 <p>A: When pursuing my civil engineering undergraduate studies, I interned
@@ -58,4 +58,4 @@ and solving these issues provides a strong sense of satisfaction. I also
 take great pleasure in exploring innovative engineering methods to boost
 productivity. Leading one of the first PPVC projects was challenging, but
 overcoming those challenges and successfully implementing this new construction
-method was particularly fulfilling</p>
+method was particularly fulfilling.</p>
