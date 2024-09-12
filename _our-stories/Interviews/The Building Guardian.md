@@ -37,7 +37,7 @@ one would need a genuine passion in improving facilities with end users
 in mind, almost like treating the facilities as one's second home. One
 would also need good interpersonal skills to collaborate effectively with
 key stakeholders.</p>
-<p>My prior background in healthcare operations greatlly facilitated my transition
+<p>My prior background in healthcare operations greatly facilitated my transition
 to facilities management, and through regular upskilling, I get to hone
 my expertise.</p>
 <p><strong>Q: What makes facilities management “smart”?</strong>
