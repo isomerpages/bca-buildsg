@@ -4,7 +4,7 @@ collections:
     order:
       - Interviews/.keep
       - "Interviews/Architect: The Creative Designer.md"
-      - Interviews/The Adaptable Builder.md
+      - "Interviews/Construction Manager: The Adaptable Builder.md"
       - Interviews/The Resource Strategist.md
       - Interviews/The Digital Change Leader.md
       - Interviews/The Building Guardian.md
