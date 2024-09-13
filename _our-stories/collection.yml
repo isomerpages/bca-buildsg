@@ -4,17 +4,16 @@ collections:
     order:
       - Interviews/.keep
       - "Interviews/Architect: The Creative Designer.md"
-      - "Interviews/Construction Manager: The Adaptable Builder.md"
+      - "Interviews/Construction Manager: The Site Orchestrator.md"
       - "Interviews/Cost Consultant: The Resource Strategist.md"
       - "Interviews/Digital Transformation Consultant: The Digital Change
-        Leader.md"
+        Specialist.md"
       - "Interviews/Facilities Manager: The Building Guardian.md"
-      - "Interviews/Offsite Production Manager: The Modular Construction
-        Mastermind.md"
-      - "Interviews/Project Manager: The Master Site Orchestrator.md"
+      - "Interviews/Offsite Production Manager: The Modular Design Builder.md"
+      - "Interviews/Project Manager: The Chief Collaborator.md"
       - "Interviews/Structural Engineer: The Infrastructure Backbone
         Specialist.md"
-      - "Interviews/Sustainability Consultant: The Eco Building Enabler.md"
+      - "Interviews/Sustainability Consultant: The Green Building Enabler.md"
       - Building Singapore/.keep
       - Building Singapore/Tunnel Routes Safely.md
       - Building Singapore/Designing Spaces for People and Animals.md

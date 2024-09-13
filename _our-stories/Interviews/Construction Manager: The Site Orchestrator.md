@@ -1,5 +1,5 @@
 ---
-title: "Construction Manager: The Adaptable Builder"
+title: "Construction Manager: The Site Orchestrator"
 permalink: /construction-manager/
 variant: tiptap
 description: ""

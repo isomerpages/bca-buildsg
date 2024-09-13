@@ -1,5 +1,5 @@
 ---
-title: "Offsite Production Manager: The Modular Construction Mastermind"
+title: "Offsite Production Manager: The Modular Design Builder"
 permalink: /offsite-production-manager/
 variant: tiptap
 description: ""

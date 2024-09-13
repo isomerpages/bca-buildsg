@@ -1,5 +1,5 @@
 ---
-title: "Project Manager: The Master Site Orchestrator"
+title: "Project Manager: The Chief Collaborator"
 permalink: /project-manager/
 variant: tiptap
 description: ""

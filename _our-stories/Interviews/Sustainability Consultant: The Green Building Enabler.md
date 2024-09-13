@@ -1,5 +1,5 @@
 ---
-title: "Sustainability Consultant: The Eco Building Enabler"
+title: "Sustainability Consultant: The Green Building Enabler"
 permalink: /sustainability-consultant/
 variant: tiptap
 description: ""

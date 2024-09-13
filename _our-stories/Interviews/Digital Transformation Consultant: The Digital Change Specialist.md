@@ -1,5 +1,5 @@
 ---
-title: "Digital Transformation Consultant: The Digital Change Leader"
+title: "Digital Transformation Consultant: The Digital Change Specialist"
 permalink: /digital-transformation-consultant/
 variant: tiptap
 description: ""
