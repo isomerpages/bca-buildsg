@@ -4,7 +4,7 @@ collections:
     order:
       - Interviews/.keep
       - "Interviews/Architect: The Creative Designer.md"
-      - "Interviews/Construction Manager: The Adaptable Builder.md"
+      - "Interviews/Construction Manager: The Site Orchestrator.md"
       - "Interviews/Cost Consultant: The Resource Strategist.md"
       - "Interviews/Digital Transformation Consultant: The Digital Change
         Leader.md"
