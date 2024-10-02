@@ -14,6 +14,6 @@ third_nav_title: Building Singapore
 <p>Building Singapore is a 5-part series, in partnership with SPH, that aims
 to showcase contributions of the built environment sector in building Singapore
 and improving the living environment for Singaporeans.</p>
-<p><a href="https://www.straitstimes.com/singapore/creative-engineering-giant-2km-loop-bridges-new-sit-university-campus-industry-punggol-building-and-construction-authority" rel="noopener nofollow" target="_blank">Read on here about</a> the
+<p><a href="https://www.straitstimes.com/singapore/creative-engineering-giant-2km-loop-bridges-new-sit-university-campus-industry-punggol-building-and-construction-authority" rel="noopener nofollow" target="_blank">Read on here to learn about</a> the
 engineering creativity behind designing and building a giant 2km loop that
 bridges academia, industry and community in Punggol.</p>
