@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - "Engineering Connections: Inside Punggol’s Smart City.md"
       - A Blend of Nature and Design.md
       - The Wonders of Tunnel Engineering.md
       - The Hidden Tech that Builds a World Class Airport.md
