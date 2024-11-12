@@ -2,5 +2,6 @@ collections:
   archive:
     output: true
     order:
+      - A Blend of Nature and Design.md
       - The Wonders of Tunnel Engineering.md
       - The Hidden Tech that Builds a World Class Airport.md
