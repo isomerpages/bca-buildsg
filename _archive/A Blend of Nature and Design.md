@@ -1,9 +1,8 @@
 ---
 title: A Blend of Nature and Design
-permalink: /a-blend-of-nature-and-design/
+permalink: /archive-a-blend-of-nature-and-design/
 variant: markdown
 description: ""
-third_nav_title: Videos
 ---
 <h2 style="line-height: 3rem;">A blend of nature and design</h2>
 <p></p>

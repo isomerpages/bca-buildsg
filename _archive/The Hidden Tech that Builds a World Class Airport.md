@@ -1,9 +1,8 @@
 ---
 title: The Hidden Tech that Builds a World Class Airport
-permalink: /the-hidden-tech-that-builds-a-world-class-airport/
+permalink: /archive-the-hidden-tech-that-builds-a-world-class-airport/
 variant: markdown
 description: ""
-third_nav_title: Videos
 ---
 <h2 style="line-height: 3rem;">The Hidden Tech that Builds a World Class Airport</h2>
 <p></p>

@@ -4,7 +4,6 @@ title: How Digital Tech Powers Team to Complete Changi Airport T2 Project More
 permalink: /how-digital-tech-powers-team-to-complete-changi-airport-t2-project-more-efficiently/
 variant: tiptap
 description: ""
-third_nav_title: Building Singapore
 ---
 <p></p>
 <div class="isomer-image-wrapper">

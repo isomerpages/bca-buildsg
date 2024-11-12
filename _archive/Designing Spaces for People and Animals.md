@@ -1,9 +1,8 @@
 ---
 title: Designing Spaces for People and Animals
 permalink: /designing-spaces-for-people-and-animals/
-variant: tiptap
+variant: markdown
 description: ""
-third_nav_title: Building Singapore
 ---
 <p></p>
 <div class="isomer-image-wrapper">
