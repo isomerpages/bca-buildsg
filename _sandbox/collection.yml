@@ -2,5 +2,4 @@ collections:
   sandbox:
     output: true
     order:
-      - Test Facebook Page.md
       - Test Video Page.md
