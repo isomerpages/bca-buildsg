@@ -2,6 +2,7 @@ collections:
   sandbox:
     output: true
     order:
+      - Privacy Test Page.md
       - About Us Test.md
       - Test Facebook Page.md
       - Test Video Page.md
