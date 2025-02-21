@@ -2,7 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - Building Bites/.keep
       - Interviews/.keep
       - "Interviews/Architect: The Creative Designer.md"
       - "Interviews/Construction Manager: The Site Orchestrator.md"
@@ -15,19 +14,20 @@ collections:
       - "Interviews/Structural Engineer: The Infrastructure Backbone
         Specialist.md"
       - "Interviews/Sustainability Consultant: The Green Building Enabler.md"
+      - Building Bites/.keep
+      - Building Singapore/.keep
       - Building Singapore/Maintaining Megastructures.md
       - Building Singapore/Creative Engineering in Bridging Industry and
         Community.md
       - Building Singapore/The Hidden Tech that Builds a World Class Airport.md
       - Building Singapore/The Wonders of Tunnel Engineering.md
       - Building Singapore/A Blend of Nature and Design.md
-      - Building Singapore/.keep
       - Articles/.keep
       - Articles/Crafting Concrete Dreams in Civil Engineering.md
       - Articles/Making a successful mid career switch.md
       - Articles/From a chance encounter to a career in Built Environment.md
-      - Videos/Co locating Our Construction Supply Chain.md
       - Videos/.keep
+      - Videos/Co locating Our Construction Supply Chain.md
       - Videos/Building a Used Water Underground Super Highway.md
       - "Videos/BE Conversations: Women in the Built Environment.md"
       - Videos/Hello Engineer Series.md
