@@ -15,5 +15,4 @@ contribute to Singapore’s growth and future. With this, he is drawn to
 the Built Environment (BE) sector and expanded beyond his expertise in
 aviation management to explore the diverse opportunities in managing facilities
 with the aims&nbsp;to work on initiatives that improve the lives of Singaporeans.</p>
-<p>&nbsp;</p>
 <p>Read on to learn more about <a href="https://brightsparks.com.sg/article.php?title=Transforming-Aspirations-Into-Reality-Through-the-Built-Environment-Sector" rel="noopener noreferrer nofollow" target="_blank">Sayyid’s experience</a>.</p>
