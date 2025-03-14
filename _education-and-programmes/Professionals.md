@@ -175,7 +175,7 @@ description: ""
       </td>
       <td rowspan="1" colspan="1">
         <p style="font-size: 1rem; line-height:1.5rem;">
-          <a href="https://sifma.org.sg/certified-facilities-management-expert-cfme" rel="noopener noreferrer nofollow" target="_blank">Singapore International Facility Management Association (SIFMA)</a>
+          <a href="https://sifma.org.sg/accreditation/certified-facilities-management-expert-cfme/" rel="noopener noreferrer nofollow" target="_blank">Singapore International Facility Management Association (SIFMA)</a>
         </p>
       </td>
     </tr>
