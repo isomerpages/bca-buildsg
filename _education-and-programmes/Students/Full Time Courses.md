@@ -56,7 +56,7 @@ third_nav_title: Students
     </p>
   </li>
   <li>
-    <p>Bachelor of Business Administration: <a href="https://bschool.nus.edu.sg/real-estate/bsc/" rel="noopener noreferrer nofollow" target="_blank">Real Estate&nbsp;</a>
+    <p>Bachelor of Business Administration: <a href="https://bschool.nus.edu.sg/real-estate/bba/" rel="noopener noreferrer nofollow" target="_blank">Real Estate&nbsp;</a>
     </p>
   </li>
 	
