@@ -12,5 +12,3 @@ third_nav_title: Building Bytes
 </div>
 <p>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</p>
 <p><a href="https://www.straitstimes.com/singapore/underground-circle-line-mrt-train-tunnels-built-environment-engineers-building-and-construction-authority" rel="noopener noreferrer nofollow" target="_blank">Read more about it here.</a></p>
-
-
