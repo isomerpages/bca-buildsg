@@ -96,7 +96,7 @@ third_nav_title: Students
 <p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skillsfuture-work-study-programme/post-diploma/work-study-post-diploma-specialist-diploma-in-sustainable-built-environment.html" rel="noopener noreferrer nofollow" target="_blank">Sustainable Built Environment</a>)</p>
 </li>
 	<li>
-<p>TP-BCAA&nbsp;Work-Study Post&nbsp;Diploma (Specialist Diploma in <a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skillsfuture-work-study-programme/post-diploma/tp-bcaa-work-study-post-diploma-specialist-diploma-in-bim-construction-and-asset-management.html" rel="noopener noreferrer nofollow" target="_blank">Building Information Modelling (BIM) Construction &amp; Asset Management</a>)</p>
+<p>TP&nbsp;Work-Study Post&nbsp;Diploma (Specialist Diploma in <a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/specialist-diploma-in-building-information-modeling-bim-construction-and-asset-management.html" rel="noopener noreferrer nofollow" target="_blank">Building Information Modelling (BIM) Construction &amp; Asset Management</a>)</p>
 </li>
 		<li>
 <p>Work-Study Post Diploma (Specialist Diploma in <a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skillsfuture-work-study-programme/post-diploma/work-study-post-diploma-specialist-diploma-in-lighting-design.html" rel="noopener noreferrer nofollow" target="_blank">Lighting Design</a>)</p>
