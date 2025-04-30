@@ -164,27 +164,27 @@ third_nav_title: Students
     </p>
   </li>
   <li>
-    <p>Diploma in <a href="https://www.sp.edu.sg/abe/courses/full-time-diplomas/civil-engineering" rel="noopener noreferrer nofollow" target="_blank">Civil Engineering</a>
+    <p>Diploma in <a href="https://www.sp.edu.sg/courses/schools/abe/civil-engineering" rel="noopener noreferrer nofollow" target="_blank">Civil Engineering</a>
     </p>
   </li>
   <li>
-    <p>Diploma in <a href="https://www.sp.edu.sg/abe/courses/full-time-diplomas/facilities-management" rel="noopener noreferrer nofollow" target="_blank">Facilities Management</a>
+    <p>Diploma in <a href="https://www.sp.edu.sg/courses/schools/abe/facilities-management" rel="noopener noreferrer nofollow" target="_blank">Facilities Management</a>
     </p>
   </li>
   <li>
-    <p>Diploma in <a href="https://www.sp.edu.sg/abe/courses/full-time-diplomas/integrated-events-project-management" rel="noopener noreferrer nofollow" target="_blank">Integrated Events and Project Management</a>
+    <p>Diploma in <a href="https://www.sp.edu.sg/courses/schools/abe/integrated-events-and-project-management" rel="noopener noreferrer nofollow" target="_blank">Integrated Events and Project Management</a>
     </p>
   </li>
   <li>
-    <p>Diploma in <a href="https://www.sp.edu.sg/abe/courses/full-time-diplomas/landscape-architecture" rel="noopener noreferrer nofollow" target="_blank">Landscape Architecture</a>
+    <p>Diploma in <a href="https://www.sp.edu.sg/courses/schools/abe/landscape-architecture" rel="noopener noreferrer nofollow" target="_blank">Landscape Architecture</a>
     </p>
   </li>
   <li>
-    <p>Diploma in <a href="https://www.sp.edu.sg/engineering-cluster/eee/courses/full-time-diplomas/electrical-electronic-engineering" rel="noopener noreferrer nofollow" target="_blank">Electrical and Electronic Engineering</a>
+    <p>Diploma in <a href="https://www.sp.edu.sg/courses/schools/eee/electrical-electronic-engineering" rel="noopener noreferrer nofollow" target="_blank">Electrical and Electronic Engineering</a>
     </p>
   </li>
   <li>
-    <p>Diploma in <a href="https://www.sp.edu.sg/engineering-cluster/mae/courses/full-time-diplomas/mechanical-engineering" rel="noopener noreferrer nofollow" target="_blank">Mechanical Engineering</a>
+    <p>Diploma in <a href="https://www.sp.edu.sg/courses/schools/mae/mechanical-engineering" rel="noopener noreferrer nofollow" target="_blank">Mechanical Engineering</a>
     </p>
   </li>
 </ul>
