@@ -86,7 +86,7 @@ description: ""
   </li>
   <li>
     <p>
-      <a href="https://www.suss.edu.sg/news-and-events/open-house/cet-and-modular-courses" rel="noopener noreferrer nofollow" target="_blank">Singapore University of Social Sciences </a>&nbsp;
+      <a href="https://www.suss.edu.sg/academics/executive-lifelong-learning/courses" rel="noopener noreferrer nofollow" target="_blank">Singapore University of Social Sciences </a>&nbsp;
     </p>
   </li>
   <li>
