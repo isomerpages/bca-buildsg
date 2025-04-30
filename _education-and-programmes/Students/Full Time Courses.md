@@ -160,7 +160,7 @@ third_nav_title: Students
 </div>
 <ul data-tight="true" class="tight">
   <li>
-    <p>Diploma in <a href="https://www.sp.edu.sg/abe/courses/full-time-diplomas/architecture" rel="noopener noreferrer nofollow" target="_blank">Architecture</a>
+    <p>Diploma in <a href="https://www.sp.edu.sg/courses/schools/abe/architecture" rel="noopener noreferrer nofollow" target="_blank">Architecture</a>
     </p>
   </li>
   <li>
