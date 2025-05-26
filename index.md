@@ -4,7 +4,10 @@ title: BuildSG
 description: An Isomer site of the Singapore Government
 image: /images/logo.png
 permalink: /
-notification: ""
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 or visit www.scamshield.gov.sg to check if something is a
+  scam.
 sections:
   - hero:
       background: /images/campaign_masthead.png
@@ -18,7 +21,7 @@ sections:
         - title: Career Opportunities
           description: Find your place
           url: /opportunities-to-shape-our-world/
-      variant: image
+      variant: center
   - infopic:
       title: We Are Never Done Building Singapore
       subtitle: OUR BUILT ENVIRONMENT JOURNEY
