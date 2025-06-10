@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - Podcast.md
       - Interviews/.keep
       - "Interviews/Architect: The Creative Designer.md"
       - "Interviews/Construction Manager: The Site Orchestrator.md"
