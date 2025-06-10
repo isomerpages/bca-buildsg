@@ -2,7 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - Podcast/.keep
       - Interviews/.keep
       - "Interviews/Architect: The Creative Designer.md"
       - "Interviews/Construction Manager: The Site Orchestrator.md"
@@ -40,3 +39,4 @@ collections:
       - Videos/Building a Used Water Underground Super Highway.md
       - "Videos/BE Conversations: Women in the Built Environment.md"
       - Videos/Hello Engineer Series.md
+      - Podcast/.keep
