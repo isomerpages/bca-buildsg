@@ -4,7 +4,7 @@ permalink: /example-title/
 variant: markdown
 description: ""
 ---
-  <style>
+<style>
     :root {
       --primary: #1a1a1a;
       --accent: #d4af37;
