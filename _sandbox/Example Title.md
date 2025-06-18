@@ -6,7 +6,7 @@ description: ""
 ---
 <style>
     :root {
-      --primary: #1a1a1a;
+      --primary: #ff0000;
       --accent: #d4af37;
       --light: #f8f8f8;
 		  --font: 'Comic Sans', sans-serif;
