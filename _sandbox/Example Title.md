@@ -9,7 +9,7 @@ description: ""
       --primary: #1a1a1a;
       --accent: #d4af37;
       --light: #f8f8f8;
-      --font: 'Times New Roman', sans-serif;
+      --font: 'Helvetica Neue', sans-serif;
     }
 
     * {
