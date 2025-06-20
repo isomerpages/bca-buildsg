@@ -11,5 +11,9 @@ third_nav_title: Students
 <p>Kickstart your career in the Built Environment (BE) with this scholarship opportunity!
 <br>
 <br>Offered under the Singapore-Industry Scholarship (SgIS) programme, this undergraduate BE Scholarship is available to Singapore Citizens aspiring to contribute to leading organisations in Singapore's BE sector.
+<br>
+<br>1. Scholarship Benefits
+<br>	
+As a BE scholar, you will get an early start in developing practical skills and gain deep industry insights that shape your professional growth through internships with participating Sponsoring Organisations (SO)  and other avenues such as mentorships and dialogue sessions. 
 
 </p>
