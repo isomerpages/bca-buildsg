@@ -18,7 +18,8 @@ to contribute to leading organisations in Singapore's BE sector.
 <br><strong>1. Scholarship Benefits</strong>
 <br>As a BE scholar, you will get an early start in developing practical skills
 and gain deep industry insights that shape your professional growth through
-internships with <a href="https://www.moe.gov.sg/sgis/sponsoring-organisations/industries/built-environment" rel="noopener nofollow" target="_blank">participating Sponsoring Organisations (SO) </a>and
+internships with participating <strong><a href="https://www.moe.gov.sg/sgis/sponsoring-organisations/industries/built-environment" rel="noopener noreferrer nofollow" target="_blank">Sponsoring Organisations (SO)</a></strong> and
 other avenues such as mentorships and dialogue sessions.</p>
 <p></p>
+<p>end</p>
 <p></p>
