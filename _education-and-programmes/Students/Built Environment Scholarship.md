@@ -21,5 +21,81 @@ and gain deep industry insights that shape your professional growth through
 internships with participating <strong><a href="https://www.moe.gov.sg/sgis/sponsoring-organisations/industries/built-environment" rel="noopener noreferrer nofollow" target="_blank">Sponsoring Organisations (SO)</a></strong> and
 other avenues such as mentorships and dialogue sessions.</p>
 <p></p>
-<p>end</p>
+<p>You will also be part of BCA's Future Leaders Network (FLN) programme,
+where you will have opportunities to forge meaningful connections with
+other like-minded scholars, hear from experienced BE professionals and
+engage in immersive educational experiences to enhance your BE competencies.</p>
+<p></p>
+<p><strong><u>Types of Scholarships</u></strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Full-Term Local</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mid-Term Local</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mid-Term Overseas</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Who is it for?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>For Singapore Citizens enrolling into full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>For Singapore Citizens studying in full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>For Singapore Citizens studying in full-time overseas Degree courses from overseas universities</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Coverage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Coverage of full tuition fees and approved academic charges</p>
+<p>• Annual living allowance</p>
+<p>• One-time overseas exchange allowance</p>
+<p>&nbsp;</p>
+<p>For BE courses, the estimated total value of award is ~S$80,000 – S$140,000.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• One- time Scholarship allowance of S$30,000 or S$50,000</p>
+<p>• One-time overseas exchange allowance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• One- time Scholarship allowance of S$40,000 or S$60,000</p>
+<p>• One-time overseas exchange allowance</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>2. Apply Now!</strong>
+</p>
+<p>Applications is open from January to March annually. Visit MOE’s website
+for more information on the <strong><a href="https://www.moe.gov.sg/sgis/application" rel="noopener noreferrer nofollow" target="_blank">application process</a></strong>
+</p>
 <p></p>
