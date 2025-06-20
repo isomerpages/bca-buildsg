@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Students
 ---
 <div class="iframe-wrapper">
-<iframe style="position: absolute; width: 50%; height: 50%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7Esj2HsU0cY?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
+<iframe style="position: absolute; width: 30%; height: 30%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7Esj2HsU0cY?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
 </div>
 <p></p>
 <p></p>
