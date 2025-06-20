@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Students
 ---
 <div class="iframe-wrapper">
-<iframe style="position: absolute; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7Esj2HsU0cY?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
+<iframe style="position: absolute; width: 50%; height: 50%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7Esj2HsU0cY?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
 </div>
 <p>Kickstart your career in the Built Environment (BE) with this scholarship
 opportunity!
