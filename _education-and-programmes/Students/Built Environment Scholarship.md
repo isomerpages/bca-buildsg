@@ -8,11 +8,6 @@ third_nav_title: Students
 <div class="iframe-wrapper">
 <div style="background-color: #000; width: 100%; height: 100%; margin: 0 auto !important; text-align: center;"><iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border: none; overflow: hidden; width: 320px; height: 571px;" src="https://www.youtube.com/embed/7Esj2HsU0cY?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe></div>
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>Kickstart your career in the Built Environment (BE) with this scholarship
 opportunity!
 <br>
