@@ -26,7 +26,7 @@ engage in immersive educational experiences to enhance your BE competencies.</p>
 </p>
 <style>
   table {
-    font-size: 80%;
+    font-size: 50%;
   }
 </style>
 <table style="minWidth: 100px">
