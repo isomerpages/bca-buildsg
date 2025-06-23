@@ -5,26 +5,24 @@ variant: tiptap
 description: ""
 third_nav_title: Students
 ---
-<div style="background-color: #000; width: 100%; height: 100%; margin: 0 auto !important; text-align: center;"><iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border: none; overflow: hidden; width: 320px; height: 571px;" src="https://www.youtube.com/embed/7Esj2HsU0cY?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
+<div class="iframe-wrapper">
+<iframe style="border: none; overflow: hidden; width: 320px; height: 571px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7Esj2HsU0cY?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
 </div>
 <p>Kickstart your career in the Built Environment (BE) with this scholarship
-opportunity!
-<br>
-<br>Offered under the Singapore-Industry Scholarship (SgIS) programme, this
+opportunity!</p>
+<p>Offered under the Singapore-Industry Scholarship (SgIS) programme, this
 undergraduate BE Scholarship is available to Singapore Citizens aspiring
 to contribute to leading organisations in Singapore's BE sector.
 <br>
 <br><strong>1. Scholarship Benefits</strong>
 <br>As a BE scholar, you will get an early start in developing practical skills
 and gain deep industry insights that shape your professional growth through
-internships with participating <strong><a href="https://www.moe.gov.sg/sgis/sponsoring-organisations/industries/built-environment" rel="noopener noreferrer nofollow" target="_blank">Sponsoring Organisations (SO)</a></strong> and
+internships with participating <strong><a href="https://www.moe.gov.sg/sgis/sponsoring-organisations/industries/built-environment" rel="noopener noreferrer nofollow" target="_blank">Sponsoring Organisations (SO)</a></strong> &nbsp;and
 other avenues such as mentorships and dialogue sessions.</p>
-<p></p>
 <p>You will also be part of BCA's Future Leaders Network (FLN) programme,
 where you will have opportunities to forge meaningful connections with
 other like-minded scholars, hear from experienced BE professionals and
 engage in immersive educational experiences to enhance your BE competencies.</p>
-<p></p>
 <p><strong><u>Types of Scholarships</u></strong>
 </p>
 <table style="minWidth: 100px">
@@ -91,7 +89,6 @@ engage in immersive educational experiences to enhance your BE competencies.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>2. Apply Now!</strong>
 </p>
 <p>Applications is open from January to March annually. Visit MOE’s website
