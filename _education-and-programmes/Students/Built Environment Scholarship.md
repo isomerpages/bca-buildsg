@@ -24,6 +24,11 @@ other like-minded scholars, hear from experienced BE professionals and
 engage in immersive educational experiences to enhance your BE competencies.</p>
 <p><strong><u>Types of Scholarships</u></strong>
 </p>
+<style>
+  table {
+    font-size: 70%;
+  }
+</style>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
