@@ -24,11 +24,6 @@ other like-minded scholars, hear from experienced BE professionals and
 engage in immersive educational experiences to enhance your BE competencies.</p>
 <p><strong><u>Types of Scholarships</u></strong>
 </p>
-<style>
-  table {
-    font-size: 50%;
-  }
-</style>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -42,43 +37,43 @@ engage in immersive educational experiences to enhance your BE competencies.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Full-Term Local</strong>
+<p style="font-size: 0.8rem;line-height:2.5rem;"><strong>Full-Term Local</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mid-Term Local</strong>
+<p style="font-size: 0.8rem;line-height:2.5rem;"><strong>Mid-Term Local</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mid-Term Overseas</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Who is it for?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>For Singapore Citizens enrolling into full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>For Singapore Citizens studying in full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>For Singapore Citizens studying in full-time overseas Degree courses from overseas universities</em>
+<p style="font-size: 0.8rem;line-height:2.5rem;"><strong>Mid-Term Overseas</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Coverage</p>
+<p style="font-size: 0.8rem;line-height:2.5rem;">Who is it for?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Coverage of full tuition fees and approved academic charges</p>
-<p>• Annual living allowance</p>
-<p>• One-time overseas exchange allowance</p>
+<p style="font-size: 0.8rem;line-height:2.5rem;"><em>For Singapore Citizens enrolling into full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p style="font-size: 0.8rem;line-height:2.5rem;"><em>For Singapore Citizens studying in full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p style="font-size: 0.8rem;line-height:2.5rem;"><em>For Singapore Citizens studying in full-time overseas Degree courses from overseas universities</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p style="font-size: 0.8rem;line-height:2.5rem;">Coverage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p style="font-size: 0.8rem;line-height:2.5rem;">• Coverage of full tuition fees and approved academic charges</p>
+<p style="font-size: 0.8rem;line-height:2.5rem;">• Annual living allowance</p>
+<p style="font-size: 0.8rem;line-height:2.5rem;">• One-time overseas exchange allowance</p>
 <p>&nbsp;</p>
 <p>For BE courses, the estimated total value of award is ~S$80,000 – S$140,000.</p>
 </td>
