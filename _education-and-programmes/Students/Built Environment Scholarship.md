@@ -38,7 +38,7 @@ engage in immersive educational experiences to enhance your BE competencies.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.9rem; line-height:2.5rem;"><strong>Full-Term Local</strong></p>
+<p style="font-size: 1rem; line-height:1.5rem;"><strong>Full-Term Local</strong></p>
 </td>
 <td rowspan="1" colspan="1">
 <p style="font-size: 0.9rem; line-height:2.5rem;"><strong>Mid-Term Local</strong></p>
@@ -49,10 +49,10 @@ engage in immersive educational experiences to enhance your BE competencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.9rem;line-height:2.5rem;">Who is it for?</p>
+<p style="font-size: 1rem;line-height:1.5rem;">Who is it for?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.9rem;line-height:2.5rem;">For Singapore Citizens enrolling into full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</p>
+<p style="font-size: 1rem;line-height:1.5rem;">For Singapore Citizens enrolling into full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</p>
 </td>
 <td rowspan="1" colspan="1">
 <p style="font-size: 0.9rem;line-height:2.5rem;">For Singapore Citizens studying in full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</p>
