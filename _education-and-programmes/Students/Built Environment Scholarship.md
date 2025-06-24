@@ -33,6 +33,7 @@ engage in immersive educational experiences to enhance your BE competencies.</p>
 </colgroup>
 <tbody>
 <tr>
+</tr><tr style="background-color: #F1F4F6;">
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
@@ -61,6 +62,7 @@ engage in immersive educational experiences to enhance your BE competencies.</p>
 </td>
 </tr>
 <tr>
+</tr><tr style="background-color: #F1F4F6;">	
 <td rowspan="1" colspan="1">
 <p style="font-size: 0.8rem;line-height:2.5rem;">Coverage</p>
 </td>
