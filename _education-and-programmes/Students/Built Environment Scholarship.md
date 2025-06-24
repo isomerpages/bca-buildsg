@@ -106,4 +106,3 @@ engage in immersive educational experiences to enhance your BE competencies.</p>
 <p>Applications is open from January to March annually. Visit MOE’s website
 for more information on the <strong><a href="https://www.moe.gov.sg/sgis/application" rel="noopener noreferrer nofollow" target="_blank">application process.</a></strong>
 </p>
-<p></p>
