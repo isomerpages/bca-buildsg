@@ -49,7 +49,7 @@ engage in immersive educational experiences to enhance your BE competencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p style="font-size: 1rem;line-height:1.5rem;">Who is it for?</p>
+<p style="font-size: 1rem;line-height:1.5rem;"><strong>Who is it for?</strong></p>
 </td>
 <td rowspan="1" colspan="1">
 <p style="font-size: 1rem;line-height:1.5rem;">For Singapore Citizens enrolling into full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</p>
@@ -64,7 +64,7 @@ engage in immersive educational experiences to enhance your BE competencies.</p>
 <tr>
 </tr><tr style="background-color: #F1F4F6;">	
 <td rowspan="1" colspan="1">
-<p style="font-size: 1rem;line-height:1.5rem;">Coverage</p>
+<p style="padding-top: 10px;font-size: 1rem;line-height:1.5rem;"><strong>Coverage</strong></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
