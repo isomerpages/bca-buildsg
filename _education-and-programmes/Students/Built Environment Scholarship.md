@@ -51,16 +51,13 @@ engage in immersive educational experiences to enhance your BE competencies.</p>
 <p style="font-size: 0.8rem;line-height:2.5rem;">Who is it for?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.8rem;line-height:2.5rem;"><em>For Singapore Citizens enrolling into full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</em>
-</p>
+<p style="font-size: 0.8rem;line-height:2.5rem;">For Singapore Citizens enrolling into full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.8rem;line-height:2.5rem;"><em>For Singapore Citizens studying in full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</em>
-</p>
+<p style="font-size: 0.8rem;line-height:2.5rem;">For Singapore Citizens studying in full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.8rem;line-height:2.5rem;"><em>For Singapore Citizens studying in full-time overseas Degree courses from overseas universities</em>
-</p>
+<p style="font-size: 0.8rem;line-height:2.5rem;">For Singapore Citizens studying in full-time overseas Degree courses from overseas universities</p>
 </td>
 </tr>
 <tr>
