@@ -38,13 +38,13 @@ engage in immersive educational experiences to enhance your BE competencies.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 1rem; line-height:1.5rem;"><strong>Full-Term Local</strong></p>
+<p style="font-size: 1rem; line-height:2.5rem;"><strong>Full-Term Local</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.9rem; line-height:2.5rem;"><strong>Mid-Term Local</strong></p>
+<p style="font-size: 1rem; line-height:2.5rem;"><strong>Mid-Term Local</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.9rem; line-height:2.5rem;"><strong>Mid-Term Overseas</strong></p>
+<p style="font-size: 1rem; line-height:2.5rem;"><strong>Mid-Term Overseas</strong></p>
 </td>
 </tr>
 <tr>
@@ -55,47 +55,47 @@ engage in immersive educational experiences to enhance your BE competencies.</p>
 <p style="font-size: 1rem;line-height:1.5rem;">For Singapore Citizens enrolling into full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.9rem;line-height:2.5rem;">For Singapore Citizens studying in full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</p>
+<p style="font-size: 1rem;line-height:1.5rem;">For Singapore Citizens studying in full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.9rem;line-height:2.5rem;">For Singapore Citizens studying in full-time overseas Degree courses from overseas universities</p>
+<p style="font-size: 1rem;line-height:1.5rem;">For Singapore Citizens studying in full-time overseas Degree courses from overseas universities</p>
 </td>
 </tr>
 <tr>
 </tr><tr style="background-color: #F1F4F6;">	
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.9rem;line-height:2.5rem;">Coverage</p>
+<p style="font-size: 1rem;line-height:1.5rem;">Coverage</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>	
-<p style="font-size: 0.9rem;line-height:2.5rem;">Coverage of full tuition fees and approved academic charges</p>
+<p style="font-size: 1rem;line-height:1.5rem;">Coverage of full tuition fees and approved academic charges</p>
 </li>
 <li>
-<p style="font-size: 0.9rem;line-height:2.5rem;">Annual living allowance</p>
+<p style="font-size: 1rem;line-height:1.5rem;">Annual living allowance</p>
 </li>
 <li>
-<p style="font-size: 0.9rem;line-height:2.5rem;">One-time overseas exchange allowance</p>
+<p style="font-size: 1rem;line-height:1.5rem;">One-time overseas exchange allowance</p>
 </li>
 	
-<p style="font-size: 0.9rem;line-height:2.5rem;">For BE courses, the estimated total value of award is ~S$80,000 – S$140,000.</p>
+<p style="font-size: 1rem;line-height:1.5rem;">For BE courses, the estimated total value of award is ~S$80,000 – S$140,000.</p>
 </ul></td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>	
-<p style="font-size: 0.9rem;line-height:2.5rem;">One- time Scholarship allowance of S$30,000 or S$50,000</p>
+<p style="font-size: 1rem;line-height:1.5rem;">One- time Scholarship allowance of S$30,000 or S$50,000</p>
 </li>
 <li>
-<p style="font-size: 0.9rem;line-height:2.5rem;">One-time overseas exchange allowance</p>
+<p style="font-size: 1rem;line-height:1.5rem;">One-time overseas exchange allowance</p>
 </li>
 	</ul></td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>	
-<p style="font-size: 0.9rem;line-height:2.5rem;">One- time Scholarship allowance of S$40,000 or S$60,000</p>
+<p style="font-size: 1rem;line-height:1.5rem;">One- time Scholarship allowance of S$40,000 or S$60,000</p>
 </li>
 <li>	
-<p style="font-size: 0.9rem;line-height:2.5rem;">One-time overseas exchange allowance</p>
+<p style="font-size: 1rem;line-height:1.5rem;">One-time overseas exchange allowance</p>
 </li>
 </ul></td>
 </tr>
