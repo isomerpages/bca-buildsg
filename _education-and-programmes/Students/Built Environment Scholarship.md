@@ -37,16 +37,13 @@ engage in immersive educational experiences to enhance your BE competencies.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.8rem;line-height:2.5rem;"><strong>Full-Term Local</strong>
-</p>
+<p style="font-size: 0.8rem; line-height:2.5rem;"><strong>Full-Term Local</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.8rem;line-height:2.5rem;"><strong>Mid-Term Local</strong>
-</p>
+<p style="font-size: 0.8rem; line-height:2.5rem;"><strong>Mid-Term Local</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.8rem;line-height:2.5rem;"><strong>Mid-Term Overseas</strong>
-</p>
+<p style="font-size: 0.8rem; line-height:2.5rem;"><strong>Mid-Term Overseas</strong></p>
 </td>
 </tr>
 <tr>
@@ -75,15 +72,15 @@ engage in immersive educational experiences to enhance your BE competencies.</p>
 <p style="font-size: 0.8rem;line-height:2.5rem;">• Annual living allowance</p>
 <p style="font-size: 0.8rem;line-height:2.5rem;">• One-time overseas exchange allowance</p>
 <p>&nbsp;</p>
-<p>For BE courses, the estimated total value of award is ~S$80,000 – S$140,000.</p>
+<p style="font-size: 0.8rem;line-height:2.5rem;">For BE courses, the estimated total value of award is ~S$80,000 – S$140,000.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• One- time Scholarship allowance of S$30,000 or S$50,000</p>
-<p>• One-time overseas exchange allowance</p>
+<p style="font-size: 0.8rem;line-height:2.5rem;">• One- time Scholarship allowance of S$30,000 or S$50,000</p>
+<p style="font-size: 0.8rem;line-height:2.5rem;">• One-time overseas exchange allowance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• One- time Scholarship allowance of S$40,000 or S$60,000</p>
-<p>• One-time overseas exchange allowance</p>
+<p style="font-size: 0.8rem;line-height:2.5rem;">• One- time Scholarship allowance of S$40,000 or S$60,000</p>
+<p style="font-size: 0.8rem;line-height:2.5rem;">• One-time overseas exchange allowance</p>
 </td>
 </tr>
 </tbody>
