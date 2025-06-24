@@ -5,11 +5,11 @@ variant: markdown
 description: ""
 third_nav_title: Podcast
 ---
-<h2>Podcast with YLB</h2>
+<h2 style="line-height: 3rem;">Podcast with YLB</h2>
 <p>This is a special two-parter in collaboration with Yah Lah But, featuring
 the people behind Singapore’s built environment.</p>
-<div class="iframe-wrapper">
-<iframe style="position: absolute; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3Gn5FcfkqWg?si=6KFHqqqiP1yBU4uB&amp;rel=0"></iframe>
+<div style="position: relative; width: 100%; padding-bottom: 56.2%;">
+    <iframe style="position: absolute; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3Gn5FcfkqWg?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
 </div>
 <p>In this episode, we dig deep into Singapore’s underground infrastructure
 with Er. Geoshua Tan, Vice President (Civil &amp; Infrastructure Engineering)
@@ -19,8 +19,8 @@ to design infrastructure that’s built to last — and how climate change
 is reshaping the way engineers think and build. He also clears up some
 of the most common myths about the profession and reflects on what keeps
 him proud to be part of shaping Singapore’s future.</p>
-<div class="iframe-wrapper">
-<iframe style="position: absolute; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZqJJM3rVDpU?si=6KFHqqqiP1yBU4uB&amp;rel=0"></iframe>
+<div style="position: relative; width: 100%; padding-bottom: 56.2%;">
+    <iframe style="position: absolute; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZqJJM3rVDpU?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
 </div>
 <p>In this episode, we sit down with Ar. Tan Szue Hann — architect, sustainability
 expert, and firm believer that good design goes far beyond how a building
