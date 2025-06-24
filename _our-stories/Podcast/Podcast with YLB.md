@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Podcast
 ---
-<h2 style="line-height: 3rem;">Podcast with YLB</h2>
+<h2 style="line-height: 3rem;">Podcast with Yah Lah But</h2>
 <p>This is a special two-parter in collaboration with Yah Lah But, featuring
 the people behind Singapore’s built environment.</p>
 <div style="position: relative; width: 100%; padding-bottom: 56.2%;">
