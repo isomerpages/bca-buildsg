@@ -1,4 +1,8 @@
 collections:
   sandbox:
     output: true
-    order: []
+    order:
+      - Example Title.md
+      - Subfolder 1/Content in subfolder 1.md
+      - Subfolder 1/.keep
+      - Experimental.md
