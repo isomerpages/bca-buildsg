@@ -33,9 +33,17 @@ third_nav_title: Students
 <p>row1</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>wwqeqwe</p>
+</li>
+<li>
 <p>weqwewq</p>
+</li>
+<li>
 <p>weqweqewq</p>
+</li>
+</ul>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,9 +57,17 @@ third_nav_title: Students
 <p>row2</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>fgdgfffgd</p>
+</li>
+<li>
 <p>gfdfggfdgdfggfd</p>
+</li>
+<li>
 <p>gfgdfgdgfgd</p>
+</li>
+</ul>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
