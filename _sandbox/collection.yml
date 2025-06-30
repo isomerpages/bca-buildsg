@@ -2,7 +2,6 @@ collections:
   sandbox:
     output: true
     order:
-      - Example Title.md
       - Subfolder 1/Content in subfolder 1.md
       - Subfolder 1/.keep
       - Experimental.md
