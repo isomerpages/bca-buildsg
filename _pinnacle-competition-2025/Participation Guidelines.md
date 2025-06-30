@@ -4,16 +4,9 @@ permalink: /participation-guidelines/
 variant: tiptap
 description: ""
 ---
-<p><strong>Who Can Participate?&nbsp;</strong>
-</p>
-<p>
-<br>
-</p>
+<h2>Who Can Participate?&nbsp;</h2>
 <p>Students aged 13 to 25, who are studying in local schools:</p>
-<p>
-<br>
-</p>
-<ol>
+<ol data-tight="true" class="tight">
 <li>
 <p>Secondary Schools</p>
 </li>
