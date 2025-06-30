@@ -33,52 +33,71 @@ engage in immersive educational experiences to enhance your BE competencies.</p>
 </colgroup>
 <tbody>
 <tr>
+</tr><tr style="background-color: #F1F4F6;">
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.8rem; line-height:2.5rem;"><strong>Full-Term Local</strong></p>
+<p style="font-size: 1rem; line-height:2.5rem;"><strong>Full-Term Local</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.8rem; line-height:2.5rem;"><strong>Mid-Term Local</strong></p>
+<p style="font-size: 1rem; line-height:2.5rem;"><strong>Mid-Term Local</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.8rem; line-height:2.5rem;"><strong>Mid-Term Overseas</strong></p>
+<p style="font-size: 1rem; line-height:2.5rem;"><strong>Mid-Term Overseas</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.8rem;line-height:2.5rem;">Who is it for?</p>
+<p style="font-size: 1rem;line-height:1.5rem;"><strong>Who is it for?</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.8rem;line-height:2.5rem;">For Singapore Citizens enrolling into full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</p>
+<p style="font-size: 1rem;line-height:1.5rem;">For Singapore Citizens enrolling into full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.8rem;line-height:2.5rem;">For Singapore Citizens studying in full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</p>
+<p style="font-size: 1rem;line-height:1.5rem;">For Singapore Citizens studying in full-time Degree courses from local universities only i.e. SIT, NTU, NUS, SMU, SUSS, SUTD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.8rem;line-height:2.5rem;">For Singapore Citizens studying in full-time overseas Degree courses from overseas universities</p>
+<p style="font-size: 1rem;line-height:1.5rem;">For Singapore Citizens studying in full-time overseas Degree courses from overseas universities</p>
 </td>
 </tr>
 <tr>
+</tr><tr style="background-color: #F1F4F6;">	
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.8rem;line-height:2.5rem;">Coverage</p>
+<p style="padding-top: 10px;font-size: 1rem;line-height:1.5rem;"><strong>Coverage</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.8rem;line-height:2.5rem;">• Coverage of full tuition fees and approved academic charges</p>
-<p style="font-size: 0.8rem;line-height:2.5rem;">• Annual living allowance</p>
-<p style="font-size: 0.8rem;line-height:2.5rem;">• One-time overseas exchange allowance</p>
-<p>&nbsp;</p>
-<p style="font-size: 0.8rem;line-height:2.5rem;">For BE courses, the estimated total value of award is ~S$80,000 – S$140,000.</p>
-</td>
+<ul data-tight="true" class="tight">
+<li>	
+<p style="font-size: 1rem;line-height:1.5rem;">Coverage of full tuition fees and approved academic charges</p>
+</li>
+<li>
+<p style="font-size: 1rem;line-height:1.5rem;">Annual living allowance</p>
+</li>
+<li>
+<p style="font-size: 1rem;line-height:1.5rem;">One-time overseas exchange allowance</p>
+</li>
+	
+<p style="font-size: 1rem;line-height:1.5rem;">For BE courses, the estimated total value of award is ~S$80,000 – S$140,000.</p>
+</ul></td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.8rem;line-height:2.5rem;">• One- time Scholarship allowance of S$30,000 or S$50,000</p>
-<p style="font-size: 0.8rem;line-height:2.5rem;">• One-time overseas exchange allowance</p>
-</td>
+<ul data-tight="true" class="tight">
+<li>	
+<p style="font-size: 1rem;line-height:1.5rem;">One- time Scholarship allowance of S$30,000 or S$50,000</p>
+</li>
+<li>
+<p style="font-size: 1rem;line-height:1.5rem;">One-time overseas exchange allowance</p>
+</li>
+	</ul></td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 0.8rem;line-height:2.5rem;">• One- time Scholarship allowance of S$40,000 or S$60,000</p>
-<p style="font-size: 0.8rem;line-height:2.5rem;">• One-time overseas exchange allowance</p>
-</td>
+<ul data-tight="true" class="tight">
+<li>	
+<p style="font-size: 1rem;line-height:1.5rem;">One- time Scholarship allowance of S$40,000 or S$60,000</p>
+</li>
+<li>	
+<p style="font-size: 1rem;line-height:1.5rem;">One-time overseas exchange allowance</p>
+</li>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -87,4 +106,3 @@ engage in immersive educational experiences to enhance your BE competencies.</p>
 <p>Applications is open from January to March annually. Visit MOE’s website
 for more information on the <strong><a href="https://www.moe.gov.sg/sgis/application" rel="noopener noreferrer nofollow" target="_blank">application process.</a></strong>
 </p>
-<p></p>
