@@ -2,6 +2,6 @@ collections:
   pinnacle-competition-2025:
     output: true
     order:
-      - Updates on Competition.md
       - Pinnacle Competition 2025.md
       - Participation Guidelines.md
+      - Updates on Competition.md
