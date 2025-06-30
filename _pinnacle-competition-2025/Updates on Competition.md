@@ -4,4 +4,4 @@ permalink: /updates-on-competition/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>Watch this space for more details.</p>
