@@ -4,80 +4,35 @@ permalink: /participation-guidelines/
 variant: markdown
 description: ""
 ---
-<h2>Who Can Participate?&nbsp;</h2>
+<h2>Who Can Participate?</h2>
 <p>Students aged 13 to 25, who are studying in local schools:</p>
 <ol data-tight="true" class="tight">
-<li>
-<p>Secondary Schools</p>
-</li>
-<li>
-<p>Junior Colleges</p>
-</li>
-<li>
-<p>ITEs</p>
-</li>
-<li>
-<p>Polytechnics</p>
-</li>
-<li>
-<p>Universities</p>
-</li>
+	<li>Secondary Schools</li>
+	<li>Junior Colleges</li>
+	<li>ITEs</li>
+	<li>Polytechnics</li>
+	<li>Universities</li>
 </ol>
-<p>
-<br>
-<br>
-</p>
-<p><strong>Eligibility</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+
+<h2>Eligibility</h2>
 <ol>
-<li>
-<p>Participants must be members of the iBuildSG Club. Not one yet? Join
-<a href="https://form.gov.sg/5f113808dba1d90011ca8ff3" rel="noopener noreferrer nofollow" target="_blank"><u>here</u>
-</a>!</p>
-</li>
-<li>
-<p>Participants must register in their appropriate category:&nbsp;</p>
-</li>
+	<li>Participants must be members of the iBuildSG Club. Not one yet? Join
+<a href="https://form.gov.sg/5f113808dba1d90011ca8ff3" rel="noopener noreferrer nofollow" target="_blank">here</a>!
+	</li><li>Participants must register in their appropriate category:
+		<ul>
+			<li>Category A: Pre-IHL Track (Secondary schools and Junior Colleges)</li>
+			<li>Category B: IHL Track (ITEs, Polytechnics and Universities)</li>
+		</ul>
+	</li>
+	<li>Students can participate individually or as a team of up to 3 members. Teams should be formed prior to registration and the team leader is to submit registration for the group.</li>
+	<li>Participants under the age of 18 must obtain parental or guardian consent.</li>
+	<li>All participants (or their parent/guardian for those under 18) must accept the Terms &amp; Conditions.</li>
 </ol>
-<ul>
-<li>
-<p>Category A: Pre-IHL Track (Secondary schools and Junior Colleges)</p>
-</li>
-<li>
-<p>Category B: IHL Track (ITEs, Polytechnics and Universities)</p>
-</li>
-</ul>
-<ol start="3">
-<li>
-<p><strong>Students can participate individually or as a team of up to 3 members. Teams should be formed prior to registration and the team leader is to submit registration for the group.</strong>
-</p>
-</li>
-<li>
-<p><strong>Participants under the age of 18 must obtain parental or guardian consent.&nbsp;</strong>
-</p>
-</li>
-<li>
-<p><strong>All participants (or their parent/guardian for those under 18) must accept the&nbsp; &nbsp; &nbsp; Terms &amp; Conditions.</strong>
-</p>
-</li>
-</ol>
-<p>
-<br>
-</p>
-<p><strong><u>Competition Brief</u></strong>
-</p>
-<p>
-<br>
-</p>
-<p><strong>Category A: Pre-IHLs Track (Secondary Schools, JCs): <br></strong>
-<br>As we celebrate SG60, show us how your chosen Green Mark building or space
-makes Singapore a better place to live! Share cool features that help our
-environment and tell us why they matter for Singapore's future.
-<br>
-<br>
-</p>
+
+<h2>Competition Brief</h2>
+<p><strong>Category A: Pre-IHLs Track (Secondary Schools, JCs):</strong></p>
+<p>As we celebrate SG60, show us how your chosen Green Mark building or space makes Singapore a better place to live! Share cool features that help our environment and tell us why they matter for Singapore's future.</p>
+
 <ol>
 <li>
 <p><strong>Highlight Cool Green Features</strong>
