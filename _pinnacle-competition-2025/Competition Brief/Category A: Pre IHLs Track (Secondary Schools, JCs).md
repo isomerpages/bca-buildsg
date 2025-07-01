@@ -32,7 +32,7 @@ third_nav_title: Competition Brief
 	</li>
 </ol>
 
-<h2>Judging Criteria</h2>
+<h1>Judging Criteria</h1>
 
 <ol>
 	<li><strong>Storytelling and Personal Insight (25%)</strong>
