@@ -40,8 +40,8 @@ description: ""
 		<tr>
 			<td>Winners Announcement for Both Categories:
 				<ul>
-					<li>First, Second and Third Place</li>
-					<li>People's Choice Award Winner</li>
+					<li><small>First, Second and Third Place</small></li>
+					<li><small>People's Choice Award Winner</small></li>
 				</ul>
 			</td>
 			<td>Between 8 - 12 September 2025</td>
