@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Competition Brief
 ---
-<h3>Category A: Pre-IHLs Track (Secondary Schools, JCs)</h3>
+<h1>Category A: Pre-IHLs Track (Secondary Schools, JCs)</h1>
 
 <p>As we celebrate SG60, show us how your chosen Green Mark building or space makes Singapore a better place to live! Share cool features that help our environment and tell us why they matter for Singapore's future.</p>
 
@@ -34,7 +34,7 @@ third_nav_title: Competition Brief
 	</li>
 </ol>
 
-<h4>Judging Criteria</h4>
+<h2>Judging Criteria</h2>
 
 <ol>
 	<li><strong>Storytelling and Personal Insight (25%)</strong>
