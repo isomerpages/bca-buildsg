@@ -6,8 +6,6 @@ variant: markdown
 description: ""
 third_nav_title: Competition Brief
 ---
-<h1>Category B: IHL (Institute of Higher Learning) Track (ITEs, Polytechnics, Universities)</h1>
-
 <p>As we celebrate SG60, explore how your chosen Green Mark building or space
 showcases Singapore's smart and sustainable future. Showcase key sustainable
 features and their environmental benefits, and how they contribute to Singapore's
@@ -42,7 +40,7 @@ green vision.&nbsp;</p>
 	</li>
 </ol>
 
-<h2>Judging Criteria:</h2>
+<h1>Judging Criteria</h1>
 
 <ol>
 	<li><strong>Storytelling and Personal Insight (25%)</strong>
