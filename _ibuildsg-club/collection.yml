@@ -1,0 +1,12 @@
+collections:
+  ibuildsg-club:
+    output: true
+    order:
+      - About iBuildSG Club/.keep
+      - Membership/.keep
+      - Programs & Resources/.keep
+      - Programs & Resources/Pinnacle Competition.md
+      - Programs & Resources/Career Development Programs.md
+      - Programs & Resources/Resource Library.md
+      - Programs & Resources/Upcoming Events.md
+      - Reach Out!/.keep
