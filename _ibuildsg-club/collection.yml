@@ -2,6 +2,7 @@ collections:
   ibuildsg-club:
     output: true
     order:
+      - Reach Out!/.keep
       - Programs & Resources/.keep
       - Membership/.keep
       - About iBuildSG Club/.keep
