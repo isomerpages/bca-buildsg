@@ -81,11 +81,11 @@ third_nav_title: Students
 </div>
 <ul data-tight="true" class="tight">
   <li>
-    <p>Bachelor of Science: <a href="https://asd.sutd.edu.sg/programme/bachelor-of-science-architecture-and-sustainable-design/" rel="noopener noreferrer nofollow" target="_blank">Architecture and Sustainable Design</a>
+    <p>Bachelor of Science: <a href="https://www.sutd.edu.sg/asd" rel="noopener noreferrer nofollow" target="_blank">Architecture and Sustainable Design</a>
     </p>
   </li>
   <li>
-    <p>Bachelor of Engineering: <a href="https://epd.sutd.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Engineering Product Development</a>
+    <p>Bachelor of Engineering: <a href="https://www.sutd.edu.sg/epd" rel="noopener noreferrer nofollow" target="_blank">Engineering Product Development</a>
     </p>
   </li>
 </ul>
