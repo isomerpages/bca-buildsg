@@ -2,6 +2,7 @@ collections:
   pinnacle-competition-2025:
     output: true
     order:
+      - Competition Schedule.md
       - Eligibility.md
       - Competition Brief/.keep
       - "Competition Brief/Category A: Pre IHLs Track (Secondary Schools,
