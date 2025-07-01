@@ -2,4 +2,5 @@ collections:
   ibuildsg-club:
     output: true
     order:
+      - Membership/.keep
       - About iBuildSG Club/.keep
