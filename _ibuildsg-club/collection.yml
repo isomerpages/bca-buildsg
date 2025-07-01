@@ -1,4 +1,5 @@
 collections:
   ibuildsg-club:
     output: true
-    order: []
+    order:
+      - About iBuildSG Club/.keep
