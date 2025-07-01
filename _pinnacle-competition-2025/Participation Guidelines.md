@@ -4,6 +4,27 @@ permalink: /pinnacle-competition-2025/participation-guidelines/
 variant: markdown
 description: ""
 ---
+While buildings provide essential shelter and security, they are also major contributors to climate change and environmental challenges.&nbsp;
+
+Today, they account for 39% of global energy-related carbon emissions, with 28% from operational emissions and 11% from the carbon footprint of construction materials and processes.
+
+Singapore drives sustainable development in the built environment through our Green Building Masterplan. With an ambitious target to green 80% of all buildings by 2030, we've already achieved a remarkable milestone – nearly 55% of our buildings are now Green Mark-certified.
+
+While we have made significant progress in our green building initiatives, our journey towards our nation’s net-zero goal requires continued innovation and action.
+
+iBuildSG Club Pinnacle Competition 2025:&nbsp; Visualising Sustainability: Reimagining the Built Environment
+
+As Singapore marks its diamond jubilee with SG60, we invite students to participate in an exciting video essay competition that brings to life stories about our green buildings or spaces - show us how they help the environment and makes Singapore a better place to live.
+
+The Challenge
+
+Create a 3-minute video essay about a Green Mark-certified building or space in Singapore.
+
+Share your discovery of its green features and how they benefit both users and the environment. As we celebrate SG60, show how this building or space represents sustainable solutions for our community's future - think about how today's sustainable buildings are helping to shape the Singapore we want for the next 60 years.
+
+The iBuildSG Club Pinnacle Competition 2025 is organised by the Building and Construction Authority (BCA). Vero Marketing Services Pte Ltd is the appointed official administrator and coordinator for the competition.
+
+
 <h2>Who Can Participate?</h2>
 
 <p>Students aged 13 to 25, who are studying in local schools:</p>
@@ -89,6 +110,7 @@ description: ""
 			<li>Inspires interest in sustainable buildings and their features, or curiosity about the built environment</li>
 		</ul>
 	</li>
+</ol>
 
 <h3>Category B: IHL (Institute of Higher Learning) Track (ITEs, Polytechnics, Universities)</h3>
 
@@ -206,91 +228,50 @@ green vision.&nbsp;</p>
 </ol>
 
 <p>Please read <strong><u>Terms and Conditions</u></strong> for more details and information<strong>. </strong>Participation in this Competition is free.</p>
-<p>
-<br>
-<br>
-</p>
-<p><strong>Competition Schedule</strong>
-</p>
-<p>
-<br>
-</p>
+
+<h2>Competition Schedule</h2>
+
 <table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Milestone</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Date</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Registration deadline:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>25 July 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Start submitting entries:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 July 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Submission deadline:&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20 August 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Judging and finalist selection:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22 – 27 August 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Public voting for People’s Choice Award (online):</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 – 7 September 2025&nbsp;</p>
-<p>(Finalist videos will also be showcased at the ‘Building Singapore: From
-Dreams to Reality’ event @ Vivo City from 5 – 7 September 2025 for voting.)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Winners Announcement for Both Categories:&nbsp;</p>
-<ul>
-<li>
-<p>First, Second and Third Place</p>
-</li>
-<li>
-<p>People's Choice Award Winner</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Between 8 - 12 September 2025</p>
-</td>
-</tr>
-</tbody>
+	<thead>
+		<tr>
+			<th>Milestone</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Registration deadline:</td>
+			<td>25 July 2025</td>
+		</tr>
+		<tr>
+			<td>Start submitting entries:</td>
+			<td>30 July 2025</td>
+		</tr>
+		<tr>
+			<td>Submission deadline:</td>
+			<td>20 August 2025</td>
+		</tr>
+		<tr>
+			<td>Judging and finalist selection:</td>
+			<td>22 - 27 August 2025</td>
+		</tr>
+		<tr>
+			<td>Public voting for People’s Choice Award (online):</td>
+			<td>
+				<div>3 - 7 September 2025</div>
+				<div>(Finalist videos will also be showcased at the ‘Building Singapore: From Dreams to Reality’ event @ Vivo City from 5 – 7 September 2025 for voting.)</div>
+			</td>
+		</tr>
+		<tr>
+			<td>Winners Announcement for Both Categories:
+				<ul>
+					<li>First, Second and Third Place</li>
+					<li>People's Choice Award Winner</li>
+				</ul>
+			</td>
+			<td>Between 8 - 12 September 2025</td>
+		</tr>
+	</tbody>
 </table>
-<p><em>Note: Competition dates and deadlines may be subject to adjustments. Please check our website regularly for updates.</em>
-</p></ol>
+
+<p><em>Note: Competition dates and deadlines may be subject to adjustments. Please check our website regularly for updates.</em></p>
