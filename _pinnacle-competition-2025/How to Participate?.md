@@ -35,7 +35,7 @@ description: ""
 				<ol>
 					<li>Share your video and caption on Instagram
 						<ul>
-							<li>Add @ibuildsgclub as a collaborator for the post before publishing</li>
+							<li>Add <a href="https://www.instagram.com/ibuildsgclub/">@ibuildsgclub</a> as a collaborator for the post before publishing</li>
 							<li>Ensure your Instagram account is set to ‘public’ for verification and/or content sharing until 15 September 2025 or the official announcement of winners, whichever is earlier.</li>
 							<li>For team entries, each member must post the video and caption on their respective Instagram account.</li>
 						</ul>
@@ -47,4 +47,4 @@ description: ""
 	</li>
 </ol>
 
-<p>Please read <strong><u>Terms and Conditions</u></strong> for more details and information<strong>. </strong>Participation in this Competition is free.</p>
+<p>Please read <a href="/files/The_iBuildSG_Club_Pinnacle_Competition_2025_Terms_and_Conditions.pdf">Terms and Conditions</a> for more details and information<strong>. </strong>Participation in this Competition is free.</p>
