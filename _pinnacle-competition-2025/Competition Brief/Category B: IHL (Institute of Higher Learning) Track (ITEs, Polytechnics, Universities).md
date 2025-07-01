@@ -57,7 +57,7 @@ green vision.&nbsp;</p>
 			<li>Clear and effective use of examples and illustrations to support key messages</li>
 		</ul>
 	</li>
-	<li><strong>Understanding of Sustainability(25%)</strong>
+	<li><strong>Understanding of Sustainability (25%)</strong>
 		<ul>
 			<li>Shows clear understanding of the building/space's sustainability features and their impact</li>
 			<li>Provides clear explanation about the benefits of these features</li>
