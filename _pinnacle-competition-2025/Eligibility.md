@@ -4,8 +4,6 @@ permalink: /eligibility/
 variant: markdown
 description: ""
 ---
-<h1>Eligibility</h1>
-
 <ol>
 	<li>Participants must be members of the iBuildSG Club. Not one yet? Join
 <a href="https://form.gov.sg/5f113808dba1d90011ca8ff3" rel="noopener noreferrer nofollow" target="_blank">here</a>!
