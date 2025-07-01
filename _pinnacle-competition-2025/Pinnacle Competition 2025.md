@@ -4,6 +4,8 @@ permalink: /pinnacle-competition-2025/
 variant: markdown
 description: ""
 ---
+![](/images/BCA_Pinnacle_Competition_KV.png)
+
 <h1>Visualising Sustainability: Reimagining the Built Environment</h1>
 
 <p>As Singapore marks its diamond jubilee with SG60, we invite students to participate in an exciting video essay competition that brings to life stories about our green buildings or spaces - show us how they help the environment and makes Singapore a better place to live.</p>
