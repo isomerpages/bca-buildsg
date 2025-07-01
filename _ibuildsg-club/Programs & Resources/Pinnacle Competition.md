@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Programs & Resources
 ---
+![](/images/BCA_Pinnacle_Competition_KV.png)
+
 <h1>The Pinnacle Competition 2025</h1>
 
 <p>While buildings provide essential shelter and security, they are also major contributors to climate change and environmental challenges.</p>
