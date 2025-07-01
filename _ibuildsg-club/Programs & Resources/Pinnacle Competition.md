@@ -41,4 +41,4 @@ third_nav_title: Programs & Resources
 	<li>Universities</li>
 </ol>
 
-<p>Find out more about the competition <a href="/pinnacle-competition-2025/">here</a></p>
+<p>Find out more about the competition <a href="/pinnacle-competition-2025/">here</a>.</p>
