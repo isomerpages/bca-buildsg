@@ -6,15 +6,7 @@ description: ""
 ---
 ![](/images/BCA_Pinnacle_Competition_KV.png)
 
-<p>While buildings provide essential shelter and security, they are also major contributors to climate change and environmental challenges.</p>
-
-<p>Today, they account for 39% of global energy-related carbon emissions, with 28% from operational emissions and 11% from the carbon footprint of construction materials and processes.</p>
-
-<p>Singapore drives sustainable development in the built environment through our Green Building Masterplan. With an ambitious target to green 80% of all buildings by 2030, we've already achieved a remarkable milestone – nearly 55% of our buildings are now Green Mark-certified.</p>
-
-<p>While we have made significant progress in our green building initiatives, our journey towards our nation’s net-zero goal requires continued innovation and action.</p>
-
-<h1>iBuildSG Club Pinnacle Competition 2025: Visualising Sustainability: Reimagining the Built Environment</h1>
+<h1>Visualising Sustainability: Reimagining the Built Environment</h1>
 
 <p>As Singapore marks its diamond jubilee with SG60, we invite students to participate in an exciting video essay competition that brings to life stories about our green buildings or spaces - show us how they help the environment and makes Singapore a better place to live.</p>
 
