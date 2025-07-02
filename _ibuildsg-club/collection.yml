@@ -2,7 +2,7 @@ collections:
   ibuildsg-club:
     output: true
     order:
-      - About iBuildSG Club/Social Media:.md
+      - About iBuildSG Club/Social Media.md
       - About iBuildSG Club/Application Requirements and Process.md
       - About iBuildSG Club/Why Join?.md
       - About iBuildSG Club/What is iBuildSG Club.md
