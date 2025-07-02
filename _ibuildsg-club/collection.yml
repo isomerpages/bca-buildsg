@@ -2,8 +2,6 @@ collections:
   ibuildsg-club:
     output: true
     order:
-      - Resource Hub.md
-      - Social Feed.md
       - About iBuildSG Club/.keep
       - About iBuildSG Club/What is iBuildSG Club.md
       - About iBuildSG Club/Why Join?.md
@@ -11,3 +9,5 @@ collections:
       - About iBuildSG Club/Social Media.md
       - Pinnacle Competition/.keep
       - Pinnacle Competition/Pinnacle Competition.md
+      - Resource Hub.md
+      - Social Feed.md
