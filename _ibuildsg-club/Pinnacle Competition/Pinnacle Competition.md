@@ -31,8 +31,6 @@ third_nav_title: Pinnacle Competition
 
 <h4>Participation Guidelines</h4>
 
-<h5>Who Can Participate?</h5>
-
 <p>Students aged 13 to 25, who are studying in local schools:</p>
 
 <ol>
