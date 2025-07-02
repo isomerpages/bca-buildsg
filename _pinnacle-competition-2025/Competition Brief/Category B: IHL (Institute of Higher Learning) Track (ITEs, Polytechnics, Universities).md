@@ -40,7 +40,7 @@ green vision.&nbsp;</p>
 	</li>
 </ol>
 
-<h1>Judging Criteria</h1>
+<h4>Judging Criteria</h4>
 
 <ol>
 	<li><strong>Storytelling and Personal Insight (25%)</strong>
