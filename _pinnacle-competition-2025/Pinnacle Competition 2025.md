@@ -6,11 +6,11 @@ description: ""
 ---
 ![](/images/BCA_Pinnacle_Competition_KV.png)
 
-<h1>Visualising Sustainability: Reimagining the Built Environment</h1>
+<h4>Visualising Sustainability: Reimagining the Built Environment</h4>
 
 <p>As Singapore marks its diamond jubilee with SG60, we invite students to participate in an exciting video essay competition that brings to life stories about our green buildings or spaces - show us how they help the environment and makes Singapore a better place to live.</p>
 
-<h2>The Challenge</h2>
+<h5>The Challenge</h5>
 
 <p>Create a 3-minute video essay about a Green Mark-certified building or space in Singapore.</p>
 
@@ -18,7 +18,7 @@ description: ""
 
 <p>The iBuildSG Club Pinnacle Competition 2025 is organised by the Building and Construction Authority (BCA). Vero Marketing Services Pte Ltd is the appointed official administrator and coordinator for the competition.</p>
 
-<h2>Who Can Participate?</h2>
+<h5>Who Can Participate?</h5>
 
 <p>Students aged 13 to 25, who are studying in local schools:</p>
 
