@@ -4,8 +4,6 @@ permalink: /pinnacle-competition-2025/competition-schedule/
 variant: markdown
 description: ""
 ---
-<h2>Competition Schedule</h2>
-
 <table style="minWidth: 50px">
 	<thead>
 		<tr>
