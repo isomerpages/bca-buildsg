@@ -2,6 +2,7 @@ collections:
   ibuildsg-club:
     output: true
     order:
+      - Application Requirements and Process.md
       - What is iBuildSG Club/.keep
       - Why Join?/.keep
       - Programs & Resources/.keep
