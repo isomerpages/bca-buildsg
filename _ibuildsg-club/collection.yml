@@ -2,7 +2,7 @@ collections:
   ibuildsg-club:
     output: true
     order:
-      - About iBuildSG Club/.keep
+      - What is iBuildsG Club/.keep
       - Membership/.keep
       - Programs & Resources/.keep
       - Programs & Resources/Pinnacle Competition.md
