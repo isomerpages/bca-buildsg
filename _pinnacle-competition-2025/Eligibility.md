@@ -10,11 +10,11 @@ description: ""
 	</li>
 	<li>Participants must register in their appropriate category:
 		<ul>
-			<li>Category A: Pre-IHL Track (Secondary schools and Junior Colleges)</li>
+			<li>Category A: Pre-IHL Track (Secondary Schools and Junior Colleges)</li>
 			<li>Category B: IHL Track (ITEs, Polytechnics and Universities)</li>
 		</ul>
 	</li>
 	<li>Students can participate individually or as a team of up to 3 members. Teams should be formed prior to registration and the team leader is to submit registration for the group.</li>
 	<li>Participants under the age of 18 must obtain parental or guardian consent.</li>
-	<li>All participants (or their parent/guardian for those under 18) must accept the Terms &amp; Conditions.</li>
+	<li>All participants (or their parent/guardian for those under 18) must read and accept the Terms &amp; Conditions.</li>
 </ol>
