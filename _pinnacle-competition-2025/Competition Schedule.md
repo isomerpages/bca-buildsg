@@ -38,7 +38,7 @@ description: ""
 		<tr>
 			<td>Winners Announcement for Both Categories:
 				<ul>
-					<li><small>First, Second and Third Place</small></li>
+					<li><small>First, Second and Third Place Winners</small></li>
 					<li><small>People's Choice Award Winner</small></li>
 				</ul>
 			</td>
