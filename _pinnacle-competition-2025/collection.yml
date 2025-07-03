@@ -2,7 +2,6 @@ collections:
   pinnacle-competition-2025:
     output: true
     order:
-      - Eligibility.md
       - Competition Brief/.keep
       - "Competition Brief/Category A: Pre IHLs Track.md"
       - "Competition Brief/Category B: IHL Track.md"
