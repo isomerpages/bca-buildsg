@@ -2,6 +2,6 @@ collections:
   explore-the-sector:
     output: true
     order:
-      - Building Singapore Festival.md
       - About Built Environment Sector.md
       - Sectoral Outlook.md
+      - Building Singapore Festival.md
