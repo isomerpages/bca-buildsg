@@ -1,5 +1,4 @@
 collections:
   pinnacle-competition-2025:
     output: true
-    order:
-      - Updates on Competition.md
+    order: []
