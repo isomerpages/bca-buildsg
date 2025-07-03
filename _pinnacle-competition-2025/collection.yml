@@ -2,7 +2,6 @@ collections:
   pinnacle-competition-2025:
     output: true
     order:
-      - Competition Brief/.keep
       - How to Participate?.md
       - Competition Schedule.md
       - Updates on Competition.md
