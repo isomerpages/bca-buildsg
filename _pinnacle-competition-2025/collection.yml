@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Competition Brief/.keep
-      - "Competition Brief/Category B: IHL Track.md"
       - How to Participate?.md
       - Competition Schedule.md
       - Updates on Competition.md
