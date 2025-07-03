@@ -2,5 +2,4 @@ collections:
   pinnacle-competition-2025:
     output: true
     order:
-      - Competition Schedule.md
       - Updates on Competition.md
