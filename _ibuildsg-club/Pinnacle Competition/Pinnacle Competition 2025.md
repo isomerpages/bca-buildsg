@@ -40,5 +40,3 @@ third_nav_title: Pinnacle Competition
 	<li>Polytechnics</li>
 	<li>Universities</li>
 </ol>
-
-<p>Find out more about the competition <a href="/pinnacle-competition-2025/">here</a>.</p>
