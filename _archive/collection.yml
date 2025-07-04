@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Social Feed.md
       - Resource Hub.md
       - Pinnacle Competition 2025.md
       - Designing Spaces for People and Animals.md
