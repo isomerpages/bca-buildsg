@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Why Join?.md
       - Social Feed.md
       - Resource Hub.md
       - Pinnacle Competition 2025.md
