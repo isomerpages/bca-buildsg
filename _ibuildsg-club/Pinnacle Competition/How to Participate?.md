@@ -11,9 +11,9 @@ third_nav_title: Pinnacle Competition
 			<li>Check your eligibility, then complete the <a href="https://form.gov.sg/6858f64bf7482ad8c47bc435">online registration form</a> by 25 July 2025</li>
 		</ul>
 	</li>
-	<li><strong>Select Your Building/Space</strong>
+	<li><strong>Select Your Building</strong>
 		<ul>
-			<li>Choose a Green Mark-certified building or space from the <a href="https://sleb.sg/Building/GreenMarkBuildingsDirectory">directory</a></li>
+			<li>Choose a Green Mark-certified building from the <a href="https://sleb.sg/Building/GreenMarkBuildingsDirectory">directory</a></li>
 			<li>Think about what sustainable features to showcase, such as energy-efficient features or green design elements</li>
 		</ul>
 	</li>
