@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Pinnacle Competition
 ---
-<p>As we celebrate SG60, show us how your chosen Green Mark building or space makes Singapore a better place to live! Share cool features that help our environment and tell us why they matter for Singapore's future.</p>
+<p>As we celebrate SG60, show us how your chosen Green Mark building makes Singapore a better place to live! Share cool features that help our environment and tell us why they matter for Singapore's future.</p>
 
 <ol>
 	<li><strong>Highlight Cool Green Features</strong>
@@ -24,10 +24,10 @@ third_nav_title: Pinnacle Competition
 			<li>Why are these features better than the regular ones?</li>
 		</ul>
 	</li>
-	<li><strong>Share Your Building/Space's Story</strong>
+	<li><strong>Share Your Building's Story</strong>
 		<ul>
-			<li>Why did you choose this building or space?</li>
-			<li>How does this building or space benefit the community or its users?</li>
+			<li>Why did you choose this building?</li>
+			<li>How does this building benefit the community or its users?</li>
 		</ul>
 	</li>
 </ol>
@@ -37,8 +37,8 @@ third_nav_title: Pinnacle Competition
 <ol>
 	<li><strong>Storytelling and Personal Insight (25%)</strong>
 		<ul>
-			<li>Communicates meaningful reasons for choosing the building/space</li>
-			<li>Shows personal thoughts, feelings and/or connection to the building/space</li>
+			<li>Communicates meaningful reasons for choosing the building</li>
+			<li>Shows personal thoughts, feelings and/or connection to the building</li>
 		</ul>
 	</li>
 	<li><strong>Presentation and Creativity (25%)</strong>
