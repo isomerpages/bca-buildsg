@@ -15,7 +15,7 @@ third_nav_title: Pinnacle Competition
 		<ul>
 			<li>
 				<p>Choose a Green Mark-certified building for your submission. The building must have a valid certification at the time of your submission.</p>
-				<p>To verify a building's certification status:</p>
+				<div>To verify a building's certification status:</div>
 				<ol>
 					<li>Visit the <a target="_blank" rel="noopener noreferrer nofollow" href="https://sleb.sg/Building/GreenMarkBuildingsDirectory">Green Mark Buildings Directory</a></li>
 					<li>Go to "Filters"</li>
