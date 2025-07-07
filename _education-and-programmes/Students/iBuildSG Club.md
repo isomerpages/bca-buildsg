@@ -17,7 +17,4 @@ world of BE!</p>
 
 <p>Ready to get started?</p>
 
-<p><a href="/">ins</a></p>
-
-
-<p><a href="https://form.gov.sg/5f113808dba1d90011ca8ff3">Join the iBuildSG Club</a> and stay connected through for exclusive content and updates.</p>
+<p><a href="https://form.gov.sg/5f113808dba1d90011ca8ff3">Join the iBuildSG Club</a> and stay connected through <a href="/ibuildsg-club/home/">our website</a> for exclusive content and updates.</p>
