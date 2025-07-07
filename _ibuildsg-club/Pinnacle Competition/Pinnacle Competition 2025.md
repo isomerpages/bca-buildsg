@@ -40,3 +40,21 @@ third_nav_title: Pinnacle Competition
 	<li>Polytechnics</li>
 	<li>Universities</li>
 </ol>
+
+<h4>Prizes - Category A: Pre-IHL Track</h4>
+
+<ul>
+	<li>1<sup>st</sup> prize: $1,500</li>
+	<li>2<sup>nd</sup> prize: $1,000</li>
+	<li>3<sup>rd</sup> prize: $700</li>
+	<li>People’s Choice: $300</li>
+</ul>
+
+<h4>Prizes - Category B: IHL Track</h4>
+
+<ul>
+	<li>1<sup>st</sup> prize: $3,000</li>
+	<li>2<sup>nd</sup> prize: $2,000</li>
+	<li>3<sup>rd</sup> prize: $1,200</li>
+	<li>People’s Choice: $300</li>
+</ul>
