@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Students
 ---
-<a href="https://form.gov.sg/">Join the iBuildSG Club</a>
+<a href="https://form.gov.sg/5f113808dba1d90011ca8ff3">Join the iBuildSG Club</a>
 
 <a href="/ibuildsg-club/home/">our website</a>
 
