@@ -5,8 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Students
 ---
-
 ![](/images/masthead_ibuildsg.png)
+
 <p>Are you a student curious about the Built Environment (BE)?</p>
 
 <p>Whether you're in secondary school, junior college, ITE, polytechnic or
