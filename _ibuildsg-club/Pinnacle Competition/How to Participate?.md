@@ -8,12 +8,12 @@ third_nav_title: Pinnacle Competition
 <ol>
 	<li><strong>Submit Your Registration</strong>
 		<ul>
-			<li>Check your eligibility, then complete the <a href="https://form.gov.sg/6858f64bf7482ad8c47bc435">online registration form</a> by 25 July 2025</li>
+			<li>Check your eligibility, then complete the <a target="_blank" rel="noopener noreferrer nofollow" href="https://form.gov.sg/6858f64bf7482ad8c47bc435">online registration form</a> by 25 July 2025</li>
 		</ul>
 	</li>
 	<li><strong>Select Your Building</strong>
 		<ul>
-			<li>Choose a Green Mark-certified building from the <a href="https://sleb.sg/Building/GreenMarkBuildingsDirectory">directory</a></li>
+			<li>Choose a Green Mark-certified building from the <a target="_blank" rel="noopener noreferrer nofollow" href="https://sleb.sg/Building/GreenMarkBuildingsDirectory">directory</a></li>
 			<li>Think about what sustainable features to showcase, such as energy-efficient features or green design elements</li>
 		</ul>
 	</li>
@@ -36,16 +36,16 @@ third_nav_title: Pinnacle Competition
 				<ol>
 					<li>Share your video and caption on Instagram
 						<ul>
-							<li>Add <a href="https://www.instagram.com/ibuildsgclub/">@ibuildsgclub</a> as a collaborator for the post before publishing</li>
+							<li>Add <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.instagram.com/ibuildsgclub/">@ibuildsgclub</a> as a collaborator for the post before publishing</li>
 							<li>Ensure your Instagram account is set to ‘public’ for verification and/or content sharing until 15 September 2025 or the official announcement of winners, whichever is earlier.</li>
 							<li>For team entries, each member must post the video and caption on their respective Instagram account.</li>
 						</ul>
 					</li>
-					<li>Submit your entry via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSeOskwCdv-Fx0zgX8vwtH73KrGVhfps3UTAA3k3JKcDhzVBxQ/viewform?usp=header">online submission form</a></li>
+					<li>Submit your entry via the <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.google.com/forms/d/e/1FAIpQLSeOskwCdv-Fx0zgX8vwtH73KrGVhfps3UTAA3k3JKcDhzVBxQ/viewform?usp=header">online submission form</a></li>
 				</ol>
 			</li>
 		</ul>
 	</li>
 </ol>
 
-<p>Please read <a href="/files/The_iBuildSG_Club_Pinnacle_Competition_2025_Terms_and_Conditions.pdf">Terms and Conditions</a> for more details and information<strong>. </strong>Participation in this Competition is free.</p>
+<p>Please read <a target="_blank" rel="noopener noreferrer nofollow" href="/files/The_iBuildSG_Club_Pinnacle_Competition_2025_Terms_and_Conditions.pdf">Terms and Conditions</a> for more details and information<strong>. </strong>Participation in this Competition is free.</p>
