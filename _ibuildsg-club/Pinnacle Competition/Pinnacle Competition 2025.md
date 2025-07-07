@@ -29,7 +29,7 @@ third_nav_title: Pinnacle Competition
 
 <p>The iBuildSG Club Pinnacle Competition 2025 is organised by the Building and Construction Authority (BCA). Vero Marketing Services Pte Ltd is the appointed official administrator and coordinator for the competition.</p>
 
-<h4>Participation Guidelines</h4>
+<h4>Participation Guideline</h4>
 
 <p>Students aged 13 to 25, who are studying in local schools:</p>
 
