@@ -13,3 +13,4 @@ world of BE!</p>
 <p>As a member, you will receive updates on the Club's activities and exclusive competitions just for members.</p>
 <p>Ready to get started?</p>
 <p><a href="https://form.gov.sg/5f113808dba1d90011ca8ff3">Join the iBuildSG Club</a> and stay connected through <a href="/ibuildsg-club/home/">our website</a> for exclusive content and updates.</p>
+<p>Don’t forget to follow us on</p>
