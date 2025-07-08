@@ -17,5 +17,5 @@ third_nav_title: Pinnacle Competition
 	</li>
 	<li>Students can participate individually or as a team of up to 3 members. Teams should be formed prior to registration and the team leader is to submit registration for the group.</li>
 	<li>Participants under the age of 18 must obtain parental or guardian consent.</li>
-	<li>All participants (or their parent/guardian for those under 18) must read and accept the Terms &amp; Conditions.</li>
+	<li>All participants (or their parent/guardian for those under 18) must read and accept the <a target="_blank" rel="noopener noreferrer nofollow" href="/files/The_iBuildSG_Club_Pinnacle_Competition_2025_Terms_and_Conditions.pdf">Terms and Conditions</a>.</li>
 </ol>
