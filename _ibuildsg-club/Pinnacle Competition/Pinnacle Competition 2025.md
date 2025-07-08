@@ -46,6 +46,10 @@ third_nav_title: Pinnacle Competition
 	  lissd: 0px;
 		margin-left: 0px;
 	}
+	
+	ul.blankie li::marker {
+		color: purple;
+	}
 </style>
 	
 <h4>Prizes - Category A: Pre-IHL Track</h4>
