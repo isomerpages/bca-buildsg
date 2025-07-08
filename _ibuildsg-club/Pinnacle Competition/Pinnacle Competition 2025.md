@@ -44,7 +44,6 @@ third_nav_title: Pinnacle Competition
 <style>
 	ul.blankie {
 		margin-left: 0px;
-	  margin-bottom: 0px;
 	}
 </style>
 	
