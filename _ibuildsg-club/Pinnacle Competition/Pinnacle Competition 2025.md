@@ -43,18 +43,14 @@ third_nav_title: Pinnacle Competition
 
 <h4>Prizes - Category A: Pre-IHL Track</h4>
 
-<ul>
-	<li>1<sup>st</sup> prize: $1,500</li>
-	<li>2<sup>nd</sup> prize: $1,000</li>
-	<li>3<sup>rd</sup> prize: $700</li>
-	<li>People’s Choice: $300</li>
-</ul>
+<p>1<sup>st</sup> prize: $1,500</p>
+<p>2<sup>nd</sup> prize: $1,000</p>
+<p>3<sup>rd</sup> prize: $700</p>
+<p>People’s Choice: $300</p>
 
 <h4>Prizes - Category B: IHL Track</h4>
 
-<ul>
-	<li>1<sup>st</sup> prize: $3,000</li>
-	<li>2<sup>nd</sup> prize: $2,000</li>
-	<li>3<sup>rd</sup> prize: $1,200</li>
-	<li>People’s Choice: $300</li>
-</ul>
+1<sup>st</sup> prize: $3,000<br>
+2<sup>nd</sup> prize: $2,000<br>
+3<sup>rd</sup> prize: $1,200<br>
+People’s Choice: $300
