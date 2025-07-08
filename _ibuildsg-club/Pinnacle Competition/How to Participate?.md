@@ -36,7 +36,7 @@ third_nav_title: Pinnacle Competition
 	<li><strong>Write Your Caption</strong>
 		<ul>
 			<li>Craft a caption (maximum 350 words)</li>
-			<li>Reinforce your video's key messages about your selected building's sustainability</li>
+			<li>Reinforce your video's key messages about your selected building and sustainability</li>
 		</ul>
 	</li>
 	<li><strong>Submit Your Entry</strong>
