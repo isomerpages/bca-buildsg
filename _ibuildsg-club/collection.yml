@@ -3,10 +3,12 @@ collections:
     output: true
     order:
       - About iBuildSG Club/.keep
-      - Membership/.keep
-      - Programs & Resources/.keep
-      - Programs & Resources/Pinnacle Competition.md
-      - Programs & Resources/Career Development Programs.md
-      - Programs & Resources/Resource Library.md
-      - Programs & Resources/Upcoming Events.md
-      - Reach Out!/.keep
+      - About iBuildSG Club/What is iBuildSG Club.md
+      - Pinnacle Competition/.keep
+      - Pinnacle Competition/Pinnacle Competition 2025.md
+      - Pinnacle Competition/Eligibility.md
+      - "Pinnacle Competition/Competition Brief for Category A: Pre IHL Track.md"
+      - "Pinnacle Competition/Competition Brief for Category B: IHL Track.md"
+      - Pinnacle Competition/How to Participate?.md
+      - Pinnacle Competition/Competition Schedule.md
+      - Pinnacle Competition/Updates on Competition.md

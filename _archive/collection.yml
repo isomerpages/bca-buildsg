@@ -2,6 +2,12 @@ collections:
   archive:
     output: true
     order:
+      - Social Media.md
+      - Application Requirements and Process.md
+      - Why Join?.md
+      - Social Feed.md
+      - Resource Hub.md
+      - Pinnacle Competition 2025.md
       - Designing Spaces for People and Animals.md
       - Tunnel Routes Safely.md
       - How Digital Tech Powers Team to Complete Changi Airport T2 Project More
