@@ -43,6 +43,7 @@ third_nav_title: Pinnacle Competition
 
 <style>
 	ul.blankie {
+	  lissd: 0px;
 		margin-left: 0px;
 	}
 </style>
