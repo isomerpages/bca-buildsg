@@ -41,7 +41,7 @@ third_nav_title: Pinnacle Competition
 	</li>
 	<li><strong>Submit Your Entry</strong>
 		<ul>
-			<li>The following must be completed by 20 August 2025:
+			<li>The following must be completed between 30 July and 20 August 2025, during the official submission period:
 				<ol>
 					<li>Share your video and caption on Instagram
 						<ul>
@@ -50,7 +50,7 @@ third_nav_title: Pinnacle Competition
 							<li>For team entries, each member must post the video and caption on their respective Instagram account.</li>
 						</ul>
 					</li>
-					<li>Submit your entry via the <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.google.com/forms/d/e/1FAIpQLSeOskwCdv-Fx0zgX8vwtH73KrGVhfps3UTAA3k3JKcDhzVBxQ/viewform?usp=header">online submission form</a></li>
+					<li>Submit your entry through the online submission form, which will be made available during the submission period.</li>
 				</ol>
 			</li>
 		</ul>
