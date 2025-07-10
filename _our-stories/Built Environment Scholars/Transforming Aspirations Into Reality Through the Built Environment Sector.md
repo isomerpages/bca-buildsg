@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Built Environment Scholars
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sayyid_1.jpg">
 </div>
@@ -34,7 +33,6 @@ that the skills he gained in asset management, safety compliance, and stakeholde
 coordination during his polytechnic days were highly transferable to his
 new field. The PFM curriculum broadened his perspective and skillset, preparing
 him to contribute to projects that enhance Singapore’s built environment.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sayyid_2.jpg">
 </div>
@@ -54,7 +52,6 @@ to urban challenges.</p>
 <p>Sayyid envisions applying his learning to Singapore’s urban development,
 particularly in projects that integrate blue-green infrastructure, enhance
 community spaces, and improve urban resilience.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sayyid_3.jpg">
 </div>
