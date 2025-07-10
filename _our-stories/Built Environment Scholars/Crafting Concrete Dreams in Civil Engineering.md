@@ -61,12 +61,12 @@ shares my values and sense of social responsibility. My advice to potential
 applicants is to consider not only a company’s professional reputation
 and track record, but also its culture and values, as they will make your
 journey with them much more fulfilling and meaningful."</p>
-<p></p>
+<hr>
 <p><em>Woh Hup (Private) Limited is a Sponsoring Organisation in the Singapore-Industry Scholarship (SgIS) for Built Environment Sector.</em>
 </p>
 <p><em>Click here to find out more about the Built Environment, and check out the list of Built Environment Sponsoring Organisations.</em>
 </p>
-<p></p>
+<hr>
 <p>This article was originally published in BrightSparks on 22 September
 2023 and is republished here with permission.</p>
 <p></p>
