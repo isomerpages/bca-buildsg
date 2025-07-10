@@ -64,7 +64,7 @@ journey with them much more fulfilling and meaningful."</p>
 <hr>
 <p><em>Woh Hup (Private) Limited is a Sponsoring Organisation in the Singapore-Industry Scholarship (SgIS) for Built Environment Sector.</em>
 </p>
-<p><em>Click here to find out more about the Built Environment, and check out the list of Built Environment Sponsoring Organisations.</em>
+<p><em>Click <a href="https://www.moe.gov.sg/sgis/sponsoring-organisations/industries/built-environment" rel="noopener nofollow" target="_blank">here</a> to find out more about the Built Environment, and check out the list of Built Environment Sponsoring Organisations.</em>
 </p>
 <hr>
 <p>This article was originally published in BrightSparks on 22 September
