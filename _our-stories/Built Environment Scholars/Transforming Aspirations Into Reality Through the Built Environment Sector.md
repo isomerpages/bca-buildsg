@@ -95,5 +95,5 @@ smart technologies,” he added.</p>
 <p>Find out more and <a href="https://www.moe.gov.sg/sgis/sponsoring-organisations/industries/built-environment" rel="noopener nofollow" target="_blank">apply for the Built Environment Scholarship</a> (offered
 under SgIS).</p>
 <hr>
-<p>This article was originally published in BrightSparks on 26 Feb 2025 and
-is republished here with permission.</p>
+<p>This article was originally published in BrightSparks on 26 February 2025
+and is republished here with permission.</p>
