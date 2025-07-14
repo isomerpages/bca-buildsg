@@ -3,7 +3,7 @@ title: Making a successful mid career switch
 permalink: /making-a-successful-mid-career-switch/
 variant: tiptap
 description: ""
-third_nav_title: Articles
+third_nav_title: Mid Careerists
 ---
 <p></p>
 <div class="isomer-image-wrapper">
