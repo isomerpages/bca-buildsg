@@ -57,7 +57,7 @@ third_nav_title: Pinnacle Competition
 	}
 </style>
 	
-<h4>Prizes - Category A: Pre-IHL Track</h4>
+<h4>Prizes – Category A: Pre-IHL Track<br>(For Secondary School and Junior College students)</h4>
 
 <ul class="blankie">
 	<li>1<sup>st</sup> prize: $1,500</li>
@@ -66,7 +66,8 @@ third_nav_title: Pinnacle Competition
 	<li>People’s Choice: $300</li>
 </ul>
 	
-<h4>Prizes - Category B: IHL Track</h4>
+<h4>Prizes – Category B: IHL Track<br>
+(For ITE, Polytechnic and University students)</h4>
 
 <ul class="blankie">
 	<li>1<sup>st</sup> prize: $3,000</li>
