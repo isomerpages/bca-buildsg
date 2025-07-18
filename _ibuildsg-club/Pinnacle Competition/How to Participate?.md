@@ -57,7 +57,9 @@ third_nav_title: Pinnacle Competition
 	</li>
 </ol>
 
-<p>Please refer to the following materials for more details and information. Participation in this Competition is free.</p>
+<p>Participation in this Competition is free.</p>
+
+<p>Please refer to the following materials for more details and information.</p>
 
 <ul>
 	<li><a target="_blank" rel="noopener noreferrer nofollow" href="/files/Pinnacle_Competition_Poster.pdf">Poster</a></li>
