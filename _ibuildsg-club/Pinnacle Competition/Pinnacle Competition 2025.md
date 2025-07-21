@@ -9,13 +9,19 @@ third_nav_title: Pinnacle Competition
 
 <h4>The Pinnacle Competition 2025</h4>
 
-<p>While buildings provide essential shelter and security, they are also major contributors to climate change and environmental challenges.</p>
+<p>Did you know that our buildings in Singapore create more than one-fifth of our country's carbon emissions? Fortunately, we can make our buildings 'greener' to help fight climate change.</p>
 
-<p>Today, they account for 39% of global energy-related carbon emissions, with 28% from operational emissions and 11% from the carbon footprint of construction materials and processes. (Source: <a href="https://worldgbc.org/climate-action/embodied-carbon/">World Green Building Council</a>)</p>
+<p>A new chapter in Singapore's environmental story began in 2021 with the Singapore Green Building Masterplan. This plan wasn't created just by the government – building experts and community members helped design it too. Think of it as a roadmap to make our buildings more environmentally friendly.</p>
 
-<p>Singapore drives sustainable development in the built environment through our Green Building Masterplan. With an ambitious target to green 80% of all buildings by 2030, we've already achieved a remarkable milestone – nearly 55% of our buildings are now Green Mark-certified.</p>
+<p>This masterplan is part of something even bigger called the Singapore Green Plan 2030.</p>
 
-<p>While we have made significant progress in our green building initiatives, our journey towards our nation’s net-zero goal requires continued innovation and action.</p>
+<p>We've already made great progress:</p>
+
+<ul>
+	<li>By December 2024, more than half of Singapore's buildings have become more environmentally friendly. Imagine if you could lay out all the floors from every building in Singapore – 61% of this space now meets green standards.</li>
+	<li>In 2024, about one in every four new buildings have been certified 'Super Low Energy' (SLE). This means these buildings are extremely good at saving energy.</li>
+	<li>Our best-in-class green buildings are averaging 72% energy efficiency improvement compared to 2005 levels. These buildings now use significantly less energy to operate than similar buildings did in 2005.</li>
+</ul>
 
 <h5>Visualising Sustainability: Reimagining the Built Environment</h5>
 
@@ -51,7 +57,7 @@ third_nav_title: Pinnacle Competition
 	}
 </style>
 	
-<h4>Prizes - Category A: Pre-IHL Track</h4>
+<h4>Prizes – Category A: Pre-IHL Track<br>(For Secondary School and Junior College students)</h4>
 
 <ul class="blankie">
 	<li>1<sup>st</sup> prize: $1,500</li>
@@ -60,7 +66,8 @@ third_nav_title: Pinnacle Competition
 	<li>People’s Choice: $300</li>
 </ul>
 	
-<h4>Prizes - Category B: IHL Track</h4>
+<h4>Prizes – Category B: IHL Track<br>
+(For ITE, Polytechnic and University students)</h4>
 
 <ul class="blankie">
 	<li>1<sup>st</sup> prize: $3,000</li>

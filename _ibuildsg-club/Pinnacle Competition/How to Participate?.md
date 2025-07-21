@@ -57,4 +57,13 @@ third_nav_title: Pinnacle Competition
 	</li>
 </ol>
 
-<p>Please read <a target="_blank" rel="noopener noreferrer nofollow" href="/files/The_iBuildSG_Club_Pinnacle_Competition_2025_Terms_and_Conditions.pdf">Terms and Conditions</a> for more details and information. Participation in this Competition is free.</p>
+<p>Participation in this Competition is free.</p>
+
+<p>Please refer to the following materials for more details and information.</p>
+
+<ul>
+	<li><a target="_blank" rel="noopener noreferrer nofollow" href="/files/Pinnacle_Competition_Poster.pdf">Poster</a></li>
+	<li><a target="_blank" rel="noopener noreferrer nofollow" href="/files/Pinnacle_Competition_Fact_Sheet.pdf">Fact Sheet</a></li>
+	<li><a target="_blank" rel="noopener noreferrer nofollow" href="/files/Pinnacle_Competition_Brief.pdf">Presentation Slides</a></li>
+	<li><a target="_blank" rel="noopener noreferrer nofollow" href="/files/The_iBuildSG_Club_Pinnacle_Competition_2025_Terms_and_Conditions.pdf">Terms and Conditions</a></li>
+</ul>
