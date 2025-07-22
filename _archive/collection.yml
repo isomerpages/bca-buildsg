@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Pinnacle Competition.md
       - Social Media.md
       - Application Requirements and Process.md
       - Why Join?.md
