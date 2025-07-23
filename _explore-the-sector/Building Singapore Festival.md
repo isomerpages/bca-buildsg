@@ -21,9 +21,20 @@ activities, exhibits, and digital games that take you behind the scenes
 of how our city is planned, built, and maintained.</p>
 <p><strong>Free LEGO Workshop (for children aged 6 and above):</strong>
 </p>
-<li>Let your children unleash their creativity at the "Build the Change" LEGO
+<ul data-tight="true" class="tight">
+<li>
+<p>Let your children unleash their creativity at the "Build the Change" LEGO
 Workshop. (Registration for Workshop will open soon. Please check back
-here for updates.)<p></p></li>
-<p><strong>Exclusive Event Giveaway: </strong></p>
-<li>Collect stamps as you explore, and redeem an exclusive giveaway – while
-stocks last!<p></p></li>
+here for updates.)</p>
+</li>
+</ul>
+<p><strong>Exclusive Event Giveaway:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Collect stamps as you explore, and redeem an exclusive giveaway – while
+stocks last!</p>
+<p></p>
+</li>
+</ul>
+<p></p>
