@@ -11,7 +11,7 @@ description: ""
 <p><strong>Building Singapore Festival: From Dreams to Reality</strong>
 </p>
 <p>5–7 September 2025 | VivoCity, Level 1 Central Court | Free Admission</p>
-<p><strong>Experience Singapore's Built Environment</strong> 
+<p><strong>Experience Singapore's Built Environment</strong>
 </p>
 <p>Ever wonder what it takes to build a city like Singapore – from underground
 MRT stations to sky-high buildings?</p>
@@ -21,10 +21,11 @@ activities, exhibits, and digital games that take you behind the scenes
 of how our city is planned, built, and maintained.</p>
 <p><strong>Free LEGO Workshop (for children aged 6 and above):</strong>
 </p>
-<p>• Let your children unleash their creativity at the "Build the Change"
-LEGO Workshop. (Registration for Workshop will open soon. Please check
-back here for updates.)</p>
-<p>Exclusive Event Giveaway:</p>
-<p>• Collect stamps as you explore, and redeem an exclusive giveaway – while
+<p>Let your children unleash their creativity at the "Build the Change" LEGO
+Workshop. (Registration for Workshop will open soon. Please check back
+here for updates.)</p>
+<p><strong>Exclusive Event Giveaway: </strong>
+</p>
+<p>Collect stamps as you explore, and redeem an exclusive giveaway – while
 stocks last!</p>
 <p></p>
