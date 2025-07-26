@@ -2,6 +2,7 @@ collections:
   ibuildsg-club:
     output: true
     order:
+      - Social Feed/Learn about BE concepts and key trends in the sector.md
       - Social Feed/.keep
       - About iBuildSG Club/.keep
       - About iBuildSG Club/What is iBuildSG Club.md
