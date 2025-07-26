@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: About iBuildSG Club
 ---
-<h4><strong>Student Engagement Activities</strong></h4>
+<h4>Student Engagement Activities</h4>
 <p>iBuildSG Club Workshop</p>
 <p>Worlds of Tomorrow 2024</p>
 <p>Interactive sessions covering sustainability and BE careers, helping students
