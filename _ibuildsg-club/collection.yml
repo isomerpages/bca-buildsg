@@ -2,6 +2,7 @@ collections:
   ibuildsg-club:
     output: true
     order:
+      - Social Feed/.keep
       - About iBuildSG Club/.keep
       - About iBuildSG Club/What is iBuildSG Club.md
       - About iBuildSG Club/What the Club offers.md
