@@ -2,6 +2,7 @@ collections:
   ibuildsg-club:
     output: true
     order:
+      - Social Feed/Gain insights into BE careers.md
       - Social Feed/Discover companies shaping the Built Environment.md
       - Social Feed/Learn about BE concepts and key trends in the sector.md
       - Social Feed/.keep
