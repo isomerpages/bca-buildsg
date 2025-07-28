@@ -1,4 +1,5 @@
 collections:
   bw-testing:
     output: true
-    order: []
+    order:
+      - test 1.md
