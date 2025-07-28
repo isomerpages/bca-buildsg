@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: About iBuildSG Club
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Membership_LOW_RES.png">
+</div>
 <h4>Who can join the iBuildSG Club?</h4>
 <p>Students aged 13 to 25 enrolled in local educational institutions, including
 secondary schools, junior colleges, ITEs, polytechnics, and universities,
