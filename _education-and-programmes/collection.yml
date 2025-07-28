@@ -2,7 +2,6 @@ collections:
   education-and-programmes:
     output: true
     order:
-      - Test/.keep
       - Students/.keep
       - Students/iBuildSG Club.md
       - Students/Built Environment Scholarship.md
