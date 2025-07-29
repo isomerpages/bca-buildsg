@@ -2,4 +2,5 @@ collections:
   sandbox:
     output: true
     order:
+      - Temp iBuildSG Club/.keep
       - Temp Social Feed/.keep
