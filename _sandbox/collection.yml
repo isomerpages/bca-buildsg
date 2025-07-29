@@ -1,4 +1,5 @@
 collections:
   sandbox:
     output: true
-    order: []
+    order:
+      - Temp Social Feed/.keep
