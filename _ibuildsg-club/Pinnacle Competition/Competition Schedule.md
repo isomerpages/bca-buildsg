@@ -15,7 +15,7 @@ third_nav_title: Pinnacle Competition
 	<tbody>
 		<tr>
 			<td>Registration deadline:</td>
-			<td>31 July 2025</td>
+			<td>15 August 2025</td>
 		</tr>
 		<tr>
 			<td>Start submitting entries:</td>
