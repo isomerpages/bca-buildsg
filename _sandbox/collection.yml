@@ -2,13 +2,13 @@ collections:
   sandbox:
     output: true
     order:
-      - Temp iBuildSG Club/Stay Connected.md
-      - Temp iBuildSG Club/Membership FAQ.md
-      - Temp iBuildSG Club/Join Us.md
-      - Temp iBuildSG Club/Online Resources.md
-      - Temp iBuildSG Club/Competitions.md
-      - Temp iBuildSG Club/What the Club Offers.md
-      - Temp iBuildSG Club/.keep
+      - IBuildSG Club/Stay Connected.md
+      - IBuildSG Club/Membership FAQ.md
+      - IBuildSG Club/Join Us.md
+      - IBuildSG Club/Online Resources.md
+      - IBuildSG Club/Competitions.md
+      - IBuildSG Club/What the Club Offers.md
+      - IBuildSG Club/.keep
       - Temp Social Feed/Join Us.md
       - Temp Social Feed/Stay Connected.md
       - Temp Social Feed/Learn about BE concepts.md
