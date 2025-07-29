@@ -5,4 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Pinnacle Competition
 ---
-<p>Watch this space for more details.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>[UPDATE 29 July 2025]</strong>: The registration deadline for
+Pinnacle Competition 2025 has been extended to 15 August 2025.</p>
+</li>
+</ul>
+<p></p>

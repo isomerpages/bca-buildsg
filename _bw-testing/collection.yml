@@ -1,0 +1,5 @@
+collections:
+  bw-testing:
+    output: true
+    order:
+      - test 1.md
