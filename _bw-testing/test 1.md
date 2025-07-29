@@ -4,10 +4,6 @@ permalink: /test-1/
 variant: markdown
 description: ""
 ---
-
-
-
-
 <title>iOS OK/Cancel Popup</title>
 <style>
   body {
@@ -84,8 +80,3 @@ description: ""
     </div>
   </div>
 </div>
-
-
-
-
-
