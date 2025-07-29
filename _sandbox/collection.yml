@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Temp iBuildSG Club/.keep
+      - Temp Social Feed/Learn about BE concepts.md
       - Temp Social Feed/Discover companies shaping the Built Environment.md
       - Temp Social Feed/Gain insights into BE careers.md
       - Temp Social Feed/Connect with the BE community.md
