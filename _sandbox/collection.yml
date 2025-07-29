@@ -2,6 +2,7 @@ collections:
   sandbox:
     output: true
     order:
+      - Temp iBuildSG Club/Membership FAQ.md
       - Temp iBuildSG Club/Join Us.md
       - Temp iBuildSG Club/Online Resources.md
       - Temp iBuildSG Club/Competitions.md
