@@ -15,5 +15,5 @@ third_nav_title: Social Feed
 <h4>How robotics is transforming construction sites documentary video</h4>
 
 <div>
-	<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="442" width="500" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fibuildsgclub.sg%2Fvideos%2F1670269117229809%2F&amp;width=500&amp;show_text=true&amp;height=281&amp;appId"></iframe>
+	<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="399" width="320" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fibuildsgclub.sg%2Fvideos%2F1670269117229809%2F&amp;show_text=true&amp;height=281&amp;appId"></iframe>
 </div>
