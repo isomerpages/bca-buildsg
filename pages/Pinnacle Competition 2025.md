@@ -75,4 +75,4 @@ description: ""
 	<li>People’s Choice: $300</li>
 </ul>
 
-<h4><p>Please click <a href="https://www.buildsg.gov.sg/ibuildsg-club/pinnacle-competition-2025/how-to-participate/" rel="noopener noreferrer nofollow" target="_blank">here</a> for more details.</p></h4>
+<h4>Please click <a href="https://www.buildsg.gov.sg/ibuildsg-club/pinnacle-competition-2025/how-to-participate/" rel="noopener noreferrer nofollow" target="_blank">here</a> for more details.</h4>
