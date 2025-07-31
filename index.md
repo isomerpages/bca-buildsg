@@ -26,7 +26,7 @@ sections:
       title: Building Singapore Festival
       subtitle: EXPLORE THE SECTOR
       id: infopic
-      description: Ever wonder what it takes to build a city like Singapore from
+      description: Ever wonder what it takes to build a city like Singapore, from
         underground MRT stations to sky-high buildings? Come discover at the
         Building Singapore Festival!
       button: SEE WHAT'S IN STORE
