@@ -1,7 +1,7 @@
 ---
 title: Connect with the BE community
 permalink: /ibuildsg-club/social-feed/connect-with-the-be-community/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Social Feed
 ---
