@@ -23,6 +23,17 @@ sections:
           url: /opportunities-to-shape-our-world/
       variant: center
   - infopic:
+      title: Building Singapore Festival
+      subtitle: EXPLORE THE SECTOR
+      id: infopic
+      description: Ever wonder what it takes to build a city like Singapore, from
+        underground MRT stations to sky-high buildings? Come discover at the
+        Building Singapore Festival!
+      button: SEE WHAT'S IN STORE
+      url: /building-singapore-festival/
+      image: /images/BE_Festival_KV_Final.png
+      alt: Image alt text
+  - infopic:
       title: We Are Never Done Building Singapore
       subtitle: OUR BUILT ENVIRONMENT JOURNEY
       id: infopic
