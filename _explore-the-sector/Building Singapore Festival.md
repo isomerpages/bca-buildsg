@@ -8,33 +8,15 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BE_Festival_KV_Final.png">
 </div>
-<p><strong>Building Singapore Festival: From Dreams to Reality</strong>
-</p>
+<p>Discover how we shape the city you live, work and play in!</p>
 <p>5–7 September 2025 | VivoCity, Level 1 Central Court | Free Admission</p>
-<p><strong>Experience Singapore's Built Environment</strong>
+<p><strong>Step into the world of builders, designers, and creators behind Singapore’s skyline</strong>
 </p>
-<p>Ever wonder what it takes to build a city like Singapore – from underground
-MRT stations to sky-high buildings?</p>
-<p>Come discover at the Building Singapore Festival!</p>
-<p>Fun for the whole family! Journey through 5 interactive zones with hands-on
-activities, exhibits, and digital games that take you behind the scenes
-of how our city is planned, built, and maintained.</p>
-<p><strong>Free LEGO Workshop (for children aged 6 and above):</strong>
+<p>Ever wondered what it takes to build a city like Singapore? From our iconic
+skyline to the smart buildings we live, work and play in – discover how
+it all comes together at Building Singapore Festival!</p>
+<p>Join us for a weekend of hands-on fun, games and discovery across 5 exciting
+interactive zones, where you and your family can explore what makes our
+city tick – and meet the hidden heroes who keep it all going.</p>
+<p><strong>Explore 5 Interactive Zones</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Let your children unleash their creativity at the "Build the Change" LEGO
-Workshop. (Registration for Workshop will open soon. Please check back
-here for updates.)</p>
-</li>
-</ul>
-<p><strong>Exclusive Event Giveaway:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Collect stamps as you explore, and redeem an exclusive giveaway – while
-stocks last!</p>
-<p></p>
-</li>
-</ul>
-<p></p>
