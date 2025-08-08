@@ -63,7 +63,37 @@ Engineer</p>
 Engineer</p>
 <p>Mall Mayhem – Keep the city running smoothly like a Facilities Manager</p>
 <p>Drone Patrol - Scan and spot building defects like a Building Inspector</p>
-<p></p>
-<p></p>
+<p><strong>Which Role Fits You Best?</strong>
+</p>
+<p><strong>[Visual: 4 avatars]</strong>&nbsp;</p>
+<p>Explore different roles in the built environment and find out which one
+matches your unique strengths and interests. Meet the four roles you'll
+discover through our personality quiz and role-playing games:</p>
+<p>The Visionary (Architect) - Big on imagination, turning bold ideas into
+real-life buildings</p>
+<p>The Safekeeper (Civil &amp; Structural Engineer) - Always thinking ahead
+to keep our city strong and secure.</p>
+<p>The Connector (Mechanical &amp; Electrical Engineer) - Loves making things
+work — from lighting to ventilation to smart systems.</p>
+<p>The Guardian (Facilities Manager) - Quietly heroic, making sure buildings
+stay safe, clean and comfortable every day.</p>
+<p><strong>Build the Change LEGO Workshops</strong>
+</p>
+<p>Kids can build their own mini city structures and take part in hands-on
+fun! Two workshops available, suitable for ages 6-9, as well as 10 years
+old and above.</p>
+<p><a href="https://go.gov.sg/buildsgworkshop" rel="noopener nofollow" target="_blank">Slots are limited – sign up here!</a>
+</p>
+<p><strong>Don’t Miss the Exclusive Giveaways</strong>
+</p>
+<p><strong>[Visual: Giveaways]</strong>&nbsp;</p>
+<p>Collect stamps after you complete each zone and redeem for exclusive giveaway
+– a perfect keepsake for young city builders! Available while stocks last.</p>
+<p><strong>Plan Your Adventure</strong>&nbsp;</p>
+<p><strong>[Visual: Floor plan]</strong>
+</p>
+<p>Check out the floor plan to map out your visit and make the most of all
+5 zones. Whether you’re a curious explorer or a strategic planner, there’s
+something for everyone to enjoy.</p>
 <p></p>
 <p></p>
