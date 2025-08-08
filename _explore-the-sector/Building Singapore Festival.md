@@ -53,7 +53,7 @@ day.&nbsp;</p>
 suits you best!</p>
 </li>
 </ul>
-<p><strong>Take On the Challenge with Digital Role-Playing Games!</strong> 
+<p><strong>Take On the Challenge with Digital Role-Playing Games!</strong>
 </p>
 <p>Step into the shoes of real city shapers with our exciting digital games:</p>
 <p>Shape the Space – Design your dream community club building as an Architect</p>
