@@ -31,7 +31,7 @@ sections:
         Building Singapore Festival!
       button: SEE WHAT'S IN STORE
       url: /building-singapore-festival/
-      image: /images/BE_Festival_KV_Final.png
+      image: /images/BE_Festival_KV_Final_v2.jpg
       alt: Image alt text
   - infopic:
       title: We Are Never Done Building Singapore
