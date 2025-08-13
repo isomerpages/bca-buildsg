@@ -86,16 +86,16 @@ discover through our personality quiz and role-playing games:</p>
 <ul data-tight="true" class="tight">
 	
 <li>
-<p style="font-size: 1rem;line-height:1.5rem;">The Visionary (Architect) - Big on imagination, turning bold ideas into real-life buildings</p>
+<p style="font-size: 1.2rem;line-height:1.5rem;">The Visionary (Architect) - Big on imagination, turning bold ideas into real-life buildings</p>
 </li>
 <li>
-<p style="font-size: 1rem;line-height:1.5rem;">The Safekeeper (Civil &amp; Structural Engineer) - Always thinking ahead to make buildings strong and safe</p>
+<p style="font-size: 1.2rem;line-height:1.5rem;">The Safekeeper (Civil &amp; Structural Engineer) - Always thinking ahead to make buildings strong and safe</p>
 </li>	
 <li>
-<p style="font-size: 1rem;line-height:1.5rem;">The Connector (Mechanical &amp; Electrical Engineer) - Loves making things work — from lighting to ventilation to smart systems</p>
+<p style="font-size: 1.2rem;line-height:1.5rem;">The Connector (Mechanical &amp; Electrical Engineer) - Loves making things work - from lighting to ventilation to smart systems</p>
 </li>
 <li>
-<p style="font-size: 1rem;line-height:1.5rem;">The Guardian (Facilities Manager) - Quietly heroic, making sure buildings stay safe, clean and comfortable every day</p>
+<p style="font-size: 1.2rem;line-height:1.5rem;">The Guardian (Facilities Manager) - Quietly heroic, making sure buildings stay safe, clean and comfortable every day</p>
 </li>	
 </ul>
 <p><strong>Build the Change LEGO Workshops</strong>
