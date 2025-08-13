@@ -89,15 +89,15 @@ discover through our personality quiz and role-playing games:</p>
 <div style="display: inline-flex; align-items: center;">
   <img style="width:80px; height:80px; margin-right:15px;" alt="icon" src="/images/Avatar_Icon_Architect.png">
   <span>The Visionary (Architect) - Big on imagination, turning bold ideas into real-life buildings</span> </div>
-<hr>
+
 <div style="display: inline-flex; align-items: center;">
   <img style="width:80px; height:80px; margin-right:15px;" alt="icon" src="/images/Avatar_Icon_C_S.png">
   <span>The Safekeeper (Civil &amp; Structural Engineer) - Always thinking ahead to keep our city strong and secure</span> </div>
-<hr>
+
 <div style="display: inline-flex; align-items: center;">
   <img style="width:80px; height:80px; margin-right:15px;" alt="icon" src="/images/Avatar_Icon_M_E.png">
   <span>The Connector (Mechanical &amp; Electrical Engineer) - Loves making things work — from lighting to ventilation to smart systems</span> </div>
-<hr>
+
 <div style="display: inline-flex; align-items: center;">
   <img style="width:80px; height:80px; margin-right:15px;" alt="icon" src="/images/Avatar_Icon_FM.png">
   <span>The Guardian (Facilities Manager) - Quietly heroic, making sure buildings stay safe, clean and comfortable every day</span> </div>
