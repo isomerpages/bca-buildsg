@@ -92,7 +92,7 @@ discover through our personality quiz and role-playing games:</p>
 <br><br>
 <div style="display: inline-flex; align-items: center;">
   <img style="width:80px; height:80px; margin-right:15px;" alt="icon" src="/images/Avatar_Icon_C_S.png">
-  <span>The Safekeeper (Civil &amp; Structural Engineer) - Always thinking ahead to keep our city strong and secure</span> </div>
+  <span>The Safekeeper (Civil &amp; Structural Engineer) - Always thinking ahead to make buildings strong and safe</span> </div>
 <br><br>
 <div style="display: inline-flex; align-items: center;">
   <img style="width:80px; height:80px; margin-right:15px;" alt="icon" src="/images/Avatar_Icon_M_E.png">
