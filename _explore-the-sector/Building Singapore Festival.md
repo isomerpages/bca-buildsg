@@ -85,6 +85,10 @@ Engineer</p>
 matches your unique strengths and interests. Meet the four roles you'll
 discover through our personality quiz and role-playing games:</p>
 <ul data-tight="true" class="tight">
+	
+<img width="50" src="Avatar_Icon_Architect.png">
+	<p>This text will appear on right side</p>
+	
 <li>
 <p>The Visionary (Architect) - Big on imagination, turning bold ideas into
 real-life buildings</p>
