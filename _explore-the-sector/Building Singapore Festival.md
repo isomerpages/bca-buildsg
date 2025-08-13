@@ -107,6 +107,5 @@ old and above.</p>
 </p>
 <p><strong>Don’t Miss the Exclusive Giveaways</strong>
 </p>
-
   <img style="width:350px; height:300px; margin-left:15px;" alt="icon" src="/images/BE_Festival_giveaway.png">
   <p style="font-size: 1.2rem;line-height:1.5rem;">Collect stamps after you complete each zone and redeem for exclusive giveaway – a perfect keepsake for young city builders! Available while stocks last.</p>
