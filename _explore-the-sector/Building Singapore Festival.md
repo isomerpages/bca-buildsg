@@ -86,13 +86,15 @@ matches your unique strengths and interests. Meet the four roles you'll
 discover through our personality quiz and role-playing games:</p>
 <ul data-tight="true" class="tight">
 	
-<img width="50" align="left" src="Avatar_Icon_Architect.png">
-	<p>This text will appear on right side</p>
+<div style="display: inline-flex; align-items: center;">
+  <img style="width:100px; height:100px; margin-right:15px;" alt="icon" src="/images/Avatar_Icon_Architect.png">
+  <span>The Visionary (Architect) - Big on imagination, turning bold ideas into real-life buildings</span> </div>
+
+
+
+
 	
-<li>
-<p>The Visionary (Architect) - Big on imagination, turning bold ideas into
-real-life buildings</p>
-</li>
+
 <li>
 <p>The Safekeeper (Civil &amp; Structural Engineer) - Always thinking ahead
 to keep our city strong and secure.</p>
