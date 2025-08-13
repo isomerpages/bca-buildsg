@@ -87,8 +87,9 @@ discover through our personality quiz and role-playing games:</p>
 <ul data-tight="true" class="tight">
 	
 <div style="display: inline-flex; align-items: center;">
-  <img style="width:100px; height:100px; margin-right:15px;" alt="icon" src="/images/Avatar_Icon_Architect.png">
+  <img style="width:80px; height:80px; margin-right:15px;" alt="icon" src="/images/Avatar_Icon_Architect.png">
   <span>The Visionary (Architect) - Big on imagination, turning bold ideas into real-life buildings</span> </div>
+
 
 
 
