@@ -77,31 +77,26 @@ Engineer</p>
 </ul>
 <p><strong>Which Role Fits You Best?</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BE_fest_4_avatars_combine.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BE_fest_4_avatars_combine_v2.png">
 </div>
 <p>Explore different roles in the built environment and find out which one
 matches your unique strengths and interests. Meet the four roles you'll
 discover through our personality quiz and role-playing games:</p>
 <ul data-tight="true" class="tight">
 	
-<div style="display: inline-flex; align-items: center;">
-  <img style="width:110px; height:110px; margin-right:15px;" alt="icon" src="/images/Avatar_Icon_Architect.png">
-  <span>The Visionary (Architect) - Big on imagination, turning bold ideas into real-life buildings</span> </div>
-<br><br>
-<div style="display: inline-flex; align-items: center;">
-  <img style="width:100px; height:100px; margin-right:15px;" alt="icon" src="/images/Avatar_Icon_C_S.png">
-  <span>The Safekeeper (Civil &amp; Structural Engineer) - Always thinking ahead to make buildings strong and safe</span> </div>
-<br><br>
-<div style="display: inline-flex; align-items: center;">
-  <img style="width:90px; height:90px; margin-right:15px;" alt="icon" src="/images/Avatar_Icon_M_E.png">
-  <span>The Connector (Mechanical &amp; Electrical Engineer) - Loves making things work — from lighting to ventilation to smart systems</span> </div>
-<br><br>
-<div style="display: inline-flex; align-items: center;">
-  <img style="width:80px; height:80px; margin-right:15px;" alt="icon" src="/images/Avatar_Icon_FM.png">
-  <span>The Guardian (Facilities Manager) - Quietly heroic, making sure buildings stay safe, clean and comfortable every day</span> </div>
-
+<li>
+<p style="font-size: 1rem;line-height:1.5rem;">The Visionary (Architect) - Big on imagination, turning bold ideas into real-life buildings</p>
+</li>
+<li>
+<p style="font-size: 1rem;line-height:1.5rem;">The Safekeeper (Civil &amp; Structural Engineer) - Always thinking ahead to make buildings strong and safe</p>
+</li>	
+<li>
+<p style="font-size: 1rem;line-height:1.5rem;">The Connector (Mechanical &amp; Electrical Engineer) - Loves making things work — from lighting to ventilation to smart systems</p>
+</li>
+<li>
+<p style="font-size: 1rem;line-height:1.5rem;">The Guardian (Facilities Manager) - Quietly heroic, making sure buildings stay safe, clean and comfortable every day</p>
+</li>	
 </ul>
 <p><strong>Build the Change LEGO Workshops</strong>
 </p>
