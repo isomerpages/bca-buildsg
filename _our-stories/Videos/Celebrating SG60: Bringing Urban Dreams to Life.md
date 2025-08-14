@@ -17,6 +17,6 @@ roles have evolved over the years.</p>
 Ltd; and Zheng Minhui, Kimly Construction Pte Ltd</p>
 <p>Ep 3: Facilities Managers – Tan Chai Soon, CBRE GWS Pte Ltd; and Shirly
 Tan, Surbana Jurong Group</p>
-<p>Watch the full videos <a href="https://www.youtube.com/playlist?list=PLdK8R3BFsgFv3lbuh8XNfnluYwL1AJRgV" rel="noopener nofollow" target="_blank">here.</a> 
+<p>Watch the full videos <a href="https://www.youtube.com/playlist?list=PLdK8R3BFsgFv3lbuh8XNfnluYwL1AJRgV" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <p></p>
