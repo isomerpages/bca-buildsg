@@ -69,7 +69,7 @@ Engineer</p>
 Engineer</p>
 </li>
 <li>
-<p>Mall Mayhem – Keep the city running smoothly like a Facilities Manager</p>
+<p>Mall Mayhem – Keep the city running smoothly like a Facility Manager</p>
 </li>
 <li>
 <p>Drone Patrol - Scan and spot building defects like a Building Inspector</p>
@@ -95,7 +95,7 @@ discover through our personality quiz and role-playing games:</p>
 <p style="font-size: 1.2rem;line-height:1.5rem;">The Connector (Mechanical &amp; Electrical Engineer) - Loves making things work - from lighting to ventilation to smart systems</p>
 </li>
 <li>
-<p style="font-size: 1.2rem;line-height:1.5rem;">The Guardian (Facilities Manager) - Quietly heroic, making sure buildings stay safe, clean and comfortable every day</p>
+<p style="font-size: 1.2rem;line-height:1.5rem;">The Guardian (Facility Manager) - Quietly heroic, making sure buildings stay safe, clean and comfortable every day</p>
 </li>	
 </ul>
 <p><strong>Build the Change LEGO Workshops</strong>
