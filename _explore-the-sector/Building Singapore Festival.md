@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BE_Festival_KV_Final_v2.jpg">
 </div>
 <p>Discover how we shape the city you live, work and play in!</p>
-<p>5–7 September 2025 | VivoCity, Level 1 Central Court | Free Admission</p>
+<p>5–7 September 2025 | 10am - 10pm | VivoCity, Level 1 Central Court | Free Admission</p>
 <p><strong>Step into the world of builders, designers, and creators behind Singapore’s skyline</strong>
 </p>
 <p>Ever wondered what it takes to build a city like Singapore? From our iconic
