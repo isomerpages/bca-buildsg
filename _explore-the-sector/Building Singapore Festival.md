@@ -101,10 +101,11 @@ discover through our personality quiz and role-playing games:</p>
 <p><strong>Build the Change LEGO Workshops</strong>
 </p>
 <p>Kids can build their own mini city structures and take part in hands-on
-fun! Two workshops available, suitable for ages 6-9, as well as 10 years
-old and above.</p>
-<p><a href="https://go.gov.sg/buildsgworkshop" rel="noopener nofollow" target="_blank">Slots are limited – sign up here!</a>
-</p>
+fun!</p>
+<p>Two workshops available, suitable for ages 6-9, as well as 10 years
+old and above. For optimal workshop experience, we recommend only registering children within the age band of 6 years and above.</p>
+<p>For more details about the workshop, please refer to the Terms and Conditions in the <a href="https://go.gov.sg/buildsgworkshop" rel="noopener nofollow" target="_blank">registration form</a>. Slots are limited – sign up today!</p>
+
 <p><strong>Don’t Miss the Exclusive Giveaways</strong>
 </p>
   <img style="width:350px; height:300px; margin-left:15px;" alt="icon" src="/images/BE_Festival_giveaway.png">
