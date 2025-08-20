@@ -5,3 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Pinnacle Competition
 ---
+<blockquote>
+<h3>Under construction</h3>
+</blockquote>
+<p></p>
