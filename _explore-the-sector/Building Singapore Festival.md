@@ -72,7 +72,7 @@ Engineer</p>
 <p>Mall Mayhem – Keep the city running smoothly like a Facility Manager</p>
 </li>
 <li>
-<p>Drone Patrol - Scan and spot building defects like a Building Inspector</p>
+<p>Drone Patrol - Direct a drone to spot building defects or issues as a Facility Manager</p>
 </li>
 </ul>
 <p><strong>Which Role Fits You Best?</strong>
@@ -104,7 +104,7 @@ discover through our personality quiz and role-playing games:</p>
 fun!</p>
 <p>Two workshops available, suitable for ages 6-9, as well as 10 years
 old and above. For optimal workshop experience, we recommend only registering children within the age band of 6 years and above.</p>
-<p>For more details about the workshop, please refer to the Terms and Conditions in the <a href="https://go.gov.sg/buildsgworkshop" rel="noopener nofollow" target="_blank">registration form</a>. Slots are limited – sign up today!</p>
+<p>For more details about the workshop, please refer to the Terms and Conditions in the <a href="https://go.gov.sg/buildsgworkshop" rel="noopener nofollow" target="_blank">registration form</a>. Slots are limited.</p>
 
 <p><strong>Don’t Miss the Exclusive Giveaways</strong>
 </p>
