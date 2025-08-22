@@ -32,8 +32,8 @@ third_nav_title: Pinnacle Competition
 		<tr>
 			<td>Public voting for People’s Choice Award (online):</td>
 			<td>
-				<div>3 - 7 September 2025</div>
-				<div>(Finalist videos will also be showcased at the <a rel="noopener noreferrer nofollow" href="https://www.buildsg.gov.sg/building-singapore-festival/">'Building Singapore Festival: From Dreams to Reality</a>’ event @ Vivo City from 5 – 7 September 2025 for voting.)</div>
+				<div>3 - 8 September 2025</div>
+				<div>(Public voting will close at 10am on 8 September and finalist videos will also be showcased at the <a rel="noopener noreferrer nofollow" href="https://www.buildsg.gov.sg/building-singapore-festival/">'Building Singapore Festival: From Dreams to Reality</a>’ event @ Vivo City from 5 – 7 September 2025 for voting.)</div>
 			</td>
 		</tr>
 		<tr>
