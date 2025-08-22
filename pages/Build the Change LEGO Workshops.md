@@ -6,7 +6,7 @@ description: ""
 ---
 <p><strong>Workshop Terms and Conditions</strong>
 </p>
-<p>1. <strong>Recommended Age:</strong> 
+<p>1. <strong>Recommended Age:</strong>
 </p>
 <p>a. The workshops are recommended for children aged 6 to14 years old.</p>
 <p>b. Parents / legal guardians are not required to join the workshops with
@@ -29,13 +29,10 @@ the email address of the parent / legal guardian provided in the registration
 form.</p>
 <p>3. <strong>Waiting List Policy:</strong>
 </p>
-<p>a. If a Workshop session is fully booked, interested participants may
-request to be placed on a waiting list maintained by the Organiser.</p>
-<p>b. Placement on the waiting list does not guarantee a spot in the Workshop.
-If a registered participant is marked absent at the scheduled start time
+<p>If a registered participant is marked absent at the scheduled start time
 (see paragraph 4), the Organiser reserves the right to offer the vacant
 slot to the next eligible individual on the waiting list.</p>
-<p>c. The Organiser will attempt to contact waiting list participants using
+<p>The Organiser will attempt to contact waiting list participants using
 the contact details provided, but may also fill the slot on-site where
 immediate availability is required. The Organiser is not obliged to hold
 a slot for any specific duration if no response is received promptly.</p>
@@ -91,15 +88,7 @@ allergies, or special needs must be disclosed to the Organiser in advance.</p>
 <p>b. Please withdraw your child / ward from the registered session if your
 child / ward is feeling unwell. Participants who appear visibly unwell
 may be asked to sit out or leave the session in the interest of group safety.</p>
-<p>9. <strong>Rescheduling / Withdrawal:</strong>
-</p>
-<p>a. Please reply to the workshop confirmation email if you need to reschedule
-or withdraw from your registered slot.</p>
-<p>b. Rescheduling may only be done before 5 September 2025; we are unable
-to attend to any requests on and after 5 September 2025.</p>
-<p>c. Rescheduling of slot is subject to workshop availability and is not
-guaranteed.</p>
-<p>10. <strong>Collection after Workshop:</strong>
+<p>9. <strong>Collection after Workshop:</strong>
 </p>
 <p>a. You are responsible for ensuring that your child / ward is picked up
 promptly. The Organiser’s responsibility for the supervision of participants
@@ -112,7 +101,7 @@ beyond the scheduled time.</p>
 <p>c. The Organiser shall not be held liable for any loss, injury, or incident
 occurring after the Workshop has ended, where such loss or incident is
 not due to the Organiser’s negligence.</p>
-<p>11. <strong>Organiser’s Rights:</strong>
+<p>10. <strong>Organiser’s Rights:</strong>
 </p>
 <p>a. The Organiser may cancel or postpone the workshop(s) if the minimum
 number of participants is not met.</p>
