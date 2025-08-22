@@ -29,10 +29,10 @@ the email address of the parent / legal guardian provided in the registration
 form.</p>
 <p>3. <strong>Waiting List Policy:</strong>
 </p>
-<p>If a registered participant is marked absent at the scheduled start time
-(see paragraph 4), the Organiser reserves the right to offer the vacant
+<p>a. If a registered participant is marked absent at the scheduled start
+time (see paragraph 4), the Organiser reserves the right to offer the vacant
 slot to the next eligible individual on the waiting list.</p>
-<p>The Organiser will attempt to contact waiting list participants using
+<p>b. The Organiser will attempt to contact waiting list participants using
 the contact details provided, but may also fill the slot on-site where
 immediate availability is required. The Organiser is not obliged to hold
 a slot for any specific duration if no response is received promptly.</p>
