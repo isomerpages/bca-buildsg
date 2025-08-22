@@ -24,9 +24,6 @@ the purpose of administering and conducting the Workshop. Personal data
 will not be disclosed to third parties except where required by law, or
 where it is necessary for Workshop administration.</p>
 <p>d. Each person can only be registered for one session per day.</p>
-<p>e. Successfully registered persons will receive a confirmation email at
-the email address of the parent / legal guardian provided in the registration
-form.</p>
 <p>3. <strong>Waiting List Policy:</strong>
 </p>
 <p>a. If a registered participant is marked absent at the scheduled start
