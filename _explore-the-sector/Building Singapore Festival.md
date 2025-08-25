@@ -65,7 +65,7 @@ suits you best!</p>
 Engineer</p>
 </li>
 <li>
-<p>Pipes ‘N Puzzles – Power up the city as a Mechanical &amp; Electrical
+<p>Pipes ‘N' Puzzles – Power up the city as a Mechanical &amp; Electrical
 Engineer</p>
 </li>
 <li>
