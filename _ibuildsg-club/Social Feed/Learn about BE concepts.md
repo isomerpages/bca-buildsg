@@ -11,7 +11,9 @@ third_nav_title: Social Feed
 	<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="565" width="350" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fibuildsgclub.sg%2Fposts%2Fpfbid02iTRjgH1Av8bd9KPL5qo9QbypwS6sJJQv4v5W4YpVW7dZJkg2V73LhdaSc4pqLQH3l&amp;show_text=true&amp;width=350"></iframe>
 </div>
 
-[I Was Today Years Old When I Found Out That Buildings Can Be 3D-Printed Like Birthday Cakes](https://www.facebook.com/share/p/19PQJ41cXM/)
+<p><a href="https://www.facebook.com/share/p/19PQJ41cXM/" rel="noopener noreferrer nofollow" target="_blank"><u>I Was Today Years Old When I Found Out That Buildings Can Be 3D-Printed Like Birthday Cakes</u></a></p>
+
+[](https://www.facebook.com/share/p/19PQJ41cXM/)
 
 
 <p>3D-printed buildings have transitioned from concept to reality. Using robotic arms and gantry-style systems, modern 3D printing builds concrete structures layer by layer with precision and speed. Find out how 3D-printed buildings have transitioned from concept to reality.</p>
