@@ -7,7 +7,7 @@ third_nav_title: Social Feed
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stay_Connected_LOW_RES.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home_About_iBuildSG_Club___Stay_Connected.png">
 </div>
 <p>Follow iBuildSG Club on <a href="https://www.instagram.com/ibuildsgclub/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u></a>,
 <a href="https://t.me/iBuildSGClub" rel="noopener noreferrer nofollow" target="_blank"><u>Telegram </u>
