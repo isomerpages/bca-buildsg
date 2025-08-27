@@ -2,6 +2,7 @@ collections:
   ibuildsg-club:
     output: true
     order:
+      - About iBuildSG Club/Competitions.md
       - About iBuildSG Club/Online Resources.md
       - About iBuildSG Club/Join Us.md
       - About iBuildSG Club/Membership FAQ.md
