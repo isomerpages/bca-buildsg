@@ -18,3 +18,9 @@ and what a typical day at work looks like.</p>
 <p>Meet Nurzita Hasshim, Senior Facilities Operation Manager, Cushman &amp; Wakefield Singapore, who channels her passion for engineering into keeping building systems running smoothly. From structural to mechanical and electrical systems, she ensures everything operates seamlessly acting as a true guardian of the built environment.</p>
 
 <p>&nbsp;</p>
+
+<a href="https://www.facebook.com/share/v/1DouwR5525/"><img src="/images/438251924_7862828287095533_6363437001803411120_n.jpg"></a>
+
+<p><a href="https://www.facebook.com/share/v/1DouwR5525/" rel="noopener noreferrer nofollow" target="_blank"><u>Low Yee Wai, Assistant Plant Manager, R3 Precast</u></a></p>
+
+<p>Low Yee Wai, Assistant Plant Manager, R3 Precast, shares what it takes to be an engineer in the field of Prefabricated Prefinished Volumetric Construction (PPVC)  and why the BE industry offers exciting and meaningful opportunities for aspiring professionals.</p>
