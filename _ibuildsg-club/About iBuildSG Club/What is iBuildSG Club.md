@@ -15,6 +15,7 @@ for students from secondary schools, junior colleges, ITEs, polytechnics
 and universities.</p>
 <p>As a member, you will receive updates on the Club's activities and exclusive
 competitions just for members. Best of all, it’s free! <a href="https://form.gov.sg/5f113808dba1d90011ca8ff3" rel="noopener noreferrer nofollow" target="_blank"><u>Join the iBuildSG Club</u></a> today!</p>
-<p>Follow iBuildSG Club on <a href="https://www.instagram.com/ibuildsgclub/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u></a> and
-<a href="https://www.facebook.com/ibuildsgclub.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u>
-</a>for more updates!</p>
+<p>Follow iBuildSG Club on <a href="https://www.instagram.com/ibuildsgclub/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u></a>,
+<a href="https://t.me/iBuildSGClub" rel="noopener noreferrer nofollow" target="_blank"><u>Telegram </u>
+</a>and <a href="https://www.facebook.com/ibuildsgclub.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u></a> for
+more updates!</p>
