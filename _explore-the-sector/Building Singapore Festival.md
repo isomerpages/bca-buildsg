@@ -78,7 +78,7 @@ Engineer</p>
 <p><strong>Which Role Fits You Best?</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BE_fest_4_avatars_combine_v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BE_fest_4_avatars_combine_v3.png">
 </div>
 <p>Explore different roles in the built environment and find out which one
 matches your unique strengths and interests. Meet the four roles you'll

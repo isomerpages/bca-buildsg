@@ -3,17 +3,4 @@ collections:
     output: true
     order:
       - About IBuildSG Club/.keep
-      - About IBuildSG Club/What the Club Offers.md
-      - About IBuildSG Club/Competitions.md
-      - About IBuildSG Club/Online Resources.md
-      - About IBuildSG Club/Join Us.md
-      - About IBuildSG Club/Membership FAQ.md
-      - About IBuildSG Club/Stay Connected.md
       - Social Feed/.keep
-      - Social Feed/Curious?.md
-      - Social Feed/Connect with the BE community.md
-      - Social Feed/Gain insights into BE careers.md
-      - Social Feed/Discover companies shaping the Built Environment.md
-      - Social Feed/Learn about BE concepts.md
-      - Social Feed/Stay Connected.md
-      - Social Feed/Join Us.md

@@ -4,6 +4,12 @@ collections:
     order:
       - About iBuildSG Club/.keep
       - About iBuildSG Club/What is iBuildSG Club.md
+      - About iBuildSG Club/What the Club Offers.md
+      - About iBuildSG Club/Competitions.md
+      - About iBuildSG Club/Online Resources.md
+      - About iBuildSG Club/Join Us.md
+      - About iBuildSG Club/Membership FAQ.md
+      - About iBuildSG Club/Stay Connected.md
       - Pinnacle Competition/.keep
       - Pinnacle Competition/Pinnacle Competition 2025.md
       - Pinnacle Competition/Eligibility.md
@@ -12,4 +18,12 @@ collections:
       - Pinnacle Competition/How to Participate?.md
       - Pinnacle Competition/Competition Schedule.md
       - Pinnacle Competition/Updates on Competition.md
+      - Social Feed/Curious about what it's like to be part of Singapore's
+        future ready Built Environment?.md
+      - Social Feed/Connect with the BE community.md
+      - Social Feed/Gain insights into BE careers.md
+      - Social Feed/Discover companies shaping the Built Environment.md
+      - Social Feed/Learn about BE concepts.md
+      - Social Feed/Stay Connected.md
+      - Social Feed/Join Us.md
       - Social Feed/.keep
