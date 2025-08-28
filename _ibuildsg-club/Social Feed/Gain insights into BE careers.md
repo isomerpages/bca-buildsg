@@ -19,7 +19,7 @@ and what a typical day at work looks like.</p>
 
 <p>&nbsp;</p>
 
-<a href="https://www.facebook.com/share/v/1DouwR5525/"><img src="/images/438251924_7862828287095533_6363437001803411120_n.jpg"></a>
+<a href="https://www.facebook.com/share/v/1DouwR5525/"><img src="/images/Screenshot_2025_08_29_at_12_28_56_AM.png"></a>
 
 <p><a href="https://www.facebook.com/share/v/1DouwR5525/" rel="noopener noreferrer nofollow" target="_blank"><u>Low Yee Wai, Assistant Plant Manager, R3 Precast</u></a></p>
 
