@@ -2,7 +2,7 @@ collections:
   education-and-programmes:
     output: true
     order:
-      - Students/INSPIRE internship Programme.md
+      - Students/INSPIRE Internship Programme.md
       - Students/.keep
       - Students/iBuildSG Club.md
       - Students/Built Environment Scholarship.md
