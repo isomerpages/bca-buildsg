@@ -12,9 +12,9 @@ third_nav_title: Students
 <p>Are you a student in a Built Environment (BE) course and eager to launch
 your BE career early?</p>
 <p>Offered by over 20 progressive BE firms who are committed to grooming
-young talents, INSPIRE is an enhanced internship programme spanning minimally
-30 weeks, structured to help you develop key technical and soft skills.
-It will also feature dedicated mentors to guide you in areas such as career
+young talents, INSPIRE is an enhanced internship programme spanning 30
+weeks, structured to help you develop key technical and soft skills. It
+will also feature dedicated mentors to guide you in areas such as career
 development and corporate expectations.</p>
 <p>Participating firms will offer higher starting salaries to well-performing
 interns upon joining the internship firm after graduation. The enhanced
