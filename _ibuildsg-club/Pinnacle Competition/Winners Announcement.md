@@ -20,3 +20,19 @@ also showcased at the Building Singapore Festival held between 5 to 7 September
 Competition 2025 winners! We look forward to seeing more innovative and
 brilliant ideas in 2026.&nbsp;&nbsp;</p>
 <p>Check out the winning projects below:</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">1st Prize</div><div class="isomer-card-description">Josiah Lim, Seraphina Rania Sugiarto, Cohen Seah</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">2nd Prize</div>
+<div class="isomer-card-description">Isaac Soh, Lucas Carter, David Jeremiah</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">3rd Prize</div><div class="isomer-card-description">Teo Wei Jeen, Baskaran Bhuvanesh Sekaran</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
