@@ -137,6 +137,4 @@ Check out the winning projects below:
 <p><b>Green Mark Building: The Arc - Learning Hub North</b>
 <br>Submitted by: Rachael Chan, Kenneth Kok, Basil Tan</p>
 
-Catch all shortlisted videos on iBuildSG Club's Instagram and stay connected through our Facebook and Telegram channels for the latest updates as well.
-
-Follow iBuildSG Club on Instagram, Telegram and Facebook for more updates!
+Catch all shortlisted videos on iBuildSG Club's [Instagram](https://www.instagram.com/ibuildsgclub/) and stay connected through our [Facebook](https://www.facebook.com/ibuildsgclub.sg/) and [Instagram](https://www.instagram.com/ibuildsgclub/) channels for the latest updates as well.
