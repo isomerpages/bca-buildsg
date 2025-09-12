@@ -14,8 +14,6 @@ also showcased at the Building Singapore Festival held between 5 to 7 September 
 
 <p>A big thank you to all who participated and congratulations to our Pinnacle Competition 2025 winners! We look forward to seeing more innovative and brilliant ideas in 2026.</p>
 
-<p>Check out the winning projects below:</p>
-
 <h3>Pinnacle Competition 2025 Winners</h3>
 
 <h4>Pre-IHL Category</h4>
