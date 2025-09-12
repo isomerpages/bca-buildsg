@@ -31,7 +31,7 @@ also showcased at the Building Singapore Festival held between 5 to 7 September 
 	<div class="isomer-card">
 		<div class="isomer-card-image">
 			<div class="isomer-image-wrapper">
-				<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+				<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PRE_IHL_2PRIZE.jpg">
 			</div>
 		</div>
 		<div class="isomer-card-body">
