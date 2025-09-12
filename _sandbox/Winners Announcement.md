@@ -123,12 +123,16 @@ Check out the winning projects below:
 <br>Submitted by: Yap Jie Er, Tung Ying Qian</p>
 
 <h5>2nd Prize</h5>
-<p><a href="https://drive.google.com/file/d/15FcPeaL3-TE1JRAC1lbT68PQFaaKZwx8/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Embed Video</u></a></p>
+<div style="position: relative; width: 100%;  padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" scrolling="no" frameborder="0" style="border: none; overflow: hidden; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://player.vimeo.com/video/1118035731"></iframe>
+</div>
 <p><b>Green Mark Building: SDE4</b>
 <br>Submitted by: Hatin Aizat Bin Rokman, Muhammad Haziq Bin Abdul Rahman</p>
 	
 <h5>3rd Prize</h5>
-<p><a href="https://drive.google.com/file/d/1r-cPkJA3i2B6OtNEQ2V-8v7GGHT1haZx/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Embed Video</u></a></p>
+<div style="position: relative; width: 100%;  padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" scrolling="no" frameborder="0" style="border: none; overflow: hidden; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://player.vimeo.com/video/1118035594"></iframe>
+</div>
 <p><b>Green Mark Building: The Arc - Learning Hub North</b>
 <br>Submitted by: Rachael Chan, Kenneth Kok, Basil Tan</p>
 
