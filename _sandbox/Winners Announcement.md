@@ -126,3 +126,6 @@ Check out the winning projects below:
 <br>Submitted by: Rachael Chan, Kenneth Kok, Basil Tan</p>
 <p><a href="https://drive.google.com/file/d/1r-cPkJA3i2B6OtNEQ2V-8v7GGHT1haZx/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Embed Video</u></a></p>
 
+**Catch all shortlisted videos on iBuildSG Club's [Instagram](https://www.instagram.com/ibuildsgclub/) and stay connected through our [Facebook](https://www.facebook.com/ibuildsgclub.sg/) and [Telegram](https://t.me/ibuildsgclub) channels for the latest updates as well.**
+
+Follow iBuildSG Club on [Instagram](https://www.instagram.com/ibuildsgclub/), [Telegram](https://t.me/iBuildSGClub) and [Facebook](https://www.facebook.com/ibuildsgclub.sg/) for more updates!
