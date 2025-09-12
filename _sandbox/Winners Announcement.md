@@ -116,7 +116,9 @@ Check out the winning projects below:
 <h4>IHL Category</h4>
 
 <h5>1st Prize + People’s Choice</h5>
-<p><a href="https://drive.google.com/file/d/1JhSUUZq7-bVv\_ahgTnKP1qWBcL7aE0ia/view" rel="noopener noreferrer nofollow" target="_blank"><u>Embed video</u></a></p>
+<div style="position: relative; width: 100%;  padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" scrolling="no" frameborder="0" style="border: none; overflow: hidden; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://player.vimeo.com/video/1118035674"></iframe>
+</div>
 <p><b>Green Mark Building: Surbana Jurong Campus</b>
 <br>Submitted by: Yap Jie Er, Tung Ying Qian</p>
 
