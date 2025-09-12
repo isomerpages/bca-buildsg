@@ -23,7 +23,7 @@ also showcased at the Building Singapore Festival held between 5 to 7 September 
 <div class="isomer-card-grid">
 	<div class="isomer-card">
 		<div class="isomer-card-image"><div class="isomer-image-wrapper">
-			<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div>
+			<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="![]https://placehold.co/600x400"></div>
 		</div>
 		<div class="isomer-card-body">
 			<div class="isomer-card-title">1st Prize</div>
@@ -129,4 +129,3 @@ Check out the winning projects below:
 Catch all shortlisted videos on iBuildSG Club's Instagram and stay connected through our Facebook and Telegram channels for the latest updates as well.
 
 Follow iBuildSG Club on Instagram, Telegram and Facebook for more updates!
-
