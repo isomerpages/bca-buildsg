@@ -2,6 +2,7 @@ collections:
   sandbox:
     output: true
     order:
+      - Test card.md
       - Winners Announcement.md
       - Example Title.md
       - About IBuildSG Club/.keep
