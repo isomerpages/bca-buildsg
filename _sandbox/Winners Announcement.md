@@ -16,106 +16,27 @@ also showcased at the Building Singapore Festival held between 5 to 7 September 
 <p>A big thank you to all who participated and congratulations to our Pinnacle Competition 2025 winners! We look forward to seeing more innovative and brilliant ideas in 2026.</p>
 
 <h3>Pinnacle Competition 2025 Winners</h3>
-
-<h4>Pre-IHL Category</h4>
-
-<div class="isomer-card-grid">
-	<div class="isomer-card">
-		<div class="isomer-card-image"><div class="isomer-image-wrapper">
-			<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PRE_IHL_1PRIZE.jpg"></div>
-		</div>
-		<div class="isomer-card-body">
-			<div class="isomer-card-title">1st Prize</div>
-			<div class="isomer-card-description">Josiah Lim, Seraphina Rania Sugiarto, Cohen Seah</div>
-		</div>
-	</div>
-	<div class="isomer-card">
-		<div class="isomer-card-image">
-			<div class="isomer-image-wrapper">
-				<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PRE_IHL_2PRIZE.jpg">
-			</div>
-		</div>
-		<div class="isomer-card-body">
-			<div class="isomer-card-title">2nd Prize</div>
-			<div class="isomer-card-description">Isaac Soh, Lucas Carter, David Jeremiah</div>
-		</div>
-	</div>
-	<div class="isomer-card">
-		<div class="isomer-card-image">
-			<div class="isomer-image-wrapper">
-				<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PRE_IHL_3PRIZE.jpg">
-			</div>
-		</div>
-		<div class="isomer-card-body">
-			<div class="isomer-card-title">3rd Prize</div>
-			<div class="isomer-card-description">Teo Wei Jeen, Baskaran Bhuvanesh Sekaran</div>
-		</div>
-	</div>
-</div>
-
-<h4>IHL Category</h4>
-
-<div class="isomer-card-grid">
-	<div class="isomer-card">
-		<div class="isomer-card-image"><div class="isomer-image-wrapper">
-			<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/IHL_1PRIZE.jpg"></div>
-		</div>
-		<div class="isomer-card-body">
-			<div class="isomer-card-title">1st Prize</div>
-			<div class="isomer-card-description">Yap Jie Er, Tung Ying Qian</div>
-		</div>
-	</div>
-	<div class="isomer-card">
-		<div class="isomer-card-image">
-			<div class="isomer-image-wrapper">
-				<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/IHL_2PRIZE.jpg">
-			</div>
-		</div>
-		<div class="isomer-card-body">
-			<div class="isomer-card-title">2nd Prize</div>
-			<div class="isomer-card-description">Hatin Aizat Bin Rokman, Muhammad Haziq Bin Abdul Rahman</div>
-		</div>
-	</div>
-	<div class="isomer-card">
-		<div class="isomer-card-image">
-			<div class="isomer-image-wrapper">
-				<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/IHL_3PRIZE.jpg">
-			</div>
-		</div>
-		<div class="isomer-card-body">
-			<div class="isomer-card-title">3rd Prize</div>
-			<div class="isomer-card-description">Rachael Chan, Kenneth Kok, Basil Tan</div>
-		</div>
-	</div>
-</div>
-
 Check out the winning projects below:
-
 <h4>Pre-IHL Category</h4>
-
 <h5>1st Prize</h5>
 <div style="position: relative; width: 100%;  padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" scrolling="no" frameborder="0" style="border: none; overflow: hidden; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://player.vimeo.com/video/1118032232"></iframe>
 </div>
 <p><b>Green Mark Building: Singapore Management University Connexion</b>
 <br>Submitted by: Josiah Lim, Seraphina Rania Sugiarto, Cohen Seah</p>
-
 <h5>2nd Prize + People’s Choice</h5>
 <p><b>Green Mark Building: South Beach (Commercial)</b>
 <br>Submitted by: Isaac Soh, Lucas Carter, David Jeremiah</p>
 <div style="position: relative; width: 100%;  padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" scrolling="no" frameborder="0" style="border: none; overflow: hidden; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://player.vimeo.com/video/1118032978"></iframe>
 </div>
-	
 <h5>3rd Prize</h5>
 <div style="position: relative; width: 100%;  padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" scrolling="no" frameborder="0" style="border: none; overflow: hidden; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://player.vimeo.com/video/1118033103"></iframe>
 </div>
 <p><b>Green Mark Building: SDE4</b>
 <br>Submitted by: Teo Wei Jeen, Baskaran Bhuvanesh Sekaran</p>
-
 <h4>IHL Category</h4>
-
 <h5>1st Prize + People’s Choice</h5>
 <div style="position: relative; width: 100%;  padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" scrolling="no" frameborder="0" style="border: none; overflow: hidden; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://player.vimeo.com/video/1118035674"></iframe>
