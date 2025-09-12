@@ -116,19 +116,19 @@ Check out the winning projects below:
 <h4>IHL Category</h4>
 
 <h5>1st Prize + People’s Choice</h5>
+<p><a href="https://drive.google.com/file/d/1JhSUUZq7-bVv\_ahgTnKP1qWBcL7aE0ia/view" rel="noopener noreferrer nofollow" target="_blank"><u>Embed video</u></a></p>
 <p><b>Green Mark Building: Surbana Jurong Campus</b>
 <br>Submitted by: Yap Jie Er, Tung Ying Qian</p>
-<p><a href="https://drive.google.com/file/d/1JhSUUZq7-bVv\_ahgTnKP1qWBcL7aE0ia/view" rel="noopener noreferrer nofollow" target="_blank"><u>Embed video</u></a></p>
 
 <h5>2nd Prize</h5>
+<p><a href="https://drive.google.com/file/d/15FcPeaL3-TE1JRAC1lbT68PQFaaKZwx8/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Embed Video</u></a></p>
 <p><b>Green Mark Building: SDE4</b>
 <br>Submitted by: Hatin Aizat Bin Rokman, Muhammad Haziq Bin Abdul Rahman</p>
-<p><a href="https://drive.google.com/file/d/15FcPeaL3-TE1JRAC1lbT68PQFaaKZwx8/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Embed Video</u></a></p>
 	
 <h5>3rd Prize</h5>
+<p><a href="https://drive.google.com/file/d/1r-cPkJA3i2B6OtNEQ2V-8v7GGHT1haZx/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Embed Video</u></a></p>
 <p><b>Green Mark Building: The Arc - Learning Hub North</b>
 <br>Submitted by: Rachael Chan, Kenneth Kok, Basil Tan</p>
-<p><a href="https://drive.google.com/file/d/1r-cPkJA3i2B6OtNEQ2V-8v7GGHT1haZx/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Embed Video</u></a></p>
 
 Catch all shortlisted videos on iBuildSG Club's Instagram and stay connected through our Facebook and Telegram channels for the latest updates as well.
 
