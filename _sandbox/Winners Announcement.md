@@ -4,7 +4,8 @@ permalink: /ibuildsg-club/pinnacle-competition-2025/winner/
 variant: markdown
 description: ""
 ---
-![](/images/BCA_Pinnacle_Competition_KV.png)<p>Launched on 15 July, the Pinnacle Competition 2025 highlighted the creativity and passion of students in showcasing Singapore’s Green Mark-certified buildings. Through their video essays, participants reimagined how these spaces can shape Singapore’s future, offering fresh insights and innovative perspectives in celebration of SG60.</p>
+![](/images/BCA_Pinnacle_Competition_KV.png)
+<p>Launched on 15 July, the Pinnacle Competition 2025 highlighted the creativity and passion of students in showcasing Singapore’s Green Mark-certified buildings. Through their video essays, participants reimagined how these spaces can shape Singapore’s future, offering fresh insights and innovative perspectives in celebration of SG60.</p>
 
 <p>This year’s entries stood out for their originality, storytelling and
 thoughtful reflection on sustainability. More than just a competition,
