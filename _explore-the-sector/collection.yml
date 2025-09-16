@@ -2,6 +2,7 @@ collections:
   explore-the-sector:
     output: true
     order:
+      - Past Events/Building Singapore Festival.md
       - Past Events/.keep
       - About Built Environment Sector.md
       - Sectoral Outlook.md
