@@ -7,7 +7,7 @@ third_nav_title: Past Events
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BE_Festival_KV_Final_v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/be_festival_kv_final_v2.jpg">
 </div>
 <p>Discover how we shape the city you live, work and play in!</p>
 <p>5–7 September 2025 | 10am - 10pm | VivoCity, Level 1 Central Court | Free Admission</p>
