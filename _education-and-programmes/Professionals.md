@@ -36,7 +36,7 @@ description: ""
   </li>
   <li>
     <p>
-      <a href="https://www.ite.edu.sg/courses/part-time-courses/higher-nitec" rel="noopener noreferrer nofollow" target="_blank">Institute of Technical Education</a>
+      <a href="https://www.ite.edu.sg/adult-learners/part-time-higher-nitec-nitec-isc/higher-nitec-part-time" rel="noopener noreferrer nofollow" target="_blank">Institute of Technical Education</a>
     </p>
   </li>
   <li>
