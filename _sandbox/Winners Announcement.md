@@ -35,14 +35,8 @@ Check out the winning projects below:
 </div>
 
 <h5>3rd Prize</h5>
-
 <div>
 	<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="476" width="267" src="https://player.vimeo.com/video/1118033103"></iframe>
-</div>
-	
-
-<div style="position: relative; width: 100%;  padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" scrolling="no" frameborder="0" style="border: none; overflow: hidden; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://player.vimeo.com/video/1118033103"></iframe>
 </div>
 <p><b>Green Mark Building: SDE4</b>
 <br>Submitted by: Teo Wei Jeen, Baskaran Bhuvanesh Sekaran</p>
@@ -50,15 +44,15 @@ Check out the winning projects below:
 <h4>IHL Category</h4>
 
 <h5>1st Prize + People’s Choice</h5>
-<div style="position: relative; width: 100%;  padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" scrolling="no" frameborder="0" style="border: none; overflow: hidden; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://player.vimeo.com/video/1118035674"></iframe>
+<div>
+	<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="476" width="267" src="https://player.vimeo.com/video/1118035674"></iframe>
 </div>
 <p><b>Green Mark Building: Surbana Jurong Campus</b>
 <br>Submitted by: Yap Jie Er, Tung Ying Qian</p>
 
 <h5>2nd Prize</h5>
-<div style="position: relative; width: 100%;  padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" scrolling="no" frameborder="0" style="border: none; overflow: hidden; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://player.vimeo.com/video/1118035731"></iframe>
+<div>
+	<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="476" width="267" src="https://player.vimeo.com/video/1118035731"></iframe>
 </div>
 <p><b>Green Mark Building: SDE4</b>
 <br>Submitted by: Hatin Aizat Bin Rokman, Muhammad Haziq Bin Abdul Rahman</p>
