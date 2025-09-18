@@ -30,11 +30,6 @@ Check out the winning projects below:
 <h5>2nd Prize + People’s Choice</h5>
 <p><b>Green Mark Building: South Beach (Commercial)</b>
 <br>Submitted by: Isaac Soh, Lucas Carter, David Jeremiah</p>
-
-<div>
-	<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="476" width="267" src="https://player.vimeo.com/video/1118032978"></iframe>
-</div>
-
 <div style="position: relative; width: 100%;  padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" scrolling="no" frameborder="0" style="border: none; overflow: hidden; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://player.vimeo.com/video/1118032978"></iframe>
 </div>
