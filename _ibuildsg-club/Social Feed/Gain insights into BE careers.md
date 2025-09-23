@@ -19,8 +19,20 @@ and what a typical day at work looks like.</p>
 
 <p>&nbsp;</p>
 
-<a href="https://www.facebook.com/share/v/1DouwR5525/"><img src="/images/Screenshot_2025_08_29_at_12_28_56_AM.png"></a>
+<div>
+	<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="476" width="267" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F2171388283290401%2F&amp;show_text=false&amp;width=267&amp;t=0"></iframe>
+</div>
+	
+<p><a href="https://www.facebook.com/reel/2171388283290401" rel="noopener noreferrer nofollow" target="_blank"><u>Jerry Law, Senior Digital Engineering Manager, KTC Group</u></a></p>
 
-<p><a href="https://www.facebook.com/share/v/1DouwR5525/" rel="noopener noreferrer nofollow" target="_blank"><u>Low Yee Wai, Assistant Plant Manager, R3 Precast</u></a></p>
+<p>In this video, Jerry Law, Senior Digital Engineering Manager, KTC Group, shares his work on 3D modelling, and how the built environment sector is harnessing digital capabilities to enhance productivity and efficiency.</p>
 
-<p>Low Yee Wai, Assistant Plant Manager, R3 Precast, shares what it takes to be an engineer in the field of Prefabricated Prefinished Volumetric Construction (PPVC)  and why the BE industry offers exciting and meaningful opportunities for aspiring professionals.</p>
+<p>&nbsp;</p>
+
+<div>
+	<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="476" width="267" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F2763506553850245%2F&amp;show_text=false&amp;width=267&amp;t=0"></iframe>
+</div>
+	
+<p><a href="https://www.facebook.com/reel/2763506553850245" rel="noopener noreferrer nofollow" target="_blank"><u>Fadzli Jani, Senior Executive (Architecture), RSP</u></a></p>
+
+<p>Hear from Fadzli Jani, Senior Executive (Architecture), RSP, as he shares what fuels his architectural vision and how being an architect is about turning imagination into reality. For him, every project is a chance to create spaces where people can live, work, and play.</p>
