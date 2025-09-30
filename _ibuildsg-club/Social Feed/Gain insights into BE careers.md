@@ -14,7 +14,6 @@ and what a typical day at work looks like.</p>
 	
 <p></p>
 
-
 <p>Meet <a href="https://www.facebook.com/share/r/14GUvzj5NFW/" rel="noopener noreferrer nofollow" target="_blank"><u>Nurzita Hasshim, Senior Facilities Operation Manager, Cushman &amp; Wakefield Singapore</u></a>, who channels her passion for engineering into keeping building systems running smoothly. From structural to mechanical and electrical systems, she ensures everything operates seamlessly acting as a true guardian of the built environment.</p>
 
 <p>&nbsp;</p>
