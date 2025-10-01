@@ -2,7 +2,6 @@ collections:
   sandbox:
     output: true
     order:
-      - Winners Announcement.md
       - Example Title.md
       - About IBuildSG Club/.keep
       - Social Feed/.keep
