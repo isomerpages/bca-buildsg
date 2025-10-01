@@ -15,7 +15,7 @@ Pinnacle Competition 2025 has been extended to 15 August 2025.</p>
 Choice Award will close on 8 September 2025, 10AM.</p>
 </li>
 <li>
-<p><strong>[UPDATE 30 September 2025]</strong>: The winners of the Pinnacle
+<p><strong>[UPDATE 18 September 2025]</strong>: The winners of the Pinnacle
 Competition 2025 have been announced.</p>
 </li>
 </ul>
