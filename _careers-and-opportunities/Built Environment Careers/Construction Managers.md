@@ -27,7 +27,7 @@ zones.</p>
 </li>
 </ul>
 <p>To learn more about the key work tasks and skills required, check out
-the <a href="https://www.skillsfuture.gov.sg/skills-framework/built-environment" rel="noopener noreferrer nofollow" target="_blank">Skills Framework for Built Environment – A Guide to Occupations and Skills</a>
+the <a href="https://www1.bca.gov.sg/buildsg/manpower/skills-framework-for-built-environment-be" rel="noopener noreferrer nofollow" target="_blank">Skills Framework for Built Environment – A Guide to Occupations and Skills</a>
 </p>
 <p>If you are a student, find out more about Built Environment courses
 <a href="/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
