@@ -2,6 +2,6 @@ collections:
   sandbox:
     output: true
     order:
-      - Example Title.md
+      - Resource Hub.md
       - About IBuildSG Club/.keep
       - Social Feed/.keep
