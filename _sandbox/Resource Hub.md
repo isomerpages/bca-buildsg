@@ -52,7 +52,7 @@ learn from established architects, and test bold ideas.</p>
 mentors, exchange ideas in design, innovation, and practice, and turn vision
 into action—building community through outreach, collaborative projects,
 and public conversations that advances architecture and the built environment.</p>
-<p></p><a class="isomer-image-wrapper" href="https://www.ies.org.sg/Membership/Student-Member-Information/"><img style="width: 65%" height="auto" width="100%" alt="" src="/images/Institute_of_Engineers_Singapore.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.ies.org.sg/Membership/Student-Member-Information/"><img style="width: 65%" height="auto" width="100%" alt="" src="/images/Institute-of-Engineers-Singapore.jpg"></a>
 <p><a href="https://www.ies.org.sg/Membership/Student-Member-Information/" rel="noopener noreferrer nofollow" target="_blank">Institution of Engineers, Singapore (IES) – Student Chapters</a>
 </p>
 <p>The Institution of Engineers, Singapore (IES) is the national society
