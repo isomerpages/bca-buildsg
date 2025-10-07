@@ -9,6 +9,7 @@ Dive into resources, sign up for upcoming events, and start shaping your
 path today.</p>
 <p><a href="https://www1.bca.gov.sg/buildsg/manpower/skills-framework-for-built-environment-be" rel="noopener noreferrer nofollow" target="_blank">Skills Framework for Built Environment</a>
 </p><a class="isomer-image-wrapper" href="https://www1.bca.gov.sg/buildsg/manpower/skills-framework-for-built-environment-be"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SkillFrameworkChart.jpg"></a>
+<p></p>
 <p>The BE Skills Framework is developed by BCA, SkillsFuture Singapore, and
 Workforce Singapore, together with employers, unions, and training providers.
 It provides a common skills language to understand job roles, career paths,
@@ -41,7 +42,10 @@ The programme also encourages members to actively participate in the annual
 Pacific Association of Quantity Surveyors (PAQS) Congress, offering valuable
 opportunities to broaden horizons, exchange insights with peers across
 the region, and deepen knowledge through technical presentations and industry
-themes.</p><a class="isomer-image-wrapper" href="https://sia.org.sg/young-architects-league-yal/"><img style="width: 100%" height="auto" width="100%" alt="Young Architects League" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehSI2WLfJiK1CQTUzs-i2PJ48g_iwJ7NBVg&amp;s"></a>
+themes.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yal.png">
+</div>
 <p><a href="https://sia.org.sg/young-architects-league-yal/" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute of Architects – Young Architects League (SIA-YAL)</a>
 </p>
 <p>For students and emerging practitioners, The Singapore Institute of Architects
