@@ -2,6 +2,5 @@ collections:
   sandbox:
     output: true
     order:
-      - About IBuildSG Club/Resource Hub.md
       - About IBuildSG Club/.keep
       - Social Feed/.keep
