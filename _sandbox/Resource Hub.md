@@ -21,7 +21,7 @@ for youths to explore different industries, build meaningful networks,
 and acquire the skills needed to succeed in a rapidly evolving economy.</p>
 <p><strong>Explore some of these platforms:</strong>
 </p>
-<p></p><a class="isomer-image-wrapper" href="https://aces.org.sg/ypc/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Association_of_Consulting_Engineers_Singapore.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://aces.org.sg/ypc/"><img style="width: 65%" height="auto" width="100%" alt="" src="/images/Association_of_Consulting_Engineers_Singapore.jpg"></a>
 <p><a href="https://aces.org.sg/ypc/" rel="noopener noreferrer nofollow" target="_blank">Association of Consulting Engineers Singapore (ACES) Young Professionals Connection (YPC)</a>
 </p>
 <p>ACES Young Professionals Connection (YPC) is the youth wing of the Association
@@ -32,7 +32,7 @@ industry, address the relevant issues that affect young professionals in
 the consulting engineering industry, act as a bridge between young professionals
 and established engineers as well as to provide a link between young professionals
 of different organisations.</p>
-<p></p><a class="isomer-image-wrapper" href="https://www.sisv.org.sg/qs-young.aspx?v=1758588298459"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore_Institute_of_Surveyors_and_Valuers.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.sisv.org.sg/qs-young.aspx?v=1758588298459"><img style="width: 65%" height="auto" width="100%" alt="" src="/images/Singapore_Institute_of_Surveyors_and_Valuers.png"></a>
 <p><a href="https://www.sisv.org.sg/qs-young.aspx?v=1758588298459" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute of Surveyors and Valuers (SISV) Young Quantity Surveyor (YQS) – The Future Leaders</a>
 </p>
 <p>Led by the Singapore Institute of Surveyors and Valuers (SISV) Quantity
@@ -42,7 +42,7 @@ The programme also encourages members to actively participate in the annual
 Pacific Association of Quantity Surveyors (PAQS) Congress, offering valuable
 opportunities to broaden horizons, exchange insights with peers across
 the region, and deepen knowledge through technical presentations and industry
-themes.</p><a class="isomer-image-wrapper" href="https://sia.org.sg/young-architects-league-yal/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/yal.jpg"></a>
+themes.</p><a class="isomer-image-wrapper" href="https://sia.org.sg/young-architects-league-yal/"><img style="width: 65%" height="auto" width="100%" alt="" src="/images/yal.jpg"></a>
 <p><a href="https://sia.org.sg/young-architects-league-yal/" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute of Architects – Young Architects League (SIA-YAL)</a>
 </p>
 <p>For students and emerging practitioners, The Singapore Institute of Architects
@@ -52,7 +52,7 @@ learn from established architects, and test bold ideas.</p>
 mentors, exchange ideas in design, innovation, and practice, and turn vision
 into action—building community through outreach, collaborative projects,
 and public conversations that advances architecture and the built environment.</p>
-<p></p><a class="isomer-image-wrapper" href="https://www.ies.org.sg/Membership/Student-Member-Information/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Institute_of_Engineers_Singapore.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.ies.org.sg/Membership/Student-Member-Information/"><img style="width: 65%" height="auto" width="100%" alt="" src="/images/Institute_of_Engineers_Singapore.png"></a>
 <p><a href="https://www.ies.org.sg/Membership/Student-Member-Information/" rel="noopener noreferrer nofollow" target="_blank">Institution of Engineers, Singapore (IES) – Student Chapters</a>
 </p>
 <p>The Institution of Engineers, Singapore (IES) is the national society
