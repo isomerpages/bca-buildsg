@@ -42,10 +42,7 @@ The programme also encourages members to actively participate in the annual
 Pacific Association of Quantity Surveyors (PAQS) Congress, offering valuable
 opportunities to broaden horizons, exchange insights with peers across
 the region, and deepen knowledge through technical presentations and industry
-themes.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yal.png">
-</div>
+themes.</p><a class="isomer-image-wrapper" href="https://sia.org.sg/young-architects-league-yal/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/yal.jpg"></a>
 <p><a href="https://sia.org.sg/young-architects-league-yal/" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute of Architects – Young Architects League (SIA-YAL)</a>
 </p>
 <p>For students and emerging practitioners, The Singapore Institute of Architects
