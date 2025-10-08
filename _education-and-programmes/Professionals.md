@@ -151,7 +151,7 @@ description: ""
       </td>
       <td rowspan="1" colspan="1">
         <p style="font-size: 1rem; line-height:1.5rem;">
-          <a href="http://scal.com.sg/accreditation/cpas" rel="noopener noreferrer nofollow" target="_blank">Singapore Contractors Association Ltd (SCAL)</a>
+          <a href="https://www.scal.com.sg/accreditation/cpas" rel="noopener noreferrer nofollow" target="_blank">Singapore Contractors Association Ltd (SCAL)</a>
         </p>
       </td>
     </tr>
