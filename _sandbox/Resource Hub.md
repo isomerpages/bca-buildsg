@@ -32,7 +32,7 @@ industry, address the relevant issues that affect young professionals in
 the consulting engineering industry, act as a bridge between young professionals
 and established engineers as well as to provide a link between young professionals
 of different organisations.</p>
-<p></p><a class="isomer-image-wrapper" href="https://www.sisv.org.sg/qs-young.aspx?v=1758588298459"><img style="width: 65%" height="auto" width="100%" alt="" src="/images/Singapore_Institute_of_Surveyors_and_Valuers.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.sisv.org.sg/qs-young.aspx?v=1758588298459"><img style="width: 65%" height="auto" width="100%" alt="" src="/images/Singapore_Institute_of_Surveyors_and_Valuers.jpg"></a>
 <p><a href="https://www.sisv.org.sg/qs-young.aspx?v=1758588298459" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute of Surveyors and Valuers (SISV) Young Quantity Surveyor (YQS) – The Future Leaders</a>
 </p>
 <p>Led by the Singapore Institute of Surveyors and Valuers (SISV) Quantity
