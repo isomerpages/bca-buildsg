@@ -90,7 +90,7 @@ description: ""
     </p>
   </li>
   <li>
-    <p>The Singapore Contractors Association Ltd – <a href="https://scal-academy.com.sg/" rel="noopener noreferrer nofollow" target="_blank">SCAL Academy</a>
+    <p>The Singapore Contractors Association Ltd – <a href="https://www.scal-academy.com.sg/" rel="noopener noreferrer nofollow" target="_blank">SCAL Academy</a>
     </p>
   </li>
   <li>
