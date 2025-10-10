@@ -17,9 +17,16 @@ The <a href="https://www1.bca.gov.sg/buildsg/manpower/skills-framework-for-built
 <p><strong>Explore some of these platforms:</strong></p>
 
 <p></p><a class="isomer-image-wrapper" href="https://aces.org.sg/ypc/"><img style="width: 65%" height="auto" width="100%" alt="" src="/images/Association_of_Consulting_Engineers_Singapore.jpg"></a>
-<p><a href="https://aces.org.sg/ypc/" rel="noopener noreferrer nofollow" target="_blank">Association of Consulting Engineers Singapore (ACES) Young Professionals Connection (YPC)</a>
-</p>
-<p>ACES Young Professionals Connection (YPC) is the youth wing of the Association of Consulting Engineers Singapore. Our objectives are to create awareness of and encourage graduates to take up the consulting engineering profession, promote advancement of young professionals in the consulting engineering industry, address the relevant issues that affect young professionals in the consulting engineering industry, act as a bridge between young professionals and established engineers as well as to provide a link between young professionals of different organisations</p>
+
+<p>As the youth division of the Association of Consulting Engineers Singapore (ACES), the <a href="https://aces.org.sg/ypc/" rel="noopener noreferrer nofollow" target="_blank">Young Professionals Connection (YPC)</a> aims to:
+ 
+</p><ul>
+	<li>promote consulting engineering as a career choice for graduates</li>
+	<li>support the professional development of young engineers</li>
+	<li>address relevant issues affecting emerging professionals</li>
+	<li>facilitate meaningful connections between young professionals and senior practitioners across the consulting engineering industry</li>
+</ul>
+<p></p>
 
 <p></p><a class="isomer-image-wrapper" href="https://www.sisv.org.sg/qs-young.aspx?v=1758588298459"><img style="width: 65%" height="auto" width="100%" alt="" src="/images/Singapore_Institute_of_Surveyors_and_Valuers.jpg"></a>
 <p>The <a href="https://www.sisv.org.sg/qs-young.aspx?v=1758588298459" rel="noopener noreferrer nofollow" target="_blank">Young Quantity Surveyors (YQS)</a> group, under SISV's Quantity Surveyor Division, provides a vibrant community for aspiring quantity surveyors to develop professionally and network. Established in 2014, YQS offers opportunities to connect with industry leaders, share knowledge, and gain exposure through seminars, site visits, and events including the annual Pacific Association of Quantity Surveyors Congress, helping shape the future of QS profession.</p>
