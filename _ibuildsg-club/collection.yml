@@ -2,7 +2,6 @@ collections:
   ibuildsg-club:
     output: true
     order:
-      - Resource Hub.md
       - About iBuildSG Club/.keep
       - About iBuildSG Club/What is iBuildSG Club.md
       - About iBuildSG Club/What the Club Offers.md
@@ -20,6 +19,7 @@ collections:
       - Pinnacle Competition/How to Participate?.md
       - Pinnacle Competition/Competition Schedule.md
       - Pinnacle Competition/Updates on Competition.md
+      - Social Feed/.keep
       - Social Feed/Curious about what it's like to be part of Singapore's
         future ready Built Environment?.md
       - Social Feed/Connect with the BE community.md
@@ -28,4 +28,4 @@ collections:
       - Social Feed/Learn about BE concepts.md
       - Social Feed/Stay Connected.md
       - Social Feed/Join Us.md
-      - Social Feed/.keep
+      - Resource Hub.md
