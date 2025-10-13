@@ -2,6 +2,7 @@ collections:
   ibuildsg-club:
     output: true
     order:
+      - Resource Hub.md
       - About iBuildSG Club/.keep
       - About iBuildSG Club/What is iBuildSG Club.md
       - About iBuildSG Club/What the Club Offers.md
