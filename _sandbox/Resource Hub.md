@@ -8,6 +8,8 @@ description: ""
 
 <h4>Skills Framework for Built Environment</h4>
 
+<img height="auto" width="100%" alt="" src="/images/SkillFrameworkChart.jpg">
+
 The <a href="https://www1.bca.gov.sg/buildsg/manpower/skills-framework-for-built-environment-be" rel="noopener noreferrer nofollow" target="_blank">Skills Framework for Built Environment</a> is developed by BCA, SkillsFuture Singapore, and Workforce Singapore, together with employers, unions, and training providers. It provides a common skills language to understand job roles, career paths, and skills requirements, enabling a unified approach to hiring, training, accreditation, and career planning across the BE sector.
 
 <h4>Trade Associations and Chambers (TACs)</h4>
