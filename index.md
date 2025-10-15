@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/campaign3.png
+      background: /images/campaign4.png
       key_highlights:
         - title: About Us
           description: Know more about what we do
