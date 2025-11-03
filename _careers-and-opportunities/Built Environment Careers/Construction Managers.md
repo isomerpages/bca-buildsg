@@ -33,7 +33,7 @@ the <a href="https://www1.bca.gov.sg/buildsg/manpower/skills-framework-for-built
 <a href="/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>Looking for available job roles? Click <a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4>Additional resource link</h4>
-<p><a href="https://scal.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Contractors Association Limited</a>
+<p><a href="https://www.scal.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Contractors Association Limited</a>
 </p>
 <h4>Explore other opportunities</h4>
 <p><a href="/architects/" rel="noopener noreferrer nofollow" target="_blank">Architects</a> 
