@@ -2,6 +2,5 @@ collections:
   sandbox:
     output: true
     order:
-      - Instructions for Masthead.md
       - About IBuildSG Club/.keep
       - Social Feed/.keep
