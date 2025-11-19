@@ -14,13 +14,13 @@ sections:
       key_highlights:
         - title: Students
           description: ""
-          url: https://www.buildsg.gov.sg/inspire-internship-programme/
+          url: /inspire-internship-programme/
         - title: Professionals
           description: ""
-          url: https://www.buildsg.gov.sg/professionals/
+          url: /professionals/
         - title: Mid Careerists
           description: ""
-          url: https://www.buildsg.gov.sg/mid-careerists/
+          url: /mid-careerists/
       variant: center
   - infopic:
       title: We Are Never Done Building Singapore
