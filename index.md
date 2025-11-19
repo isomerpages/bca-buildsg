@@ -34,16 +34,6 @@ sections:
       image: /images/we_are_never_done_building_singapore.png
       alt: Built to Build
   - infopic:
-      title: Shaping Our Singapore
-      subtitle: OUR BUILT ENVIRONMENT JOURNEY
-      id: infopic
-      description: From skyscrapers to eco-towns, find out how the sector transformed
-        Singapore into a liveable and sustainable urban landscape.
-      button: About Built Environment Sector
-      alt: Discover the Journey
-      url: /about-built-environment-sector/
-      image: /images/hp_discover_the_journey.png
-  - infopic:
       title: Turn Your Vision into Our Landscape
       subtitle: why join us
       id: infopic
