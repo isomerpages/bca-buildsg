@@ -12,15 +12,15 @@ sections:
   - hero:
       background: /images/campaign_masthead.png
       key_highlights:
-        - title: About Us
-          description: Know more about what we do
-          url: /sectoral-outlook/
-        - title: our stories
-          description: Follow our journey
-          url: /architect/
-        - title: Career Opportunities
-          description: Find your place
-          url: /opportunities-to-shape-our-world/
+        - title: Students
+          description: ""
+          url: https://www.buildsg.gov.sg/inspire-internship-programme/
+        - title: Professionals
+          description: ""
+          url: https://www.buildsg.gov.sg/professionals/
+        - title: Mid Careerists
+          description: ""
+          url: https://www.buildsg.gov.sg/mid-careerists/
       variant: center
   - infopic:
       title: We Are Never Done Building Singapore
