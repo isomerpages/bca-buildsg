@@ -12,15 +12,15 @@ sections:
   - hero:
       background: /images/campaign_masthead.png
       key_highlights:
-        - title: About Us
-          description: Know more about what we do
-          url: /sectoral-outlook/
-        - title: our stories
-          description: Follow our journey
-          url: /architect/
-        - title: Career Opportunities
-          description: Find your place
-          url: /opportunities-to-shape-our-world/
+        - title: Students
+          description: ""
+          url: /inspire-internship-programme/
+        - title: Professionals
+          description: ""
+          url: /professionals/
+        - title: Mid Careerists
+          description: ""
+          url: /mid-careerists/
       variant: center
   - infopic:
       title: We Are Never Done Building Singapore
@@ -33,16 +33,6 @@ sections:
       url: /about-built-environment-sector/
       image: /images/we_are_never_done_building_singapore.png
       alt: Built to Build
-  - infopic:
-      title: Shaping Our Singapore
-      subtitle: OUR BUILT ENVIRONMENT JOURNEY
-      id: infopic
-      description: From skyscrapers to eco-towns, find out how the sector transformed
-        Singapore into a liveable and sustainable urban landscape.
-      button: About Built Environment Sector
-      alt: Discover the Journey
-      url: /about-built-environment-sector/
-      image: /images/hp_discover_the_journey.png
   - infopic:
       title: Turn Your Vision into Our Landscape
       subtitle: why join us
