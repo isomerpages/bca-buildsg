@@ -13,7 +13,7 @@ sections:
       background: /images/campaign_masthead.png
       key_highlights:
         - title: Students
-          description: ""
+          description: the students desc
           url: https://www.buildsg.gov.sg/inspire-internship-programme/
         - title: Professionals
           description: ""
