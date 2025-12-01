@@ -1,6 +1,6 @@
 ---
 title: "Project Manager: The Chief Collaborator"
-permalink: /project-manager/
+permalink: /project-manager-interview/
 variant: tiptap
 description: ""
 third_nav_title: Interviews
