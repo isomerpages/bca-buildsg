@@ -10,7 +10,7 @@ notification: <span style="font-size:10px">Government officials will NEVER ask
   if something is a scam.</span>
 sections:
   - hero:
-      background: /images/BCA_Microsite_Masthead_Final.jpg
+      background: /images/BCA_Microsite_Masthead_Final_23_Dec.png
       key_highlights:
         - title: Students
           description: ""
