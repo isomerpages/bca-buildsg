@@ -250,7 +250,7 @@ third_nav_title: Students
     </p>
   </li>
 		  <li>
-    <p>Higher Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-vertical-transportation-3-year" rel="noopener noreferrer nofollow" target="_blank">Vertical Transportation</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/course-finder/higher-nitec-in-vertical-transportation-3-year/" rel="noopener noreferrer nofollow" target="_blank">Vertical Transportation</a>
     </p>
   </li>
 		  <li>
