@@ -47,7 +47,7 @@ third_nav_title: Students
 </p>
 </li>
 <li>
-<p>Work-Study Diploma in <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-mechanical-electrical-services-supervision" rel="noopener noreferrer nofollow" target="_blank">Mechanical &amp; Electrical Services Supervision</a>
+<p>Work-Study Diploma in <a href="https://www.ite.edu.sg/course-finder/work-study-diploma-in-mechanical-electrical-services-supervision/" rel="noopener noreferrer nofollow" target="_blank">Mechanical &amp; Electrical Services Supervision</a>
 </p>
 </li>
 <li>
