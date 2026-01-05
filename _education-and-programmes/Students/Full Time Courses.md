@@ -222,39 +222,39 @@ third_nav_title: Students
 </div>
 <ul data-tight="true" class="tight">
   <li>
-    <p>Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-technology-mechanical-technology" rel="noopener noreferrer nofollow" target="_blank">Mechanical Technology</a>
+    <p>Nitec in <a href="https://www.ite.edu.sg/course-finder/nitec-in-technology-mechanical-technology/" rel="noopener noreferrer nofollow" target="_blank">Mechanical Technology</a>
     </p>
   </li>
 	  <li>
-    <p>Higher Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-architectural-technology" rel="noopener noreferrer nofollow" target="_blank">Architectural Technology</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/course-finder/higher-nitec-in-architectural-technology-3-year/" rel="noopener noreferrer nofollow" target="_blank">Architectural Technology</a>
     </p>
   </li>
 	  <li>
-    <p>Higher Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-civil-and-structural-engineering-design" rel="noopener noreferrer nofollow" target="_blank">Civil &amp; Structural Engineering Design</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/course-finder/higher-nitec-in-civil-and-structural-engineering-design/" rel="noopener noreferrer nofollow" target="_blank">Civil &amp; Structural Engineering Design</a>
     </p>
   </li>
 	  <li>
-    <p>Higher Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-electrical-engineering" rel="noopener noreferrer nofollow" target="_blank">Electrical Engineering</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/course-finder/higher-nitec-in-electrical-engineering/" rel="noopener noreferrer nofollow" target="_blank">Electrical Engineering</a>
     </p>
   </li>
 		  <li>
-    <p>Higher Nitec in <a href="http:/www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-facilities-management-and-engineering-3-year" rel="noopener noreferrer nofollow" target="_blank">Facilities Management &amp; Engineering</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/course-finder/higher-nitec-in-facilities-management-and-engineering/" rel="noopener noreferrer nofollow" target="_blank">Facilities Management &amp; Engineering</a>
     </p>
   </li>
 	  <li>
-    <p>Higher Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-integrated-mechanical-and-electrical-design" rel="noopener noreferrer nofollow" target="_blank">Integrated Mechanical &amp; Electrical Design</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/course-finder/higher-nitec-in-integrated-mechanical-and-electrical-design/" rel="noopener noreferrer nofollow" target="_blank">Integrated Mechanical &amp; Electrical Design</a>
     </p>
   </li>
 	  <li>
-    <p>Higher Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-mechanical-engineering" rel="noopener noreferrer nofollow" target="_blank">Mechanical Engineering</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/course-finder/higher-nitec-in-mechanical-engineering/" rel="noopener noreferrer nofollow" target="_blank">Mechanical Engineering</a>
     </p>
   </li>
 		  <li>
-    <p>Higher Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-vertical-transportation-3-year" rel="noopener noreferrer nofollow" target="_blank">Vertical Transportation</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/course-finder/higher-nitec-in-vertical-transportation-3-year/" rel="noopener noreferrer nofollow" target="_blank">Vertical Transportation</a>
     </p>
   </li>
 		  <li>
-    <p>Technical Engineer Diploma in <a href="https://www.ite.edu.sg/courses/course-finder/course/technical-engineer-diploma-in-civil-structural-engineering" rel="noopener noreferrer nofollow" target="_blank">Civil &amp; Structural Engineering</a>
+    <p>Technical Engineer Diploma in <a href="https://www.ite.edu.sg/course-finder/technical-engineer-diploma-in-civil-structural-engineering/" rel="noopener noreferrer nofollow" target="_blank">Civil &amp; Structural Engineering</a>
     </p>
   </li>
 </ul>
