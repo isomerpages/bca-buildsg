@@ -43,7 +43,7 @@ third_nav_title: Students
 </p>
 </li>
 <li>
-<p>Work-Study Diploma in <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-facilities-management" rel="noopener noreferrer nofollow" target="_blank">Facilities Management</a>
+<p>Work-Study Diploma in <a href="https://www.ite.edu.sg/course-finder/work-study-diploma-in-facilities-management/" rel="noopener noreferrer nofollow" target="_blank">Facilities Management</a>
 </p>
 </li>
 <li>
