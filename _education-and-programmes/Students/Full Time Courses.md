@@ -254,7 +254,7 @@ third_nav_title: Students
     </p>
   </li>
 		  <li>
-    <p>Technical Engineer Diploma in <a href="https://www.ite.edu.sg/courses/course-finder/course/technical-engineer-diploma-in-civil-structural-engineering" rel="noopener noreferrer nofollow" target="_blank">Civil &amp; Structural Engineering</a>
+    <p>Technical Engineer Diploma in <a href="https://www.ite.edu.sg/course-finder/technical-engineer-diploma-in-civil-structural-engineering/" rel="noopener noreferrer nofollow" target="_blank">Civil &amp; Structural Engineering</a>
     </p>
   </li>
 </ul>
