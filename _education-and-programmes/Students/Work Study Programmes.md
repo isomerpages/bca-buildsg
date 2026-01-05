@@ -39,7 +39,7 @@ third_nav_title: Students
 </p>
 </li>
 	<li>
-<p>Work-Study Diploma in <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-electrical-engineering" rel="noopener noreferrer nofollow" target="_blank">Electrical Engineering</a>
+<p>Work-Study Diploma in <a href="https://www.ite.edu.sg/course-finder/work-study-diploma-in-electrical-engineering/" rel="noopener noreferrer nofollow" target="_blank">Electrical Engineering</a>
 </p>
 </li>
 <li>
