@@ -230,7 +230,7 @@ third_nav_title: Students
     </p>
   </li>
 	  <li>
-    <p>Higher Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-civil-and-structural-engineering-design" rel="noopener noreferrer nofollow" target="_blank">Civil &amp; Structural Engineering Design</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/course-finder/higher-nitec-in-civil-and-structural-engineering-design/" rel="noopener noreferrer nofollow" target="_blank">Civil &amp; Structural Engineering Design</a>
     </p>
   </li>
 	  <li>
