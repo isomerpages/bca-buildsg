@@ -242,7 +242,7 @@ third_nav_title: Students
     </p>
   </li>
 	  <li>
-    <p>Higher Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-integrated-mechanical-and-electrical-design" rel="noopener noreferrer nofollow" target="_blank">Integrated Mechanical &amp; Electrical Design</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/course-finder/higher-nitec-in-integrated-mechanical-and-electrical-design/" rel="noopener noreferrer nofollow" target="_blank">Integrated Mechanical &amp; Electrical Design</a>
     </p>
   </li>
 	  <li>
