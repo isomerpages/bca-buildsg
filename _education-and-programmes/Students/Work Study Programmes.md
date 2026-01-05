@@ -35,7 +35,7 @@ third_nav_title: Students
 <div><strong>Institute of Technical Education</strong></div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Work-Study Diploma in <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-architectural-bim-design" rel="noopener noreferrer nofollow" target="_blank">Architectural Building Information Modelling (BIM) &amp; Design</a>
+<p>Work-Study Diploma in <a href="https://www.ite.edu.sg/course-finder/work-study-diploma-in-architectural-bim-design/" rel="noopener noreferrer nofollow" target="_blank">Architectural Building Information Modelling (BIM) &amp; Design</a>
 </p>
 </li>
 	<li>
