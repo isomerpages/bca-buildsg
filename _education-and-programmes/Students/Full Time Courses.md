@@ -222,7 +222,7 @@ third_nav_title: Students
 </div>
 <ul data-tight="true" class="tight">
   <li>
-    <p>Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/nitec-in-technology-mechanical-technology" rel="noopener noreferrer nofollow" target="_blank">Mechanical Technology</a>
+    <p>Nitec in <a href="https://www.ite.edu.sg/course-finder/nitec-in-technology-mechanical-technology/" rel="noopener noreferrer nofollow" target="_blank">Mechanical Technology</a>
     </p>
   </li>
 	  <li>
