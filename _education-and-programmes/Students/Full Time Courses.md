@@ -246,7 +246,7 @@ third_nav_title: Students
     </p>
   </li>
 	  <li>
-    <p>Higher Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-mechanical-engineering" rel="noopener noreferrer nofollow" target="_blank">Mechanical Engineering</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/course-finder/higher-nitec-in-mechanical-engineering/" rel="noopener noreferrer nofollow" target="_blank">Mechanical Engineering</a>
     </p>
   </li>
 		  <li>
