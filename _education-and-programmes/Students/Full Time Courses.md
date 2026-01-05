@@ -238,7 +238,7 @@ third_nav_title: Students
     </p>
   </li>
 		  <li>
-    <p>Higher Nitec in <a href="http:/www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-facilities-management-and-engineering-3-year" rel="noopener noreferrer nofollow" target="_blank">Facilities Management &amp; Engineering</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/course-finder/higher-nitec-in-facilities-management-and-engineering/" rel="noopener noreferrer nofollow" target="_blank">Facilities Management &amp; Engineering</a>
     </p>
   </li>
 	  <li>
