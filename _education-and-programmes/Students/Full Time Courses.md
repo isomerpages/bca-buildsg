@@ -234,7 +234,7 @@ third_nav_title: Students
     </p>
   </li>
 	  <li>
-    <p>Higher Nitec in <a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-electrical-engineering" rel="noopener noreferrer nofollow" target="_blank">Electrical Engineering</a>
+    <p>Higher Nitec in <a href="https://www.ite.edu.sg/course-finder/higher-nitec-in-electrical-engineering/" rel="noopener noreferrer nofollow" target="_blank">Electrical Engineering</a>
     </p>
   </li>
 		  <li>
