@@ -10,7 +10,7 @@ notification: <span style="font-size:10px">Government officials will NEVER ask
   if something is a scam.</span>
 sections:
   - hero:
-      background: /images/BCA_Microsite_Masthead_C_S_Jan_9_B_copy.png
+      background: /images/BCA_Microsite_Masthead_Final_23_Dec.png
       key_highlights:
         - title: Students
           description: ""
@@ -21,11 +21,12 @@ sections:
         - title: Mid Careerists
           description: ""
           url: /mid-careerists/
-      variant: image
+      variant: floating
       title: I'm Built Different
       size: sm
       backgroundColor: gray
       alignment: left
+      subtitle: Creativity. Logic. Innovation. Build your Future, Shape our World.
   - infopic:
       title: We Are Never Done Building Singapore
       subtitle: OUR BUILT ENVIRONMENT JOURNEY
