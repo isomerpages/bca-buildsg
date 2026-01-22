@@ -10,7 +10,7 @@ notification: <span style="font-size:10px">Government officials will NEVER ask
   if something is a scam.</span>
 sections:
   - hero:
-      background: /images/BCA_Microsite_Masthead_Final_23_Dec.png
+      background: /images/BCA_Microsite_Masthead_C_S_Jan_9_B_copy.png
       key_highlights:
         - title: Students
           description: ""
@@ -21,7 +21,7 @@ sections:
         - title: Mid Careerists
           description: ""
           url: /mid-careerists/
-      variant: floating
+      variant: image
       title: I'm Built Different
       size: sm
       backgroundColor: gray
