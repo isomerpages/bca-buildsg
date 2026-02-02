@@ -5,22 +5,15 @@ variant: markdown
 description: ""
 third_nav_title: Videos
 ---
-<h2 style="line-height: 3rem;">Queenie designs her dream house</h2>
+<h2 style="line-height: 3rem;">Built Different Internship</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Queenie_designs_her_dream_house.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Built_Different_Internship.png">
 </div>
-<p>What goes into designing and building a dream home? Join SGAG’s Queenie
-(@qlyx) as she creates her “dream house” — with the help (and reality checks)
-of three professionals from Singapore’s built environment sector. Through
-fun and candid conversations, Queenie learns about the different roles
-that come together to bring a project to life.</p>
-<p>Watch all three episodes to follow Queenie’s journey — and get a better
-understanding of the teamwork and expertise behind the spaces we live,
-work, and play in.&nbsp;</p>
-<p>Ep 1: <a href="https://www.instagram.com/reel/DH-nwlnTONn/?igsh=YmpkOWJxbDd1c2dh" rel="noopener noreferrer nofollow" target="_blank">Zi Hua, Architect at DP Architects – who designs thoughtful, functional spaces</a>
+<p>How do buildings go from ideas to real spaces? In this three-part video series with SGAG, Yi Ting (@yitinggoyt) steps into an intern role to learn how the built environment comes together. She follows 3 real professionals as they go about their work, asking questions and taking on challenges to uncover how buildings are designed, made stable and function everyday.</p>
+<p>Episode 1 <a href="https://www.instagram.com/reel/DTxg0XWk-do/?igsh=YW56azZ4eGI5NGl6" rel="noopener noreferrer nofollow" target="_blank">of Built Different Internship with SGAG featuring the role of the architect is out.</a>
 </p>
-<p>Ep 2:<strong> </strong><a href="https://www.instagram.com/reel/DIQpzFxzG-y/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">Rosemary, Engineer at Mott MacDonald – who ensures everything is structurally sound</a>
+<p>Episode 2 <strong> </strong><a href="https://www.instagram.com/p/DT9_RxUkwwC/" rel="noopener noreferrer nofollow" target="_blank">(C&amp;S Engineer)</a>
 </p>
-<p>Ep 3: <a href="https://www.instagram.com/reel/DIird_FzOIU/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">Istilah, Cost Consultant at Turner &amp; Townsend – who helps balance ambition with budget</a>
+<p>Episode 3 <a href="https://www.instagram.com/reel/DUFrv7LkoXg/?igsh=MTY3NDFidjlzbmEwcw==" rel="noopener noreferrer nofollow" target="_blank">(M&amp;E Engineer)</a>
 </p>
