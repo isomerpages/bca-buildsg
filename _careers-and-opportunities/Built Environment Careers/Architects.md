@@ -11,6 +11,9 @@ third_nav_title: Built Environment Careers
 live, gather and experience a city.</p>
 <p>From everyday neighbourhood spaces to national projects like coastal protection
 against climate change, architects help future-proof Singapore.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="position: absolute; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EfhtMr0hSfc?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
+</div>
 <p><a href="https://youtu.be/EfhtMr0hSfc?si=C4ZmVQ28e81ctn1l" rel="noopener nofollow" target="_blank">Watch Clarabelle Pun share how she’s building real impact – alongside engineers, planners and sustainability teams.</a>
 </p>
 <h4><strong>What Does an Architect Do?</strong></h4>
@@ -32,13 +35,20 @@ against climate change, architects help future-proof Singapore.</p>
 <p>See your designs come to life on site</p>
 </li>
 </ul>
-<p>You won’t work alone.</p>
-<p>Architecture is a team sport.</p>
+<p>You won’t work alone. Architecture is a team sport.</p>
 <h4><strong>Why This Role Matters</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Singapore is evolving – rising sea levels, urban density and sustainability
 goals.</p>
+</li>
+<li>
 <p>Architects play a key role in responding to these challenges.</p>
+</li>
+<li>
 <p>If you care about creativity and impact, this is where both meet.</p>
+</li>
+</ul>
 <h4><strong>Did You Know?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
