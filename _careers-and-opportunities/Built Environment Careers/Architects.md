@@ -34,14 +34,11 @@ against climate change, architects help future-proof Singapore.</p>
 </ul>
 <p>You won’t work alone.</p>
 <p>Architecture is a team sport.</p>
-<p>&nbsp;</p>
 <h4><strong>Why This Role Matters</strong></h4>
 <p>Singapore is evolving – rising sea levels, urban density and sustainability
 goals.</p>
 <p>Architects play a key role in responding to these challenges.</p>
 <p>If you care about creativity and impact, this is where both meet.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <h4><strong>Did You Know?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -55,8 +52,6 @@ goals.</p>
 career.</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <h4><strong>Thinking About This Path?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -71,6 +66,7 @@ career.</p>
 <li>
 <p><a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">See current job opportunities</a>
 </p>
+<p></p>
 </li>
 </ul>
 <p></p>
