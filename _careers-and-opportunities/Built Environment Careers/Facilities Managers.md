@@ -5,45 +5,78 @@ variant: tiptap
 description: ""
 third_nav_title: Built Environment Careers
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/do_masthead_facility_managers.png">
-</div>
-<p>As a Facilities Manager, you will be ensuring maintenance considerations
-are incorporated upfront during the project planning phase to achieve cost
-savings and reduce energy use over the building lifecycle. Your role also
-includes maintenance and operation of buildings and facilities to ensure
-they perform at optimal levels.</p>
-<h4>Did you know?</h4>
+<p><strong>Facilities Manager</strong>
+</p>
+<p>Power the smart buildings of tomorrow.</p>
+<p>Building today aren’t just concrete and steel. They are connected, data-driven
+and constantly evolving.</p>
+<p>Facilities Managers keep them running using technology to optimise performance,
+sustainability and user experience.</p>
+<p><a href="https://youtu.be/VRX-lxz0JYA?si=91q7tL-A7IWLa6FG" rel="noopener nofollow" target="_blank">Watch Shirly Tan, a Digital Facilities Manager, share how she uses smart systems and real-time data to manage buildings and why her role closes the loop between design, construction and daily operations.</a>
+</p>
+<p><strong>What Does a Facilities Manager Do?</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Building performance can be tracked real-time and compared against past
-data or data from other similar buildings to achieve more efficient resource
-deployment.</p>
+<p>Monitor building systems using digital dashboards and smart sensors</p>
 </li>
 <li>
-<p>To accelerate decarbonisation efforts, Facilities Managers collaborate
-with supply chain leads to optimise energy performance and achieve sustained
-low emissions in buildings and districts.</p>
+<p>Analyse real-time data to improve energy efficiency and performance</p>
+</li>
+<li>
+<p>Manage AI-driven and automated building technologies</p>
+</li>
+<li>
+<p>Coordinate service teams and contractors</p>
+</li>
+<li>
+<p>Solve issues before they disrupt users</p>
 </li>
 </ul>
-<p>To learn more about the key work tasks and skills required, check out
-the <a href="https://www1.bca.gov.sg/buildsg/manpower/skills-framework-for-built-environment-be" rel="noopener noreferrer nofollow" target="_blank">Skills Framework for Built Environment – A Guide to Occupations and Skills</a>
+<p>You’re not fixing problems after they happen.</p>
+<p>You’re predicting and preventing them.</p>
+<p><strong>&nbsp;</strong>
 </p>
-<p>If you are a student, find out more about Built Environment courses
-<a href="/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>Looking for available job roles? Click <a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h4>Additional resource link</h4>
-<p><a href="https://sifma.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore International Facility Management Association</a>
+<p><strong>Why This Role Matters</strong>
 </p>
+<p>Singapore is moving towards smart, sustainable and low energy buildings.</p>
+<p>Facilities Managers ensure these buildings perform safely, efficiently
+and responsibly long after construction is complete.</p>
+<p>As buildings become more digital, this role becomes more strategic and
+future-ready.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Did You Know?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Smart buildings use predictive analytics to detect faults early.</p>
+</li>
+<li>
+<p>Digital FM roles are growing as more developments adopt automation.</p>
+</li>
+<li>
+<p>This career blends technology, operations, sustainability and leadership.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Thinking About This Path?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.buildsg.gov.sg/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">Explore Built Environment courses</a>
+</p>
+</li>
+<li>
+<p>Discover <a href="https://www.buildsg.gov.sg/inspire-internship-programme/" rel="noopener noreferrer nofollow" target="_blank">internships</a> and
+<a href="https://www.buildsg.gov.sg/built-environment-scholarship/" rel="noopener noreferrer nofollow" target="_blank">scholarships</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">See current job opportunities</a>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</li>
+</ul>
 <p></p>
-<h4>Explore other opportunities</h4>
-<p><a href="/architects/" rel="noopener noreferrer nofollow" target="_blank">Architects</a> 
-<br><a href="/civil-and-structural-electrical-mechanical-engineers/" rel="noopener noreferrer nofollow" target="_blank"><u>Civil and Structural/Electrical/Mechanical Engineers</u></a> 
-<br><a href="/quantity-surveyors-cost-consultants/" rel="noopener noreferrer nofollow" target="_blank">Quantity Surveyors/Cost Consultants</a> 
-<br><a href="/production-managers/" rel="noopener noreferrer nofollow" target="_blank">Production Managers</a> 
-<br><a href="/construction-managers/" rel="noopener noreferrer nofollow" target="_blank">Construction Managers</a> 
-<br><a href="/project-managers/" rel="noopener noreferrer nofollow" target="_blank">Project Managers</a> 
-<br><a href="/digital-delivery-managers/" rel="noopener noreferrer nofollow" target="_blank">Digital Delivery Managers</a>
-<br><a href="/sustainability-consultants/" rel="noopener noreferrer nofollow" target="_blank">Sustainability Consultants</a>
-</p>
