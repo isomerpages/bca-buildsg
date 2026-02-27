@@ -11,9 +11,6 @@ third_nav_title: Built Environment Careers
 live, gather and experience a city.</p>
 <p>From everyday neighbourhood spaces to national projects like coastal protection
 against climate change, architects help future-proof Singapore.</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" style="position: absolute; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EfhtMr0hSfc?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
-</div>
 <p><a href="https://youtu.be/EfhtMr0hSfc?si=C4ZmVQ28e81ctn1l" rel="noopener nofollow" target="_blank">Watch Clarabelle Pun share how she’s building real impact – alongside engineers, planners and sustainability teams.</a>
 </p>
 <h4><strong>What Does an Architect Do?</strong></h4>
