@@ -35,16 +35,14 @@ against climate change, architects help future-proof Singapore.</p>
 <p>You won’t work alone.</p>
 <p>Architecture is a team sport.</p>
 <p>&nbsp;</p>
-<p><strong>Why This Role Matters</strong>
-</p>
+<h4><strong>Why This Role Matters</strong></h4>
 <p>Singapore is evolving – rising sea levels, urban density and sustainability
 goals.</p>
 <p>Architects play a key role in responding to these challenges.</p>
 <p>If you care about creativity and impact, this is where both meet.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Did You Know?</strong>
-</p>
+<h4><strong>Did You Know?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Designs today are built in 3D using BIM, not just paper drawings.</p>
@@ -59,8 +57,7 @@ career.</p>
 </ul>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Thinking About This Path?</strong>
-</p>
+<h4><strong>Thinking About This Path?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.buildsg.gov.sg/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">Explore Built Environment courses</a>
