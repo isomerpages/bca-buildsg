@@ -13,7 +13,7 @@ third_nav_title: Podcast
 <p>We speak with Er. Geoshua Tan, Vice President (Civil &amp; Infrastructure
 Engineering) at CPG Consultants.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" style="position: absolute; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3Gn5FcfkqWg?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="position: absolute; width: 571%; height: 320%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3Gn5FcfkqWg?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
 </div>
 <p>Having worked on major national projects such as the Deep Tunnel Sewerage
 System (DTSS) and the Bidadari land bridge, he shares insights on designing
@@ -46,7 +46,7 @@ every day.</p>
 a vital role in balancing aesthetics, functionality and sustainability
 to create spaces that serve present and future generations.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" style="position: absolute; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZqJJM3rVDpU?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="position: absolute; width: 571%; height: 320%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZqJJM3rVDpU?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
 </div>
 <p>He reflects on:</p>
 <ul data-tight="true" class="tight">
