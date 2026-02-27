@@ -7,7 +7,7 @@ third_nav_title: Built Environment Careers
 ---
 <h4><strong>Facilities Manager</strong></h4>
 <p>Power the smart buildings of tomorrow.</p>
-<p>Building today aren’t just concrete and steel. They are connected, data-driven
+<p>Buildings today aren’t just concrete and steel. They are connected, data-driven
 and constantly evolving.</p>
 <p>Facilities Managers keep them running using technology to optimise performance,
 sustainability and user experience.</p>
@@ -34,14 +34,22 @@ sustainability and user experience.</p>
 <p>Solve issues before they disrupt users</p>
 </li>
 </ul>
-<p>You’re not fixing problems after they happen.</p>
-<p>You’re predicting and preventing them.</p>
+<p>You’re not fixing problems after they happen. You’re predicting and preventing
+them.</p>
 <h4><strong>Why This Role Matters</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Singapore is moving towards smart, sustainable and low energy buildings.</p>
+</li>
+<li>
 <p>Facilities Managers ensure these buildings perform safely, efficiently
 and responsibly long after construction is complete.</p>
+</li>
+<li>
 <p>As buildings become more digital, this role becomes more strategic and
 future-ready.</p>
+</li>
+</ul>
 <h4><strong>Did You Know?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
