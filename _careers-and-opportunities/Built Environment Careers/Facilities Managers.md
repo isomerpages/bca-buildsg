@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Built Environment Careers
 ---
-<p><strong>Facilities Manager</strong>
-</p>
+<h4><strong>Facilities Manager</strong></h4>
 <p>Power the smart buildings of tomorrow.</p>
 <p>Building today aren’t just concrete and steel. They are connected, data-driven
 and constantly evolving.</p>
@@ -14,8 +13,7 @@ and constantly evolving.</p>
 sustainability and user experience.</p>
 <p><a href="https://youtu.be/VRX-lxz0JYA?si=91q7tL-A7IWLa6FG" rel="noopener nofollow" target="_blank">Watch Shirly Tan, a Digital Facilities Manager, share how she uses smart systems and real-time data to manage buildings and why her role closes the loop between design, construction and daily operations.</a>
 </p>
-<p><strong>What Does a Facilities Manager Do?</strong>
-</p>
+<h4><strong>What Does a Facilities Manager Do?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Monitor building systems using digital dashboards and smart sensors</p>
@@ -35,19 +33,13 @@ sustainability and user experience.</p>
 </ul>
 <p>You’re not fixing problems after they happen.</p>
 <p>You’re predicting and preventing them.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Why This Role Matters</strong>
-</p>
+<h4><strong>Why This Role Matters</strong></h4>
 <p>Singapore is moving towards smart, sustainable and low energy buildings.</p>
 <p>Facilities Managers ensure these buildings perform safely, efficiently
 and responsibly long after construction is complete.</p>
 <p>As buildings become more digital, this role becomes more strategic and
 future-ready.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Did You Know?</strong>
-</p>
+<h4><strong>Did You Know?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Smart buildings use predictive analytics to detect faults early.</p>
@@ -59,9 +51,7 @@ future-ready.</p>
 <p>This career blends technology, operations, sustainability and leadership.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>Thinking About This Path?</strong>
-</p>
+<h4><strong>Thinking About This Path?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.buildsg.gov.sg/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">Explore Built Environment courses</a>
