@@ -11,6 +11,9 @@ third_nav_title: Built Environment Careers
 and constantly evolving.</p>
 <p>Facilities Managers keep them running using technology to optimise performance,
 sustainability and user experience.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities_Manager___Shirly_Tan.jpg">
+</div>
 <p><a href="https://youtu.be/VRX-lxz0JYA?si=91q7tL-A7IWLa6FG" rel="noopener nofollow" target="_blank">Watch Shirly Tan, a Digital Facilities Manager, share how she uses smart systems and real-time data to manage buildings and why her role closes the loop between design, construction and daily operations.</a>
 </p>
 <h4><strong>What Does a Facilities Manager Do?</strong></h4>
