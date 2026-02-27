@@ -12,9 +12,9 @@ third_nav_title: Podcast
 </p>
 <p>We speak with Er. Geoshua Tan, Vice President (Civil &amp; Infrastructure
 Engineering) at CPG Consultants.</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" style="position: absolute; width: 571%; height: 320%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3Gn5FcfkqWg?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
-</div>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border: none; overflow: hidden; width: 571px; height: 320px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3Gn5FcfkqWg?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
+
+
 <p>Having worked on major national projects such as the Deep Tunnel Sewerage
 System (DTSS) and the Bidadari land bridge, he shares insights on designing
 resilient infrastructure that supports Singapore’s long-term sustainability.</p>
@@ -45,10 +45,7 @@ every day.</p>
 <p>Drawing on his professional experience, he highlights how architects play
 a vital role in balancing aesthetics, functionality and sustainability
 to create spaces that serve present and future generations.</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" style="position: absolute; width: 571%; height: 320%;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZqJJM3rVDpU?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
-</div>
-<p>He reflects on:</p>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border: none; overflow: hidden; width: 571px; height: 320px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZqJJM3rVDpU?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe><p>He reflects on:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>What inspired him to pursue architecture</p>
