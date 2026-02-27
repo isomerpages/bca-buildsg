@@ -13,8 +13,7 @@ live, gather and experience a city.</p>
 against climate change, architects help future-proof Singapore.</p>
 <p><a href="https://youtu.be/EfhtMr0hSfc?si=C4ZmVQ28e81ctn1l" rel="noopener nofollow" target="_blank">Watch Clarabelle Pun share how she’s building real impact – alongside engineers, planners and sustainability teams.</a>
 </p>
-<p><strong>What Does an Architect Do?</strong>
-</p>
+<h4><strong>What Does an Architect Do?</strong></h4>
 <p>As an architect, you may:</p>
 <ul data-tight="true" class="tight">
 <li>
