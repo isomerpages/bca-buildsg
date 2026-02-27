@@ -5,44 +5,78 @@ variant: tiptap
 description: ""
 third_nav_title: Built Environment Careers
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/do_masthead_architects.png">
+<h4><strong>Architect</strong></h4>
+<p>Create the next chapter of Singapore’s skyline.</p>
+<p>Architecture isn’t just about buildings. It’s about shaping how people
+live, gather and experience a city.</p>
+<p>From everyday neighbourhood spaces to national projects like coastal protection
+against climate change, architects help future-proof Singapore.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border: none; overflow: hidden; width: 571px; height: 320px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EfhtMr0hSfc?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
 </div>
-<p>Design buildings that endure across time, anchor our national identity
-and shape our urban landscape. As an Architect, you will need strong communication
-and project management skills to be able to work closely with different
-stakeholders such as&nbsp; clients, developers and authorities, and to
-see through the project from beginning to end.</p>
-<h4>Did you know?</h4>
+<p><a href="https://youtu.be/EfhtMr0hSfc?si=C4ZmVQ28e81ctn1l" rel="noopener nofollow" target="_blank">Watch Clarabelle Pun share how she’s building real impact – alongside engineers, planners and sustainability teams.</a>
+</p>
+<h4><strong>What Does an Architect Do?</strong></h4>
+<p>As an architect, you may:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Designs are now done in 3D using Building Information Modelling (BIM)
-software.</p>
+<p>Turn ideas into 3D designs using BIM (Building Information Modelling)</p>
 </li>
 <li>
-<p>Generative artificial intelligence (AI) is increasingly used to render
-draft sketches from user inputs, with refinements supplemented by the architect.</p>
+<p>Work with engineers, landscape and sustainability experts</p>
+</li>
+<li>
+<p>Solve real-world challenges</p>
+</li>
+<li>
+<p>Present ideas to clients and agencies</p>
+</li>
+<li>
+<p>See your designs come to life on site</p>
 </li>
 </ul>
-<p>To learn more about the key work tasks and skills required, check out
-the <a href="https://www1.bca.gov.sg/buildsg/manpower/skills-framework-for-built-environment-be" rel="noopener noreferrer nofollow" target="_blank">Skills Framework for Built Environment – A Guide to Occupations and Skills</a>
+<p>You won’t work alone. Architecture is a team sport.</p>
+<h4><strong>Why This Role Matters</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore is evolving – rising sea levels, urban density and sustainability
+goals.</p>
+</li>
+<li>
+<p>Architects play a key role in responding to these challenges.</p>
+</li>
+<li>
+<p>If you care about creativity and impact, this is where both meet.</p>
+</li>
+</ul>
+<h4><strong>Did You Know?</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Designs today are built in 3D using BIM, not just paper drawings.</p>
+</li>
+<li>
+<p>AI tools can help visualise ideas, but human creativity still leads.</p>
+</li>
+<li>
+<p>Architecture blends art, tech, sustainability and problem-solving in one
+career.</p>
+</li>
+</ul>
+<h4><strong>Thinking About This Path?</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.buildsg.gov.sg/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">Explore Built Environment courses</a>
 </p>
-<p>If you are a student, find out more about Built Environment courses
-<a href="/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>Looking for available job roles? Click <a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h4>Additional resource links</h4>
-<p><a href="https://sia.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute of Architects</a>
-<br><a href="https://www.boa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Board of Architects</a>
+</li>
+<li>
+<p>Check out <a href="https://www.buildsg.gov.sg/inspire-internship-programme/" rel="noopener noreferrer nofollow" target="_blank">internships</a> and
+<a href="https://www.buildsg.gov.sg/built-environment-scholarship/" rel="noopener noreferrer nofollow" target="_blank">scholarships</a>
 </p>
-<h4>Explore other opportunities</h4>
-<p><a href="/civil-and-structural-electrical-mechanical-engineers/" rel="noopener noreferrer nofollow" target="_blank">Civil and Structural/Electrical/Mechanical Engineers</a> 
-<br><a href="/quantity-surveyors-cost-consultants/" rel="noopener noreferrer nofollow" target="_blank">Quantity Surveyors/Cost Consultants</a> 
-<br><a href="/production-managers/" rel="noopener noreferrer nofollow" target="_blank">Production Managers</a> 
-<br><a href="/construction-managers/" rel="noopener noreferrer nofollow" target="_blank">Construction Managers</a> 
-<br><a href="/project-managers/" rel="noopener noreferrer nofollow" target="_blank">Project Managers</a> 
-<br><a href="/digital-delivery-managers/" rel="noopener noreferrer nofollow" target="_blank">Digital Delivery Managers</a> 
-<br><a href="/facilities-managers/" rel="noopener noreferrer nofollow" target="_blank">Facilities Managers</a>
-<br><a href="/sustainability-consultants/" rel="noopener noreferrer nofollow" target="_blank">Sustainability Consultants</a>
+</li>
+<li>
+<p><a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">See current job opportunities</a>
 </p>
+<p></p>
+</li>
+</ul>
 <p></p>
