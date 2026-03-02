@@ -6,8 +6,6 @@ description: ""
 third_nav_title: Podcast
 ---
 <h2>Shaping Singapore’s Future: Civil &amp; Infrastructure Engineering and Architecture</h2>
-<p><strong>Shaping Singapore’s Future: Civil &amp; Infrastructure Engineering and Architecture</strong>
-</p>
 <p><strong>Engineering the Systems of Singapore Depends On</strong>
 </p>
 <p>We speak with Er. Geoshua Tan, Vice President (Civil &amp; Infrastructure
