@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Past Competitions
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pinnacle2025.png">
+</div>
 <p>Launched on 15 July, the Pinnacle Competition 2025 highlighted the creativity
 and passion of students in showcasing Singapore’s Green Mark-certified
 buildings. Through their video essays, participants reimagined how these
