@@ -1,4 +1,5 @@
 collections:
   past-competitions:
     output: true
-    order: []
+    order:
+      - Pinnacle Competition 2025/.keep
