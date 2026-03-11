@@ -2,6 +2,6 @@ collections:
   past-competitions:
     output: true
     order:
-      - Pinnacle Competition 2025/Pinnacle Competition 2025.md
-      - Pinnacle Competition 2025/Updates on Eligibility.md
-      - Pinnacle Competition 2025/.keep
+      - Past Competitions/Pinnacle Competition 2025.md
+      - Past Competitions/Updates on Eligibility.md
+      - Past Competitions/.keep
