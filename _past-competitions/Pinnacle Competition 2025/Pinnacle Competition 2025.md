@@ -16,4 +16,4 @@ spaces can shape Singapore’s future, oﬀering fresh insights and innovative
 perspectives in celebration of SG60.</p>
 <p>A big thank you to all who participated and congratulations to our Pinnacle
 Competition 2025 winners! Find out more about the Pinnacle Competition
-2025 and the winning entries <a href="/updates-on-eligibility/" rel="noopener nofollow" target="_blank">here</a>.</p>
+2025 and the winning entries here</p>
