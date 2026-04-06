@@ -1,0 +1,6 @@
+collections:
+  past-competitions:
+    output: true
+    order:
+      - Past Competitions/Pinnacle Competition 2025.md
+      - Past Competitions/.keep
