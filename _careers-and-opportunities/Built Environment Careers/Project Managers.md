@@ -57,6 +57,9 @@ in real time.</p>
 budget and safely.</p>
 </li>
 </ul>
+<p>To learn more about the key work tasks and skills required, check out
+the <a href="https://www1.bca.gov.sg/growth-and-transformation/manpower/built-environment-professionals/skills-framework-for-built-environment/" rel="noopener noreferrer nofollow" target="_blank"><u>Skills Framework for Built Environment – A Guide to Occupations and Skills</u></a>
+</p>
 <h4><strong>&nbsp;Thinking About This Path?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
