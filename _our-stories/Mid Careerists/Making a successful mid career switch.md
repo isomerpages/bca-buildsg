@@ -17,4 +17,4 @@ will actually add value to your new job.”</p>
 switch.</p>
 <p>He admitted that it was not easy to transit to a new sector but with determination,
 it made it worthwhile.</p>
-<p>Read on to learn more about <a href="https://www1.bca.gov.sg/buildsg-emag/articles/how-one-man-s-passion-for-the-built-environment-led-him-back-to-school-and-a-new-job" rel="noopener noreferrer nofollow" target="_blank">Andy's career switch</a>.</p>
+<p>Read on to learn more about <a href="https://www1.bca.gov.sg/resources/past-articles/how-one-man-s-passion-for-the-built-environment-led-him-back-to-school-and-a-new-job/" rel="noopener noreferrer nofollow" target="_blank">Andy's career switch</a>.</p>
