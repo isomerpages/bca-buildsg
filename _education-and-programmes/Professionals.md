@@ -121,7 +121,7 @@ description: ""
     <p>Be fairly and independently assessed based on your skills and assessments through standards that have been aligned across the different professional disciplines </p>
   </li>
   <li>
-    <p>Associate skills and competencies for each progression pathway and plan for vertical/lateral career trajectories. For more information, click <a href="https://www1.bca.gov.sg/docs/default-source/docs-corp-buildsg/manpower/skillfuture_built-environment-handbook_webe5fe1a8c7abb4a368f38e6c5332dc73a.pdf?sfvrsn=39f37a7f_0" rel="noopener noreferrer nofollow" target="_blank">here</a>. </p>
+    <p>Associate skills and competencies for each progression pathway and plan for vertical/lateral career trajectories. For more information, click <a href="https://isomer-user-content.by.gov.sg/338/c06410c7-e9e5-45ff-9cf2-d3f1d15fc492/skillfuture_built-environment-handbook_webe5fe1a8c7abb4a368f38e6c5332dc73a.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. </p>
   </li>
 </ul>
 <p>The following Accrediting Bodies are leading the accreditation schemes as shown below:</p>
