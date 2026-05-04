@@ -12,6 +12,9 @@ third_nav_title: Built Environment Careers
 <p>Digital Delivery Managers make this possible using data, 3D models and
 smart tools to plan, test and optimise projects before construction even
 begins.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border: none; overflow: hidden; width: 571px; height: 320px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l4CHc7d2IXQ?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
+</div>
 <p><a href="https://youtu.be/l4CHc7d2IXQ" rel="noopener noreferrer nofollow" target="_blank">Watch Nadirah Mohamed Sultan share how she uses 3D models, VR and digital tools to predict issues, simulate solutions and connect teams across the entire project.</a>
 </p>
 <p>&nbsp;</p>
