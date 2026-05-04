@@ -5,37 +5,56 @@ variant: tiptap
 description: ""
 third_nav_title: Built Environment Careers
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/do_masthead_digital_delivery_managers.png">
-</div>
-<p>As a Digital Delivery Manager, your responsibilities include adopting
-and implementing emerging digital technologies across the project lifecycle
-to optimise operations and processes.</p>
-<h4>Did you know?</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Digital Delivery Managers are responsible for developing solutions such
-as digital platforms, which enable closer collaboration amongst the project
-stakeholders.</p>
-</li>
-</ul>
-<p>To learn more about the key work tasks and skills required, check out
-the <a href="https://www1.bca.gov.sg/growth-and-transformation/manpower/built-environment-professionals/skills-framework-for-built-environment/" rel="noopener noreferrer nofollow" target="_blank">Skills Framework for Built Environment – A Guide to Occupations and Skills</a>
+<p><strong>Digital Delivery Manager</strong>
 </p>
-<p>If you are a student, find out more about Built Environment courses
-<a href="/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>Looking for available job roles? Click <a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h4>Additional resource link</h4>
-<p><a href="https://ddm.buildingsmartsingapore.org/" rel="noopener noreferrer nofollow" target="_blank">buildingSMART Singapore</a>
+<p>Shape how Singapore builds smarter.</p>
+<p>Before a single brick is laid, projects are built digitally.</p>
+<p>Digital Delivery Managers make this possible using data, 3D models and
+smart tools to plan, test and optimise projects before construction even
+begins.</p>
+<p><a href="https://youtu.be/l4CHc7d2IXQ" rel="noopener noreferrer nofollow" target="_blank">Watch Nadirah Mohamed Sultan share how she uses 3D models, VR and digital tools to predict issues, simulate solutions and connect teams across the entire project.</a>
 </p>
-<h4>Explore other opportunities</h4>
-<p><a href="/architects/" rel="noopener noreferrer nofollow" target="_blank">Architects</a> 
-<br><a href="/civil-and-structural-electrical-mechanical-engineers/" rel="noopener noreferrer nofollow" target="_blank"><u>Civil and Structural/Electrical/Mechanical Engineers</u></a> 
-<br><a href="/quantity-surveyors-cost-consultants/" rel="noopener noreferrer nofollow" target="_blank">Quantity Surveyors/Cost Consultants</a> 
-<br><a href="/production-managers/" rel="noopener noreferrer nofollow" target="_blank">Production Managers</a> 
-<br><a href="/construction-managers/" rel="noopener noreferrer nofollow" target="_blank">Construction Managers</a> 
-<br><a href="/project-managers/" rel="noopener noreferrer nofollow" target="_blank">Project Managers</a> 
-<br><a href="/facilities-managers/" rel="noopener noreferrer nofollow" target="_blank">Facilities Managers</a>
-<br><a href="/sustainability-consultants/" rel="noopener noreferrer nofollow" target="_blank">Sustainability Consultants</a>
+<p>&nbsp;</p>
+<p><strong>What Does a Digital Delivery Manager Do?</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop and manage 3D digital models
+(BIM) across the project lifecycle</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use data to predict issues and test
+solutions before construction</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enable collaboration through shared
+digital platforms (CDE)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Apply tools like VR, simulations
+and drones on-site</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support teams in adopting digital
+workflows and technologies</p>
+<p>You don’t just build projects.</p>
+<p>You build them smarter before they even exist.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Why This Role Matters</strong>
+</p>
+<p>Singapore is transforming how it builds – becoming more digital, productive
+and efficient.</p>
+<p>Digital Delivery Managers help reduce errors, improve coordination and
+ensure projects are delivered faster and more effectively.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Did You Know?</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Projects are now built digitally
+first using 3D models before physical construction begins.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tools like VR and simulations allow
+teams to test ideas and detect issues early.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Digital platforms connect all stakeholders
+across the project lifecycle in real time.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Thinking About This Path?</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.buildsg.gov.sg/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">Explore Built Environment courses</a>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discover <a href="https://www.buildsg.gov.sg/inspire-internship-programme/" rel="noopener noreferrer nofollow" target="_blank">internships</a> and
+<a href="https://www.buildsg.gov.sg/built-environment-scholarship/" rel="noopener noreferrer nofollow" target="_blank">scholarships</a>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.mycareersfuture.gov.sg/job/building-construction?search=bim%20manager&amp;sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">See current job opportunities</a>
 </p>
