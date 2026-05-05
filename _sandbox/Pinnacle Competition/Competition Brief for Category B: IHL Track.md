@@ -8,13 +8,16 @@ third_nav_title: Pinnacle Competition
 <ol>
 	<li><strong>Choose <u>1</u> of 2 Questions</strong>
 		<ol type="A">
-			<li><strong>What are the different ways to keep buildings cool naturally?</strong></li>
-			<li>Examples:
-		<ul>
-			<li>Show 2-3 sustainable features</li>
-			<li>Explain why these features were chosen</li>
-			<li>Share how these features benefit users and/or their environmental impact</li>
-		</ul>
+			<li>
+				<p><strong>What are the different ways to keep buildings cool naturally?</strong></p>
+				<p>Examples:</p>
+				<ul>
+					<li>Building orientation and window placement</li>
+					<li>Natural ventilation and cross-ventilation</li>
+					<li>Shading devices (overhangs, louvers, trees)</li>
+					<li>Green roofs and walls for cooling</li>
+					<li>Reflective materials (e.g. cool paint)</li>
+				</ul>
 			</li>
 		</ol>
 	</li>
