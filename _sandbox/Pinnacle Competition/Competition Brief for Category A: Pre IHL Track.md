@@ -44,26 +44,26 @@ third_nav_title: Pinnacle Competition
 <ol>
 	<li><strong>Communication &amp; Creativity (30%)</strong>
 		<ul>
-			<li>Clear and engaging communication</li>
-			<li>Effective use of multimedia elements to support explanations</li>
-			<li>Creative approaches to making content accessible</li>
-			<li>Uses appropriate technical terminology clearly and effectively</li>
+			<li>Fun and engaging explanations that are easy to understand</li>
+			<li>Use of simple visuals, demonstrations, or analogies to support explanations</li>
+			<li>Creative, clear and enthusiastic delivery</li>
+			<li>Explains technical concepts in simple, relatable ways</li>
 		</ul>
 	</li>
 	<li><strong>Understanding of Sustainability (40%)</strong>
 		<ul>
 			<li>Must include at least one local Green Mark building project as example</li>
-			<li>Must cover 3 different features and/or methods for the chosen question</li>
-			<li>Presents energy savings, and/or environmental benefits of building such as energy savings, low EUI, thermal comfort, environmental benefits, and/or other social benefits, as appropriate and relevant for each question</li>
-			<li>Shows clear grasp of sustainability approaches</li>
+			<li>Must cover <u>2 different features and/or methods</u> for the chosen question</li>
+			<li>Presents benefits of building such as energy savings, low EUI, thermal comfort, environmental benefits, and/or other social benefits, as appropriate and relevant for each question</li>
+			<li>Demonstrates accurate understanding of sustainability approaches</li>
 		</ul>
 	</li>
 	<li><strong>Impact and Engagement (30%)</strong>
 		<ul>
-			<li>Creates compelling case for adopting green building technologies</li>
-			<li>Demonstrates broader implications for Singapore's sustainable development</li>
-			<li>Shows how sustainable building choices align with UN Sustainable Development Goals</li>
-			<li>Promotes appreciation of sustainable building practices</li>
+			<li>Helps others understand why these features matter for our built environment</li>
+			<li>Encourages audience to notice and appreciate green features around them</li>
+			<li>Inspires interest in how buildings can be better for the planet</li>
+			<li>Creates enthusiasm for sustainable living</li>
 		</ul>
 	</li>
 </ol>
