@@ -2,5 +2,6 @@ collections:
   sandbox:
     output: true
     order:
+      - Pinnacle Competition/Competition Schedule.md
       - Pinnacle Competition/Updates on Competition.md
       - Pinnacle Competition/.keep
