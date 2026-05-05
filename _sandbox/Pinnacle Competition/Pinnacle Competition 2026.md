@@ -9,6 +9,8 @@ third_nav_title: Pinnacle Competition
 
 <h4>The Pinnacle Competition 2026</h4>
 
+<p><strong>Explain to your younger self</strong></p>
+
 <p>From a young age, children form their earliest aspirations by observing the world around them. The first spark of inspiration often comes from simple moments — a story, a lesson, or someone explaining their work in a way that feels exciting and meaningful.</p>
 
 <p>This year's Pinnacle Competition concept "Explain It to My Younger Self" invites participants to share about the Built Environment sector through this lens. By imagining how they would introduce sustainability in the built environment to their younger selves, participants decode concepts into engaging stories that make understanding more accessible and inspiring.</p>
