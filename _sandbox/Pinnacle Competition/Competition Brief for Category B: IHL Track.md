@@ -34,23 +34,11 @@ third_nav_title: Pinnacle Competition
 			</li>
 		</ol>
 	</li>
-	<li><strong>Tell Our Progress Story</strong>
+	<li><strong>Features Coverage</strong>
 		<ul>
-			<li>How does this building reflect Singapore's advancement in sustainability?</li>
-			<li>What green improvements can we see? For instance, in terms of:
-				<ul>
-					<li>Energy efficiency</li>
-					<li>Sustainable design</li>
-					<li>User comfort</li>
-				</ul>
-			</li>
-		</ul>
-	</li>
-	<li><strong>Look to the Future</strong>
-		<ul>
-			<li>Why did you choose this building? Why is this building important to you?</li>
-			<li>How might it inspire other developments? What can others learn from it?</li>
-			<li>How does it align with Singapore's green vision?</li>
+			<li>When responding to your selected question, your submission must cover three distinct features or methods.</li>
+			<li>You can choose the features or methods from the examples listed above for each question, or explore other relevant sustainable features in your selected building.</li>
+			<li>Your three selected features should be distinct approaches that help answer your chosen question.</li>
 		</ul>
 	</li>
 </ol>
@@ -58,32 +46,28 @@ third_nav_title: Pinnacle Competition
 <h4>Judging Criteria</h4>
 
 <ol>
-	<li><strong>Storytelling and Personal Insight (25%)</strong>
+	<li><strong>Communication &amp; Creativity (30%)</strong>
 		<ul>
-			<li>Communicates meaningful reasons for choosing the building</li>
-			<li>Shows personal thoughts, feelings and/or connection to the building</li>
-			<li>Explains how this building inspires your vision of Singapore's future</li>
+			<li>Clear and engaging communication</li>
+			<li>Effective use of multimedia elements to support explanations</li>
+			<li>Creative approaches to making content accessible</li>
+			<li>Uses appropriate technical terminology clearly and effectively</li>
 		</ul>
 	</li>
-	<li><strong>Presentation and Creativity (25%)</strong>
+	<li><strong>Understanding of Sustainability (40%)</strong>
 		<ul>
-			<li>Innovative use of visuals, sound, editing, or animation to tell the story in a fun and creative way</li>
-			<li>Narrative is coherent, compelling, and well-paced</li>
-			<li>Clear and effective use of examples and illustrations to support key messages</li>
+			<li>Must include at least one local Green Mark building project as example</li>
+			<li>Must cover 3 different features and/or methods for the chosen question</li>
+			<li>Presents energy savings, and/or environmental benefits of building such as energy savings, low EUI, thermal comfort, environmental benefits, and/or other social benefits, as appropriate and relevant for each question</li>
+			<li>Shows clear grasp of sustainability approaches</li>
 		</ul>
 	</li>
-	<li><strong>Understanding of Sustainability (25%)</strong>
+	<li><strong>Impact and Engagement (30%)</strong>
 		<ul>
-			<li>Shows clear understanding of the building's sustainability features and their impact</li>
-			<li>Provides clear explanation about the benefits of these features</li>
-			<li>Able to link these features to Singapore's broader green building goals</li>
-		</ul>
-	</li>
-	<li><strong>Impact and Engagement (25%)</strong>
-		<ul>
-			<li>Helps viewers understand why green buildings matter in our lives</li>
-			<li>Inspires interest in sustainable buildings and their features, or curiosity about the built environment</li>
-			<li>Creates meaningful connections between people and our built environment</li>
+			<li>Creates compelling case for adopting green building technologies</li>
+			<li>Demonstrates broader implications for Singapore's sustainable development</li>
+			<li>Shows how sustainable building choices align with UN Sustainable Development Goals</li>
+			<li>Promotes appreciation of sustainable building practices</li>
 		</ul>
 	</li>
 </ol>
