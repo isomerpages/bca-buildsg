@@ -8,7 +8,7 @@ third_nav_title: Pinnacle Competition
 <table style="minWidth: 50px">
 	<thead>
 		<tr>
-			<th>Milestone</th>
+			<th width="50%">Milestone</th>
 			<th>Date</th>
 		</tr>
 	</thead>
