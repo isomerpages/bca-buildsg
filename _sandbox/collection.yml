@@ -2,6 +2,7 @@ collections:
   sandbox:
     output: true
     order:
+      - "Pinnacle Competition/Competition Brief for Category B: IHL Track.md"
       - Pinnacle Competition/How to Participate?.md
       - Pinnacle Competition/Competition Schedule.md
       - Pinnacle Competition/Updates on Competition.md
