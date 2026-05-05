@@ -36,7 +36,7 @@ third_nav_title: Pinnacle Competition
 	</li>
 	<li><strong>Features Coverage</strong>
 		<ul>
-			<li>When responding to your selected question, your submission must cover three distinct features or methods.</li>
+			<li>When responding to your selected question, your submission must cover <strong><u>three</u> distinct features or methods.</strong></li>
 			<li>You can choose the features or methods from the examples listed above for each question, or explore other relevant sustainable features in your selected building.</li>
 			<li>Your three selected features should be distinct approaches that help answer your chosen question.</li>
 		</ul>
