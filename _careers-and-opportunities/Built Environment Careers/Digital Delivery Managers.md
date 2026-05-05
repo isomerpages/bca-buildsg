@@ -16,8 +16,7 @@ begins.</p>
 </div>
 <p><a href="https://youtu.be/l4CHc7d2IXQ" rel="noopener noreferrer nofollow" target="_blank">Watch Nadirah Mohamed Sultan share how she uses 3D models, VR and digital tools to predict issues, simulate solutions and connect teams across the entire project.</a>
 </p>
-<p>&nbsp;</p>
-<h4><strong>What Does a Digital Delivery Manager Do?</strong></h4>
+<h4>&nbsp;<strong>What Does a Digital Delivery Manager Do?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Develop and manage 3D digital models (BIM) across the project lifecycle</p>
