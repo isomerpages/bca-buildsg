@@ -19,6 +19,19 @@ third_nav_title: Pinnacle Competition
 					<li>Reflective materials (e.g. cool paint)</li>
 				</ul>
 			</li>
+			<li>
+				<p><strong>How do buildings reduce carbon emissions?</strong></p>
+				<p>Examples:</p>
+				<ul>
+					<li>Alternative cooling technologies (e.g. hybrid cooling, passive displacement cooling, mix mode ventilation)</li>
+					<li>Energy efficient systems (e.g. air conditioning)</li>
+					<li>Renewable energy (e.g. solar energy)</li>
+					<li>Automatic controls and sensors (e.g. lighting, Occupant-Centric aircon systems)</li>
+					<li>Smart facilities/energy management (e.g. Building Management Systems, application of AI, Robotics and Automation)</li>
+					<li>Embodied carbon reduction measures / Sustainable building materials (e.g. Green Concrete, Green steel, Mass Engineered Timbre) and alternative materials (e.g. Carbon Mineralised Concrete, Recycled Concrete Aggregate, Ordinary Portland Cement)
+					</li><li>Design for Maintainability</li>
+				</ul>
+			</li>
 		</ol>
 	</li>
 	<li><strong>Tell Our Progress Story</strong>
