@@ -5,4 +5,28 @@ variant: markdown
 description: ""
 third_nav_title: Pinnacle Competition
 ---
-<p></p>
+<table style="minWidth: 50px">
+	<thead>
+		<tr>
+			<th>Milestone</th>
+			<th>Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Registration Period</td>
+			<td>May 2026 - 14 June 2026</td>
+		</tr>
+		<tr>
+			<td>
+				<div>Entry Submission Period</div>
+				<div><small>(Note: registration is required before participants can submit their entries. A submission link will be sent to participants upon successful registration.)</small></div>
+			</td>
+			<td>1 June 2026 – 31 July 2026</td>
+		</tr>
+		<tr>
+			<td>Judging and Winners Announcement</td>
+			<td>August 2026</td>
+		</tr>
+	</tbody>
+</table>
