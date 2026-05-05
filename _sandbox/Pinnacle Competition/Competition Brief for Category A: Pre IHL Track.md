@@ -7,7 +7,7 @@ third_nav_title: Pinnacle Competition
 ---
 <ol>
 	<li><strong>Choose <u>1</u> of 2 Questions</strong>
-		<ol type="A">
+		<ol style="list-style-type: upper-alpha">
 			<li>
 				<p><strong>How does a building stay cool naturally?</strong></p>
 				<p>Examples:</p>
