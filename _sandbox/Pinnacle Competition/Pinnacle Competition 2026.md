@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Pinnacle Competition
 ---
-![](/#)
+![](/images/BCA_Pinnacle_Competition_2026_KV.png)
 
 <h4>The Pinnacle Competition 2026</h4>
 
