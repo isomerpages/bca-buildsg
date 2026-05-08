@@ -59,8 +59,8 @@ third_nav_title: Pinnacle Competition
 <p>Please refer to the following materials for more details and information.</p>
 
 <ul>
-	<li><a target="_blank" rel="noopener noreferrer nofollow" href="#">Poster</a></li>
-	<li><a target="_blank" rel="noopener noreferrer nofollow" href="#">Fact Sheet</a></li>
-	<li><a target="_blank" rel="noopener noreferrer nofollow" href="#">Presentation Slides</a></li>
+	<li style="display: none"><a target="_blank" rel="noopener noreferrer nofollow" href="#">Poster</a></li>
+	<li style="display: none"><a target="_blank" rel="noopener noreferrer nofollow" href="#">Fact Sheet</a></li>
+	<li style="display: none"><a target="_blank" rel="noopener noreferrer nofollow" href="#">Presentation Slides</a></li>
 	<li><a target="_blank" rel="noopener noreferrer nofollow" href="/files/The_iBuildSG_Club_Pinnacle_Competition_2026_Terms_and_Conditions.pdf">Terms and Conditions</a></li>
 </ul>
