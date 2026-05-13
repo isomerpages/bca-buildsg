@@ -15,7 +15,7 @@ third_nav_title: Pinnacle Competition
 
 <p>This year's Pinnacle Competition concept "Explain It to My Younger Self" invites participants to share about the Built Environment sector through this lens. By imagining how they would introduce sustainability in the built environment to their younger selves, participants decode concepts into engaging stories that make understanding more accessible and inspiring.</p>
 
-<p>Singapore's Green Building Masterplan aims to green 80% of all buildings by 2030. By encouraging participants to explain sustainability to their younger selves, we hope to spark the kind of early inspiration that could shape tomorrow's Built Environment professionals.</p>
+<p><a href="https://www1.bca.gov.sg/sustainability/sgbmp/">Singapore's Green Building Masterplan</a> aims to green 80% of all buildings by 2030. By encouraging participants to explain sustainability to their younger selves, we hope to spark the kind of early inspiration that could shape tomorrow's Built Environment professionals.</p>
 
 <h5>Laying The Foundations For A Sustainable Tomorrow</h5>
 
