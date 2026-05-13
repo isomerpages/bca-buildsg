@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Pinnacle Competition
 ---
+<p>Competition dates are subject to change by iBuildSG Club</p>
+
 <table style="minWidth: 50px">
 	<thead>
 		<tr>
@@ -15,7 +17,7 @@ third_nav_title: Pinnacle Competition
 	<tbody>
 		<tr>
 			<td>Registration Period</td>
-			<td>May 2026 - 14 June 2026</td>
+			<td>Registration Closes: 21 June 2026</td>
 		</tr>
 		<tr>
 			<td>
