@@ -13,7 +13,7 @@ third_nav_title: Pinnacle Competition
 	</li>
 	<li><strong>Select Your Building</strong>
 		<ul>
-			<li>Choose <strong><u>1 Green Mark building</u></strong> in Singapore that interests or inspires your team the most</li>
+			<li>Choose <a target="_blank" rel="noopener noreferrer nofollow" href="https://sleb.sg/Building/GreenMarkBuildingsDirectory">1 Green Mark building</a> in Singapore that interests or inspires your team the most</li>
 			<li>Choose <strong><u>1 question</u></strong> from your track to answer comprehensively</li>
 		</ul>
 	</li>
