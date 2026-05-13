@@ -52,7 +52,7 @@ third_nav_title: Pinnacle Competition
 	</li>
 	<li><strong>Understanding of Sustainability (40%)</strong>
 		<ul>
-			<li>Must include at least one local Green Mark building project as example</li>
+			<li>Must include one local Green Mark building as example</li>
 			<li>Must cover <u>2 different features and/or methods</u> for the chosen question</li>
 			<li>Presents benefits of building such as energy savings, low EUI, thermal comfort, environmental benefits, and/or other social benefits, as appropriate and relevant for each question</li>
 			<li>Demonstrates accurate understanding of sustainability approaches</li>
