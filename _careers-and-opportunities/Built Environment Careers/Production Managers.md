@@ -18,7 +18,6 @@ and real-time data to improve how buildings are manufactured.</p>
 </div>
 <p><a href="https://www.youtube.com/watch?v=rAwZoDL4v-E" rel="noopener noreferrer nofollow" target="_blank">Watch Charto In Sutra, a Production Manager, share how innovation and technology are transforming the way Singapore builds – all under one roof.</a>
 </p>
-<p></p>
 <p><strong>What Does a Production Manager Do?</strong>
 </p>
 <ul data-tight="true" class="tight">
