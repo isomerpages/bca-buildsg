@@ -5,43 +5,81 @@ variant: tiptap
 description: ""
 third_nav_title: Built Environment Careers
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/do_masthead_production_manager.png">
+<p><strong>Production Manager</strong>
+</p>
+<p>Build the parts that bring Singapore’s spaces to life.</p>
+<p>Construction today is no longer done only on-site. Many building components
+are now produced in advanced manufacturing facilities before reaching the
+construction site.</p>
+<p>Production Managers make this possible by using automation, digital systems
+and real-time data to improve how buildings are manufactured.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border: none; overflow: hidden; width: 571px; height: 320px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rAwZoDL4v-E?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
 </div>
-<p>A Production Manager oversees production of modules, complete with internal
-finishes, fixtures and fittings in an off-site production facility. You
-will also have the opportunity to redesign manufacturing processes to facilitate
-mass production and automation.</p>
-<h4>Did you know?</h4>
+<p><a href="https://www.youtube.com/watch?v=rAwZoDL4v-E" rel="noopener noreferrer nofollow" target="_blank">Watch Charto In Sutra, a Production Manager, share how innovation and technology are transforming the way Singapore builds – all under one roof.</a>
+</p>
+<p><strong>What Does a Production Manager Do?</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>With the push towards Design for Manufacturing and Assembly, more off-site
-production will be done in a factory environment with greater scope for
-automation adoption.</p>
+<p>Oversee production processes in off-site manufacturing facilities</p>
 </li>
 <li>
-<p>Off-site fabrication enables materials such as mass engineered timber
-to be manufactured with improved structural integrity, quality control
-and productivity.</p>
+<p>Coordinate the production of building modules and components</p>
+</li>
+<li>
+<p>Improve workflows using automation and digital technologies</p>
+</li>
+<li>
+<p>Monitor quality, productivity and operational performance</p>
+</li>
+<li>
+<p>Work with engineers, project teams and factory operators</p>
 </li>
 </ul>
-<p>To learn more about the key work tasks and skills required, check out
-the <a href="https://www1.bca.gov.sg/growth-and-transformation/manpower/built-environment-professionals/skills-framework-for-built-environment/" rel="noopener noreferrer nofollow" target="_blank">Skills Framework for Built Environment – A Guide to Occupations and Skills</a>
+<p>You don’t just manage production.</p>
+<p>You help modernise construction.</p>
+<p><strong>&nbsp;</strong>
 </p>
-<p>If you are a student, find out more about Built Environment courses
-<a href="/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>Looking for available job roles? Click <a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h4>Additional resource link</h4>
-<p><a href="https://www.scal.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Contractors Association Limited</a>
+<p><strong>Why This Role Matters</strong>
 </p>
-<h4>Explore other opportunities</h4>
-<p><a href="/architects/" rel="noopener noreferrer nofollow" target="_blank">Architects</a> 
-<br><a href="/civil-and-structural-electrical-mechanical-engineers/" rel="noopener noreferrer nofollow" target="_blank"><u>Civil and Structural/Electrical/Mechanical Engineers</u></a> 
-<br><a href="/quantity-surveyors-cost-consultants/" rel="noopener noreferrer nofollow" target="_blank">Quantity Surveyors/Cost Consultants</a> 
-<br><a href="/construction-managers/" rel="noopener noreferrer nofollow" target="_blank">Construction Managers</a> 
-<br><a href="/project-managers/" rel="noopener noreferrer nofollow" target="_blank">Project Managers</a> 
-<br><a href="/digital-delivery-managers/" rel="noopener noreferrer nofollow" target="_blank">Digital Delivery Managers</a> 
-<br><a href="/facilities-managers/" rel="noopener noreferrer nofollow" target="_blank">Facilities Managers</a>
-<br><a href="/sustainability-consultants/" rel="noopener noreferrer nofollow" target="_blank">Sustainability Consultants</a>
+<p>Singapore is moving towards smarter and more productive construction methods.</p>
+<p>Production Managers support this transformation by improving efficiency,
+reducing reliance on manpower and enabling more advanced off-site manufacturing.</p>
+<p>&nbsp;</p>
+<p><strong>Did You Know?</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>More building components are now manufactured off-site before installation
+on-site.</p>
+</li>
+<li>
+<p>Automation and real-time data are increasingly used to improve production
+efficiency.</p>
+</li>
+<li>
+<p>Off-site production improves quality control, productivity and construction
+speed.</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Thinking About This Path?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.buildsg.gov.sg/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">Explore Built Environment courses</a>
+</p>
+</li>
+<li>
+<p>Discover <a href="https://www.buildsg.gov.sg/inspire-internship-programme/" rel="noopener noreferrer nofollow" target="_blank">internships</a> and
+<a href="https://www.buildsg.gov.sg/built-environment-scholarship/" rel="noopener noreferrer nofollow" target="_blank">scholarships</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.mycareersfuture.gov.sg/job/building-construction?search=production%20manager&amp;sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">See current job opportunities</a>
+</p>
+</li>
+</ul>
+<p></p>
