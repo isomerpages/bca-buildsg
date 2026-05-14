@@ -13,6 +13,9 @@ are now produced in advanced manufacturing facilities before reaching the
 construction site.</p>
 <p>Production Managers make this possible by using automation, digital systems
 and real-time data to improve how buildings are manufactured.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border: none; overflow: hidden; width: 571px; height: 320px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rAwZoDL4v-E?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
+</div>
 <p><a href="https://www.youtube.com/watch?v=rAwZoDL4v-E" rel="noopener noreferrer nofollow" target="_blank">Watch Charto In Sutra, a Production Manager, share how innovation and technology are transforming the way Singapore builds – all under one roof.</a>
 </p>
 <p>&nbsp;</p>
