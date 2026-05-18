@@ -26,10 +26,12 @@ third_nav_title: Pinnacle Competition
 <h5>The Challenge</h5>
 
 <p>Create a 3-minute video reel that features a Green Mark building in Singapore.</p>
+ 
+<p>Your challenge is to turn the building’s sustainable feature into clear, engaging, and easy-to-understand narrative through a short video.</p>
+
+<p>Showcase how your chosen Green Mark building achieves sustainability, from energy-efficient systems and green technologies to the thoughtful use of natural lighting and ventilation.</p>
 
 <p>Use creativity, storytelling, and visual explanation to show how thoughtful sustainable design in the Built Environment contributes to a greener future for Singapore.</p>
-
-<p>The iBuildSG Club Pinnacle Competition 2026 is organised by the Building and Construction Authority (BCA). Vero Marketing Services Pte Ltd is the appointed official administrator and coordinator for the competition.</p>
 
 <h4>Participation Guideline</h4>
 
