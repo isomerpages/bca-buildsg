@@ -2,7 +2,7 @@ collections:
   sandbox:
     output: true
     order:
-      - Pinnacle Competition/Resources.md
+      - Pinnacle Competition/.keep
       - Pinnacle Competition/Pinnacle Competition 2026.md
       - Pinnacle Competition/Eligibility.md
       - "Pinnacle Competition/Competition Brief for Category A: Pre IHL Track.md"
@@ -10,4 +10,4 @@ collections:
       - Pinnacle Competition/How to Participate?.md
       - Pinnacle Competition/Competition Schedule.md
       - Pinnacle Competition/Updates on Competition.md
-      - Pinnacle Competition/.keep
+      - Pinnacle Competition/Resources.md
