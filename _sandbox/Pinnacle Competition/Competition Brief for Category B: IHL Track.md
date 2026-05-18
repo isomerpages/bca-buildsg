@@ -65,7 +65,7 @@ third_nav_title: Pinnacle Competition
 	<li><strong>Impact and Engagement (30%)</strong>
 		<ul>
 			<li>Creates compelling case for adopting green building technologies</li>
-			<li>Demonstrates broader implications for Singapore's sustainable development</li>
+			<li>Demonstrates broader implications for Singapore's sustainable development, with reference to the Singapore Green Plan and the Singapore Green Building Masterplan</li>
 			<li>Shows how sustainable building choices align with UN Sustainable Development Goals</li>
 			<li>Promotes appreciation of sustainable building practices</li>
 		</ul>
