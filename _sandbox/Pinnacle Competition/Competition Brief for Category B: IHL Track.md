@@ -70,4 +70,12 @@ third_nav_title: Pinnacle Competition
 			<li>Promotes appreciation of sustainable building practices</li>
 		</ul>
 	</li>
+	<li><strong>Social Media Engagement (Bonus Points)</strong>
+		<div>Earn bonus points based on the level of engagement your submission receives on Instagram (Likes, Comments, Saves and Shares).</div>
+		<ul>
+			<li>Moderate engagement: Submission ranks in the middle 50% of all entries (+3 points)</li>
+			<li>High engagement: Submission ranks in the top 25% of all entries (+5 points)</li>
+		</ul>
+	</li>
+
 </ol>
