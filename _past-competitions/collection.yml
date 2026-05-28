@@ -2,6 +2,8 @@ collections:
   past-competitions:
     output: true
     order:
+      - "Pinnacle Competition 2025/Competition Brief for Category A: Pre IHL
+        Track.md"
       - "Pinnacle Competition 2025/Competition Brief for Category B: IHL
         Track.md"
       - Pinnacle Competition 2025/How to Participate?.md
