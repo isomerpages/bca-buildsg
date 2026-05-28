@@ -2,6 +2,7 @@ collections:
   past-competitions:
     output: true
     order:
+      - Pinnacle Competition 2025/How to Participate?.md
       - Pinnacle Competition 2025/Competition Schedule.md
       - Pinnacle Competition 2025/Updates on Competition.md
       - Pinnacle Competition 2025/.keep
