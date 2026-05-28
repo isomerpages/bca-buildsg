@@ -8,7 +8,7 @@ third_nav_title: Pinnacle Competition
 <ol>
 	<li><strong>Submit Your Registration</strong>
 		<ul>
-			<li>Check your eligibility, then complete the <a target="_blank" rel="noopener noreferrer nofollow" href="#">online registration form</a> by 14 June 2026</li>
+			<li>Check your eligibility, then complete the <a target="_blank" rel="noopener noreferrer nofollow" href="https://form.gov.sg/5f113808dba1d90011ca8ff3">online registration form</a> by 14 June 2026</li>
 		</ul>
 	</li>
 	<li><strong>Select Your Building</strong>
