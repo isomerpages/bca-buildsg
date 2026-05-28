@@ -59,8 +59,8 @@ third_nav_title: Pinnacle Competition
 
 <ul class="blankie">
 	<li>1<sup>st</sup> prize: $1,500</li>
-	<li>2<sup>nd</sup> prize: $1,000</li>
-	<li>3<sup>rd</sup> prize: $700</li>
+	<li>2<sup>nd</sup> prize: $1,200</li>
+	<li>3<sup>rd</sup> prize: $800</li>
 </ul>
 	
 <h4>Prizes – Category B: IHL Track<br>
@@ -69,5 +69,7 @@ third_nav_title: Pinnacle Competition
 <ul class="blankie">
 	<li>1<sup>st</sup> prize: $3,000</li>
 	<li>2<sup>nd</sup> prize: $2,000</li>
-	<li>3<sup>rd</sup> prize: $1,200</li>
+	<li>3<sup>rd</sup> prize: $1,500</li>
 </ul>
+
+<p>Total prize amount for Pinnacle Competition 2026: S$10,000 </p>
