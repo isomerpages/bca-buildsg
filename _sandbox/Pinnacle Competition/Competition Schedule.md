@@ -5,8 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Pinnacle Competition
 ---
-<p>Competition dates are subject to change by iBuildSG Club</p>
-
 <table style="minWidth: 50px">
 	<thead>
 		<tr>
@@ -20,15 +18,14 @@ third_nav_title: Pinnacle Competition
 			<td>Registration Closes: 21 June 2026</td>
 		</tr>
 		<tr>
-			<td>
-				<div>Entry Submission Period</div>
-				<div><small>(Note: registration is required before participants can submit their entries. A submission link will be sent to participants upon successful registration.)</small></div>
-			</td>
-			<td>1 June 2026 – 31 July 2026</td>
+			<td>Entry Submission Closes:</td>
+			<td>14 August 2026</td>
 		</tr>
 		<tr>
 			<td>Judging and Winners Announcement</td>
-			<td>August 2026</td>
+			<td>August – September 2026</td>
 		</tr>
 	</tbody>
 </table>
+
+<p>Competition dates and deadlines may be subject to changes. Please check our website regularly for updates.</p>
