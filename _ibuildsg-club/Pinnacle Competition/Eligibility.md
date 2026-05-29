@@ -9,7 +9,7 @@ third_nav_title: Pinnacle Competition
 	<li>Participants must be members of the iBuildSG Club. Not one yet? Join
 <a href="https://go.gov.sg/ibsgclub" rel="noopener noreferrer nofollow" target="_blank">here</a>!
 	</li>
-	<li>Participants should enter challenge categories based on their school age group -
+	<li>Participants should enter challenge categories based on their school age group:
 		<ul>
 			<li>Category A: Pre-IHL track (Secondary schools and Junior Colleges)</li>
 			<li>Category B: IHL track (ITEs, Polytechnics and Universities)</li>
