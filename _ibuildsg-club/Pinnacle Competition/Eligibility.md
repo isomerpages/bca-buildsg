@@ -19,6 +19,6 @@ Category B: IHL track (ITEs, Polytechnics and Universities)
 			<li>Category B: IHL track (ITEs, Polytechnics and Universities)</li>
 		</ul>
 	</li>
-	<li>Students can participate individually or as a team. Teams up to 3 members should be formed prior to registration and the team leader is to register for the competition by filling out the online registration form.
+	<li>Students can participate individually or as a team. Teams up to 3 members should be formed prior to registration and the team leader is to register for the competition by filling out the <a target="_blank" rel="noopener noreferrer nofollow" href="https://go.gov.sg/pinnaclecompetition2026">online registration form</a>.
 	</li><li>Participants under the age of 18 must obtain parental or guardian consent and agree to the <a target="_blank" rel="noopener noreferrer nofollow" href="/files/The_iBuildSG_Club_Pinnacle_Competition_2026_Terms_and_Conditions.pdf">Terms &amp; Conditions</a>.</li>
 </ol>
