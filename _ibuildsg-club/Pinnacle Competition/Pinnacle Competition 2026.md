@@ -71,5 +71,3 @@ third_nav_title: Pinnacle Competition
 	<li>2<sup>nd</sup> prize: $2,000</li>
 	<li>3<sup>rd</sup> prize: $1,500</li>
 </ul>
-
-<p>Total prize amount for Pinnacle Competition 2026: S$10,000 </p>
