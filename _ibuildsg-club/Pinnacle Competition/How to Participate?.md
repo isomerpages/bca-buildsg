@@ -8,7 +8,7 @@ third_nav_title: Pinnacle Competition
 <ol>
 	<li><strong>Submit Your Registration</strong>
 		<ul>
-			<li>Check your eligibility, then complete the <a target="_blank" rel="noopener noreferrer nofollow" href="https://go.gov.sg/pinnaclecompetition2026">online registration form</a> by 14 August 2026</li>
+			<li>Check your eligibility, then complete the <a target="_blank" rel="noopener noreferrer nofollow" href="https://go.gov.sg/pinnaclecompetition2026">online registration form</a> by 21 July 2026</li>
 		</ul>
 	</li>
 	<li><strong>Select Your Building</strong>
@@ -38,7 +38,7 @@ third_nav_title: Pinnacle Competition
 	</li>
 	<li><strong>Submit Your Entry</strong>
 		<ul>
-			<li>The following must be completed during the official submission period, between 1 June 2026 and 31 July 2026:
+			<li>The following must be submtted before 14 August 2026:
 				<ol>
 					<li>Share your video and caption on Instagram
 						<ul>
