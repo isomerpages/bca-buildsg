@@ -14,11 +14,11 @@ third_nav_title: Pinnacle Competition
 	</thead>
 	<tbody>
 		<tr>
-			<td>Registration Period</td>
-			<td>Registration Closes: 21 June 2026</td>
+			<td>Registration Closes</td>
+			<td>21 July 2026</td>
 		</tr>
 		<tr>
-			<td>Entry Submission Closes:</td>
+			<td>Entry Submission Closes</td>
 			<td>14 August 2026</td>
 		</tr>
 		<tr>
