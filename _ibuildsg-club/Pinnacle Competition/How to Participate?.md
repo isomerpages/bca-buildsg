@@ -38,7 +38,7 @@ third_nav_title: Pinnacle Competition
 	</li>
 	<li><strong>Submit Your Entry</strong>
 		<ul>
-			<li>The following must be submtted before 14 August 2026:
+			<li>The following must be submitted before 14 August 2026:
 				<ol>
 					<li>Share your video and caption on Instagram
 						<ul>
