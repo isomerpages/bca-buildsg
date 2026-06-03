@@ -8,7 +8,7 @@ third_nav_title: Pinnacle Competition
 <ol>
 	<li><strong>Submit Your Registration</strong>
 		<ul>
-			<li>Check your eligibility, then complete the <a target="_blank" rel="noopener noreferrer nofollow" href="https://go.gov.sg/pinnaclecompetition2026">online registration form</a> by 21 July 2026</li>
+			<li>Check your <a href="/ibuildsg-club/pinnacle-competition-2026/eligibility/">eligibility</a>, then complete the <a target="_blank" rel="noopener noreferrer nofollow" href="https://go.gov.sg/pinnaclecompetition2026">online registration form</a> by 21 July 2026</li>
 		</ul>
 	</li>
 	<li><strong>Select Your Building</strong>
