@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Pinnacle Competition
 ---
 <ol>
-	<li>Participants must be members of the iBuildSG Club. Not one yet? Join
+	<li>Participants must be members of the iBuildSG Club. Not a member yet? Join
 <a href="https://go.gov.sg/ibsgclub" rel="noopener noreferrer nofollow" target="_blank">here</a>!
 	</li>
 	<li>Participants should enter challenge categories based on their school age group:
