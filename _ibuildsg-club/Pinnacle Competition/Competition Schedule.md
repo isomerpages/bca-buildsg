@@ -1,6 +1,6 @@
 ---
 title: Competition Schedule
-permalink: /ibuildsg-club/pinnacle-competition-2025/competition-schedule/
+permalink: /ibuildsg-club/pinnacle-competition-2026/competition-schedule/
 variant: markdown
 description: ""
 third_nav_title: Pinnacle Competition
@@ -8,44 +8,24 @@ third_nav_title: Pinnacle Competition
 <table style="minWidth: 50px">
 	<thead>
 		<tr>
-			<th>Milestone</th>
+			<th width="50%">Milestone</th>
 			<th>Date</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td>Registration deadline:</td>
-			<td>15 August 2025</td>
+			<td>Registration Closes</td>
+			<td>21 July 2026</td>
 		</tr>
 		<tr>
-			<td>Start submitting entries:</td>
-			<td>30 July 2025</td>
+			<td>Entry Submission Closes</td>
+			<td>14 August 2026</td>
 		</tr>
 		<tr>
-			<td>Submission deadline:</td>
-			<td>20 August 2025</td>
-		</tr>
-		<tr>
-			<td>Judging and finalist selection:</td>
-			<td>22 - 27 August 2025</td>
-		</tr>
-		<tr>
-			<td>Public voting for People’s Choice Award (online):</td>
-			<td>
-				<div>3 - 8 September 2025</div>
-				<div>(Public voting will close at 10am on 8 September and finalist videos will also be showcased at the <a rel="noopener noreferrer nofollow" href="https://www.buildsg.gov.sg/building-singapore-festival/">'Building Singapore Festival: From Dreams to Reality</a>’ event @ Vivo City from 5 – 7 September 2025 for voting.)</div>
-			</td>
-		</tr>
-		<tr>
-			<td>Winners Announcement for Both Categories:
-				<ul>
-					<li><small>First, Second and Third Place Winners</small></li>
-					<li><small>People's Choice Award Winner</small></li>
-				</ul>
-			</td>
-			<td>By 12 September 2025</td>
+			<td>Judging and Winners Announcement</td>
+			<td>August – September 2026</td>
 		</tr>
 	</tbody>
 </table>
 
-<p><em>Note: Competition dates and deadlines may be subject to adjustments. Please check our website regularly for updates.</em></p>
+<p>Competition dates and deadlines may be subject to changes. Please check our website regularly for updates.</p>

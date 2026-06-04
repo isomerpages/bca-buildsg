@@ -2,5 +2,14 @@ collections:
   past-competitions:
     output: true
     order:
-      - Past Competitions/Pinnacle Competition 2025.md
-      - Past Competitions/.keep
+      - Pinnacle Competition 2025/Pinnacle Competition 2025.md
+      - Pinnacle Competition 2025/Winners Announcement.md
+      - Pinnacle Competition 2025/Eligibility.md
+      - "Pinnacle Competition 2025/Competition Brief for Category A: Pre IHL
+        Track.md"
+      - "Pinnacle Competition 2025/Competition Brief for Category B: IHL
+        Track.md"
+      - Pinnacle Competition 2025/How to Participate?.md
+      - Pinnacle Competition 2025/Competition Schedule.md
+      - Pinnacle Competition 2025/Updates on Competition.md
+      - Pinnacle Competition 2025/.keep

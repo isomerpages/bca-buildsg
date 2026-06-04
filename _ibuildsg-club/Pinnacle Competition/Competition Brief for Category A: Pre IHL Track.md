@@ -1,33 +1,40 @@
 ---
 title: "Competition Brief for Category A: Pre IHL Track"
-permalink: /ibuildsg-club/pinnacle-competition-2025/competition-brief-category-a/
+permalink: /ibuildsg-club/pinnacle-competition-2026/competition-brief-category-a/
 variant: markdown
 description: ""
 third_nav_title: Pinnacle Competition
 ---
-<p>As we celebrate SG60, show us how your chosen Green Mark building makes Singapore a better place to live! Share cool features that help our environment and tell us why they matter for Singapore's future.</p>
-
 <ol>
-	<li><strong>Highlight Cool Green Features</strong>
-		<ul>
-			<li>Showcase 2-3 green features
+	<li><strong>Choose <u>1</u> of 2 Questions</strong>
+		<ol style="list-style-type: upper-alpha">
+			<li>
+				<p><strong>How does a building stay cool naturally?</strong></p>
+				<p>Examples:</p>
 				<ul>
-					<li>For example, features that help save energy, like smart lights that turn on/off by themselves, big windows that let in natural light, shades that block the hot sun, solar panels that create power, etc.</li>
+					<li>Building orientation and window placement</li>
+					<li>Natural ventilation and cross-ventilation</li>
+					<li>Shading devices (overhangs, louvers, trees)</li>
+					<li>Green roofs and walls for cooling</li>
 				</ul>
 			</li>
-			<li>Are there anything interesting or special about these features?</li>
-		</ul>
+			<li>
+				<p><strong>How do buildings save energy and/or water?</strong></p>
+				<p>Examples:</p>
+				<ul>
+					<li>Energy efficient systems (e.g. air conditioning)</li>
+					<li>Renewable energy (e.g. solar energy)</li>
+					<li>Automatic controls and sensors (eg: lighting, Occupant-Centric aircon systems)</li>
+					<li>Water efficient features</li>
+				</ul>
+			</li>
+		</ol>
 	</li>
-	<li><strong>Show How these Features Help</strong>
+	<li><strong>Spotlight Building Features</strong>
 		<ul>
-			<li>What are the benefits of these features?</li>
-			<li>Why are these features better than the regular ones?</li>
-		</ul>
-	</li>
-	<li><strong>Share Your Building's Story</strong>
-		<ul>
-			<li>Why did you choose this building?</li>
-			<li>How does this building benefit the community or its users?</li>
+			<li>When responding to your selected question, your submission must cover <strong><u>two</u> distinct features or methods.</strong></li>
+			<li>You can choose the features or methods from the examples listed above for each question, or explore other relevant sustainable features in your selected building.</li>
+			<li>Your two selected features should be distinct approaches that help answer your chosen question.</li>
 		</ul>
 	</li>
 </ol>
@@ -35,25 +42,36 @@ third_nav_title: Pinnacle Competition
 <h4>Judging Criteria</h4>
 
 <ol>
-	<li><strong>Storytelling and Personal Insight (25%)</strong>
+	<li><strong>Communication &amp; Creativity (30%)</strong>
 		<ul>
-			<li>Communicates meaningful reasons for choosing the building</li>
-			<li>Shows personal thoughts, feelings and/or connection to the building</li>
+			<li>Fun and engaging explanations that are easy to understand</li>
+			<li>Use of simple visuals, demonstrations, or analogies to support explanations</li>
+			<li>Creative, clear and enthusiastic delivery</li>
+			<li>Explains technical concepts in simple, relatable ways</li>
 		</ul>
 	</li>
-	<li><strong>Presentation and Creativity (25%)</strong>
+	<li><strong>Understanding of Sustainability (40%)</strong>
 		<ul>
-			<li>Innovative use of visuals, sound, editing, or animation to tell the story in a fun and creative way</li>
-		</ul>
-	</li><li><strong>Understanding of Sustainability (25%)</strong>
-		<ul>
-			<li>Shows clear understanding of green features and their benefits and/or environmental impact</li>
-		</ul>
-	</li>
-	<li><strong>Impact and Engagement (25%)</strong>
-		<ul>
-			<li>Helps viewers understand why green buildings matter in our lives</li>
-			<li>Inspires interest in sustainable buildings and their features, or curiosity about the built environment</li>
+			<li>Must include one local Green Mark building as example</li>
+			<li>Must cover <u>2 different features and/or methods</u> for the chosen question</li>
+			<li>Presents benefits of building such as energy savings, low EUI, thermal comfort, environmental benefits, and/or other social benefits, as appropriate and relevant for each question</li>
+			<li>Demonstrates accurate understanding of sustainability approaches</li>
 		</ul>
 	</li>
+	<li><strong>Impact and Engagement (30%)</strong>
+		<ul>
+			<li>Helps others understand why these features matter for our built environment</li>
+			<li>Encourages audience to notice and appreciate green features around them</li>
+			<li>Inspires interest in how buildings can be better for the planet</li>
+			<li>Creates enthusiasm for sustainable living</li>
+		</ul>
+	</li>
+	<li><strong>Social Media Engagement (Bonus Points)</strong>
+		<div>Earn bonus points based on the level of engagement your submission receives on Instagram (Likes, Comments, Saves and Shares).</div>
+		<ul>
+			<li>Moderate engagement: Submission ranks in the middle 50% of all entries (+3 points)</li>
+			<li>High engagement: Submission ranks in the top 25% of all entries (+5 points)</li>
+		</ul>
+	</li>
+
 </ol>
