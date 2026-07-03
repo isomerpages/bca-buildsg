@@ -14,7 +14,7 @@ people, plans and resources to deliver projects that shape Singapore.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" style="border: none; overflow: hidden; width: 571px; height: 320px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/G3bSw7MXqTc?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
 </div>
-<p><em><a href="https://www.youtube.com/watch?v=G3bSw7MXqTc" rel="noopener noreferrer nofollow" target="_blank">Watch Louis Lim, a Project Manager, share how he brings complex construction projects to life – from planning to completion.</a></em>
+<p><a href="https://www.youtube.com/watch?v=G3bSw7MXqTc" rel="noopener noreferrer nofollow" target="_blank">Watch Louis Lim, a Project Manager, share how he brings complex construction projects to life – from planning to completion.</a>
 </p>
 <h4><strong>What Does a Project Manager Do?</strong></h4>
 <ul data-tight="true" class="tight">
