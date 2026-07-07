@@ -11,10 +11,12 @@ third_nav_title: Built Environment Careers
 about – MRT lines, water systems, buildings and energy networks.</p>
 <p>Engineers design, build and maintain these essential systems, creating
 solutions that keep Singapore connected, resilient and ready for the future.</p>
-<p><a href="https://www.youtube.com/watch?v=ToZTqfqUUDw" rel="noopener noreferrer nofollow" target="_blank">Watch three young engineers share how they are shaping Singapore’s future – from building MRT lines and smart water systems to developing sustainable cooling solutions.</a>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border: none; overflow: hidden; width: 571px; height: 320px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ToZTqfqUUDw?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
+</div>
+<p><a href="https://youtu.be/ToZTqfqUUDw" rel="noopener noreferrer nofollow" target="_blank">Watch three young engineers share how they are shaping Singapore’s future – from building MRT lines and smart water systems to developing sustainable cooling solutions.</a>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <h4><strong>What Does an Engineer Do?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
