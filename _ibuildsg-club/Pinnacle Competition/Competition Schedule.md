@@ -1,31 +1,49 @@
 ---
 title: Competition Schedule
 permalink: /ibuildsg-club/pinnacle-competition-2026/competition-schedule/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Pinnacle Competition
 ---
 <table style="minWidth: 50px">
-	<thead>
-		<tr>
-			<th width="50%">Milestone</th>
-			<th>Date</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>Registration Closes</td>
-			<td>21 July 2026</td>
-		</tr>
-		<tr>
-			<td>Entry Submission Closes</td>
-			<td>14 August 2026</td>
-		</tr>
-		<tr>
-			<td>Judging and Winners Announcement</td>
-			<td>August – September 2026</td>
-		</tr>
-	</tbody>
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Milestone</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Registration Closes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 August 2026, 11:59PM (SGT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Entry Submission Closes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 September 2026, 11:59PM (SGT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Judging and Winners Announcement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>September 2026</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-<p>Competition dates and deadlines may be subject to changes. Please check our website regularly for updates.</p>
+<p>Competition dates and deadlines may be subject to changes. Please check
+our website regularly for updates.</p>
