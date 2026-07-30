@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: BuildSG
-description: An Isomer site of the Singapore Government
+title: "BuildSG: Home"
+description: BuildSG celebrates the Built Environment professionals behind our
+  city and inspires the next generation to help shape it.
 image: /images/logo.png
 permalink: /
 notification: <span style="font-size:10px">Government officials will NEVER ask
@@ -10,7 +11,7 @@ notification: <span style="font-size:10px">Government officials will NEVER ask
   if something is a scam.</span>
 sections:
   - hero:
-      background: /images/BCA_Microsite_Masthead_C_S_Jan_9_B_copy.png
+      background: /images/BCA_Microsite_Masthead_C_S_Jan_9_B_copy_downtime_msg.png
       key_highlights:
         - title: Students
           description: ""
