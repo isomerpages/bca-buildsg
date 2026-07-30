@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: BuildSG
-description: An Isomer site of the Singapore Government
+title: "BuildSG: Home"
+description: BuildSG celebrates the Built Environment professionals behind our
+  city and inspires the next generation to help shape it.
 image: /images/logo.png
 permalink: /
 notification: <span style="font-size:10px">Government officials will NEVER ask
