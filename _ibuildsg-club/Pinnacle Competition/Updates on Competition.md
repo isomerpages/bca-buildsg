@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Pinnacle Competition
 ---
-<p><strong><u> Updates on 20 July 2026:</u></strong>
+<p><strong><u>Updates on 20 July 2026:</u></strong>
 <br>
 <br>Due to strong interest, we are pleased to extend both the registration
 and submission deadlines.
