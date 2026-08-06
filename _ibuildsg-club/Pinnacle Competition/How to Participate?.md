@@ -88,8 +88,8 @@ a collaborator for the post before publishing</p>
 </li>
 <li>
 <p>Ensure your Instagram account is set to ‘public’ for verification and/or
-content sharing until 30 September 2026 or the official announcement of
-winners, whichever is earlier.</p>
+content sharing until 30 September 2026 11.59PM (SGT) or the official announcement
+of winners, whichever is earlier.</p>
 </li>
 <li>
 <p>For team entries, all members must post the video and caption on their
@@ -98,8 +98,8 @@ respective Instagram account.</p>
 </ul>
 </li>
 <li>
-<p>Submit your entry through the online submission form, which will be made
-available during the submission period.</p>
+<p>Submit your entry through the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrYTZnCJWRRaBGTHJs7f0LQPVOqJj438Usi_J0XRLiAWhnvg/viewform?usp=header" rel="noopener nofollow" target="_blank">online submission form</a>,
+which will be made available during the submission period.</p>
 </li>
 </ol>
 </li>
@@ -109,18 +109,6 @@ available during the submission period.</p>
 <p>Participation in this Competition is free.</p>
 <p>Please refer to the following materials for more details and information.</p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Poster</a>
-</p>
-</li>
-<li>
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Fact Sheet</a>
-</p>
-</li>
-<li>
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Presentation Slides</a>
-</p>
-</li>
 <li>
 <p><a href="/files/ibuildsgclub_Pinnacle_Competition_2026__Poster_.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster</a>
 </p>
