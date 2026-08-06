@@ -88,8 +88,8 @@ a collaborator for the post before publishing</p>
 </li>
 <li>
 <p>Ensure your Instagram account is set to ‘public’ for verification and/or
-content sharing until 30 September 2026 or the official announcement of
-winners, whichever is earlier.</p>
+content sharing until 30 September 2026 11.59PM (SGT) or the official announcement
+of winners, whichever is earlier.</p>
 </li>
 <li>
 <p>For team entries, all members must post the video and caption on their
