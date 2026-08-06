@@ -5,6 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Pinnacle Competition
 ---
+<p><strong><u>Updates on 6 August 2026:</u></strong>
+</p>
+<p>Included competition timeline extension dates:
+<br>Registration deadline (27 August 2026, 11:59PM SGT),
+<br>Submission deadline (9 September 2026, 11:59pm SGT)
+<br>and ensuring Instagram account is set to 'public' until 30 September 2026,
+11:59 SGT</p>
 <p><strong><u>Updates on 20 July 2026:</u></strong>
 <br>
 <br>Due to strong interest, we are pleased to extend both the registration
