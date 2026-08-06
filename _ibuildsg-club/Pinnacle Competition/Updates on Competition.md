@@ -6,6 +6,7 @@ description: ""
 third_nav_title: Pinnacle Competition
 ---
 <p><strong><u>Updates on 6 August 2026:</u></strong>
+<br><strong><u>Updates on 6 August 2026:</u></strong>
 </p>
 <p>Included competition timeline extension dates:
 <br>Registration deadline (27 August 2026, 11:59PM SGT),
