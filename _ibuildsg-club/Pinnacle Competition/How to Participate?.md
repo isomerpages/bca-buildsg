@@ -110,15 +110,16 @@ which will be made available during the submission period.</p>
 <p>Please refer to the following materials for more details and information.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/ibuildsgclub_Pinnacle_Competition_2026__Poster_.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster</a>
+<p><a href="/files/PC26_Poster_6_Aug_.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster</a>
 </p>
 </li>
 <li>
-<p><a href="/files/ibuildsgclub_Pinnacle_Competition_2026__FactSheet_.pdf" rel="noopener noreferrer nofollow" target="_blank">Fact Sheet</a>
+<p><a href="/files/PC26_factsheet__6_Aug_.pdf" rel="noopener noreferrer nofollow" target="_blank">Fact Shee</a>
+<a href="/files/ibuildsgclub_Pinnacle_Competition_2026__FactSheet_.pdf" rel="noopener noreferrer nofollow" target="_blank">t</a>
 </p>
 </li>
 <li>
-<p><a href="/files/ibuildsgclub_Pinnacle_Competition_2026__Briefing_Deck_.pdf" rel="noopener noreferrer nofollow" target="_blank">Presentation Slides</a>
+<p><a href="/files/PC26_slides_6_Aug_.pdf" rel="noopener noreferrer nofollow" target="_blank">Presentation Slides</a>
 </p>
 </li>
 <li>
