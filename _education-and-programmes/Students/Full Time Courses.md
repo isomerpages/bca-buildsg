@@ -52,7 +52,7 @@ Institutions of Higher Learning below.</p>
 </li>
 <li>
 <p>Bachelor of Engineering: <a href="https://cde.nus.edu.sg/cee/undergraduate/beng-civil/" rel="noopener noreferrer nofollow" target="_blank">Civil</a>,
-<a href="https://cde.nus.edu.sg/dbe/introduction-1-1/" rel="noopener noreferrer nofollow" target="_blank">Infrastructure &amp; Project Management</a>specialisation in <a href="https://cde.nus.edu.sg/dbe/ipm-curriculum-and-programme-structure-2-5/" rel="noopener nofollow" target="_blank">Contract Management and Cost Engineering</a>,
+<a href="https://cde.nus.edu.sg/dbe/introduction-1-1/" rel="noopener noreferrer nofollow" target="_blank">Infrastructure &amp; Project Management </a>specialisation in <a href="https://cde.nus.edu.sg/dbe/ipm-curriculum-and-programme-structure-2-5/" rel="noopener nofollow" target="_blank">Contract Management and Cost Engineering</a>,
 <a href="https://cde.nus.edu.sg/ece/undergraduate/what-is-ece/" rel="noopener noreferrer nofollow" target="_blank">Electrical</a>, <a href="https://cde.nus.edu.sg/cee/undergraduate/beng-env/" rel="noopener noreferrer nofollow" target="_blank">Environmental</a>,
 <a href="https://cde.nus.edu.sg/me/undergraduate/beng-me/overview/" rel="noopener noreferrer nofollow" target="_blank">Mechanical</a>
 </p>
