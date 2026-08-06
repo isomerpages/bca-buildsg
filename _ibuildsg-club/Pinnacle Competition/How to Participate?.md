@@ -110,18 +110,6 @@ available during the submission period.</p>
 <p>Please refer to the following materials for more details and information.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Poster</a>
-</p>
-</li>
-<li>
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Fact Sheet</a>
-</p>
-</li>
-<li>
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Presentation Slides</a>
-</p>
-</li>
-<li>
 <p><a href="/files/ibuildsgclub_Pinnacle_Competition_2026__Poster_.pdf" rel="noopener noreferrer nofollow" target="_blank">Poster</a>
 </p>
 </li>
