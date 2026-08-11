@@ -99,7 +99,7 @@ respective Instagram account.</p>
 </li>
 <li>
 <p>Submit your entry through the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrYTZnCJWRRaBGTHJs7f0LQPVOqJj438Usi_J0XRLiAWhnvg/viewform?usp=header" rel="noopener nofollow" target="_blank">online submission form</a>,
-which will be made available during the submission period.</p>
+which is available during the submission period.</p>
 </li>
 </ol>
 </li>
