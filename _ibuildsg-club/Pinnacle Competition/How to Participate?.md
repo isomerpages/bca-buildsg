@@ -114,8 +114,7 @@ which will be made available during the submission period.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/PC26_factsheet__6_Aug_.pdf" rel="noopener noreferrer nofollow" target="_blank">Fact Shee</a>
-<a href="/files/ibuildsgclub_Pinnacle_Competition_2026__FactSheet_.pdf" rel="noopener noreferrer nofollow" target="_blank">t</a>
+<p><a href="/files/PC26_factsheet__6_Aug_.pdf" rel="noopener noreferrer nofollow" target="_blank">Fact Sheet</a>
 </p>
 </li>
 <li>
