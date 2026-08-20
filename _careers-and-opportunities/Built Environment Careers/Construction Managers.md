@@ -5,43 +5,76 @@ variant: tiptap
 description: ""
 third_nav_title: Built Environment Careers
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/do_masthead_construction_managers.png">
+<h4><strong>Construction Manager</strong></h4>
+<p>Lead the teams that bring Singapore’s plans to life.</p>
+<p>Every building and infrastructure project starts with a plan. Construction
+Managers turn those plans into reality.</p>
+<p>They bring people, technology and processes together to keep complex projects
+moving safely, efficiently and on schedule.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border: none; overflow: hidden; width: 571px; height: 320px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LaiNoi1xz30?si=pqmigvtD2SZqe5Ek&amp;rel=0"></iframe>
 </div>
-<p>As a Construction Manager, you will be supervising construction activities
-to ensure safe and timely completion. You will also be coordinating with
-stakeholders (e.g. developers, subcontractors, and authorities) to address
-construction-related issues.</p>
-<h4>Did you know?</h4>
+<p><a href="https://www.youtube.com/watch?v=LaiNoi1xz30" rel="noopener noreferrer nofollow" target="_blank">Watch Ong Seng Kuan share how Construction Managers coordinate people, plans and complex site activities to bring major projects to life safely and smoothly.</a>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<h4><strong>What Does a Construction Manager Do?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Innovative solutions leveraging on artificial intelligence and robotic
-systems are already automating some of the traditionally labour-intensive
-construction works.</p>
+<p>Plan and coordinate construction activities on site</p>
 </li>
 <li>
-<p>Site safety has been enhanced through geofencing technology which tracks
-movement of workers within the site and alerts when they are entering high-risk
-zones.</p>
+<p>Lead contractors, specialists and project teams</p>
+</li>
+<li>
+<p>Use digital tools and real time data to track progress</p>
+</li>
+<li>
+<p>Solve challenges as site conditions and project needs change</p>
+</li>
+<li>
+<p>Ensure projects are delivered safely, efficiently and to quality standards</p>
 </li>
 </ul>
-<p>To learn more about the key work tasks and skills required, check out
-the <a href="https://www1.bca.gov.sg/growth-and-transformation/manpower/built-environment-professionals/skills-framework-for-built-environment/" rel="noopener noreferrer nofollow" target="_blank">Skills Framework for Built Environment – A Guide to Occupations and Skills</a>
+<p>This is where planning, leadership and problem-solving take shape in the
+real world.</p>
+<p><strong>&nbsp;</strong>
 </p>
-<p>If you are a student, find out more about Built Environment courses
-<a href="/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>Looking for available job roles? Click <a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h4>Additional resource link</h4>
-<p><a href="https://www.scal.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Contractors Association Limited</a>
+<h4><strong>Why This Role Matters</strong></h4>
+<p>Singapore continues to build and renew the infrastructure that keeps our
+city connected and ready for the future.</p>
+<p>Construction Managers make this possible by turning complex plans into
+safe, high-quality projects on the ground.</p>
+<p>&nbsp;</p>
+<h4><strong>Did You Know?</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Construction today uses digital tools, automation and advanced construction
+methods to work smarter.</p>
+</li>
+<li>
+<p>Construction Managers can work across diverse projects, from buildings
+to MRT and major infrastructure.</p>
+</li>
+<li>
+<p>The role combines technical know-how, leadership and real-world problem-solving.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<h4><strong>Thinking About This Path?</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.buildsg.gov.sg/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">Explore Built Environment courses</a>
 </p>
-<h4>Explore other opportunities</h4>
-<p><a href="/architects/" rel="noopener noreferrer nofollow" target="_blank">Architects</a> 
-<br><a href="/civil-and-structural-electrical-mechanical-engineers/" rel="noopener noreferrer nofollow" target="_blank"><u>Civil and Structural/Electrical/Mechanical Engineers</u></a> 
-<br><a href="/quantity-surveyors-cost-consultants/" rel="noopener noreferrer nofollow" target="_blank">Quantity Surveyors/Cost Consultants</a> 
-<br><a href="/production-managers/" rel="noopener noreferrer nofollow" target="_blank">Production Managers</a> 
-<br><a href="/project-managers/" rel="noopener noreferrer nofollow" target="_blank">Project Managers</a> 
-<br><a href="/digital-delivery-managers/" rel="noopener noreferrer nofollow" target="_blank">Digital Delivery Managers</a> 
-<br><a href="/facilities-managers/" rel="noopener noreferrer nofollow" target="_blank">Facilities Managers</a>
-<br><a href="/sustainability-consultants/" rel="noopener noreferrer nofollow" target="_blank">Sustainability Consultants</a>
+</li>
+<li>
+<p>Check out <a href="https://www.buildsg.gov.sg/inspire-internship-programme/" rel="noopener noreferrer nofollow" target="_blank">internships</a> and
+<a href="https://www.buildsg.gov.sg/built-environment-scholarship/" rel="noopener noreferrer nofollow" target="_blank">scholarships</a>
 </p>
+</li>
+<li>
+<p><a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">See current job opportunities</a>
+</p>
+</li>
+</ul>
+<p></p>
