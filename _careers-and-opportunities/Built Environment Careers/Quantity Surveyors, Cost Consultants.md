@@ -65,7 +65,8 @@ to completion.</p>
 <h4><strong>Thinking About This Path?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.buildsg.gov.sg/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">Explore Built Environment courses</a>
+<p>Bachelor of Engineering: <a href="https://cde.nus.edu.sg/dbe/introduction-1-1/" rel="noopener noreferrer nofollow" target="_blank">Infrastructure &amp; Project Management </a>specialisation
+in <a href="https://cde.nus.edu.sg/dbe/ipm-curriculum-and-programme-structure-2-5/" rel="noopener noreferrer nofollow" target="_blank">Contract Management and Cost Engineering</a>
 </p>
 </li>
 <li>
