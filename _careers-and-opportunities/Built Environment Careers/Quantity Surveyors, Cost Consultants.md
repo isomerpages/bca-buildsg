@@ -65,17 +65,17 @@ to completion.</p>
 <h4><strong>Thinking About This Path?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bachelor of Engineering: <a href="https://cde.nus.edu.sg/dbe/introduction-1-1/" rel="noopener noreferrer nofollow" target="_blank">Infrastructure &amp; Project Management </a>specialisation
-in <a href="https://cde.nus.edu.sg/dbe/ipm-curriculum-and-programme-structure-2-5/" rel="noopener noreferrer nofollow" target="_blank">Contract Management and Cost Engineering</a>
+<p><a href="https://www.buildsg.gov.sg/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank"><u>Explore Built Environment courses</u></a>
 </p>
 </li>
 <li>
-<p>Check out <a href="https://www.buildsg.gov.sg/inspire-internship-programme/" rel="noopener noreferrer nofollow" target="_blank">internships</a> and
-<a href="https://www.buildsg.gov.sg/built-environment-scholarship/" rel="noopener noreferrer nofollow" target="_blank">scholarships</a>
+<p>Check out <a href="https://www.buildsg.gov.sg/inspire-internship-programme/" rel="noopener noreferrer nofollow" target="_blank"><u>internships</u></a> and
+<a href="https://www.buildsg.gov.sg/built-environment-scholarship/" rel="noopener noreferrer nofollow" target="_blank"><u>scholarships</u>
+</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank">See current job opportunities</a>
+<p><a href="https://www.mycareersfuture.gov.sg/job/building-construction?sortBy=new_posting_date&amp;page=0" rel="noopener noreferrer nofollow" target="_blank"><u>See current job opportunities</u></a>
 </p>
 </li>
 </ul>
