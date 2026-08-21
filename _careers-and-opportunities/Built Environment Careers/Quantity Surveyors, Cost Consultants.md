@@ -61,10 +61,10 @@ and managed.</p>
 to completion.</p>
 </li>
 <li>
-<p>National University of Singapore has launched a new <strong>Specialisation in Contract Management and Cost Engineering</strong>,
-to equip students with in-demand knowledge in cost and contract management
-and project management to prepare students for evolving needs of the sector.
-Find out more about the Specialisation <a href="https://cde.nus.edu.sg/dbe/ipm-curriculum-and-programme-structure-2-5/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>The National University of Singapore offers a specialisation in Contract
+Management and Cost Engineering, covering cost, contract and project management
+to meet the evolving needs of the sector. Find out more about the specialisation
+<a href="https://cde.nus.edu.sg/dbe/ipm-curriculum-and-programme-structure-2-5/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
