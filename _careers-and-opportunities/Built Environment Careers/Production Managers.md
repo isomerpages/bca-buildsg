@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Built Environment Careers
 ---
-<p><strong>Production Manager</strong>
-</p>
+<h4><strong>Production Manager</strong></h4>
 <p>Build the parts that bring Singapore’s spaces to life.</p>
 <p>Construction today is no longer done only on-site. Many building components
 are now produced in advanced manufacturing facilities before reaching the
@@ -18,8 +17,7 @@ and real-time data to improve how buildings are manufactured.</p>
 </div>
 <p><a href="https://www.youtube.com/watch?v=rAwZoDL4v-E" rel="noopener noreferrer nofollow" target="_blank">Watch Charto In Sutra, a Production Manager, share how innovation and technology are transforming the way Singapore builds – all under one roof.</a>
 </p>
-<p><strong>What Does a Production Manager Do?</strong>
-</p>
+<h4><strong>What Does a Production Manager Do?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Oversee production processes in off-site manufacturing facilities</p>
@@ -41,14 +39,12 @@ and real-time data to improve how buildings are manufactured.</p>
 <p>You help modernise construction.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Why This Role Matters</strong>
-</p>
+<h4><strong>Why This Role Matters</strong></h4>
 <p>Singapore is moving towards smarter and more productive construction methods.</p>
 <p>Production Managers support this transformation by improving efficiency,
 reducing reliance on manpower and enabling more advanced off-site manufacturing.</p>
 <p>&nbsp;</p>
-<p><strong>Did You Know?</strong>
-</p>
+<h4><strong>Did You Know?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>More building components are now manufactured off-site before installation
@@ -65,8 +61,7 @@ speed.</p>
 </ul>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Thinking About This Path?</strong>
-</p>
+<h4><strong>Thinking About This Path?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.buildsg.gov.sg/full-time-courses/" rel="noopener noreferrer nofollow" target="_blank">Explore Built Environment courses</a>
